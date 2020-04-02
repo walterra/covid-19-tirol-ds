@@ -21,4 +21,14 @@ On each run, the crawlers will create a directory in the form of `scrape_<crawle
 
 The aim of the parsing step is to transform the scraped HTML into consumable CSV data.
 
-`work in progress ...`
+`documentation upcoming`
+
+## Results
+
+The final result of the processed data can be found here:
+
+[data/tirol_obituaries_deduped.csv](data/tirol_obituaries_deduped.csv)
+
+Charts and further analysis:
+
+[walterra.github.io/covid-19-tirol-ds](https://walterra.github.io/covid-19-tirol-ds)

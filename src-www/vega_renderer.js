@@ -32,7 +32,6 @@ $(document).ready(function(){
   var $dropdown = $("#select_district");
   var options = [];
   Object.keys(districts).forEach(function(d) {
-    console.log('d', d, districts[d]);
     options.push("<option value=\"" + d + "\" " + ((d === 'landeck') ? 'selected' : '') + ">" + districts[d] + "</option>");
   })
   $dropdown.html(options.join(''));

@@ -13,6 +13,15 @@ districts = {
 var supportedKeys = Object.keys(districts);
 supportedKeys.push('districts');
 
+var params={};
+window.location.search
+  .replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str,key,value) {
+    params[key] = value;
+  }
+);
+
+const defaultDistrict = (params.district !== undefined) ?params.district : 'landeck';
+
 function loadVega(f, id) {
   if (!supportedKeys.includes(f)) {
     console.error('unsupported key:', f);
@@ -27,12 +36,12 @@ function loadVega(f, id) {
 
 $(document).ready(function(){
   loadVega('districts', 'vega_districts');
-  loadVega('landeck', 'vega_drilldown');
+  loadVega(defaultDistrict, 'vega_drilldown');
 
   var $dropdown = $("#select_district");
   var options = [];
   Object.keys(districts).forEach(function(d) {
-    options.push("<option value=\"" + d + "\" " + ((d === 'landeck') ? 'selected' : '') + ">" + districts[d] + "</option>");
+    options.push("<option value=\"" + d + "\" " + ((d === defaultDistrict) ? 'selected' : '') + ">" + districts[d] + "</option>");
   })
   $dropdown.html(options.join(''));
 

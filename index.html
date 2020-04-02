@@ -5,56 +5,24 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+  <link rel="stylesheet" href="src-www/styles.css?v=1.0.0">
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-  <style>
-    a { color: #369; }
-    .main_content { width: 960px; margin: 20px auto; }
-    .vis_wrapper { width: 100%; padding-top: 20px; margin: 20px 0; border-top: 1px solid #ddd; }
-    #vega_drilldown { padding: 20px 0; }
-  </style>
 </head>
 <body>
   <div class="main_content">
     <h1>Analyse Todesanzeigen Tirol</h1>
-    <p>Letztes Update: 01.04.2020</p>
+    <p><small>Letztes Update: 01.04.2020</small></p>
     <p>Die Charts zeigen eine Auswertung von Todesanzeigen in Tirol seit Juni 2016.</p>
     <p><small>Source Code: <a href="https://github.com/walterra/covid-19-tirol-ds">github.com/walterra/covid-19-tirol-ds</a></small></p>
     <div id="vega_districts" class="vis_wrapper"></div>
     <div class="vis_wrapper">
       <div>
         <select id="select_district">
-          <option value="imst">Imst</option>
-          <option value="innsbruck-land">Innsbruck-Land</option>
-          <option value="innsbruck-stadt">Innsbruck-Stadt</option>
-          <option value="kitzbuehel">Kitzbühel</option>
-          <option value="kufstein">Kufstein</option>
-          <option value="landeck" selected>Landeck</option>
-          <option value="lienz">Lienz</option>
-          <option value="reutte">Reutte</option>
-          <option value="schwaz">Schwaz</option>
         </select>
       </div>
       <div id="vega_drilldown"></div>
     </div>
-    </div>
-  <script type="text/javascript">
-    function loadVega(f, id) {
-      $.get('charts/'+f+'.json', function( spec ) {
-        var opt = {"renderer": "canvas", "actions": false};
-        vegaEmbed("#"+id, spec, opt);
-      });
-    }
-
-    $(document).ready(function(){
-      loadVega('vega_districts', 'vega_districts');
-      loadVega('vega_landeck', 'vega_drilldown');
-
-      $("#select_district").change(function(){
-          var selectedDistrict = $(this).children("option:selected").val();
-          loadVega('vega_' + selectedDistrict, 'vega_drilldown');
-      });
-    });
-
-  </script>
+  </div>
+  <script src="src-www/vega_renderer.js?v=1.0.0"></script>
 </body>
 </html>

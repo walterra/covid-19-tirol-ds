@@ -1,2 +1,3 @@
 node_modules/
-scrape_*/
+scrape/scrape_*/
+data/scrape_*.csv

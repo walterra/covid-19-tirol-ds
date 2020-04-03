@@ -11,6 +11,8 @@ The aim of this project is to collect, clean and represent this data in a way so
 Charts and Analysis Results:
 [walterra.github.io/covid-19-tirol-ds](https://walterra.github.io/covid-19-tirol-ds)
 
+![Todesanzeigen Tirol pro Bundesland pro Monat seit Juni 2016](assets/obituaries_by_district.png)
+
 
 ## Crawling
 
@@ -43,7 +45,9 @@ Note the crawlers will create directory names dynamically including the current 
 
 The same needs to be done for the deduplication script `./src/parse_deduplicate.js`. In this file you'll need to adapt the filenames of the individual parse CSV files and the desired output filename.
 
-## Results
+## Analysis & Results
+
+The CSV produced by the parsing step ([data/tirol_obituaries_deduped.csv](data/tirol_obituaries_deduped.csv)) is the source for a [Jupyter Notebook](jupyter-notebooks/vega.ipynb) for further investigation to produce the VEGA/Altair charts (note the charts don't get rendered in the GitHub preview of the notebook).
 
 The final result of the processed data can be found here:
 

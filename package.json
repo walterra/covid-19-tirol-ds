@@ -5,7 +5,8 @@
   "main": "",
   "dependencies": {
     "apify": "^0.20.2",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "glob": "^7.1.6"
   },
   "devDependencies": {},
   "scripts": {

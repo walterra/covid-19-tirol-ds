@@ -91,6 +91,7 @@ const parse = (id) => {
 }
 
 fs.readdir(dir, (err, files) => {
+  console.error(err);
   console.log(`Number of files: ${files.length}`);
 
   // first CSV row = headers

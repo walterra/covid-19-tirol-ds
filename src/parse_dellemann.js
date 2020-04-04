@@ -67,7 +67,7 @@ const parse = (id) => {
   const data = [];
 
   deceasedItem.each((i, e) => {
-    const name = $(e).find('.parteneintrag_headline').text().trim();
+    const name = $(e).find('.parteneintrag-headline').text().trim();
     const texts = $(e).find('.parteneintrag_od').text().trim().split(',');
 
 
@@ -100,6 +100,10 @@ const parse = (id) => {
 }
 
 fs.readdir(dir, (err, files) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
   console.log(`Number of files: ${files.length}`);
 
   // first CSV row = headers
@@ -112,7 +116,7 @@ fs.readdir(dir, (err, files) => {
     }
   });
 
-  console.log(`Number of cases: ${data.length}`);
+  console.log(`Number of cases: ${data.length - 1}`);
 
   // write the CSV file, use the directory name as the filename
   fs.writeFile(`./data/${dirName}.csv`, data.join('\n'), 'utf8', (err) => {

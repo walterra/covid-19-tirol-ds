@@ -91,7 +91,10 @@ const parse = (id) => {
 }
 
 fs.readdir(dir, (err, files) => {
-  console.error(err);
+  if (err) {
+    console.error(err);
+    return;
+  }
   console.log(`Number of files: ${files.length}`);
 
   // first CSV row = headers
@@ -100,7 +103,7 @@ fs.readdir(dir, (err, files) => {
   // parse all files and add CSV rows
   files.forEach(f => data.push(...parse(f)));
 
-  console.log(`Number of cases: ${data.length}`);
+  console.log(`Number of cases: ${data.length - 1}`);
 
   // write the CSV file, use the directory name as the filename
   fs.writeFile(`./data/${dirName}.csv`, data.join('\n'), 'utf8', (err) => {

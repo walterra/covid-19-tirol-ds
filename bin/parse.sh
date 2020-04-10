@@ -6,6 +6,7 @@ trauerhilfe=`ls -d1 */ | grep trauerhilfe | sed "s/\///"`
 kuratorium=`ls -d1 */ | grep kuratorium | sed "s/\///"`
 dellemann=`ls -d1 */ | grep dellemann | sed "s/\///"`
 kroell=`ls -d1 */ | grep kroell | sed "s/\///"`
+bestattungsinstitut=`ls -d1 */ | grep bestattungsinstitut | sed "s/\///"`
 cd -
 
 cd $dir/..
@@ -32,6 +33,12 @@ echo "parsing kroell"
 for s in $kroell
 do
   node ./src/parse_kroell $s
+done
+
+echo "parsing bestattungsinstitut"
+for s in $bestattungsinstitut
+do
+  node ./src/parse_bestattungsinstitut $s
 done
 
 echo "running deduplication"

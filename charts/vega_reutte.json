@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-a84d6afc164aae33a256c3f413c40979"
+        "name": "data-c3c69bbfccc88f5cf25127ab5685c53b"
     },
     "datasets": {
-        "data-a84d6afc164aae33a256c3f413c40979": [
+        "data-c3c69bbfccc88f5cf25127ab5685c53b": [
             {
                 "count": 1,
                 "date": "2016-06-06T00:00:00",
@@ -617,6 +617,12 @@
                 "date": "2016-12-22T00:00:00",
                 "district": "Reutte",
                 "municipaly": "Lermoos"
+            },
+            {
+                "count": 1,
+                "date": "2016-12-23T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Breitenwang"
             },
             {
                 "count": 1,

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-cb3869fd1207f753c2472fa5127a8f80"
+        "name": "data-4d9317fa41d535befda588ed4b39d219"
     },
     "datasets": {
-        "data-cb3869fd1207f753c2472fa5127a8f80": [
+        "data-4d9317fa41d535befda588ed4b39d219": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -2255,6 +2255,12 @@
                 "date": "2017-08-07T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2017-08-07T00:00:00",
+                "district": "Landeck",
+                "municipaly": "St. Anton am Arlberg"
             },
             {
                 "count": 1,
@@ -7871,6 +7877,12 @@
                 "date": "2020-04-06T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Ischgl"
             },
             {
                 "count": 2,

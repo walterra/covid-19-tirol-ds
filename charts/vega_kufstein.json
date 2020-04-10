@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-a88436a831859a21e23f39daf1c109e0"
+        "name": "data-0175c2415ed8d3f7a21e3ca69a613438"
     },
     "datasets": {
-        "data-a88436a831859a21e23f39daf1c109e0": [
+        "data-0175c2415ed8d3f7a21e3ca69a613438": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -15797,6 +15797,12 @@
                 "date": "2020-04-02T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Kundl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-03T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Brixlegg"
             },
             {
                 "count": 1,

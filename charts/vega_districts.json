@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-12d2f3d01b0c5e8143caec556e511e36"
+        "name": "data-702e3846f79c8357ebdf51c0a7599743"
     },
     "datasets": {
-        "data-12d2f3d01b0c5e8143caec556e511e36": [
+        "data-702e3846f79c8357ebdf51c0a7599743": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7908,7 +7908,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-10T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -26158,7 +26158,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2018-09-14T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -26818,7 +26818,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 6,
+                "count": 7,
                 "date": "2018-10-06T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -29893,7 +29893,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2019-01-09T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -41668,7 +41668,7 @@
                 "district": "Schwaz"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2020-01-01T00:00:00",
                 "district": "Innsbruck-Stadt"
             },

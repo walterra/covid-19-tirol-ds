@@ -23,12 +23,8 @@ On each run, the crawlers will create a directory in the form of `scrape/scrape_
 ```bash
 ./bin/crawl_trauerhilfe.sh 500
 ./bin/crawl_kuratorium_bestattung.sh 800
-
-#  note this one doesn't work yet because of a unique hash in the URL.
-# ./bin/crawl_dellemann.sh
-
-#  this one wasn't necessary so far because it's just a single page.
-# ./bin/crawl_kroell.sh
+./bin/crawl_dellemann.sh
+./bin/crawl_kroell.sh
 ```
 
 ## Parsing

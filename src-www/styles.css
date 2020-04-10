@@ -5,4 +5,6 @@ a { color: #369; }
 #integrity td, #integrity th {
   font-size: 10px;
   padding: 4px;
+  text-align: right;
+  border-right: 1px solid #ddd;
 }

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-2402adc468828841fb9e776584bbcfc5"
+        "name": "data-5b15f00234baf039a258e9d0f39206ab"
     },
     "datasets": {
-        "data-2402adc468828841fb9e776584bbcfc5": [
+        "data-5b15f00234baf039a258e9d0f39206ab": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -7406,6 +7406,12 @@
             },
             {
                 "count": 1,
+                "date": "2019-03-18T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Vomp"
+            },
+            {
+                "count": 1,
                 "date": "2019-03-19T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Strass im Zillertal"
@@ -11212,6 +11218,12 @@
                 "count": 1,
                 "date": "2020-03-25T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "Bruck am Ziller"
+            },
+            {
+                "count": 1,
+                "date": "2020-03-25T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Mayrhofen"
             },
             {
@@ -11239,7 +11251,7 @@
                 "municipaly": "Hainzenberg"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-27T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Jenbach"
@@ -11252,12 +11264,18 @@
             },
             {
                 "count": 1,
+                "date": "2020-03-27T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Weer"
+            },
+            {
+                "count": 1,
                 "date": "2020-03-28T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Hippach"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-28T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Schwaz"
@@ -11275,7 +11293,7 @@
                 "municipaly": "Pill"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-29T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Schwaz"
@@ -11302,6 +11320,12 @@
                 "count": 1,
                 "date": "2020-03-31T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "F\u00fcgen"
+            },
+            {
+                "count": 1,
+                "date": "2020-03-31T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Zell am Ziller"
             },
             {
@@ -11318,9 +11342,21 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-01T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-02T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-02T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
             },
             {
                 "count": 1,
@@ -11338,11 +11374,35 @@
                 "count": 1,
                 "date": "2020-04-04T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-04T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Stans"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-04T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Weer"
             },
             {
                 "count": 1,
                 "date": "2020-04-05T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-05T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Jenbach"
             },
@@ -11381,6 +11441,12 @@
                 "date": "2020-04-09T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Weer"
             }
         ]
     },

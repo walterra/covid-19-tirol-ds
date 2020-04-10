@@ -8,6 +8,7 @@ dellemann=`ls -d1 */ | grep dellemann | sed "s/\///"`
 kroell=`ls -d1 */ | grep kroell | sed "s/\///"`
 bestattungsinstitut=`ls -d1 */ | grep bestattungsinstitut | sed "s/\///"`
 flossmann=`ls -d1 */ | grep flossmann | sed "s/\///"`
+derbestatter=`ls -d1 */ | grep derbestatter | sed "s/\///"`
 cd -
 
 cd $dir/..
@@ -46,6 +47,12 @@ echo "parsing bestattungsinstitut"
 for s in $bestattungsinstitut
 do
   node ./src/parse_bestattungsinstitut $s
+done
+
+echo "parsing derbestatter"
+for s in $derbestatter
+do
+  node ./src/parse_derbestatter $s
 done
 
 echo "running deduplication"

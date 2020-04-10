@@ -10,6 +10,8 @@ date,municipaly,district,hash
 09.04.2020,Reith bei Seefeld,Innsbruck-Land,901287978
 09.04.2020,Zams,Landeck,245035261
 09.04.2020,Grins,Landeck,-179746688
+09.04.2020,Reith im Alpbachtal,Kufstein,1086013844
+09.04.2020,Weer,Schwaz,567058590
 09.04.2020,Reith im Alpbachtal,Kufstein,997007935
 09.04.2020,Telfs,Innsbruck-Land,-1830976204
 09.04.2020,Erl,Kufstein,1260979091
@@ -35,8 +37,10 @@ date,municipaly,district,hash
 07.04.2020,Landeck,Landeck,1048218023
 07.04.2020,Zams,Landeck,-1366309302
 07.04.2020,Ischgl,Landeck,-2077114930
-07.04.2020,Tux,Schwaz,-795789942
+07.04.2020,Reith im Alpbachtal,Kufstein,-1102352728
 07.04.2020,Schwaz,Schwaz,978228338
+07.04.2020,Reith im Alpbachtal,Kufstein,341352961
+07.04.2020,Tux,Schwaz,-795789942
 07.04.2020,Telfs,Innsbruck-Land,-258533052
 07.04.2020,Wattens,Innsbruck-Land,862572666
 07.04.2020,Hall in Tirol,Innsbruck-Land,-1915440081
@@ -52,6 +56,7 @@ date,municipaly,district,hash
 06.04.2020,Seefeld in Tirol,Innsbruck-Land,281272247
 06.04.2020,Landeck,Landeck,1841957862
 06.04.2020,Landeck,Landeck,1181514236
+06.04.2020,Jenbach,Schwaz,1534523415
 06.04.2020,Sellrain,Innsbruck-Land,-1086580950
 06.04.2020,Innsbruck,Innsbruck-Stadt,1251096415
 06.04.2020,Axams,Innsbruck-Land,1649177108
@@ -66,6 +71,7 @@ date,municipaly,district,hash
 06.04.2020,Leisach,Lienz,493274152
 06.04.2020,Brixlegg,Kufstein,647261447
 05.04.2020,Landeck,Landeck,-1673651298
+05.04.2020,Fügen,Schwaz,191682040
 05.04.2020,Axams,Innsbruck-Land,-191998755
 05.04.2020,Volders,Innsbruck-Land,-1449587071
 05.04.2020,Innsbruck,Innsbruck-Stadt,1587541624
@@ -87,8 +93,11 @@ date,municipaly,district,hash
 04.04.2020,St. Anton am Arlberg,Landeck,725285013
 04.04.2020,Pettneu am Arlberg,Landeck,1599163396
 04.04.2020,St. Anton am Arlberg,Landeck,-180395483
-04.04.2020,Telfs,Innsbruck-Land,1585937096
 04.04.2020,Eben am Achensee,Schwaz,-509767088
+04.04.2020,Schwaz,Schwaz,781327831
+04.04.2020,Stans,Schwaz,2002528492
+04.04.2020,Reith im Alpbachtal,Kufstein,-1892620340
+04.04.2020,Telfs,Innsbruck-Land,1585937096
 04.04.2020,Oberndorf in Tirol,Kitzbühel,-913207935
 04.04.2020,Kufstein,Kufstein,-992359965
 04.04.2020,Kramsach,Kufstein,899161973
@@ -113,6 +122,7 @@ date,municipaly,district,hash
 03.04.2020,Ischgl,Landeck,1685719496
 02.04.2020,Seefeld in Tirol,Innsbruck-Land,-905567327
 02.04.2020,Innsbruck,Innsbruck-Stadt,1432359468
+02.04.2020,Schwaz,Schwaz,-2096693824
 02.04.2020,Volders,Innsbruck-Land,-1747575440
 02.04.2020,Oberhofen im Inntal,Innsbruck-Land,-1892329236
 02.04.2020,Jochberg,Kitzbühel,348859706
@@ -124,9 +134,10 @@ date,municipaly,district,hash
 01.04.2020,Zirl,Innsbruck-Land,-1185357560
 01.04.2020,Zams,Landeck,-702323366
 01.04.2020,Fließ,Landeck,18790600
+01.04.2020,Jenbach,Schwaz,1122741960
+01.04.2020,Schwaz,Schwaz,-105369525
 01.04.2020,Mayrhofen,Schwaz,542525578
 01.04.2020,Götzens,Innsbruck-Land,1170018320
-01.04.2020,Jenbach,Schwaz,1122741960
 01.04.2020,Ebbs,Kufstein,-2021019160
 01.04.2020,Langkampfen,Kufstein,96932658
 01.04.2020,Heiterwang,Reutte,-1969551969
@@ -135,6 +146,7 @@ date,municipaly,district,hash
 01.04.2020,Kitzbühel,Kitzbühel,1878558015
 01.04.2020,St. Johann in Tirol,Kitzbühel,144213580
 31.03.2020,Inzing,Innsbruck-Land,-78981562
+31.03.2020,Fügen,Schwaz,-1243087381
 31.03.2020,Innsbruck,Innsbruck-Stadt,-1176213484
 31.03.2020,Zell am Ziller,Schwaz,1745751777
 31.03.2020,Natters,Innsbruck-Land,220593960
@@ -156,6 +168,7 @@ date,municipaly,district,hash
 30.03.2020,Inzing,Innsbruck-Land,-1607489488
 30.03.2020,Fiss,Landeck,381380220
 30.03.2020,Kauns,Landeck,-927758885
+30.03.2020,Reith im Alpbachtal,Kufstein,-499899594
 30.03.2020,Mayrhofen,Schwaz,537558481
 30.03.2020,Obsteig,Imst,-495383675
 30.03.2020,Kirchberg in Tirol,Kitzbühel,-1168566690
@@ -177,12 +190,13 @@ date,municipaly,district,hash
 29.03.2020,Flirsch,Landeck,-1362498012
 29.03.2020,Landeck,Landeck,-1492534715
 29.03.2020,Landeck,Landeck,1483192118
+29.03.2020,Pill,Schwaz,1024072457
+29.03.2020,Schwaz,Schwaz,-640807580
 29.03.2020,Zellberg,Schwaz,-572282287
 29.03.2020,Axams,Innsbruck-Land,441010783
 29.03.2020,Kufstein,Kufstein,1797839502
 29.03.2020,Rietz,Imst,-214096211
 29.03.2020,Obsteig,Imst,-700667698
-29.03.2020,Pill,Schwaz,1024072457
 29.03.2020,Fulpmes,Innsbruck-Land,-186851797
 29.03.2020,Nußdorf-Debant,Lienz,-1403586449
 29.03.2020,Imst,Imst,1558312211
@@ -195,6 +209,7 @@ date,municipaly,district,hash
 29.03.2020,Kirchbichl,Kufstein,-518072484
 28.03.2020,Landeck,Landeck,-1044814268
 28.03.2020,St. Anton am Arlberg,Landeck,-1740372442
+28.03.2020,Schwaz,Schwaz,386333428
 28.03.2020,Uderns,Schwaz,-258983753
 28.03.2020,Hippach,Schwaz,-420735621
 28.03.2020,Schwaz,Schwaz,-420735621
@@ -209,6 +224,8 @@ date,municipaly,district,hash
 28.03.2020,Hall in Tirol,Innsbruck-Land,-265353693
 27.03.2020,Fließ,Landeck,-750753148
 27.03.2020,Landeck,Landeck,130543280
+27.03.2020,Jenbach,Schwaz,499973491
+27.03.2020,Weer,Schwaz,588449569
 27.03.2020,Uderns,Schwaz,-1516884006
 27.03.2020,Hainzenberg,Schwaz,-207914254
 27.03.2020,Wattens,Innsbruck-Land,-1835439440
@@ -238,6 +255,7 @@ date,municipaly,district,hash
 26.03.2020,Lienz,Lienz,-2000116954
 26.03.2020,Lienz,Lienz,2065207876
 26.03.2020,Heiterwang,Reutte,-1779002672
+25.03.2020,Bruck am Ziller,Schwaz,-1110270034
 25.03.2020,Mayrhofen,Schwaz,-860666743
 25.03.2020,Reutte,Reutte,2023055705
 25.03.2020,Reutte,Reutte,-372403255
@@ -277,10 +295,10 @@ date,municipaly,district,hash
 23.03.2020,Landeck,Landeck,-610716498
 23.03.2020,Zams,Landeck,580472561
 23.03.2020,Pfunds,Landeck,-625759317
+23.03.2020,Weerberg,Schwaz,-1802943625
 23.03.2020,Ramsau im Zillertal,Schwaz,-1233429872
 23.03.2020,Fritzens,Innsbruck-Land,-78492469
 23.03.2020,Wattens,Innsbruck-Land,-1280161457
-23.03.2020,Weerberg,Schwaz,-1802943625
 23.03.2020,Walchsee,Kufstein,-245446702
 23.03.2020,Nesselwängle,Reutte,1502394433
 23.03.2020,Brandenberg,Kufstein,-532466394
@@ -295,14 +313,14 @@ date,municipaly,district,hash
 22.03.2020,Kematen in Tirol,Innsbruck-Land,157250572
 22.03.2020,Landeck,Landeck,-173719750
 22.03.2020,St. Anton am Arlberg,Landeck,-1476703036
+22.03.2020,Achenkirch,Schwaz,1638397544
+22.03.2020,Schwaz,Schwaz,977613465
+22.03.2020,Stans,Schwaz,-754902423
 22.03.2020,Zell am Ziller,Schwaz,1796877613
 22.03.2020,Innsbruck,Innsbruck-Stadt,295300337
 22.03.2020,Schwaz,Schwaz,1796877613
 22.03.2020,Axams,Innsbruck-Land,-2081040845
-22.03.2020,Schwaz,Schwaz,977613465
 22.03.2020,Mötz,Imst,-1142855393
-22.03.2020,Achenkirch,Schwaz,1638397544
-22.03.2020,Stans,Schwaz,-754902423
 22.03.2020,Neustift im Stubaital,Innsbruck-Land,-1135768924
 22.03.2020,Jenbach,Schwaz,1383373887
 22.03.2020,Wörgl,Kufstein,143547852
@@ -327,10 +345,10 @@ date,municipaly,district,hash
 20.03.2020,Fließ,Landeck,-1905525884
 20.03.2020,St. Anton am Arlberg,Landeck,725287434
 20.03.2020,Fließ,Landeck,-1816400891
-20.03.2020,Innsbruck,Innsbruck-Stadt,1081558648
-20.03.2020,Innsbruck,Innsbruck-Stadt,1221598945
 20.03.2020,Achenkirch,Schwaz,-699318626
 20.03.2020,Buch in Tirol,Schwaz,-536468004
+20.03.2020,Innsbruck,Innsbruck-Stadt,1081558648
+20.03.2020,Innsbruck,Innsbruck-Stadt,1221598945
 20.03.2020,Navis,Innsbruck-Land,-694689103
 20.03.2020,Trins,Innsbruck-Land,1676712388
 20.03.2020,Kirchbichl,Kufstein,341850197
@@ -338,11 +356,11 @@ date,municipaly,district,hash
 19.03.2020,Scharnitz,Innsbruck-Land,206481773
 19.03.2020,Mieming,Imst,784606181
 19.03.2020,Strengen,Landeck,110937439
+19.03.2020,Birgitz,Innsbruck-Land,237483063
+19.03.2020,Eben am Achensee,Schwaz,2106455605
 19.03.2020,Innsbruck,Innsbruck-Stadt,-1860646336
 19.03.2020,Telfs,Innsbruck-Land,-373990603
 19.03.2020,Innsbruck,Innsbruck-Stadt,-221368465
-19.03.2020,Birgitz,Innsbruck-Land,237483063
-19.03.2020,Eben am Achensee,Schwaz,2106455605
 19.03.2020,Innsbruck,Innsbruck-Stadt,-558594614
 19.03.2020,Innsbruck,Innsbruck-Stadt,1785569330
 19.03.2020,Ehrwald,Reutte,1844244160
@@ -354,12 +372,12 @@ date,municipaly,district,hash
 19.03.2020,Schwaz,Schwaz,1301936980
 19.03.2020,Rum,Innsbruck-Land,-1901372209
 18.03.2020,Zams,Landeck,1749294196
+18.03.2020,Weerberg,Schwaz,1445465923
 18.03.2020,Schwendau,Schwaz,934328023
 18.03.2020,Innsbruck,Innsbruck-Stadt,-1666574452
 18.03.2020,Hippach,Schwaz,934328023
 18.03.2020,Silz,Imst,186112239
 18.03.2020,Telfs,Innsbruck-Land,1709590546
-18.03.2020,Weerberg,Schwaz,1445465923
 18.03.2020,St. Johann in Tirol,Kitzbühel,389560953
 18.03.2020,Rum,Innsbruck-Land,1173412609
 18.03.2020,Matrei in Osttirol,Lienz,14862169
@@ -370,9 +388,9 @@ date,municipaly,district,hash
 18.03.2020,Außervillgraten,Lienz,1042517464
 18.03.2020,Westendorf,Kitzbühel,128657537
 17.03.2020,Fendels,Landeck,658971881
+17.03.2020,Bruck am Ziller,Schwaz,-1078852948
 17.03.2020,Silz,Imst,581037901
 17.03.2020,Innsbruck,Innsbruck-Stadt,-2058554936
-17.03.2020,Bruck am Ziller,Schwaz,-1078852948
 17.03.2020,Lienz,Lienz,-2052383924
 17.03.2020,Matrei in Osttirol,Lienz,-1070720189
 17.03.2020,Innsbruck,Innsbruck-Stadt,-915235895
@@ -399,9 +417,9 @@ date,municipaly,district,hash
 16.03.2020,Imsterberg,Imst,436975716
 16.03.2020,Schattwald,Reutte,1815933766
 15.03.2020,Landeck,Landeck,1832616010
+15.03.2020,Jenbach,Schwaz,986128710
 15.03.2020,Axams,Innsbruck-Land,-1200332979
 15.03.2020,Innsbruck,Innsbruck-Stadt,204421304
-15.03.2020,Jenbach,Schwaz,986128710
 15.03.2020,Innsbruck,Innsbruck-Stadt,1585386996
 15.03.2020,Innsbruck,Innsbruck-Stadt,-997499722
 15.03.2020,Wörgl,Kufstein,-173094833
@@ -443,8 +461,8 @@ date,municipaly,district,hash
 13.03.2020,Imst,Imst,632677533
 13.03.2020,Mariastein,Kufstein,277617611
 13.03.2020,Reith im Alpbachtal,Kufstein,777667803
-12.03.2020,Götzens,Innsbruck-Land,92955512
 12.03.2020,Schwaz,Schwaz,285615509
+12.03.2020,Götzens,Innsbruck-Land,92955512
 12.03.2020,Kufstein,Kufstein,-945051765
 12.03.2020,St. Johann in Tirol,Kitzbühel,2130897265
 12.03.2020,Sistrans,Innsbruck-Land,-685613670
@@ -472,14 +490,14 @@ date,municipaly,district,hash
 10.03.2020,Hopfgarten in Defereggen,Lienz,-130206102
 10.03.2020,Ebbs,Kufstein,-705660560
 09.03.2020,Nauders,Landeck,-1582586737
+09.03.2020,Wattens,Innsbruck-Land,-86769643
+09.03.2020,Stans,Schwaz,2145946566
 09.03.2020,Mayrhofen,Schwaz,480509313
 09.03.2020,Innsbruck,Innsbruck-Stadt,-1748905626
-09.03.2020,Stans,Schwaz,2145946566
 09.03.2020,Innsbruck,Innsbruck-Stadt,-1580301307
 09.03.2020,Grinzens,Innsbruck-Land,1975300256
 09.03.2020,Silz,Imst,-1846625389
 09.03.2020,Innsbruck,Innsbruck-Stadt,-1394131305
-09.03.2020,Wattens,Innsbruck-Land,-86769643
 09.03.2020,Breitenwang,Reutte,-1817461989
 09.03.2020,St. Johann in Tirol,Kitzbühel,1076058465
 09.03.2020,Wenns,Imst,-717992361
@@ -494,10 +512,10 @@ date,municipaly,district,hash
 09.03.2020,Imst,Imst,-1293320333
 08.03.2020,Zirl,Innsbruck-Land,1767152055
 08.03.2020,Pfunds,Landeck,-586781580
+08.03.2020,Weerberg,Schwaz,1449656930
 08.03.2020,Stumm,Schwaz,1695874459
 08.03.2020,Uderns,Schwaz,2070289646
 08.03.2020,Ramsau im Zillertal,Schwaz,860921049
-08.03.2020,Weerberg,Schwaz,1449656930
 08.03.2020,Wattens,Innsbruck-Land,-1313473140
 08.03.2020,Imst,Imst,1850041572
 08.03.2020,Innsbruck,Innsbruck-Stadt,1886920813
@@ -512,10 +530,10 @@ date,municipaly,district,hash
 08.03.2020,Dölsach,Lienz,1118333099
 08.03.2020,Söll,Kufstein,421573394
 07.03.2020,Landeck,Landeck,-1313847671
+07.03.2020,Buch in Tirol,Schwaz,-732698314
 07.03.2020,Hainzenberg,Schwaz,-1255181923
 07.03.2020,Ramsau im Zillertal,Schwaz,-1255181923
 07.03.2020,Innsbruck,Innsbruck-Stadt,-1988246977
-07.03.2020,Buch in Tirol,Schwaz,-732698314
 07.03.2020,Wattens,Innsbruck-Land,1370422294
 07.03.2020,Wildermieming,Innsbruck-Land,1699823918
 07.03.2020,Innsbruck,Innsbruck-Stadt,-1796888929
@@ -539,11 +557,11 @@ date,municipaly,district,hash
 06.03.2020,Elbigenalp,Reutte,520676199
 06.03.2020,Imst,Imst,1779534316
 06.03.2020,Niederndorf,Kufstein,1715405560
+05.03.2020,Vomp,Schwaz,1096917092
 05.03.2020,Innsbruck,Innsbruck-Stadt,-994842329
 05.03.2020,Volders,Innsbruck-Land,-1561044768
 05.03.2020,Telfs,Innsbruck-Land,-2033605109
 05.03.2020,Innsbruck,Innsbruck-Stadt,-1710530517
-05.03.2020,Vomp,Schwaz,1096917092
 05.03.2020,Häselgehr,Reutte,1219352020
 05.03.2020,Matrei in Osttirol,Lienz,-644366759
 05.03.2020,Kramsach,Kufstein,-1468845600
@@ -554,9 +572,9 @@ date,municipaly,district,hash
 05.03.2020,Lienz,Lienz,299148593
 05.03.2020,Fieberbrunn,Kitzbühel,-1092725418
 04.03.2020,Zams,Landeck,1638415869
+04.03.2020,Reith im Alpbachtal,Kufstein,1244513569
 04.03.2020,Axams,Innsbruck-Land,414888899
 04.03.2020,Telfs,Innsbruck-Land,1353724549
-04.03.2020,Reith im Alpbachtal,Kufstein,1244513569
 04.03.2020,Innsbruck,Innsbruck-Stadt,-840533422
 04.03.2020,Innsbruck,Innsbruck-Stadt,-155863161
 04.03.2020,St. Johann in Tirol,Kitzbühel,-2079295625
@@ -598,10 +616,10 @@ date,municipaly,district,hash
 01.03.2020,Schönwies,Landeck,-447663545
 01.03.2020,Landeck,Landeck,1220146941
 01.03.2020,Zams,Landeck,-2114746271
-01.03.2020,Innsbruck,Innsbruck-Stadt,1363477982
-01.03.2020,Weerberg,Schwaz,-617392339
-01.03.2020,Obsteig,Imst,904711884
 01.03.2020,Wiesing,Schwaz,925453266
+01.03.2020,Weerberg,Schwaz,-617392339
+01.03.2020,Innsbruck,Innsbruck-Stadt,1363477982
+01.03.2020,Obsteig,Imst,904711884
 01.03.2020,Innsbruck,Innsbruck-Stadt,-808352065
 01.03.2020,Brandenberg,Kufstein,1504091900
 01.03.2020,Reutte,Reutte,419980706
@@ -610,12 +628,12 @@ date,municipaly,district,hash
 01.03.2020,Tobadill,Landeck,1880977652
 29.02.2020,Kematen in Tirol,Innsbruck-Land,120348304
 29.02.2020,Oberperfuss,Innsbruck-Land,-1777051964
+29.02.2020,Schwaz,Schwaz,-1917574049
 29.02.2020,Natters,Innsbruck-Land,-1910028417
 29.02.2020,Kufstein,Kufstein,1755741413
 29.02.2020,Innsbruck,Innsbruck-Stadt,1836773083
 29.02.2020,Wattens,Innsbruck-Land,-841149590
 29.02.2020,Axams,Innsbruck-Land,-1901205591
-29.02.2020,Schwaz,Schwaz,-1917574049
 29.02.2020,Lienz,Lienz,987617473
 29.02.2020,Kartitsch,Lienz,-825215551
 29.02.2020,Strassen,Lienz,-873719842
@@ -629,12 +647,12 @@ date,municipaly,district,hash
 28.02.2020,Zams,Landeck,-823677738
 28.02.2020,Zams,Landeck,1547784844
 28.02.2020,Pians,Landeck,-863490370
-28.02.2020,Innsbruck,Innsbruck-Stadt,-1625770215
-28.02.2020,Wattens,Innsbruck-Land,1856029039
-28.02.2020,Innsbruck,Innsbruck-Stadt,819450253
 28.02.2020,Schwaz,Schwaz,-585935416
 28.02.2020,Jenbach,Schwaz,-2059160481
 28.02.2020,Kramsach,Kufstein,1808345405
+28.02.2020,Innsbruck,Innsbruck-Stadt,-1625770215
+28.02.2020,Wattens,Innsbruck-Land,1856029039
+28.02.2020,Innsbruck,Innsbruck-Stadt,819450253
 28.02.2020,Innsbruck,Innsbruck-Stadt,56358570
 28.02.2020,Innsbruck,Innsbruck-Stadt,1129733394
 28.02.2020,Sölden,Imst,109177548
@@ -644,11 +662,11 @@ date,municipaly,district,hash
 28.02.2020,Silz,Imst,-2048808178
 27.02.2020,Völs,Innsbruck-Land,525293811
 27.02.2020,Oberperfuss,Innsbruck-Land,975940449
+27.02.2020,Pill,Schwaz,-639798676
+27.02.2020,Alpbach,Kufstein,-10710470
 27.02.2020,Birgitz,Innsbruck-Land,-144918661
 27.02.2020,Axams,Innsbruck-Land,-615916394
 27.02.2020,Innsbruck,Innsbruck-Stadt,615352294
-27.02.2020,Pill,Schwaz,-639798676
-27.02.2020,Alpbach,Kufstein,-10710470
 27.02.2020,Matrei am Brenner,Innsbruck-Land,-2021221360
 27.02.2020,Bichlbach,Reutte,215444342
 27.02.2020,Brixlegg,Kufstein,480792620
@@ -684,12 +702,12 @@ date,municipaly,district,hash
 25.02.2020,Wörgl,Kufstein,2093452339
 24.02.2020,Hatting,Innsbruck-Land,-1527426205
 24.02.2020,Landeck,Landeck,363155011
+24.02.2020,Jenbach,Schwaz,800453219
 24.02.2020,Mayrhofen,Schwaz,-1331991572
 24.02.2020,Stummerberg,Schwaz,-166568658
 24.02.2020,Götzens,Innsbruck-Land,183030767
 24.02.2020,Stumm,Schwaz,-166568658
 24.02.2020,Imst,Imst,1803008564
-24.02.2020,Jenbach,Schwaz,800453219
 24.02.2020,Innsbruck,Innsbruck-Stadt,143136851
 24.02.2020,Kufstein,Kufstein,371556249
 24.02.2020,Westendorf,Kitzbühel,1376449399
@@ -702,8 +720,8 @@ date,municipaly,district,hash
 23.02.2020,Völs,Innsbruck-Land,1600594378
 23.02.2020,Seefeld in Tirol,Innsbruck-Land,606828773
 23.02.2020,Zams,Landeck,963137455
-23.02.2020,Axams,Innsbruck-Land,1861079201
 23.02.2020,Vomp,Schwaz,-1750051391
+23.02.2020,Axams,Innsbruck-Land,1861079201
 23.02.2020,Innsbruck,Innsbruck-Stadt,-446860799
 23.02.2020,Schwoich,Kufstein,-707833930
 23.02.2020,Kufstein,Kufstein,1102449468
@@ -719,8 +737,8 @@ date,municipaly,district,hash
 22.02.2020,Pettneu am Arlberg,Landeck,2135194385
 22.02.2020,Pettneu am Arlberg,Landeck,110758908
 22.02.2020,Fließ,Landeck,-777260612
-22.02.2020,Innsbruck,Innsbruck-Stadt,1091011827
 22.02.2020,Ried im Zillertal,Schwaz,-59089748
+22.02.2020,Innsbruck,Innsbruck-Stadt,1091011827
 22.02.2020,Niederndorf,Kufstein,533982386
 22.02.2020,St. Johann in Tirol,Kitzbühel,338313281
 22.02.2020,Kirchberg in Tirol,Kitzbühel,-163378256
@@ -731,9 +749,9 @@ date,municipaly,district,hash
 22.02.2020,Kirchbichl,Kufstein,1847391839
 21.02.2020,Innsbruck,Innsbruck-Stadt,786764789
 21.02.2020,Obsteig,Imst,-1692392928
+21.02.2020,Bruck am Ziller,Schwaz,-841688672
 21.02.2020,Mayrhofen,Schwaz,-1382785559
 21.02.2020,Oberperfuss,Innsbruck-Land,913000803
-21.02.2020,Bruck am Ziller,Schwaz,-841688672
 21.02.2020,Wattens,Innsbruck-Land,558831918
 21.02.2020,Innsbruck,Innsbruck-Stadt,-928233349
 21.02.2020,Innsbruck,Innsbruck-Stadt,417496594
@@ -747,9 +765,9 @@ date,municipaly,district,hash
 20.02.2020,Zirl,Innsbruck-Land,258967775
 20.02.2020,Grins,Landeck,-1969723490
 20.02.2020,Landeck,Landeck,-1426180408
+20.02.2020,Vomp,Schwaz,-207817404
 20.02.2020,Innsbruck,Innsbruck-Stadt,-938962567
 20.02.2020,Innsbruck,Innsbruck-Stadt,-2013584271
-20.02.2020,Vomp,Schwaz,-207817404
 20.02.2020,Wattens,Innsbruck-Land,-2117774412
 20.02.2020,Wattens,Innsbruck-Land,-417474764
 20.02.2020,Innsbruck,Innsbruck-Stadt,1735258142
@@ -786,8 +804,8 @@ date,municipaly,district,hash
 18.02.2020,Zirl,Innsbruck-Land,-202682402
 18.02.2020,Leutasch,Innsbruck-Land,1862930895
 18.02.2020,Hatting,Innsbruck-Land,-1494772790
-18.02.2020,Ramsau im Zillertal,Schwaz,-783648498
 18.02.2020,Fügen,Schwaz,-986816656
+18.02.2020,Ramsau im Zillertal,Schwaz,-783648498
 18.02.2020,Innsbruck,Innsbruck-Stadt,1848448075
 18.02.2020,Silz,Imst,817049191
 18.02.2020,Innsbruck,Innsbruck-Stadt,-416937512
@@ -813,8 +831,8 @@ date,municipaly,district,hash
 16.02.2020,Zirl,Innsbruck-Land,-1073816552
 16.02.2020,Inzing,Innsbruck-Land,149199493
 16.02.2020,Landeck,Landeck,-987263041
-16.02.2020,Innsbruck,Innsbruck-Stadt,-698919980
 16.02.2020,Schwaz,Schwaz,1478397748
+16.02.2020,Innsbruck,Innsbruck-Stadt,-698919980
 16.02.2020,Innsbruck,Innsbruck-Stadt,-1318312719
 16.02.2020,Erl,Kufstein,-1458749697
 16.02.2020,Kufstein,Kufstein,-49866506
@@ -849,9 +867,9 @@ date,municipaly,district,hash
 15.02.2020,Brixlegg,Kufstein,-1613672946
 14.02.2020,Sistrans,Innsbruck-Land,-605725016
 14.02.2020,Fließ,Landeck,1143196838
+14.02.2020,Achenkirch,Schwaz,1826345456
 14.02.2020,Götzens,Innsbruck-Land,-995540955
 14.02.2020,Mötz,Imst,-1057927781
-14.02.2020,Achenkirch,Schwaz,1826345456
 14.02.2020,Wattens,Innsbruck-Land,1458713812
 14.02.2020,Vils,Reutte,-1198668374
 14.02.2020,Hart im Zillertal,Schwaz,-1818064837
@@ -884,10 +902,10 @@ date,municipaly,district,hash
 12.02.2020,Brixen im Thale,Kitzbühel,-1146533027
 11.02.2020,Fließ,Landeck,1535737402
 11.02.2020,Pfunds,Landeck,610472189
-11.02.2020,Kaltenbach,Schwaz,-1498514280
-11.02.2020,Innsbruck,Innsbruck-Stadt,-1479078943
 11.02.2020,Rattenberg,Kufstein,187240206
 11.02.2020,Jenbach,Schwaz,1336720089
+11.02.2020,Kaltenbach,Schwaz,-1498514280
+11.02.2020,Innsbruck,Innsbruck-Stadt,-1479078943
 11.02.2020,Ried im Zillertal,Schwaz,-1498514280
 11.02.2020,Innsbruck,Innsbruck-Stadt,-988018496
 11.02.2020,Langkampfen,Kufstein,-1977869131
@@ -897,10 +915,10 @@ date,municipaly,district,hash
 11.02.2020,Kolsass,Innsbruck-Land,444386454
 11.02.2020,Nußdorf-Debant,Lienz,965506522
 10.02.2020,Landeck,Landeck,-1553372829
+10.02.2020,Buch in Tirol,Schwaz,-633306316
 10.02.2020,Telfs,Innsbruck-Land,-1942222537
 10.02.2020,Wattens,Innsbruck-Land,441494912
 10.02.2020,Innsbruck,Innsbruck-Stadt,-1502915961
-10.02.2020,Buch in Tirol,Schwaz,-633306316
 10.02.2020,Heinfels,Lienz,-24432343
 10.02.2020,Jochberg,Kitzbühel,-1207396843
 10.02.2020,Imst,Imst,-473685551
@@ -913,10 +931,10 @@ date,municipaly,district,hash
 09.02.2020,Sellrain,Innsbruck-Land,-1458233408
 09.02.2020,Ranggen,Innsbruck-Land,274891458
 09.02.2020,St. Anton am Arlberg,Landeck,-395984758
+09.02.2020,Weer,Schwaz,1620416806
 09.02.2020,Mayrhofen,Schwaz,-864146937
 09.02.2020,Mayrhofen,Schwaz,1683049712
 09.02.2020,Telfs,Innsbruck-Land,-980132898
-09.02.2020,Weer,Schwaz,1620416806
 09.02.2020,Arzl im Pitztal,Imst,-102660297
 09.02.2020,Wörgl,Kufstein,-239302587
 09.02.2020,Neustift im Stubaital,Innsbruck-Land,-2004364676
@@ -934,12 +952,12 @@ date,municipaly,district,hash
 08.02.2020,Strassen,Lienz,256898847
 08.02.2020,Lienz,Lienz,1176780142
 07.02.2020,Seefeld in Tirol,Innsbruck-Land,405072561
+07.02.2020,Fügen,Schwaz,-2076711117
 07.02.2020,Tulfes,Innsbruck-Land,1197543096
 07.02.2020,Götzens,Innsbruck-Land,680764668
 07.02.2020,Mutters,Innsbruck-Land,1896015400
 07.02.2020,Innsbruck,Innsbruck-Stadt,-872623904
 07.02.2020,Innsbruck,Innsbruck-Stadt,779172803
-07.02.2020,Fügen,Schwaz,-2076711117
 07.02.2020,Westendorf,Kitzbühel,-360777135
 07.02.2020,Reutte,Reutte,1506621219
 07.02.2020,Navis,Innsbruck-Land,-1479942756
@@ -980,6 +998,7 @@ date,municipaly,district,hash
 05.02.2020,Sautens,Imst,1701349969
 05.02.2020,See,Landeck,2049447709
 05.02.2020,Kufstein,Kufstein,1291393579
+04.02.2020,Achenkirch,Schwaz,-1721068051
 04.02.2020,Innsbruck,Innsbruck-Stadt,732738609
 04.02.2020,Mutters,Innsbruck-Land,-854730059
 04.02.2020,Innsbruck,Innsbruck-Stadt,-952484620
@@ -987,7 +1006,6 @@ date,municipaly,district,hash
 04.02.2020,Innsbruck,Innsbruck-Stadt,-1344753654
 04.02.2020,Innsbruck,Innsbruck-Stadt,-1175946656
 04.02.2020,Innsbruck,Innsbruck-Stadt,-694885253
-04.02.2020,Achenkirch,Schwaz,-1721068051
 04.02.2020,Matrei am Brenner,Innsbruck-Land,-680003617
 04.02.2020,Hopfgarten in Defereggen,Lienz,1688588238
 04.02.2020,Kirchdorf in Tirol,Kitzbühel,-1501550421
@@ -995,13 +1013,13 @@ date,municipaly,district,hash
 04.02.2020,Nesselwängle,Reutte,-1677651570
 04.02.2020,Brixlegg,Kufstein,-1034334294
 04.02.2020,Brixen im Thale,Kitzbühel,-242584354
+03.02.2020,Schwaz,Schwaz,-1248448202
+03.02.2020,Schwaz,Schwaz,743190353
 03.02.2020,Gerlosberg,Schwaz,2079712095
 03.02.2020,Zell am Ziller,Schwaz,2079712095
 03.02.2020,Innsbruck,Innsbruck-Stadt,-455548123
 03.02.2020,Innsbruck,Innsbruck-Stadt,1852626701
 03.02.2020,Innsbruck,Innsbruck-Stadt,2060696923
-03.02.2020,Schwaz,Schwaz,-1248448202
-03.02.2020,Schwaz,Schwaz,743190353
 03.02.2020,Innsbruck,Innsbruck-Stadt,-591690059
 03.02.2020,Kitzbühel,Kitzbühel,-233695115
 03.02.2020,Umhausen,Imst,-1901372209
@@ -1011,11 +1029,11 @@ date,municipaly,district,hash
 03.02.2020,Dölsach,Lienz,895797212
 02.02.2020,Landeck,Landeck,-1144930955
 02.02.2020,Zams,Landeck,1609706921
+02.02.2020,Schwaz,Schwaz,-908713069
 02.02.2020,Tux,Schwaz,1787407920
 02.02.2020,Axams,Innsbruck-Land,-1023708663
 02.02.2020,Volders,Innsbruck-Land,-1044347843
 02.02.2020,Volders,Innsbruck-Land,152509854
-02.02.2020,Schwaz,Schwaz,-908713069
 02.02.2020,Innsbruck,Innsbruck-Stadt,435735699
 02.02.2020,Kirchdorf in Tirol,Kitzbühel,311402416
 02.02.2020,Innsbruck,Innsbruck-Stadt,1472226466
@@ -1044,9 +1062,9 @@ date,municipaly,district,hash
 01.02.2020,Obertilliach,Lienz,1315677385
 01.02.2020,Trins,Innsbruck-Land,-1847742576
 01.02.2020,Hopfgarten in Defereggen,Lienz,1975935164
+31.01.2020,Schwaz,Schwaz,1399895902
 31.01.2020,Fügen,Schwaz,-1051896008
 31.01.2020,Telfs,Innsbruck-Land,2097228806
-31.01.2020,Schwaz,Schwaz,1399895902
 31.01.2020,Wörgl,Kufstein,728814377
 31.01.2020,Kufstein,Kufstein,1354927114
 31.01.2020,Jenbach,Schwaz,-676117180
@@ -1098,10 +1116,10 @@ date,municipaly,district,hash
 28.01.2020,Ischgl,Landeck,1993773168
 28.01.2020,Kufstein,Kufstein,1467944497
 27.01.2020,Faggen,Landeck,534320782
+27.01.2020,Schwaz,Schwaz,1500964805
 27.01.2020,Uderns,Schwaz,-1928076763
 27.01.2020,Gerlos,Schwaz,166577640
 27.01.2020,Wattens,Innsbruck-Land,696702309
-27.01.2020,Schwaz,Schwaz,1500964805
 27.01.2020,Jenbach,Schwaz,-755753296
 27.01.2020,Fügen,Schwaz,-1403348621
 27.01.2020,Langkampfen,Kufstein,1516091896
@@ -1114,12 +1132,12 @@ date,municipaly,district,hash
 27.01.2020,Langkampfen,Kufstein,869524962
 26.01.2020,Innsbruck,Innsbruck-Stadt,-1911676465
 26.01.2020,Landeck,Landeck,-458529707
-26.01.2020,Innsbruck,Innsbruck-Stadt,75584461
+26.01.2020,Pill,Schwaz,-1507941203
 26.01.2020,Schwaz,Schwaz,-1975771922
+26.01.2020,Innsbruck,Innsbruck-Stadt,75584461
 26.01.2020,Telfs,Innsbruck-Land,-544071124
 26.01.2020,Innsbruck,Innsbruck-Stadt,1079376945
 26.01.2020,Innsbruck,Innsbruck-Stadt,895642549
-26.01.2020,Pill,Schwaz,-1507941203
 26.01.2020,Thiersee,Kufstein,-2111313470
 26.01.2020,Imst,Imst,-285185686
 26.01.2020,Jenbach,Schwaz,-599081747
@@ -1135,10 +1153,10 @@ date,municipaly,district,hash
 25.01.2020,Elbigenalp,Reutte,200594790
 25.01.2020,St. Anton am Arlberg,Landeck,-876391809
 25.01.2020,Faggen,Landeck,-1062297340
+25.01.2020,Fügen,Schwaz,-1778758700
 25.01.2020,Axams,Innsbruck-Land,357861864
 25.01.2020,Silz,Imst,-1131783261
 25.01.2020,Telfs,Innsbruck-Land,-1679062097
-25.01.2020,Fügen,Schwaz,-1778758700
 25.01.2020,Innsbruck,Innsbruck-Stadt,-1911369281
 25.01.2020,Innsbruck,Innsbruck-Stadt,1087306846
 25.01.2020,Ebbs,Kufstein,-2070739538
@@ -1148,12 +1166,12 @@ date,municipaly,district,hash
 25.01.2020,Ellbögen,Innsbruck-Land,-1967955474
 25.01.2020,Lienz,Lienz,796096326
 25.01.2020,Kufstein,Kufstein,616400013
+24.01.2020,Weer,Schwaz,-342922141
 24.01.2020,Rohrberg,Schwaz,-1265809004
 24.01.2020,Zell am Ziller,Schwaz,-1265809004
 24.01.2020,Innsbruck,Innsbruck-Stadt,78026152
 24.01.2020,Volders,Innsbruck-Land,-1942723440
 24.01.2020,Kufstein,Kufstein,2089330468
-24.01.2020,Weer,Schwaz,-342922141
 24.01.2020,Lienz,Lienz,1021355019
 24.01.2020,Hopfgarten im Brixental,Kitzbühel,2051644577
 24.01.2020,Jenbach,Schwaz,-957524923
@@ -1176,12 +1194,12 @@ date,municipaly,district,hash
 23.01.2020,Iselsberg-Stronach,Lienz,-1762604712
 22.01.2020,Mieming,Imst,1163476715
 22.01.2020,See,Landeck,1862548001
+22.01.2020,Schwaz,Schwaz,-1069768717
 22.01.2020,Mutters,Innsbruck-Land,26498330
 22.01.2020,Mutters,Innsbruck-Land,2006196315
 22.01.2020,Innsbruck,Innsbruck-Stadt,1570699076
 22.01.2020,Innsbruck,Innsbruck-Stadt,135050765
 22.01.2020,Kundl,Kufstein,1653777389
-22.01.2020,Schwaz,Schwaz,-1069768717
 22.01.2020,Hall in Tirol,Innsbruck-Land,1369526210
 22.01.2020,Ainet,Lienz,-166965558
 22.01.2020,Brandenberg,Kufstein,-1895235924
@@ -1190,9 +1208,9 @@ date,municipaly,district,hash
 22.01.2020,Wildschönau,Kufstein,823546250
 21.01.2020,Völs,Innsbruck-Land,2015980155
 21.01.2020,Kaunertal,Landeck,-188594572
+21.01.2020,Jenbach,Schwaz,-767958099
 21.01.2020,Hainzenberg,Schwaz,725745128
 21.01.2020,Fritzens,Innsbruck-Land,-1650654528
-21.01.2020,Jenbach,Schwaz,-767958099
 21.01.2020,Zell am Ziller,Schwaz,725745128
 21.01.2020,Innsbruck,Innsbruck-Stadt,-2011136579
 21.01.2020,Innsbruck,Innsbruck-Stadt,-155852412
@@ -1235,8 +1253,8 @@ date,municipaly,district,hash
 19.01.2020,Ischgl,Landeck,267512178
 19.01.2020,Wörgl,Kufstein,1646803951
 18.01.2020,Leutasch,Innsbruck-Land,1422923168
-18.01.2020,Mayrhofen,Schwaz,-63903814
 18.01.2020,Achenkirch,Schwaz,-599954766
+18.01.2020,Mayrhofen,Schwaz,-63903814
 18.01.2020,Innsbruck,Innsbruck-Stadt,674789837
 18.01.2020,Wattens,Innsbruck-Land,-908303554
 18.01.2020,Innsbruck,Innsbruck-Stadt,-665066097
@@ -1251,13 +1269,13 @@ date,municipaly,district,hash
 18.01.2020,Brandenberg,Kufstein,-96221334
 18.01.2020,Imst,Imst,269116638
 17.01.2020,Leutasch,Innsbruck-Land,-950627106
+17.01.2020,Eben am Achensee,Schwaz,-63060970
 17.01.2020,Mayrhofen,Schwaz,1313322289
 17.01.2020,Götzens,Innsbruck-Land,420919447
 17.01.2020,Innsbruck,Innsbruck-Stadt,-899661781
 17.01.2020,Innsbruck,Innsbruck-Stadt,-1788651517
 17.01.2020,Innsbruck,Innsbruck-Stadt,1580099494
 17.01.2020,Langkampfen,Kufstein,249892304
-17.01.2020,Eben am Achensee,Schwaz,-63060970
 17.01.2020,Innsbruck,Innsbruck-Stadt,134867893
 17.01.2020,Innsbruck,Innsbruck-Stadt,2080683939
 17.01.2020,Hall in Tirol,Innsbruck-Land,-745552814
@@ -1269,12 +1287,12 @@ date,municipaly,district,hash
 17.01.2020,St. Johann in Tirol,Kitzbühel,-637279207
 16.01.2020,Inzing,Innsbruck-Land,-889277613
 16.01.2020,Landeck,Landeck,2086688177
+16.01.2020,Terfens,Schwaz,-1438128995
+16.01.2020,Pill,Schwaz,-482974500
 16.01.2020,Stumm,Schwaz,1882994161
 16.01.2020,Axams,Innsbruck-Land,1143613914
-16.01.2020,Pill,Schwaz,-482974500
 16.01.2020,Kufstein,Kufstein,2089265514
 16.01.2020,Wattens,Innsbruck-Land,-375070767
-16.01.2020,Terfens,Schwaz,-1438128995
 16.01.2020,Innsbruck,Innsbruck-Stadt,842926920
 16.01.2020,Innsbruck,Innsbruck-Stadt,-1754092511
 16.01.2020,Schwaz,Schwaz,759737203
@@ -1302,11 +1320,11 @@ date,municipaly,district,hash
 15.01.2020,Fieberbrunn,Kitzbühel,-911473660
 14.01.2020,Strengen,Landeck,151137087
 14.01.2020,Schönwies,Landeck,277263859
-14.01.2020,Mayrhofen,Schwaz,-72845129
 14.01.2020,Achenkirch,Schwaz,111116453
+14.01.2020,Pill,Schwaz,-1524264514
+14.01.2020,Mayrhofen,Schwaz,-72845129
 14.01.2020,Pfaffenhofen,Innsbruck-Land,-248970279
 14.01.2020,Obsteig,Imst,935922546
-14.01.2020,Pill,Schwaz,-1524264514
 14.01.2020,Kufstein,Kufstein,1888176349
 14.01.2020,Hall in Tirol,Innsbruck-Land,1320004041
 14.01.2020,Innsbruck,Innsbruck-Stadt,35734692
@@ -1338,8 +1356,8 @@ date,municipaly,district,hash
 12.01.2020,Innsbruck,Innsbruck-Stadt,2123868121
 12.01.2020,Breitenbach am Inn,Kufstein,1903453991
 12.01.2020,Westendorf,Kitzbühel,-1674210771
-11.01.2020,Innsbruck,Innsbruck-Stadt,-804605679
 11.01.2020,Schwaz,Schwaz,723015077
+11.01.2020,Innsbruck,Innsbruck-Stadt,-804605679
 11.01.2020,Imst,Imst,-942703579
 11.01.2020,Lienz,Lienz,681885868
 11.01.2020,Wörgl,Kufstein,658605567
@@ -1371,12 +1389,12 @@ date,municipaly,district,hash
 09.01.2020,Zirl,Innsbruck-Land,101111618
 09.01.2020,Inzing,Innsbruck-Land,476090769
 09.01.2020,Kauns,Landeck,803951368
+09.01.2020,Terfens,Schwaz,-211309661
 09.01.2020,Brandberg,Schwaz,-716239914
 09.01.2020,Mutters,Innsbruck-Land,1644156873
 09.01.2020,Rum,Innsbruck-Land,-1128561349
 09.01.2020,Innsbruck,Innsbruck-Stadt,-67737336
 09.01.2020,Innsbruck,Innsbruck-Stadt,-1775263635
-09.01.2020,Terfens,Schwaz,-211309661
 09.01.2020,Ampass,Innsbruck-Land,-114163561
 09.01.2020,Fügen,Schwaz,895215868
 09.01.2020,Innsbruck,Innsbruck-Stadt,-1834378676
@@ -1387,9 +1405,9 @@ date,municipaly,district,hash
 08.01.2020,Spiss,Landeck,1051714285
 08.01.2020,Landeck,Landeck,-748656944
 08.01.2020,Prutz,Landeck,1147901335
+08.01.2020,Alpbach,Kufstein,-1463932939
 08.01.2020,Innsbruck,Innsbruck-Stadt,-2130992982
 08.01.2020,Axams,Innsbruck-Land,-1904833684
-08.01.2020,Alpbach,Kufstein,-1463932939
 08.01.2020,Hall in Tirol,Innsbruck-Land,-1314689242
 08.01.2020,Stanzach,Reutte,-850829249
 08.01.2020,Oetz,Imst,-1960980050
@@ -1398,17 +1416,17 @@ date,municipaly,district,hash
 08.01.2020,Absam,Innsbruck-Land,2129436262
 08.01.2020,Tristach,Lienz,1452399605
 08.01.2020,St. Ulrich am Pillersee,Kitzbühel,1974605957
+07.01.2020,Weerberg,Schwaz,-205699113
+07.01.2020,Vomp,Schwaz,-1435345230
+07.01.2020,Steinberg am Rofan,Schwaz,595113175
+07.01.2020,Schwaz,Schwaz,1525474531
 07.01.2020,Mayrhofen,Schwaz,-1069919197
 07.01.2020,Schwaz,Schwaz,1622266619
 07.01.2020,Mayrhofen,Schwaz,-1254973306
-07.01.2020,Weerberg,Schwaz,-205699113
-07.01.2020,Schwaz,Schwaz,1525474531
 07.01.2020,Telfs,Innsbruck-Land,2020617874
-07.01.2020,Vomp,Schwaz,-1435345230
 07.01.2020,Innsbruck,Innsbruck-Stadt,1560104227
 07.01.2020,Innsbruck,Innsbruck-Stadt,-1471331656
 07.01.2020,Schwaz,Schwaz,-1254973306
-07.01.2020,Steinberg am Rofan,Schwaz,595113175
 07.01.2020,Lienz,Lienz,-39874150
 07.01.2020,Aschau im Zillertal,Schwaz,221381165
 07.01.2020,Angath,Kufstein,1680926257
@@ -1457,10 +1475,10 @@ date,municipaly,district,hash
 04.01.2020,Seefeld in Tirol,Innsbruck-Land,-1987755093
 04.01.2020,Nauders,Landeck,521658072
 04.01.2020,Landeck,Landeck,1143073626
+04.01.2020,Jenbach,Schwaz,-1764557706
 04.01.2020,Axams,Innsbruck-Land,-1594084555
 04.01.2020,Volders,Innsbruck-Land,-418947863
 04.01.2020,Thiersee,Kufstein,1149549349
-04.01.2020,Jenbach,Schwaz,-1764557706
 04.01.2020,Innsbruck,Innsbruck-Stadt,-1513745766
 04.01.2020,Innsbruck,Innsbruck-Stadt,-925104659
 04.01.2020,Rum,Innsbruck-Land,257963226
@@ -1469,8 +1487,8 @@ date,municipaly,district,hash
 04.01.2020,Dölsach,Lienz,-1786673791
 04.01.2020,Arzl im Pitztal,Imst,783965428
 04.01.2020,Prägraten am Großvenediger,Lienz,1193067964
-03.01.2020,Telfs,Innsbruck-Land,-700482884
 03.01.2020,Schwaz,Schwaz,1548814199
+03.01.2020,Telfs,Innsbruck-Land,-700482884
 03.01.2020,Innsbruck,Innsbruck-Stadt,-591169022
 03.01.2020,Kufstein,Kufstein,-1634456196
 03.01.2020,Telfes im Stubai,Innsbruck-Land,1750803674
@@ -1504,15 +1522,15 @@ date,municipaly,district,hash
 02.01.2020,St. Ulrich am Pillersee,Kitzbühel,-1655701351
 01.01.2020,Innsbruck,Innsbruck-Stadt,613307217
 01.01.2020,Kappl,Landeck,-470837877
+01.01.2020,Hippach,Schwaz,-399522341
+01.01.2020,Weerberg,Schwaz,1351630384
+01.01.2020,Alpbach,Kufstein,-1064461716
 01.01.2020,Innsbruck,Innsbruck-Stadt,695371873
 01.01.2020,Mayrhofen,Schwaz,1746977564
 01.01.2020,Schwendau,Schwaz,-1535274178
 01.01.2020,Hippach,Schwaz,-1535274178
-01.01.2020,Hippach,Schwaz,-399522341
 01.01.2020,Innsbruck,Innsbruck-Stadt,-609825494
 01.01.2020,Innsbruck,Innsbruck-Stadt,1133675863
-01.01.2020,Weerberg,Schwaz,1351630384
-01.01.2020,Alpbach,Kufstein,-1064461716
 01.01.2020,Kufstein,Kufstein,-1529536556
 01.01.2020,Reutte,Reutte,-115616109
 01.01.2020,Lechaschau,Reutte,811773764
@@ -1541,8 +1559,8 @@ date,municipaly,district,hash
 31.12.2019,Itter,Kitzbühel,902224725
 31.12.2019,Jochberg,Kitzbühel,-1358468301
 30.12.2019,Zams,Landeck,271518919
-30.12.2019,Wattens,Innsbruck-Land,1907080680
 30.12.2019,Schlitters,Schwaz,-803541361
+30.12.2019,Wattens,Innsbruck-Land,1907080680
 30.12.2019,Reutte,Reutte,1612345561
 30.12.2019,Innsbruck,Innsbruck-Stadt,1489301309
 30.12.2019,St. Leonhard im Pitztal,Imst,645819685
@@ -4981,8 +4999,8 @@ date,municipaly,district,hash
 15.04.2019,Steinach am Brenner,Innsbruck-Land,-675586468
 14.04.2019,Tösens,Landeck,673714638
 14.04.2019,Landeck,Landeck,973895512
-14.04.2019,Innsbruck,Innsbruck-Stadt,110599043
 14.04.2019,Buch in Tirol,Schwaz,1861269612
+14.04.2019,Innsbruck,Innsbruck-Stadt,110599043
 14.04.2019,Fügen,Schwaz,-1054895967
 14.04.2019,Innsbruck,Innsbruck-Stadt,-422633615
 14.04.2019,Innsbruck,Innsbruck-Stadt,1983034881
@@ -5116,9 +5134,9 @@ date,municipaly,district,hash
 05.04.2019,Wenns,Imst,142850093
 05.04.2019,St. Leonhard im Pitztal,Imst,856228066
 04.04.2019,Rum,Innsbruck-Land,-93554229
+04.04.2019,Schwaz,Schwaz,-341121621
 04.04.2019,Hippach,Schwaz,-2049023155
 04.04.2019,Kolsass,Innsbruck-Land,-1453591522
-04.04.2019,Schwaz,Schwaz,-341121621
 04.04.2019,Hall in Tirol,Innsbruck-Land,-504739330
 04.04.2019,Vils,Reutte,1870172998
 04.04.2019,Ehrwald,Reutte,856947839
@@ -5129,9 +5147,9 @@ date,municipaly,district,hash
 04.04.2019,Brixlegg,Kufstein,-1114502157
 03.04.2019,Grins,Landeck,1822470479
 03.04.2019,Kaunertal,Landeck,1143546489
+03.04.2019,Vomp,Schwaz,1976606680
 03.04.2019,Ramsau im Zillertal,Schwaz,1198792062
 03.04.2019,Ried im Zillertal,Schwaz,2021300580
-03.04.2019,Vomp,Schwaz,1976606680
 03.04.2019,Zell am Ziller,Schwaz,1198792062
 03.04.2019,Westendorf,Kitzbühel,-634104144
 03.04.2019,Strengen,Landeck,-1620500621
@@ -5306,8 +5324,8 @@ date,municipaly,district,hash
 23.03.2019,Navis,Innsbruck-Land,-1471110811
 23.03.2019,Fulpmes,Innsbruck-Land,-1971560980
 22.03.2019,Leutasch,Innsbruck-Land,-2064120265
-22.03.2019,Hippach,Schwaz,-1526818641
 22.03.2019,Weerberg,Schwaz,-151612574
+22.03.2019,Hippach,Schwaz,-1526818641
 22.03.2019,Hippach,Schwaz,1974286897
 22.03.2019,Pill,Schwaz,902217127
 22.03.2019,Innsbruck,Innsbruck-Stadt,105478483
@@ -5364,6 +5382,7 @@ date,municipaly,district,hash
 19.03.2019,Hall in Tirol,Innsbruck-Land,-1082384273
 19.03.2019,Reutte,Reutte,1424838795
 19.03.2019,Weißenbach am Lech,Reutte,1427169979
+18.03.2019,Vomp,Schwaz,1991134801
 18.03.2019,Schwaz,Schwaz,1212645174
 18.03.2019,Schwaz,Schwaz,1991134801
 18.03.2019,Schwaz,Schwaz,-1643274468
@@ -5474,10 +5493,10 @@ date,municipaly,district,hash
 12.03.2019,Sölden,Imst,780424416
 11.03.2019,Zirl,Innsbruck-Land,-729230839
 11.03.2019,Oberperfuss,Innsbruck-Land,-1421465533
+11.03.2019,Vomp,Schwaz,-1669193336
 11.03.2019,Innsbruck,Innsbruck-Stadt,-1174513805
 11.03.2019,Vomp,Schwaz,-1017729236
 11.03.2019,Fügen,Schwaz,-639721025
-11.03.2019,Vomp,Schwaz,-1669193336
 11.03.2019,Innsbruck,Innsbruck-Stadt,-1651892228
 11.03.2019,Innsbruck,Innsbruck-Stadt,-2103183622
 11.03.2019,Innsbruck,Innsbruck-Stadt,398026546
@@ -5515,9 +5534,9 @@ date,municipaly,district,hash
 10.03.2019,Kitzbühel,Kitzbühel,-1758368896
 09.03.2019,Zams,Landeck,1614508910
 09.03.2019,Landeck,Landeck,-41146888
+09.03.2019,Weerberg,Schwaz,-1131020850
 09.03.2019,Brandberg,Schwaz,-1713097845
 09.03.2019,Ampass,Innsbruck-Land,2047617230
-09.03.2019,Weerberg,Schwaz,-1131020850
 09.03.2019,Mayrhofen,Schwaz,-1713097845
 09.03.2019,Oberhofen im Inntal,Innsbruck-Land,608222780
 09.03.2019,Hall in Tirol,Innsbruck-Land,95556708
@@ -5651,6 +5670,7 @@ date,municipaly,district,hash
 02.03.2019,Angath,Kufstein,-799216739
 01.03.2019,Seefeld in Tirol,Innsbruck-Land,-1599983090
 01.03.2019,Prutz,Landeck,-1981991928
+01.03.2019,Buch in Tirol,Schwaz,-1635279643
 01.03.2019,Innsbruck,Innsbruck-Stadt,1288713533
 01.03.2019,Innsbruck,Innsbruck-Stadt,334830330
 01.03.2019,Ebbs,Kufstein,205006236
@@ -5658,7 +5678,6 @@ date,municipaly,district,hash
 01.03.2019,Eben am Achensee,Schwaz,-377476376
 01.03.2019,Oberhofen im Inntal,Innsbruck-Land,1662362745
 01.03.2019,Wildermieming,Innsbruck-Land,1818704426
-01.03.2019,Buch in Tirol,Schwaz,-1635279643
 01.03.2019,Hall in Tirol,Innsbruck-Land,1117324721
 01.03.2019,Landeck,Landeck,-1635279643
 01.03.2019,Fügen,Schwaz,774160438
@@ -5749,13 +5768,13 @@ date,municipaly,district,hash
 24.02.2019,St. Leonhard im Pitztal,Imst,-211478362
 24.02.2019,Brixen im Thale,Kitzbühel,-1884759900
 24.02.2019,Mieders,Innsbruck-Land,-912711022
+23.02.2019,Vomp,Schwaz,1755562464
+23.02.2019,Stans,Schwaz,-610958977
 23.02.2019,Hainzenberg,Schwaz,-2082067288
 23.02.2019,Zell am Ziller,Schwaz,-1131088142
 23.02.2019,Götzens,Innsbruck-Land,-1162687224
 23.02.2019,Pfaffenhofen,Innsbruck-Land,-1409169754
-23.02.2019,Vomp,Schwaz,1755562464
 23.02.2019,Innsbruck,Innsbruck-Stadt,-851036785
-23.02.2019,Stans,Schwaz,-610958977
 23.02.2019,Wattens,Innsbruck-Land,966834715
 23.02.2019,Landeck,Landeck,1755562464
 23.02.2019,Innsbruck,Innsbruck-Stadt,-939760647
@@ -5900,10 +5919,10 @@ date,municipaly,district,hash
 14.02.2019,Lienz,Lienz,632397158
 14.02.2019,Gaimberg,Lienz,1386188933
 13.02.2019,Mils bei Imst,Imst,1068039469
+13.02.2019,Stans,Schwaz,1831677942
 13.02.2019,Stumm,Schwaz,1429668000
 13.02.2019,Tux,Schwaz,180375276
 13.02.2019,Wattens,Innsbruck-Land,-218210510
-13.02.2019,Stans,Schwaz,1831677942
 13.02.2019,Jenbach,Schwaz,2026829484
 13.02.2019,Ebbs,Kufstein,-1069919197
 13.02.2019,Bichlbach,Reutte,-1639309998

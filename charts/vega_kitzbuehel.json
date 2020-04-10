@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-36bf7fc01f9b995713b22dd651487810"
+        "name": "data-3908cdeb58f3c1ed7c4a6df24dfd56d3"
     },
     "datasets": {
-        "data-36bf7fc01f9b995713b22dd651487810": [
+        "data-3908cdeb58f3c1ed7c4a6df24dfd56d3": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -665,6 +665,12 @@
                 "date": "2016-08-28T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "St. Jakob in Haus"
+            },
+            {
+                "count": 1,
+                "date": "2016-08-29T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Itter"
             },
             {
                 "count": 1,

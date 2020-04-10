@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-c5e243d182d91e1d97e61a99bfcd5d81"
+        "name": "data-68a98eabfe77f5c47c913ed0f52278f2"
     },
     "datasets": {
-        "data-c5e243d182d91e1d97e61a99bfcd5d81": [
+        "data-68a98eabfe77f5c47c913ed0f52278f2": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -113,6 +113,12 @@
                 "date": "2016-06-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Axams"
+            },
+            {
+                "count": 1,
+                "date": "2016-06-12T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass"
             },
             {
                 "count": 1,
@@ -719,6 +725,12 @@
                 "date": "2016-08-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2016-08-05T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass"
             },
             {
                 "count": 1,
@@ -2998,6 +3010,18 @@
                 "count": 1,
                 "date": "2016-12-30T00:00:00",
                 "district": "Innsbruck-Land",
+                "municipaly": "Kolsass"
+            },
+            {
+                "count": 1,
+                "date": "2016-12-30T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsassberg"
+            },
+            {
+                "count": 1,
+                "date": "2016-12-30T00:00:00",
+                "district": "Innsbruck-Land",
                 "municipaly": "Neustift im Stubaital"
             },
             {
@@ -3113,6 +3137,12 @@
                 "date": "2017-01-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Axams"
+            },
+            {
+                "count": 1,
+                "date": "2017-01-04T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsassberg"
             },
             {
                 "count": 1,
@@ -5414,6 +5444,12 @@
             },
             {
                 "count": 1,
+                "date": "2017-05-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Wattens"
+            },
+            {
+                "count": 1,
                 "date": "2017-05-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Aldrans"
@@ -6112,6 +6148,12 @@
                 "count": 1,
                 "date": "2017-07-02T00:00:00",
                 "district": "Innsbruck-Land",
+                "municipaly": "Kolsass"
+            },
+            {
+                "count": 1,
+                "date": "2017-07-02T00:00:00",
+                "district": "Innsbruck-Land",
                 "municipaly": "Mils"
             },
             {
@@ -6163,7 +6205,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7130,6 +7172,12 @@
             },
             {
                 "count": 1,
+                "date": "2017-09-23T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Hall in Tirol"
+            },
+            {
+                "count": 1,
                 "date": "2017-09-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -7775,6 +7823,12 @@
                 "date": "2017-11-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Telfs"
+            },
+            {
+                "count": 1,
+                "date": "2017-11-07T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Hall in Tirol"
             },
             {
                 "count": 1,

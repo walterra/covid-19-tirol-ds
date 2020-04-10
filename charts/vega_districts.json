@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-4d280b78258063687e8fb2e9d6f52173"
+        "name": "data-4b4138b8db9dd5a8365b355ba2f68aa4"
     },
     "datasets": {
-        "data-4d280b78258063687e8fb2e9d6f52173": [
+        "data-4b4138b8db9dd5a8365b355ba2f68aa4": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -219,6 +219,11 @@
             },
             {
                 "count": 1,
+                "date": "2016-06-07T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2016-06-08T00:00:00",
                 "district": "Imst"
             },
@@ -303,7 +308,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2016-06-10T00:00:00",
                 "district": "Schwaz"
             },
@@ -333,7 +338,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-06-12T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -368,7 +373,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-06-12T00:00:00",
                 "district": "Schwaz"
             },
@@ -544,6 +549,11 @@
             },
             {
                 "count": 2,
+                "date": "2016-06-18T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 2,
                 "date": "2016-06-19T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -581,6 +591,11 @@
                 "count": 1,
                 "date": "2016-06-20T00:00:00",
                 "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2016-06-20T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -753,6 +768,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2016-06-25T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 4,
                 "date": "2016-06-26T00:00:00",
                 "district": "Innsbruck-Land"
@@ -848,7 +868,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-06-28T00:00:00",
                 "district": "Schwaz"
             },
@@ -918,7 +938,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-01T00:00:00",
                 "district": "Schwaz"
             },
@@ -941,6 +961,11 @@
                 "count": 1,
                 "date": "2016-07-02T00:00:00",
                 "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2016-07-02T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 3,
@@ -1043,7 +1068,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-06T00:00:00",
                 "district": "Schwaz"
             },
@@ -1074,6 +1099,11 @@
             },
             {
                 "count": 1,
+                "date": "2016-07-07T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2016-07-08T00:00:00",
                 "district": "Imst"
             },
@@ -1123,7 +1153,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-09T00:00:00",
                 "district": "Kufstein"
             },
@@ -1133,7 +1163,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-09T00:00:00",
                 "district": "Schwaz"
             },
@@ -1169,6 +1199,11 @@
             },
             {
                 "count": 1,
+                "date": "2016-07-10T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2016-07-11T00:00:00",
                 "district": "Imst"
             },
@@ -1191,6 +1226,11 @@
                 "count": 3,
                 "date": "2016-07-11T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2016-07-11T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 2,
@@ -1278,7 +1318,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2016-07-14T00:00:00",
                 "district": "Schwaz"
             },
@@ -1408,7 +1448,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-19T00:00:00",
                 "district": "Kufstein"
             },
@@ -1733,7 +1773,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-07-28T00:00:00",
                 "district": "Schwaz"
             },
@@ -1953,7 +1993,7 @@
                 "district": "Imst"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2016-08-05T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -1978,7 +2018,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2016-08-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -2003,7 +2043,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2016-08-06T00:00:00",
                 "district": "Kufstein"
             },
@@ -2138,7 +2178,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-08-10T00:00:00",
                 "district": "Schwaz"
             },
@@ -2161,6 +2201,11 @@
                 "count": 2,
                 "date": "2016-08-11T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2016-08-11T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -2191,6 +2236,11 @@
                 "count": 1,
                 "date": "2016-08-12T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2016-08-12T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 4,
@@ -2323,7 +2373,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2016-08-17T00:00:00",
                 "district": "Kufstein"
             },
@@ -2678,6 +2728,11 @@
                 "district": "Innsbruck-Land"
             },
             {
+                "count": 1,
+                "date": "2016-08-29T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
                 "count": 5,
                 "date": "2016-08-29T00:00:00",
                 "district": "Kufstein"
@@ -2693,7 +2748,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -2793,6 +2848,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2016-09-02T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2016-09-03T00:00:00",
                 "district": "Imst"
@@ -2863,6 +2923,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2016-09-04T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2016-09-05T00:00:00",
                 "district": "Imst"
@@ -2881,6 +2946,11 @@
                 "count": 1,
                 "date": "2016-09-05T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2016-09-05T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -3083,6 +3153,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2016-09-12T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 6,
                 "date": "2016-09-13T00:00:00",
                 "district": "Innsbruck-Land"
@@ -3223,7 +3298,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-17T00:00:00",
                 "district": "Schwaz"
             },
@@ -3368,7 +3443,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2016-09-21T00:00:00",
                 "district": "Schwaz"
             },
@@ -3788,6 +3863,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2016-10-04T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2016-10-05T00:00:00",
                 "district": "Innsbruck-Land"
@@ -3978,7 +4058,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-10-11T00:00:00",
                 "district": "Schwaz"
             },
@@ -4098,7 +4178,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -4318,7 +4398,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2016-10-22T00:00:00",
                 "district": "Schwaz"
             },
@@ -4510,10 +4590,15 @@
             {
                 "count": 1,
                 "date": "2016-10-29T00:00:00",
-                "district": "Landeck"
+                "district": "Kufstein"
             },
             {
                 "count": 1,
+                "date": "2016-10-29T00:00:00",
+                "district": "Landeck"
+            },
+            {
+                "count": 2,
                 "date": "2016-10-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -4533,6 +4618,11 @@
                 "district": "Landeck"
             },
             {
+                "count": 1,
+                "date": "2016-10-30T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2016-10-31T00:00:00",
                 "district": "Innsbruck-Land"
@@ -4673,7 +4763,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-03T00:00:00",
                 "district": "Schwaz"
             },
@@ -4761,6 +4851,11 @@
                 "count": 4,
                 "date": "2016-11-06T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2016-11-06T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -5008,6 +5103,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2016-11-14T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2016-11-15T00:00:00",
                 "district": "Innsbruck-Land"
@@ -5038,7 +5138,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2016-11-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -5053,7 +5153,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-11-16T00:00:00",
                 "district": "Kufstein"
             },
@@ -5068,7 +5168,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-16T00:00:00",
                 "district": "Schwaz"
             },
@@ -5123,7 +5223,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-18T00:00:00",
                 "district": "Kufstein"
             },
@@ -5443,7 +5543,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 5,
                 "date": "2016-11-28T00:00:00",
                 "district": "Schwaz"
             },
@@ -5513,6 +5613,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2016-11-30T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2016-12-01T00:00:00",
                 "district": "Imst"
@@ -5701,6 +5806,11 @@
                 "count": 1,
                 "date": "2016-12-06T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2016-12-06T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 2,
@@ -5929,6 +6039,11 @@
             },
             {
                 "count": 1,
+                "date": "2016-12-13T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2016-12-14T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -5953,7 +6068,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-14T00:00:00",
                 "district": "Schwaz"
             },
@@ -5983,7 +6098,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2016-12-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -6028,7 +6143,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 5,
+                "count": 6,
                 "date": "2016-12-17T00:00:00",
                 "district": "Kufstein"
             },
@@ -6058,7 +6173,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-18T00:00:00",
                 "district": "Schwaz"
             },
@@ -6088,7 +6203,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -6133,7 +6248,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-20T00:00:00",
                 "district": "Schwaz"
             },
@@ -6218,7 +6333,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-23T00:00:00",
                 "district": "Kufstein"
             },
@@ -6273,7 +6388,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-12-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -6348,7 +6463,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 5,
                 "date": "2016-12-26T00:00:00",
                 "district": "Schwaz"
             },
@@ -6468,7 +6583,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-12-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -6478,7 +6593,7 @@
                 "district": "Imst"
             },
             {
-                "count": 4,
+                "count": 6,
                 "date": "2016-12-30T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -6568,7 +6683,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-01T00:00:00",
                 "district": "Schwaz"
             },
@@ -6633,7 +6748,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-01-03T00:00:00",
                 "district": "Schwaz"
             },
@@ -6643,7 +6758,7 @@
                 "district": "Imst"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-01-04T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -6668,7 +6783,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-01-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -6708,7 +6823,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-01-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -6783,7 +6898,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -6893,7 +7008,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-01-10T00:00:00",
                 "district": "Schwaz"
             },
@@ -6908,7 +7023,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-11T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -6958,7 +7073,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-01-12T00:00:00",
                 "district": "Kufstein"
             },
@@ -7003,7 +7118,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-13T00:00:00",
                 "district": "Schwaz"
             },
@@ -7043,6 +7158,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-01-14T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-01-15T00:00:00",
                 "district": "Innsbruck-Land"
@@ -7128,6 +7248,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-01-17T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2017-01-18T00:00:00",
                 "district": "Imst"
@@ -7183,7 +7308,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-01-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -7298,7 +7423,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 6,
+                "count": 8,
                 "date": "2017-01-23T00:00:00",
                 "district": "Kufstein"
             },
@@ -7306,6 +7431,11 @@
                 "count": 1,
                 "date": "2017-01-23T00:00:00",
                 "district": "Landeck"
+            },
+            {
+                "count": 2,
+                "date": "2017-01-23T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 2,
@@ -7343,7 +7473,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -7398,7 +7528,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-01-26T00:00:00",
                 "district": "Kufstein"
             },
@@ -7558,7 +7688,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-30T00:00:00",
                 "district": "Schwaz"
             },
@@ -7598,7 +7728,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-01-31T00:00:00",
                 "district": "Schwaz"
             },
@@ -7618,7 +7748,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-02-01T00:00:00",
                 "district": "Kufstein"
             },
@@ -7773,7 +7903,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-02-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -7798,7 +7928,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-06T00:00:00",
                 "district": "Schwaz"
             },
@@ -7833,7 +7963,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -8003,6 +8133,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-02-12T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2017-02-13T00:00:00",
                 "district": "Imst"
@@ -8098,7 +8233,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-02-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -8138,7 +8273,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-02-16T00:00:00",
                 "district": "Schwaz"
             },
@@ -8173,6 +8308,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2017-02-17T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2017-02-18T00:00:00",
                 "district": "Innsbruck-Land"
@@ -8203,7 +8343,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-18T00:00:00",
                 "district": "Schwaz"
             },
@@ -8228,7 +8368,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -8289,6 +8429,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-02-21T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-02-22T00:00:00",
                 "district": "Imst"
             },
@@ -8343,7 +8488,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-23T00:00:00",
                 "district": "Schwaz"
             },
@@ -8378,7 +8523,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -8443,7 +8588,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-02-26T00:00:00",
                 "district": "Schwaz"
             },
@@ -8478,7 +8623,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-02-27T00:00:00",
                 "district": "Schwaz"
             },
@@ -8548,7 +8693,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-03-01T00:00:00",
                 "district": "Schwaz"
             },
@@ -8723,7 +8868,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-03-06T00:00:00",
                 "district": "Schwaz"
             },
@@ -8868,7 +9013,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-10T00:00:00",
                 "district": "Schwaz"
             },
@@ -9053,7 +9198,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-16T00:00:00",
                 "district": "Schwaz"
             },
@@ -9114,6 +9259,11 @@
             },
             {
                 "count": 2,
+                "date": "2017-03-18T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 2,
                 "date": "2017-03-19T00:00:00",
                 "district": "Imst"
             },
@@ -9308,7 +9458,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -9414,6 +9564,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-03-27T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-03-28T00:00:00",
                 "district": "Imst"
             },
@@ -9473,7 +9628,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -9538,7 +9693,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-03-31T00:00:00",
                 "district": "Schwaz"
             },
@@ -9683,7 +9838,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-04-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -9718,7 +9873,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -9793,7 +9948,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-04-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -9958,7 +10113,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-12T00:00:00",
                 "district": "Schwaz"
             },
@@ -10133,6 +10288,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-04-17T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-04-18T00:00:00",
                 "district": "Imst"
@@ -10163,7 +10323,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-18T00:00:00",
                 "district": "Schwaz"
             },
@@ -10313,7 +10473,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-23T00:00:00",
                 "district": "Schwaz"
             },
@@ -10328,7 +10488,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-04-24T00:00:00",
                 "district": "Kufstein"
             },
@@ -10348,7 +10508,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-04-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -10648,7 +10808,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-05-05T00:00:00",
                 "district": "Kufstein"
             },
@@ -10693,7 +10853,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-06T00:00:00",
                 "district": "Schwaz"
             },
@@ -10768,7 +10928,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-05-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -10843,7 +11003,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-05-11T00:00:00",
                 "district": "Schwaz"
             },
@@ -10993,7 +11153,7 @@
                 "district": "Imst"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-05-17T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -11023,7 +11183,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-05-17T00:00:00",
                 "district": "Schwaz"
             },
@@ -11063,7 +11223,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-05-18T00:00:00",
                 "district": "Schwaz"
             },
@@ -11123,7 +11283,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-05-20T00:00:00",
                 "district": "Schwaz"
             },
@@ -11258,6 +11418,11 @@
                 "district": "Landeck"
             },
             {
+                "count": 2,
+                "date": "2017-05-25T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 1,
                 "date": "2017-05-26T00:00:00",
                 "district": "Imst"
@@ -11333,7 +11498,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-05-28T00:00:00",
                 "district": "Kufstein"
             },
@@ -11378,7 +11543,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-05-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -11498,7 +11663,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-06-02T00:00:00",
                 "district": "Schwaz"
             },
@@ -11583,7 +11748,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-06-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -11608,7 +11773,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-06-06T00:00:00",
                 "district": "Schwaz"
             },
@@ -11628,7 +11793,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-06-07T00:00:00",
                 "district": "Kufstein"
             },
@@ -11653,7 +11818,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-06-08T00:00:00",
                 "district": "Kufstein"
             },
@@ -11673,7 +11838,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-06-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -11696,6 +11861,11 @@
                 "count": 4,
                 "date": "2017-06-09T00:00:00",
                 "district": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2017-06-09T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 6,
@@ -11733,7 +11903,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-11T00:00:00",
                 "district": "Schwaz"
             },
@@ -11783,7 +11953,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-13T00:00:00",
                 "district": "Schwaz"
             },
@@ -11858,7 +12028,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2017-06-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -11913,7 +12083,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-17T00:00:00",
                 "district": "Schwaz"
             },
@@ -11983,7 +12153,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-06-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -12114,6 +12284,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-06-23T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-06-24T00:00:00",
                 "district": "Imst"
             },
@@ -12128,7 +12303,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-06-24T00:00:00",
                 "district": "Kufstein"
             },
@@ -12136,6 +12311,11 @@
                 "count": 2,
                 "date": "2017-06-24T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2017-06-24T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 3,
@@ -12188,7 +12368,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-26T00:00:00",
                 "district": "Schwaz"
             },
@@ -12261,6 +12441,11 @@
                 "count": 1,
                 "date": "2017-06-28T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2017-06-28T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 4,
@@ -12348,7 +12533,7 @@
                 "district": "Imst"
             },
             {
-                "count": 5,
+                "count": 6,
                 "date": "2017-07-02T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -12393,7 +12578,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-07-03T00:00:00",
                 "district": "Schwaz"
             },
@@ -12418,7 +12603,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-04T00:00:00",
                 "district": "Kufstein"
             },
@@ -12433,12 +12618,17 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-07-04T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2017-07-05T00:00:00",
                 "district": "Imst"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-07-05T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -12473,7 +12663,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-06T00:00:00",
                 "district": "Kufstein"
             },
@@ -12518,7 +12708,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-07-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -12548,7 +12738,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -12623,6 +12813,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-07-11T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-07-12T00:00:00",
                 "district": "Imst"
@@ -12868,7 +13063,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -12923,6 +13118,11 @@
                 "district": "Landeck"
             },
             {
+                "count": 1,
+                "date": "2017-07-21T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 4,
                 "date": "2017-07-22T00:00:00",
                 "district": "Innsbruck-Land"
@@ -12954,6 +13154,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-07-22T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-07-23T00:00:00",
                 "district": "Imst"
             },
@@ -12978,7 +13183,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-07-23T00:00:00",
                 "district": "Schwaz"
             },
@@ -13013,7 +13218,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2017-07-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -13256,6 +13461,11 @@
                 "count": 2,
                 "date": "2017-08-01T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2017-08-01T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -13343,7 +13553,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-08-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -13378,7 +13588,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-08-05T00:00:00",
                 "district": "Schwaz"
             },
@@ -13433,7 +13643,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-08-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -13618,7 +13828,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-14T00:00:00",
                 "district": "Schwaz"
             },
@@ -13773,7 +13983,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-08-20T00:00:00",
                 "district": "Schwaz"
             },
@@ -13818,7 +14028,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-08-21T00:00:00",
                 "district": "Schwaz"
             },
@@ -13833,7 +14043,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-08-22T00:00:00",
                 "district": "Kufstein"
             },
@@ -13853,7 +14063,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-22T00:00:00",
                 "district": "Schwaz"
             },
@@ -13933,7 +14143,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -14013,7 +14223,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-08-27T00:00:00",
                 "district": "Schwaz"
             },
@@ -14068,7 +14278,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-29T00:00:00",
                 "district": "Kufstein"
             },
@@ -14143,7 +14353,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-31T00:00:00",
                 "district": "Schwaz"
             },
@@ -14194,6 +14404,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-09-02T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-09-03T00:00:00",
                 "district": "Imst"
             },
@@ -14256,6 +14471,11 @@
                 "count": 1,
                 "date": "2017-09-04T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2017-09-04T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -14343,7 +14563,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 6,
                 "date": "2017-09-07T00:00:00",
                 "district": "Kufstein"
             },
@@ -14478,7 +14698,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-09-11T00:00:00",
                 "district": "Kufstein"
             },
@@ -14563,7 +14783,7 @@
                 "district": "Imst"
             },
             {
-                "count": 4,
+                "count": 6,
                 "date": "2017-09-14T00:00:00",
                 "district": "Kufstein"
             },
@@ -14654,6 +14874,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-09-17T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-09-18T00:00:00",
                 "district": "Imst"
             },
@@ -14758,7 +14983,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-21T00:00:00",
                 "district": "Kufstein"
             },
@@ -14773,7 +14998,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-21T00:00:00",
                 "district": "Schwaz"
             },
@@ -14801,6 +15026,11 @@
                 "count": 1,
                 "date": "2017-09-23T00:00:00",
                 "district": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2017-09-23T00:00:00",
+                "district": "Innsbruck-Land"
             },
             {
                 "count": 1,
@@ -14899,6 +15129,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-09-25T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-09-26T00:00:00",
                 "district": "Imst"
             },
@@ -14923,7 +15158,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-09-26T00:00:00",
                 "district": "Schwaz"
             },
@@ -14951,6 +15186,11 @@
                 "count": 2,
                 "date": "2017-09-27T00:00:00",
                 "district": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2017-09-27T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 3,
@@ -15018,6 +15258,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-09-29T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-09-30T00:00:00",
                 "district": "Imst"
@@ -15033,7 +15278,7 @@
                 "district": "Innsbruck-Stadt"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-09-30T00:00:00",
                 "district": "Kufstein"
             },
@@ -15108,6 +15353,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2017-10-02T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-10-03T00:00:00",
                 "district": "Imst"
@@ -15131,6 +15381,11 @@
                 "count": 1,
                 "date": "2017-10-03T00:00:00",
                 "district": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2017-10-03T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -15283,7 +15538,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -15398,7 +15653,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-13T00:00:00",
                 "district": "Schwaz"
             },
@@ -15408,7 +15663,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-10-14T00:00:00",
                 "district": "Kufstein"
             },
@@ -15503,6 +15758,11 @@
                 "district": "Kufstein"
             },
             {
+                "count": 1,
+                "date": "2017-10-18T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-10-19T00:00:00",
                 "district": "Innsbruck-Land"
@@ -15653,7 +15913,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-23T00:00:00",
                 "district": "Schwaz"
             },
@@ -15693,7 +15953,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2017-10-24T00:00:00",
                 "district": "Schwaz"
             },
@@ -15748,7 +16008,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-26T00:00:00",
                 "district": "Schwaz"
             },
@@ -15808,6 +16068,11 @@
                 "district": "Landeck"
             },
             {
+                "count": 1,
+                "date": "2017-10-28T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 4,
                 "date": "2017-10-29T00:00:00",
                 "district": "Innsbruck-Land"
@@ -15948,6 +16213,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 2,
+                "date": "2017-11-02T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 1,
                 "date": "2017-11-03T00:00:00",
                 "district": "Imst"
@@ -15958,7 +16228,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-11-03T00:00:00",
                 "district": "Kufstein"
             },
@@ -15968,7 +16238,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-11-03T00:00:00",
                 "district": "Schwaz"
             },
@@ -16053,7 +16323,7 @@
                 "district": "Imst"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-11-07T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -16108,7 +16378,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -16118,7 +16388,7 @@
                 "district": "Imst"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-09T00:00:00",
                 "district": "Kufstein"
             },
@@ -16128,7 +16398,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-09T00:00:00",
                 "district": "Schwaz"
             },
@@ -16163,7 +16433,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-10T00:00:00",
                 "district": "Schwaz"
             },
@@ -16213,6 +16483,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 2,
+                "date": "2017-11-12T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 1,
                 "date": "2017-11-13T00:00:00",
                 "district": "Imst"
@@ -16248,7 +16523,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-13T00:00:00",
                 "district": "Schwaz"
             },
@@ -16283,6 +16558,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 4,
+                "date": "2017-11-14T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2017-11-15T00:00:00",
                 "district": "Imst"
@@ -16366,6 +16646,11 @@
                 "count": 1,
                 "date": "2017-11-17T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 2,
+                "date": "2017-11-17T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -16459,6 +16744,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-11-20T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-11-21T00:00:00",
                 "district": "Imst"
             },
@@ -16478,7 +16768,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-11-21T00:00:00",
                 "district": "Kufstein"
             },
@@ -16674,6 +16964,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-11-27T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-11-28T00:00:00",
                 "district": "Imst"
             },
@@ -16788,7 +17083,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-12-01T00:00:00",
                 "district": "Kufstein"
             },
@@ -16868,6 +17163,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2017-12-03T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 4,
                 "date": "2017-12-04T00:00:00",
                 "district": "Innsbruck-Land"
@@ -16888,7 +17188,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-12-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -16931,6 +17231,11 @@
                 "count": 1,
                 "date": "2017-12-05T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2017-12-05T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -16993,7 +17298,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-07T00:00:00",
                 "district": "Schwaz"
             },
@@ -17038,7 +17343,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-12-09T00:00:00",
                 "district": "Kufstein"
             },
@@ -17108,7 +17413,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-12-11T00:00:00",
                 "district": "Schwaz"
             },
@@ -17153,7 +17458,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-12-12T00:00:00",
                 "district": "Schwaz"
             },
@@ -17173,7 +17478,7 @@
                 "district": "Innsbruck-Stadt"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-12-13T00:00:00",
                 "district": "Kufstein"
             },
@@ -17253,7 +17558,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2017-12-16T00:00:00",
                 "district": "Schwaz"
             },
@@ -17283,7 +17588,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2017-12-17T00:00:00",
                 "district": "Schwaz"
             },
@@ -17583,6 +17888,11 @@
                 "district": "Lienz"
             },
             {
+                "count": 1,
+                "date": "2017-12-26T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2017-12-27T00:00:00",
                 "district": "Innsbruck-Land"
@@ -17598,7 +17908,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-12-27T00:00:00",
                 "district": "Kufstein"
             },
@@ -17664,6 +17974,11 @@
             },
             {
                 "count": 1,
+                "date": "2017-12-29T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2017-12-30T00:00:00",
                 "district": "Imst"
             },
@@ -17698,7 +18013,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-12-30T00:00:00",
                 "district": "Schwaz"
             },
@@ -17728,7 +18043,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-31T00:00:00",
                 "district": "Schwaz"
             },
@@ -17763,7 +18078,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-01T00:00:00",
                 "district": "Schwaz"
             },
@@ -17858,7 +18173,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-04T00:00:00",
                 "district": "Kufstein"
             },
@@ -17878,7 +18193,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -17923,6 +18238,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2018-01-05T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2018-01-06T00:00:00",
                 "district": "Imst"
@@ -17981,6 +18301,11 @@
                 "count": 2,
                 "date": "2018-01-07T00:00:00",
                 "district": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2018-01-07T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 3,
@@ -18018,7 +18343,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-01-08T00:00:00",
                 "district": "Schwaz"
             },
@@ -18223,6 +18548,11 @@
                 "district": "Landeck"
             },
             {
+                "count": 1,
+                "date": "2018-01-14T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2018-01-15T00:00:00",
                 "district": "Innsbruck-Land"
@@ -18253,7 +18583,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-01-15T00:00:00",
                 "district": "Schwaz"
             },
@@ -18323,7 +18653,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-01-17T00:00:00",
                 "district": "Schwaz"
             },
@@ -18363,6 +18693,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 1,
+                "date": "2018-01-18T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 2,
                 "date": "2018-01-19T00:00:00",
                 "district": "Imst"
@@ -18398,7 +18733,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-19T00:00:00",
                 "district": "Schwaz"
             },
@@ -18468,7 +18803,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2018-01-21T00:00:00",
                 "district": "Schwaz"
             },
@@ -18534,6 +18869,11 @@
             },
             {
                 "count": 1,
+                "date": "2018-01-23T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2018-01-24T00:00:00",
                 "district": "Imst"
             },
@@ -18658,7 +18998,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2018-01-27T00:00:00",
                 "district": "Kufstein"
             },
@@ -18718,7 +19058,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-28T00:00:00",
                 "district": "Schwaz"
             },
@@ -18740,6 +19080,11 @@
             {
                 "count": 1,
                 "date": "2018-01-29T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2018-01-29T00:00:00",
                 "district": "Landeck"
             },
             {
@@ -18753,7 +19098,7 @@
                 "district": "Reutte"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2018-01-29T00:00:00",
                 "district": "Schwaz"
             },
@@ -18813,7 +19158,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-01-31T00:00:00",
                 "district": "Schwaz"
             },
@@ -18838,7 +19183,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 5,
                 "date": "2018-02-01T00:00:00",
                 "district": "Kufstein"
             },
@@ -18893,7 +19238,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-02-03T00:00:00",
                 "district": "Kufstein"
             },
@@ -19043,7 +19388,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2018-02-07T00:00:00",
                 "district": "Kufstein"
             },
@@ -19056,6 +19401,11 @@
                 "count": 1,
                 "date": "2018-02-07T00:00:00",
                 "district": "Reutte"
+            },
+            {
+                "count": 2,
+                "date": "2018-02-07T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 1,
@@ -19078,7 +19428,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 5,
+                "count": 7,
                 "date": "2018-02-08T00:00:00",
                 "district": "Kufstein"
             },
@@ -19178,7 +19528,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-11T00:00:00",
                 "district": "Kufstein"
             },
@@ -19334,6 +19684,11 @@
             },
             {
                 "count": 1,
+                "date": "2018-02-15T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
                 "date": "2018-02-16T00:00:00",
                 "district": "Imst"
             },
@@ -19493,6 +19848,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 2,
+                "date": "2018-02-19T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2018-02-20T00:00:00",
                 "district": "Imst"
@@ -19528,6 +19888,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 2,
+                "date": "2018-02-20T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 1,
                 "date": "2018-02-21T00:00:00",
                 "district": "Imst"
@@ -19556,6 +19921,11 @@
                 "count": 1,
                 "date": "2018-02-21T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2018-02-21T00:00:00",
+                "district": "Schwaz"
             },
             {
                 "count": 2,
@@ -19658,6 +20028,11 @@
                 "district": "Reutte"
             },
             {
+                "count": 2,
+                "date": "2018-02-24T00:00:00",
+                "district": "Schwaz"
+            },
+            {
                 "count": 3,
                 "date": "2018-02-25T00:00:00",
                 "district": "Imst"
@@ -19713,7 +20088,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2018-02-26T00:00:00",
                 "district": "Kufstein"
             },
@@ -19773,7 +20148,7 @@
                 "district": "Lienz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2018-02-27T00:00:00",
                 "district": "Schwaz"
             },
@@ -37838,7 +38213,7 @@
                 "district": "Schwaz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-06T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -38976,6 +39351,11 @@
                 "count": 4,
                 "date": "2019-10-11T00:00:00",
                 "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2019-10-11T00:00:00",
+                "district": "Innsbruck-Stadt"
             },
             {
                 "count": 1,
@@ -39993,7 +40373,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2019-11-12T00:00:00",
                 "district": "Innsbruck-Stadt"
             },

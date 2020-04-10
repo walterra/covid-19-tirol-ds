@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-cab45c8047d8905f49047961dbea48d7"
+        "name": "data-2402adc468828841fb9e776584bbcfc5"
     },
     "datasets": {
-        "data-cab45c8047d8905f49047961dbea48d7": [
+        "data-2402adc468828841fb9e776584bbcfc5": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -11326,6 +11326,12 @@
                 "count": 1,
                 "date": "2020-04-04T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "Eben am Achensee"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-04T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Jenbach"
             },
             {
@@ -11337,6 +11343,42 @@
             {
                 "count": 1,
                 "date": "2020-04-05T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Tux"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Finkenberg"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-08T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Jenbach"
             }

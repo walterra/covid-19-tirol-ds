@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-673025034f7d022d2096c0107542a7e2"
+        "name": "data-8fab2493c82d40be027e5a964a25a2ae"
     },
     "datasets": {
-        "data-673025034f7d022d2096c0107542a7e2": [
+        "data-8fab2493c82d40be027e5a964a25a2ae": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7588,7 +7588,19 @@
                 "count": 1,
                 "date": "2020-04-06T00:00:00",
                 "district": "Imst",
+                "municipaly": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Imst",
                 "municipaly": "Oetz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Imst",
+                "municipaly": "S\u00f6lden"
             }
         ]
     },

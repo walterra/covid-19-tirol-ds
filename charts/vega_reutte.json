@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-ee081378967fdc73c945bb5a8685cf7a"
+        "name": "data-a84d6afc164aae33a256c3f413c40979"
     },
     "datasets": {
-        "data-ee081378967fdc73c945bb5a8685cf7a": [
+        "data-a84d6afc164aae33a256c3f413c40979": [
             {
                 "count": 1,
                 "date": "2016-06-06T00:00:00",
@@ -4919,6 +4919,24 @@
                 "date": "2020-04-03T00:00:00",
                 "district": "Reutte",
                 "municipaly": "Lechaschau"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-05T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Ehrwald"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Ehrwald"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Vils"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-90d4fee1cde42e2289de819ab5a04e1f"
+        "name": "data-cb3869fd1207f753c2472fa5127a8f80"
     },
     "datasets": {
-        "data-90d4fee1cde42e2289de819ab5a04e1f": [
+        "data-cb3869fd1207f753c2472fa5127a8f80": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7865,6 +7865,42 @@
                 "date": "2020-04-05T00:00:00",
                 "district": "Landeck",
                 "municipaly": "See"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-06T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Landeck"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-07T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Zams"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Grins"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Zams"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Ischgl"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-e6b806fa32a20b3e7de4383ade78a66a"
+        "name": "data-a729ef765d1850595d946ef2d51601b4"
     },
     "datasets": {
-        "data-e6b806fa32a20b3e7de4383ade78a66a": [
+        "data-a729ef765d1850595d946ef2d51601b4": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -19297,7 +19297,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Inzing"
@@ -19412,9 +19412,87 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-05T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Volders"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Rinn"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Seefeld in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Sellrain"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Volders"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Hall in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Wattens"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Zirl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Axams"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Flaurling"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Seefeld in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Zirl"
             }
         ]
     },

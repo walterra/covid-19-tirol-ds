@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-35219812e2ed8b63f1aa8d6f9d59aa08"
+        "name": "data-36bf7fc01f9b995713b22dd651487810"
     },
     "datasets": {
-        "data-35219812e2ed8b63f1aa8d6f9d59aa08": [
+        "data-36bf7fc01f9b995713b22dd651487810": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -11143,7 +11143,7 @@
                 "municipaly": "St. Johann in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-25T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "St. Johann in Tirol"
@@ -11231,6 +11231,54 @@
                 "date": "2020-04-05T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Westendorf"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "K\u00f6ssen"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Kirchdorf in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Waidring"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Kitzb\u00fchel"
             }
         ]
     },

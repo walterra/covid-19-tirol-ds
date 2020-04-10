@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-939902e0e60d6cb3d1e64fa7706834e0"
+        "name": "data-8c5c14451258c369e068b44187d84340"
     },
     "datasets": {
-        "data-939902e0e60d6cb3d1e64fa7706834e0": [
+        "data-8c5c14451258c369e068b44187d84340": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -44288,7 +44288,7 @@
                 "district": "Imst"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-25T00:00:00",
                 "district": "Kitzb\u00fchel"
             },
@@ -44368,6 +44368,11 @@
                 "district": "Innsbruck-Land"
             },
             {
+                "count": 1,
+                "date": "2020-03-27T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
                 "count": 4,
                 "date": "2020-03-27T00:00:00",
                 "district": "Kufstein"
@@ -44393,7 +44398,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-28T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -44473,7 +44478,7 @@
                 "district": "Imst"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-03-30T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -44615,6 +44620,11 @@
             {
                 "count": 1,
                 "date": "2020-04-03T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-03T00:00:00",
                 "district": "Kufstein"
             },
             {
@@ -44658,7 +44668,7 @@
                 "district": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-04-04T00:00:00",
                 "district": "Schwaz"
             },
@@ -44668,9 +44678,14 @@
                 "district": "Imst"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-05T00:00:00",
                 "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-05T00:00:00",
+                "district": "Innsbruck-Stadt"
             },
             {
                 "count": 2,
@@ -44678,7 +44693,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 6,
                 "date": "2020-04-05T00:00:00",
                 "district": "Kufstein"
             },
@@ -44695,17 +44710,162 @@
             {
                 "count": 1,
                 "date": "2020-04-05T00:00:00",
-                "district": "Schwaz"
+                "district": "Reutte"
             },
             {
                 "count": 1,
+                "date": "2020-04-05T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 2,
                 "date": "2020-04-06T00:00:00",
                 "district": "Imst"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2020-04-06T00:00:00",
                 "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-06T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-06T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-06T00:00:00",
+                "district": "Landeck"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-06T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 4,
+                "date": "2020-04-07T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-07T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-07T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-07T00:00:00",
+                "district": "Landeck"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-07T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Reutte"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-07T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-08T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
+                "count": 5,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-08T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-08T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 4,
+                "date": "2020-04-09T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-09T00:00:00",
+                "district": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Reutte"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Imst"
+            },
+            {
+                "count": 3,
+                "date": "2020-04-10T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-10T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Landeck"
             }
         ]
     },

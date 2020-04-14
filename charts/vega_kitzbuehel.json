@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-3908cdeb58f3c1ed7c4a6df24dfd56d3"
+        "name": "data-2303fb66bd53fbab8c47ad32d16fb4b4"
     },
     "datasets": {
-        "data-3908cdeb58f3c1ed7c4a6df24dfd56d3": [
+        "data-2303fb66bd53fbab8c47ad32d16fb4b4": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -9739,7 +9739,7 @@
                 "municipaly": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2019-10-06T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Kitzb\u00fchel"
@@ -11284,7 +11284,37 @@
                 "count": 1,
                 "date": "2020-04-10T00:00:00",
                 "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Kitzb\u00fchel",
                 "municipaly": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Westendorf"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "St. Johann in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Westendorf"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7e5e4c463d25df322eeed56acf455ad0"
+        "name": "data-ab3d001138744a57c2dfd7155d4f0048"
     },
     "datasets": {
-        "data-7e5e4c463d25df322eeed56acf455ad0": [
+        "data-ab3d001138744a57c2dfd7155d4f0048": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7793,6 +7793,30 @@
                 "date": "2020-04-10T00:00:00",
                 "district": "Imst",
                 "municipaly": "S\u00f6lden"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Imst",
+                "municipaly": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Imst",
+                "municipaly": "Imsterberg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Imst",
+                "municipaly": "Wenns"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Imst",
+                "municipaly": "Tarrenz"
             }
         ]
     },

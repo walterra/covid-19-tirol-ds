@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-0c4b948e10e3227c23041a7da51a7e8c"
+        "name": "data-b154d97920bdab8396a7347a7b1c47c8"
     },
     "datasets": {
-        "data-0c4b948e10e3227c23041a7da51a7e8c": [
+        "data-b154d97920bdab8396a7347a7b1c47c8": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16186,6 +16186,12 @@
                 "count": 1,
                 "date": "2020-04-07T00:00:00",
                 "district": "Kufstein",
+                "municipaly": "Ebbs"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-07T00:00:00",
+                "district": "Kufstein",
                 "municipaly": "Kundl"
             },
             {
@@ -16205,6 +16211,12 @@
                 "date": "2020-04-08T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Kirchbichl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Brixlegg"
             },
             {
                 "count": 1,
@@ -16235,6 +16247,72 @@
                 "date": "2020-04-10T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "W\u00f6rgl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Alpbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Angath"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Ebbs"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-12T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kirchbichl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kundl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Brixlegg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kirchbichl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Radfeld"
             }
         ]
     },

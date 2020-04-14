@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-849311db820393af20d7fd6d372d24be"
+        "name": "data-62d9b36b13c0f57f00f6afd385b9ae53"
     },
     "datasets": {
-        "data-849311db820393af20d7fd6d372d24be": [
+        "data-62d9b36b13c0f57f00f6afd385b9ae53": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12791,6 +12791,30 @@
                 "date": "2020-04-09T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Weer"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Weer"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Achenkirch"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Vomp"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
             }
         ]
     },

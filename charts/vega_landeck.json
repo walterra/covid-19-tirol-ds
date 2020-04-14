@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-4d9317fa41d535befda588ed4b39d219"
+        "name": "data-f4cc353e51a3b773ffce4b4a40fd1c09"
     },
     "datasets": {
-        "data-4d9317fa41d535befda588ed4b39d219": [
+        "data-f4cc353e51a3b773ffce4b4a40fd1c09": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7909,10 +7909,16 @@
                 "municipaly": "Zams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-10T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Ischgl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Sch\u00f6nwies"
             }
         ]
     },

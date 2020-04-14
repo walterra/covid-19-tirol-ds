@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-b53b8cd7ae63250fb4c5d5e6d31b56cb"
+        "name": "data-fc59644e5093aed9edd0ff1ce4d282b8"
     },
     "datasets": {
-        "data-b53b8cd7ae63250fb4c5d5e6d31b56cb": [
+        "data-fc59644e5093aed9edd0ff1ce4d282b8": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -10313,6 +10313,36 @@
                 "date": "2020-04-08T00:00:00",
                 "district": "Lienz",
                 "municipaly": "Matrei in Osttirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-09T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Nu\u00dfdorf-Debant"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Sillian"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-12T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Lienz"
             }
         ]
     },

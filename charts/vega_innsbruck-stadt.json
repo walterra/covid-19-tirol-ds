@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-0007bdb2ba6125a56ff274032984e4d6"
+        "name": "data-2bd26621b1e58dcefd6d57e63d5b3e57"
     },
     "datasets": {
-        "data-0007bdb2ba6125a56ff274032984e4d6": [
+        "data-2bd26621b1e58dcefd6d57e63d5b3e57": [
             {
                 "count": 2,
                 "date": "2016-06-03T00:00:00",
@@ -6159,6 +6159,12 @@
             {
                 "count": 2,
                 "date": "2020-04-08T00:00:00",
+                "district": "Innsbruck-Stadt",
+                "municipaly": "Innsbruck"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
             }

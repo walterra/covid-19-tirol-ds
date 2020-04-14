@@ -1,4 +1,9 @@
 #!/bin/bash
+
+echo ""
+echo "trauerhilfe"
+echo "-----------"
+
 echo ${pwd}
 p=${1:-10}
 d=`dirname $0`/../scrape/scrape_trauerhilfe_$(date +%Y%m%d_%H%M%S)

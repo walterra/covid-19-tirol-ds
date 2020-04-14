@@ -1,4 +1,9 @@
 #!/bin/bash
+
+echo ""
+echo "kuratorium_bestattung"
+echo "---------------------"
+
 p=${1:-10}
 d=`dirname $0`/../scrape/scrape_kuratorium_bestattung_$(date +%Y%m%d_%H%M%S)
 mkdir $d

@@ -1,4 +1,9 @@
 #!/bin/bash
+
+echo ""
+echo "derbestatter"
+echo "------------"
+
 p=${1:-10}
 # https://www.derbestatter.at/sterbefaelle/page/1
 d=`dirname $0`/../scrape/scrape_derbestatter_$(date +%Y%m%d_%H%M%S)

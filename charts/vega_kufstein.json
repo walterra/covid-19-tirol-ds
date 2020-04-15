@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-b154d97920bdab8396a7347a7b1c47c8"
+        "name": "data-1d209ffca25f467644aa975aaeb4d88b"
     },
     "datasets": {
-        "data-b154d97920bdab8396a7347a7b1c47c8": [
+        "data-1d209ffca25f467644aa975aaeb4d88b": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16276,10 +16276,16 @@
                 "count": 1,
                 "date": "2020-04-11T00:00:00",
                 "district": "Kufstein",
+                "municipaly": "Reith im Alpbachtal"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-11T00:00:00",
+                "district": "Kufstein",
                 "municipaly": "W\u00f6rgl"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-04-12T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Kirchbichl"
@@ -16313,6 +16319,12 @@
                 "date": "2020-04-13T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Radfeld"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "S\u00f6ll"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-62d9b36b13c0f57f00f6afd385b9ae53"
+        "name": "data-adf17cdcbb54e0d6d2a8cc5f87bfeb38"
     },
     "datasets": {
-        "data-62d9b36b13c0f57f00f6afd385b9ae53": [
+        "data-adf17cdcbb54e0d6d2a8cc5f87bfeb38": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12815,6 +12815,12 @@
                 "date": "2020-04-14T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Zell am Ziller"
             }
         ]
     },

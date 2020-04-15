@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-fc59644e5093aed9edd0ff1ce4d282b8"
+        "name": "data-3bcf7f0e3f286e527027edc14db64d93"
     },
     "datasets": {
-        "data-fc59644e5093aed9edd0ff1ce4d282b8": [
+        "data-3bcf7f0e3f286e527027edc14db64d93": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -10343,6 +10343,12 @@
                 "date": "2020-04-13T00:00:00",
                 "district": "Lienz",
                 "municipaly": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Kals am Gro\u00dfglockner"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-ab3d001138744a57c2dfd7155d4f0048"
+        "name": "data-87dfe89f208256ca56150d8277a4f4bb"
     },
     "datasets": {
-        "data-ab3d001138744a57c2dfd7155d4f0048": [
+        "data-87dfe89f208256ca56150d8277a4f4bb": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7816,7 +7816,25 @@
                 "count": 1,
                 "date": "2020-04-14T00:00:00",
                 "district": "Imst",
+                "municipaly": "Haiming"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Imst",
+                "municipaly": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Imst",
                 "municipaly": "Tarrenz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Imst",
+                "municipaly": "Wenns"
             }
         ]
     },

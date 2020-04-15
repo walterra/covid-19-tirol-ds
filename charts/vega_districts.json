@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-c320ffe546cf51c2f7164671b33f6aec"
+        "name": "data-cb005741ab3c64fd0d3033b33ad67719"
     },
     "datasets": {
-        "data-c320ffe546cf51c2f7164671b33f6aec": [
+        "data-cb005741ab3c64fd0d3033b33ad67719": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -45598,7 +45598,7 @@
                 "district": "Imst"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2020-04-10T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -45618,7 +45618,7 @@
                 "district": "Kufstein"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-04-10T00:00:00",
                 "district": "Landeck"
             },
@@ -45638,7 +45638,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 5,
+                "count": 6,
                 "date": "2020-04-11T00:00:00",
                 "district": "Kufstein"
             },
@@ -45668,7 +45668,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2020-04-12T00:00:00",
                 "district": "Kufstein"
             },
@@ -45678,7 +45678,12 @@
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 2,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 4,
                 "date": "2020-04-13T00:00:00",
                 "district": "Kufstein"
             },
@@ -45698,9 +45703,14 @@
                 "district": "Schwaz"
             },
             {
-                "count": 1,
+                "count": 4,
                 "date": "2020-04-14T00:00:00",
                 "district": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Innsbruck-Land"
             },
             {
                 "count": 1,
@@ -45709,6 +45719,11 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 2,
                 "date": "2020-04-14T00:00:00",
                 "district": "Schwaz"
             }

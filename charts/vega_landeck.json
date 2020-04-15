@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-f4cc353e51a3b773ffce4b4a40fd1c09"
+        "name": "data-7045e1dc4e6cbf4df049f6558a33d59f"
     },
     "datasets": {
-        "data-f4cc353e51a3b773ffce4b4a40fd1c09": [
+        "data-7045e1dc4e6cbf4df049f6558a33d59f": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7913,6 +7913,12 @@
                 "date": "2020-04-10T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Ischgl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Landeck"
             },
             {
                 "count": 1,

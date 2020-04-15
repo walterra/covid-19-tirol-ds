@@ -1,7 +1,13 @@
 date,municipaly,district,hash
+14.04.2020,Völs,Innsbruck-Land,331123690
+14.04.2020,Zell am Ziller,Schwaz,-863118320
 14.04.2020,Hopfgarten im Brixental,Kitzbühel,78760784
 14.04.2020,Tarrenz,Imst,805015716
 14.04.2020,Schwaz,Schwaz,568354632
+14.04.2020,Kals am Großglockner,Lienz,-1747138677
+14.04.2020,Wenns,Imst,162612068
+14.04.2020,Imst,Imst,-931268882
+14.04.2020,Haiming,Imst,137565974
 13.04.2020,Schönwies,Landeck,-1156183764
 13.04.2020,Achenkirch,Schwaz,355946869
 13.04.2020,Vomp,Schwaz,1455533735
@@ -9,6 +15,9 @@ date,municipaly,district,hash
 13.04.2020,Radfeld,Kufstein,139582758
 13.04.2020,Lienz,Lienz,1339598602
 13.04.2020,Brixlegg,Kufstein,-126557296
+13.04.2020,St. Johann in Tirol,Kitzbühel,1524652867
+13.04.2020,Kirchdorf in Tirol,Kitzbühel,311323699
+13.04.2020,Söll,Kufstein,-1416114493
 12.04.2020,Inzing,Innsbruck-Land,-469230185
 12.04.2020,Kundl,Kufstein,337613476
 12.04.2020,Imst,Imst,1696124488
@@ -20,6 +29,7 @@ date,municipaly,district,hash
 12.04.2020,Kirchbichl,Kufstein,1487751110
 12.04.2020,Westendorf,Kitzbühel,-1170980052
 12.04.2020,St. Johann in Tirol,Kitzbühel,-1050503591
+12.04.2020,Kirchbichl,Kufstein,-2066832373
 11.04.2020,Götzens,Innsbruck-Land,1593025118
 11.04.2020,Wattens,Innsbruck-Land,-1290294610
 11.04.2020,Ebbs,Kufstein,1805913584
@@ -32,9 +42,11 @@ date,municipaly,district,hash
 11.04.2020,Wörgl,Kufstein,-601923512
 11.04.2020,Vils,Reutte,-1034638729
 11.04.2020,Angath,Kufstein,1395827592
+11.04.2020,Reith im Alpbachtal,Kufstein,-776329372
 10.04.2020,Zirl,Innsbruck-Land,-824874901
 10.04.2020,Seefeld in Tirol,Innsbruck-Land,688492687
 10.04.2020,Flaurling,Innsbruck-Land,-1591625694
+10.04.2020,Landeck,Landeck,1487066716
 10.04.2020,Wattens,Innsbruck-Land,-1358437736
 10.04.2020,Kitzbühel,Kitzbühel,-676112108
 10.04.2020,Sölden,Imst,69695625
@@ -45,6 +57,7 @@ date,municipaly,district,hash
 10.04.2020,Ischgl,Landeck,-1008266321
 10.04.2020,Hopfgarten im Brixental,Kitzbühel,1443554579
 10.04.2020,Innsbruck,Innsbruck-Stadt,1425239199
+10.04.2020,Fulpmes,Innsbruck-Land,1699910550
 09.04.2020,Reith bei Seefeld,Innsbruck-Land,901287978
 09.04.2020,Zams,Landeck,245035261
 09.04.2020,Grins,Landeck,-179746688

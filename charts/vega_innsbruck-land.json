@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-d871333e7509ab238655b6c2e72594f9"
+        "name": "data-75a2f2ac2c2bcbe777fc9801d45dcf21"
     },
     "datasets": {
-        "data-d871333e7509ab238655b6c2e72594f9": [
+        "data-75a2f2ac2c2bcbe777fc9801d45dcf21": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22036,6 +22036,12 @@
                 "count": 1,
                 "date": "2020-04-10T00:00:00",
                 "district": "Innsbruck-Land",
+                "municipaly": "Fulpmes"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-10T00:00:00",
+                "district": "Innsbruck-Land",
                 "municipaly": "Seefeld in Tirol"
             },
             {
@@ -22067,6 +22073,12 @@
                 "date": "2020-04-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Inzing"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "V\u00f6ls"
             }
         ]
     },

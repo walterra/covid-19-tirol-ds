@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-212c28f8caba73f4b03225d1f40acd7a"
+        "name": "data-8b5f75af469b703b7f20eae3b08c750f"
     },
     "datasets": {
-        "data-212c28f8caba73f4b03225d1f40acd7a": [
+        "data-8b5f75af469b703b7f20eae3b08c750f": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -79,13 +79,13 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-06-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-06-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -193,7 +193,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-06-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -241,7 +241,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2016-06-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -295,7 +295,7 @@
                 "municipaly": "Hatting"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-06-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -355,7 +355,7 @@
                 "municipaly": "G\u00f6tzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-07-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -385,7 +385,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-07-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -655,7 +655,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-07-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -709,7 +709,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -817,7 +817,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -883,7 +883,7 @@
                 "municipaly": "G\u00f6tzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -913,7 +913,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -925,7 +925,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -937,7 +937,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2016-08-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -979,7 +979,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1009,7 +1009,7 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -1081,7 +1081,7 @@
                 "municipaly": "Hatting"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-08-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1273,7 +1273,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1303,13 +1303,13 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2016-09-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -1321,7 +1321,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1363,13 +1363,13 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1441,7 +1441,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1519,7 +1519,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-09-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -1579,7 +1579,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1675,7 +1675,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -1729,7 +1729,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -1759,7 +1759,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -1801,7 +1801,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2016-10-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1831,7 +1831,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1891,7 +1891,7 @@
                 "municipaly": "Hatting"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1927,13 +1927,13 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -1993,7 +1993,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-10-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -2113,7 +2113,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -2143,7 +2143,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -2167,7 +2167,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2227,7 +2227,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -2263,7 +2263,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2353,7 +2353,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -2401,13 +2401,13 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2437,7 +2437,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -2449,13 +2449,13 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Gnadenwald"
@@ -2491,7 +2491,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-11-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -2533,7 +2533,7 @@
                 "municipaly": "Trins"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2551,7 +2551,7 @@
                 "municipaly": "Baumkirchen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -2761,7 +2761,7 @@
                 "municipaly": "Mutters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2791,7 +2791,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2845,7 +2845,7 @@
                 "municipaly": "Baumkirchen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -2875,7 +2875,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -2947,7 +2947,7 @@
                 "municipaly": "Reith bei Seefeld"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3025,7 +3025,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3049,7 +3049,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-12-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3079,13 +3079,13 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3181,7 +3181,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -3199,7 +3199,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-01-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3217,7 +3217,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3271,7 +3271,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3385,7 +3385,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3475,7 +3475,7 @@
                 "municipaly": "Birgitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3517,7 +3517,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -3637,7 +3637,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-01-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3691,7 +3691,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-01-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -3997,7 +3997,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4087,7 +4087,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -4105,7 +4105,7 @@
                 "municipaly": "Polling in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4123,7 +4123,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -4153,7 +4153,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -4195,7 +4195,7 @@
                 "municipaly": "M\u00fchlbachl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-02-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -4231,7 +4231,7 @@
                 "municipaly": "Flaurling"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -4267,7 +4267,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-03-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4291,7 +4291,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -4375,7 +4375,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-03-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4621,7 +4621,7 @@
                 "municipaly": "Birgitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4717,7 +4717,7 @@
                 "municipaly": "Hatting"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-03-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4735,7 +4735,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4783,7 +4783,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4849,7 +4849,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -4987,7 +4987,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -5011,7 +5011,7 @@
                 "municipaly": "Vals"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5053,7 +5053,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5077,7 +5077,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5125,7 +5125,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5143,7 +5143,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5155,13 +5155,13 @@
                 "municipaly": "Flaurling"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5209,7 +5209,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5233,7 +5233,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -5269,7 +5269,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -5317,7 +5317,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5335,7 +5335,7 @@
                 "municipaly": "Kematen in Tirol"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-05-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5533,7 +5533,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -5575,7 +5575,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5593,7 +5593,7 @@
                 "municipaly": "Birgitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -5653,7 +5653,7 @@
                 "municipaly": "Rinn"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-05-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5701,7 +5701,7 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5725,7 +5725,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5791,7 +5791,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5821,7 +5821,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -5863,7 +5863,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -5905,7 +5905,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6025,7 +6025,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6061,7 +6061,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -6127,7 +6127,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6157,7 +6157,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6205,7 +6205,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-07-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6403,7 +6403,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-07-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6637,7 +6637,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6727,7 +6727,7 @@
                 "municipaly": "Mieders"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-08-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6739,7 +6739,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -6805,7 +6805,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-08-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -6835,7 +6835,7 @@
                 "municipaly": "Wildermieming"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-08-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -6925,7 +6925,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -6991,13 +6991,13 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -7117,7 +7117,7 @@
                 "municipaly": "Oberhofen im Inntal"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -7165,7 +7165,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7219,7 +7219,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7255,7 +7255,7 @@
                 "municipaly": "Grinzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7285,7 +7285,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-09-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Absam"
@@ -7375,7 +7375,7 @@
                 "municipaly": "Leutasch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -7399,13 +7399,13 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-10-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7435,7 +7435,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7447,7 +7447,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7459,7 +7459,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7495,7 +7495,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7573,7 +7573,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-10-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7609,7 +7609,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7621,7 +7621,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-10-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7741,7 +7741,7 @@
                 "municipaly": "Flaurling"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-11-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -7759,7 +7759,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -7903,7 +7903,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -7951,7 +7951,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -8107,7 +8107,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8143,7 +8143,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-11-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -8161,7 +8161,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8203,7 +8203,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8221,7 +8221,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8287,7 +8287,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -8311,7 +8311,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -8347,7 +8347,7 @@
                 "municipaly": "Vals"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2017-12-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8359,7 +8359,7 @@
                 "municipaly": "Matrei am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8419,7 +8419,7 @@
                 "municipaly": "Sch\u00f6nberg im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8515,7 +8515,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8581,7 +8581,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-12-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -8659,7 +8659,7 @@
                 "municipaly": "Sch\u00f6nberg im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8725,7 +8725,7 @@
                 "municipaly": "Kematen in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -8773,7 +8773,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8893,7 +8893,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-01-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -8971,7 +8971,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9001,7 +9001,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -9055,7 +9055,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -9067,7 +9067,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -9085,7 +9085,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -9103,13 +9103,13 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Gnadenwald"
@@ -9217,7 +9217,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-01-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -9277,7 +9277,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9319,7 +9319,7 @@
                 "municipaly": "G\u00f6tzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -9337,7 +9337,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -9367,7 +9367,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9445,7 +9445,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9469,7 +9469,7 @@
                 "municipaly": "Ellb\u00f6gen"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-02-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -9565,7 +9565,7 @@
                 "municipaly": "Aldrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -9595,7 +9595,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9613,7 +9613,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -9649,7 +9649,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9721,7 +9721,7 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-02-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9739,7 +9739,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9763,7 +9763,7 @@
                 "municipaly": "Oberhofen im Inntal"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9799,7 +9799,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -9985,7 +9985,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10033,7 +10033,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -10063,7 +10063,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -10075,7 +10075,7 @@
                 "municipaly": "Reith bei Seefeld"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10099,7 +10099,7 @@
                 "municipaly": "Birgitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-03-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -10219,7 +10219,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -10273,7 +10273,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10405,7 +10405,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -10513,7 +10513,7 @@
                 "municipaly": "Sch\u00f6nberg im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10537,7 +10537,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -10561,13 +10561,13 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10603,7 +10603,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-04-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10621,7 +10621,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10699,7 +10699,7 @@
                 "municipaly": "Matrei am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -10711,7 +10711,7 @@
                 "municipaly": "Oberhofen im Inntal"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10777,7 +10777,7 @@
                 "municipaly": "Birgitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -10789,7 +10789,7 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10807,13 +10807,13 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-05-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -10825,7 +10825,7 @@
                 "municipaly": "Hatting"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -10855,7 +10855,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10885,7 +10885,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -10915,13 +10915,13 @@
                 "municipaly": "Telfes im Stubai"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-05-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-05-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -10951,7 +10951,7 @@
                 "municipaly": "Patsch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -10975,7 +10975,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11023,7 +11023,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-06-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -11173,7 +11173,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-06-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -11185,7 +11185,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-06-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11323,7 +11323,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-06-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Ampass"
@@ -11401,7 +11401,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-06-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11491,7 +11491,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11527,7 +11527,7 @@
                 "municipaly": "Vals"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -11587,7 +11587,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11695,13 +11695,13 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-07-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -11833,7 +11833,7 @@
                 "municipaly": "Gschnitz"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-07-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11863,7 +11863,7 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11887,13 +11887,13 @@
                 "municipaly": "Aldrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-07-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -11947,7 +11947,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12031,7 +12031,7 @@
                 "municipaly": "Mutters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12169,13 +12169,13 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12205,7 +12205,7 @@
                 "municipaly": "Telfes im Stubai"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12277,7 +12277,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -12295,7 +12295,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12325,7 +12325,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12355,7 +12355,7 @@
                 "municipaly": "Rinn"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-08-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12415,7 +12415,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12457,7 +12457,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12559,7 +12559,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12583,7 +12583,7 @@
                 "municipaly": "Kolsass"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -12607,7 +12607,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12643,7 +12643,7 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12673,7 +12673,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -12685,7 +12685,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-09-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -12823,7 +12823,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 3,
+                "count": 5,
                 "date": "2018-10-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -12859,7 +12859,7 @@
                 "municipaly": "Pfaffenhofen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-10-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -12895,7 +12895,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-10-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -12973,7 +12973,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-10-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13087,7 +13087,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2018-10-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13135,7 +13135,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-10-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13207,7 +13207,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-10-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13387,7 +13387,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -13411,7 +13411,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13507,7 +13507,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -13525,7 +13525,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13573,7 +13573,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -13591,7 +13591,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13615,7 +13615,7 @@
                 "municipaly": "Lans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Rinn"
@@ -13645,7 +13645,7 @@
                 "municipaly": "Pfons"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -13729,7 +13729,7 @@
                 "municipaly": "Vals"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-11-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -13855,7 +13855,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-11-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13957,7 +13957,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -13993,7 +13993,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14035,7 +14035,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14083,13 +14083,13 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-12-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 3,
+                "count": 6,
                 "date": "2018-12-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -14215,7 +14215,7 @@
                 "municipaly": "Mieders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -14227,7 +14227,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14287,7 +14287,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14323,7 +14323,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -14353,7 +14353,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -14383,7 +14383,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2018-12-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -14425,7 +14425,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14485,7 +14485,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14497,7 +14497,7 @@
                 "municipaly": "Telfes im Stubai"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Gnadenwald"
@@ -14509,13 +14509,13 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14539,7 +14539,7 @@
                 "municipaly": "Mils"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -14659,7 +14659,7 @@
                 "municipaly": "Ampass"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -14743,7 +14743,7 @@
                 "municipaly": "Reith bei Seefeld"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -14833,7 +14833,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -14863,7 +14863,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -14923,7 +14923,7 @@
                 "municipaly": "Leutasch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-01-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15019,7 +15019,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15067,7 +15067,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -15097,7 +15097,7 @@
                 "municipaly": "Kematen in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -15133,7 +15133,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -15163,7 +15163,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -15175,19 +15175,19 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -15277,13 +15277,13 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -15295,7 +15295,7 @@
                 "municipaly": "Rinn"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15361,7 +15361,7 @@
                 "municipaly": "Sch\u00f6nberg im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15397,7 +15397,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-02-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -15565,13 +15565,13 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Mils"
@@ -15583,7 +15583,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15607,7 +15607,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -15625,7 +15625,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -15649,7 +15649,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2019-03-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15691,7 +15691,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15745,7 +15745,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -15811,7 +15811,7 @@
                 "municipaly": "M\u00fchlbachl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -15835,7 +15835,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -15931,7 +15931,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -16003,7 +16003,7 @@
                 "municipaly": "Kematen in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16015,7 +16015,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-03-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16219,7 +16219,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-04-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -16255,7 +16255,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2019-04-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16297,7 +16297,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-04-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16429,7 +16429,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-04-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16525,7 +16525,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-04-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16549,7 +16549,7 @@
                 "municipaly": "Polling in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-04-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16669,7 +16669,7 @@
                 "municipaly": "Leutasch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -16729,7 +16729,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -16741,7 +16741,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -16777,13 +16777,13 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -16837,7 +16837,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -16879,7 +16879,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16897,7 +16897,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2019-05-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -16951,7 +16951,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17017,7 +17017,7 @@
                 "municipaly": "Mutters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17041,7 +17041,7 @@
                 "municipaly": "Sch\u00f6nberg im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17173,7 +17173,7 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -17209,7 +17209,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17245,7 +17245,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17353,7 +17353,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17383,7 +17383,7 @@
                 "municipaly": "G\u00f6tzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Axams"
@@ -17419,7 +17419,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17443,7 +17443,7 @@
                 "municipaly": "Gries im Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -17503,7 +17503,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -17707,7 +17707,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17737,7 +17737,7 @@
                 "municipaly": "Rinn"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17839,7 +17839,7 @@
                 "municipaly": "Fulpmes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -17863,7 +17863,7 @@
                 "municipaly": "Ampass"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -17887,13 +17887,13 @@
                 "municipaly": "Trins"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17917,7 +17917,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -17929,7 +17929,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -17977,7 +17977,7 @@
                 "municipaly": "Polling in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -17989,7 +17989,7 @@
                 "municipaly": "M\u00fchlbachl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -18013,7 +18013,7 @@
                 "municipaly": "Absam"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Mils"
@@ -18121,7 +18121,7 @@
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-07-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -18175,7 +18175,7 @@
                 "municipaly": "Lans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Mils"
@@ -18193,7 +18193,7 @@
                 "municipaly": "Lans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -18283,7 +18283,7 @@
                 "municipaly": "Tulfes"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18349,7 +18349,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18439,7 +18439,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18475,7 +18475,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-08-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18655,7 +18655,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18733,7 +18733,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-13T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -18781,7 +18781,7 @@
                 "municipaly": "Trins"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Gnadenwald"
@@ -18823,7 +18823,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Hall in Tirol"
@@ -18943,7 +18943,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18955,7 +18955,7 @@
                 "municipaly": "M\u00fchlbachl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-09-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -18979,7 +18979,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19003,7 +19003,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -19069,7 +19069,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2019-10-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19087,7 +19087,7 @@
                 "municipaly": "Scharnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -19147,7 +19147,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19177,7 +19177,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19213,7 +19213,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19261,7 +19261,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19273,7 +19273,7 @@
                 "municipaly": "Mieders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19303,7 +19303,7 @@
                 "municipaly": "Telfes im Stubai"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-25T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Baumkirchen"
@@ -19357,7 +19357,7 @@
                 "municipaly": "Mutters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19375,7 +19375,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19405,7 +19405,7 @@
                 "municipaly": "Ranggen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-10-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19567,7 +19567,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-11-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19591,7 +19591,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-11-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -19693,7 +19693,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-11-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -19921,7 +19921,7 @@
                 "municipaly": "Mieders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -19933,7 +19933,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -20005,7 +20005,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20047,7 +20047,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20077,7 +20077,7 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20161,7 +20161,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20221,7 +20221,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20257,7 +20257,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20287,7 +20287,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-22T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -20335,7 +20335,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20437,7 +20437,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-30T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20455,7 +20455,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Tulfes"
@@ -20509,7 +20509,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-04T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20521,7 +20521,7 @@
                 "municipaly": "Flaurling"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -20575,7 +20575,7 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Thaur"
@@ -20629,7 +20629,7 @@
                 "municipaly": "Patsch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-09T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Rum"
@@ -20641,13 +20641,13 @@
                 "municipaly": "Zirl"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Thaur"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20671,7 +20671,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20695,7 +20695,7 @@
                 "municipaly": "Inzing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-16T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20737,7 +20737,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20761,7 +20761,7 @@
                 "municipaly": "Rum"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20779,7 +20779,7 @@
                 "municipaly": "Mutters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
@@ -20821,7 +20821,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-24T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20863,7 +20863,7 @@
                 "municipaly": "Gschnitz"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20881,7 +20881,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -20899,7 +20899,7 @@
                 "municipaly": "Rinn"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-01-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -20929,7 +20929,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-01T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Thaur"
@@ -20953,7 +20953,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2020-02-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21025,7 +21025,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Tulfes"
@@ -21073,7 +21073,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21085,7 +21085,7 @@
                 "municipaly": "Kolsass"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-12T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Kolsass"
@@ -21127,7 +21127,7 @@
                 "municipaly": "Sistrans"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-14T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21163,7 +21163,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21241,7 +21241,7 @@
                 "municipaly": "V\u00f6ls"
             },
             {
-                "count": 2,
+                "count": 4,
                 "date": "2020-02-20T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21259,7 +21259,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-21T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21379,7 +21379,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21409,7 +21409,7 @@
                 "municipaly": "Oberperfuss"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-02-29T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21445,7 +21445,7 @@
                 "municipaly": "Natters"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21493,7 +21493,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21505,13 +21505,13 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21529,7 +21529,7 @@
                 "municipaly": "Steinach am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-08T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21553,7 +21553,7 @@
                 "municipaly": "Wattens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21565,7 +21565,7 @@
                 "municipaly": "Matrei am Brenner"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21721,13 +21721,13 @@
                 "municipaly": "Neustift im Stubaital"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Fritzens"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-23T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21757,7 +21757,7 @@
                 "municipaly": "Leutasch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-26T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21769,7 +21769,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-27T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21787,7 +21787,7 @@
                 "municipaly": "Hall in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-28T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21859,7 +21859,7 @@
                 "municipaly": "Volders"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-03-31T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21901,7 +21901,7 @@
                 "municipaly": "Telfes im Stubai"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-02T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21919,7 +21919,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-03T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -21937,7 +21937,7 @@
                 "municipaly": "Axams"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-05T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21967,7 +21967,7 @@
                 "municipaly": "Sellrain"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-06T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Volders"
@@ -21985,7 +21985,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-07T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -22045,7 +22045,7 @@
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-10T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
@@ -22069,7 +22069,7 @@
                 "municipaly": "Telfs"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-11T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-a9d249570bb39b1b75fbf076e3e12615"
+        "name": "data-7835bf2247f7f84199439538784c78a4"
     },
     "datasets": {
-        "data-a9d249570bb39b1b75fbf076e3e12615": [
+        "data-7835bf2247f7f84199439538784c78a4": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -241,7 +241,7 @@
                 "municipaly": "F\u00fcgen"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2016-07-09T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Schwaz"
@@ -2407,7 +2407,7 @@
                 "municipaly": "Achenkirch"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-04-23T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Weer"
@@ -11191,7 +11191,7 @@
                 "municipaly": "Wiesing"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-11-28T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Weer"
@@ -11425,7 +11425,7 @@
                 "municipaly": "Gallzein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-12-18T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Weer"

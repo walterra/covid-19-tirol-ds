@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-e0796fa2252a94a78fbb998244e36306"
+        "name": "data-5b224daa5e5128ac428aa3596742bb94"
     },
     "datasets": {
-        "data-e0796fa2252a94a78fbb998244e36306": [
+        "data-5b224daa5e5128ac428aa3596742bb94": [
             {
                 "count": 2,
                 "date": "2016-06-03T00:00:00",
@@ -931,7 +931,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 5,
+                "count": 6,
                 "date": "2017-01-17T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -985,7 +985,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 4,
+                "count": 6,
                 "date": "2017-01-28T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -1285,7 +1285,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-04-09T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -1513,7 +1513,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2017-06-15T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -1687,7 +1687,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2017-08-05T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -2221,7 +2221,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2017-12-31T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -4315,7 +4315,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2019-04-01T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -4621,7 +4621,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-05-29T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -4843,7 +4843,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2019-07-12T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -5047,7 +5047,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 6,
+                "count": 7,
                 "date": "2019-08-25T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -5077,7 +5077,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 4,
+                "count": 5,
                 "date": "2019-09-01T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"
@@ -5125,7 +5125,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2019-09-13T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"

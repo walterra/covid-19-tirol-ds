@@ -8,3 +8,4 @@
 ./bin/crawl_kuratorium_bestattung.sh 10
 ./bin/crawl_trauerhilfe.sh 10
 ./bin/crawl_mueller.sh 10
+./bin/crawl_bestattunglechner.sh 10

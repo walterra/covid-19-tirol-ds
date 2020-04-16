@@ -2,7 +2,7 @@
 
 echo ""
 echo "mueller"
-echo "---------"
+echo "-------"
 
 currentdate=$(date +%Y%m%d_%H%M%S)
 p=${1:-10}

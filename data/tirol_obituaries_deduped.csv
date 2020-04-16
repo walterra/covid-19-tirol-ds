@@ -1,5 +1,16 @@
 date,municipaly,district,hash
+16.04.2020,Ramsau im Zillertal,Schwaz,-533214742
+15.04.2020,Zell am Ziller,Schwaz,-1038393670
+15.04.2020,Mayrhofen,Schwaz,534679542
+15.04.2020,Kufstein,Kufstein,1614729771
+15.04.2020,Birgitz,Innsbruck-Land,-1229529808
+15.04.2020,Bad Häring,Kufstein,-2080573986
+15.04.2020,Nesselwängle,Reutte,-1902608126
+15.04.2020,Angath,Kufstein,578798181
+15.04.2020,Fügen,Schwaz,720535620
+15.04.2020,Gallzein,Schwaz,1002671479
 14.04.2020,Völs,Innsbruck-Land,331123690
+14.04.2020,Reith bei Seefeld,Innsbruck-Land,2027273175
 14.04.2020,Zell am Ziller,Schwaz,-863118320
 14.04.2020,Hopfgarten im Brixental,Kitzbühel,78760784
 14.04.2020,Tarrenz,Imst,805015716
@@ -8,6 +19,7 @@ date,municipaly,district,hash
 14.04.2020,Wenns,Imst,162612068
 14.04.2020,Imst,Imst,-931268882
 14.04.2020,Haiming,Imst,137565974
+14.04.2020,Radfeld,Kufstein,-549190239
 13.04.2020,Schönwies,Landeck,-1156183764
 13.04.2020,Achenkirch,Schwaz,355946869
 13.04.2020,Vomp,Schwaz,1455533735
@@ -18,6 +30,7 @@ date,municipaly,district,hash
 13.04.2020,St. Johann in Tirol,Kitzbühel,1524652867
 13.04.2020,Kirchdorf in Tirol,Kitzbühel,311323699
 13.04.2020,Söll,Kufstein,-1416114493
+13.04.2020,Wörgl,Kufstein,-1481775167
 12.04.2020,Inzing,Innsbruck-Land,-469230185
 12.04.2020,Kundl,Kufstein,337613476
 12.04.2020,Imst,Imst,1696124488
@@ -32,6 +45,8 @@ date,municipaly,district,hash
 12.04.2020,Kirchbichl,Kufstein,-2066832373
 11.04.2020,Götzens,Innsbruck-Land,1593025118
 11.04.2020,Wattens,Innsbruck-Land,-1290294610
+11.04.2020,Telfs,Innsbruck-Land,-283994074
+11.04.2020,Telfs,Innsbruck-Land,2142399063
 11.04.2020,Ebbs,Kufstein,1805913584
 11.04.2020,Holzgau,Reutte,-460734923
 11.04.2020,Kufstein,Kufstein,1735578844
@@ -58,6 +73,7 @@ date,municipaly,district,hash
 10.04.2020,Hopfgarten im Brixental,Kitzbühel,1443554579
 10.04.2020,Innsbruck,Innsbruck-Stadt,1425239199
 10.04.2020,Fulpmes,Innsbruck-Land,1699910550
+10.04.2020,Innsbruck,Innsbruck-Stadt,-704898047
 09.04.2020,Reith bei Seefeld,Innsbruck-Land,901287978
 09.04.2020,Zams,Landeck,245035261
 09.04.2020,Grins,Landeck,-179746688

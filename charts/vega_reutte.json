@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-bb6b4556a3291a71cfe41626380777a1"
+        "name": "data-f8ffd07ff5fe050468c11d4df9edf729"
     },
     "datasets": {
-        "data-bb6b4556a3291a71cfe41626380777a1": [
+        "data-f8ffd07ff5fe050468c11d4df9edf729": [
             {
                 "count": 1,
                 "date": "2016-06-06T00:00:00",
@@ -4955,6 +4955,12 @@
                 "date": "2020-04-11T00:00:00",
                 "district": "Reutte",
                 "municipaly": "Vils"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Nesselw\u00e4ngle"
             }
         ]
     },

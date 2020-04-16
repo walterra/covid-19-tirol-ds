@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-adf17cdcbb54e0d6d2a8cc5f87bfeb38"
+        "name": "data-a9d249570bb39b1b75fbf076e3e12615"
     },
     "datasets": {
-        "data-adf17cdcbb54e0d6d2a8cc5f87bfeb38": [
+        "data-a9d249570bb39b1b75fbf076e3e12615": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12821,6 +12821,36 @@
                 "date": "2020-04-14T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Zell am Ziller"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Gallzein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Mayrhofen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Zell am Ziller"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Ramsau im Zillertal"
             }
         ]
     },

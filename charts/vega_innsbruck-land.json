@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-75a2f2ac2c2bcbe777fc9801d45dcf21"
+        "name": "data-f8b4691e6b6398ab8a7db26047e1265b"
     },
     "datasets": {
-        "data-75a2f2ac2c2bcbe777fc9801d45dcf21": [
+        "data-f8b4691e6b6398ab8a7db26047e1265b": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22063,6 +22063,12 @@
                 "municipaly": "G\u00f6tzens"
             },
             {
+                "count": 2,
+                "date": "2020-04-11T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
+            },
+            {
                 "count": 1,
                 "date": "2020-04-11T00:00:00",
                 "district": "Innsbruck-Land",
@@ -22078,7 +22084,19 @@
                 "count": 1,
                 "date": "2020-04-14T00:00:00",
                 "district": "Innsbruck-Land",
+                "municipaly": "Reith bei Seefeld"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Innsbruck-Land",
                 "municipaly": "V\u00f6ls"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Birgitz"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-1d209ffca25f467644aa975aaeb4d88b"
+        "name": "data-789ad7a089bce015fe3ebb94a5b52ffc"
     },
     "datasets": {
-        "data-1d209ffca25f467644aa975aaeb4d88b": [
+        "data-789ad7a089bce015fe3ebb94a5b52ffc": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16325,6 +16325,36 @@
                 "date": "2020-04-13T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "S\u00f6ll"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-13T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-14T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Radfeld"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Angath"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Bad H\u00e4ring"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kufstein"
             }
         ]
     },

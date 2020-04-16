@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-789ad7a089bce015fe3ebb94a5b52ffc"
+        "name": "data-c47fbad9e237b7ce36130cb01ab41233"
     },
     "datasets": {
-        "data-789ad7a089bce015fe3ebb94a5b52ffc": [
+        "data-c47fbad9e237b7ce36130cb01ab41233": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -12655,7 +12655,7 @@
                 "municipaly": "Kufstein"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2019-06-11T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Kufstein"

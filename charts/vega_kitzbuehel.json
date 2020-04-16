@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-77ab45ead84fe89dddeb9041c361ec9e"
+        "name": "data-3cabf6979a2f241edcc7186da78f784a"
     },
     "datasets": {
-        "data-77ab45ead84fe89dddeb9041c361ec9e": [
+        "data-3cabf6979a2f241edcc7186da78f784a": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -2393,6 +2393,12 @@
                 "date": "2017-03-27T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Brixen im Thale"
+            },
+            {
+                "count": 1,
+                "date": "2017-03-27T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "K\u00f6ssen"
             },
             {
                 "count": 1,
@@ -7513,7 +7519,7 @@
                 "municipaly": "Kirchdorf in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-12-28T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Fieberbrunn"

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7045e1dc4e6cbf4df049f6558a33d59f"
+        "name": "data-cdb47cabf207d771a8e3e77e1c66be0f"
     },
     "datasets": {
-        "data-7045e1dc4e6cbf4df049f6558a33d59f": [
+        "data-cdb47cabf207d771a8e3e77e1c66be0f": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -685,7 +685,7 @@
                 "municipaly": "Landeck"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2016-10-19T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Pfunds"
@@ -3709,7 +3709,7 @@
                 "municipaly": "Galt\u00fcr"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-05-15T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Serfaus"

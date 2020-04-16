@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-87dfe89f208256ca56150d8277a4f4bb"
+        "name": "data-70a1e53f1eae04cbf1ad21837c094066"
     },
     "datasets": {
-        "data-87dfe89f208256ca56150d8277a4f4bb": [
+        "data-70a1e53f1eae04cbf1ad21837c094066": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -4147,7 +4147,7 @@
                 "municipaly": "St. Leonhard im Pitztal"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2018-06-08T00:00:00",
                 "district": "Imst",
                 "municipaly": "Mieming"
@@ -6439,7 +6439,7 @@
                 "municipaly": "Obsteig"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2019-07-26T00:00:00",
                 "district": "Imst",
                 "municipaly": "Imst"

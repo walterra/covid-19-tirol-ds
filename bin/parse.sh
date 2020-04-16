@@ -10,6 +10,7 @@ bestattungsinstitut=`ls -d1 */ | grep bestattungsinstitut | sed "s/\///"`
 flossmann=`ls -d1 */ | grep flossmann | sed "s/\///"`
 derbestatter=`ls -d1 */ | grep derbestatter | sed "s/\///"`
 derbestatterarchiv=`ls -d1 */ | grep derbestatterarchiv | sed "s/\///"`
+mueller_parten=`ls -d1 */ | grep mueller_parten | sed "s/\///"`
 cd -
 
 cd $dir/..
@@ -60,6 +61,12 @@ echo "parsing derbestatterarchiv"
 for s in $derbestatterarchiv
 do
   node ./src/parse_derbestatterarchiv $s
+done
+
+echo "parsing mueller_parten"
+for s in $mueller_parten
+do
+  node ./src/parse_mueller $s
 done
 
 echo "running deduplication"

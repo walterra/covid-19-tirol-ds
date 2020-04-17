@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-8b5f75af469b703b7f20eae3b08c750f"
+        "name": "data-103f068b60d0245babcc498c43657a39"
     },
     "datasets": {
-        "data-8b5f75af469b703b7f20eae3b08c750f": [
+        "data-103f068b60d0245babcc498c43657a39": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22097,6 +22097,18 @@
                 "date": "2020-04-15T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Birgitz"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-15T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Volders"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Axams"
             }
         ]
     },

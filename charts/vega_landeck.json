@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-cdb47cabf207d771a8e3e77e1c66be0f"
+        "name": "data-7a5a33bd45e90594fda23983baa2c2b6"
     },
     "datasets": {
-        "data-cdb47cabf207d771a8e3e77e1c66be0f": [
+        "data-7a5a33bd45e90594fda23983baa2c2b6": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7925,6 +7925,12 @@
                 "date": "2020-04-13T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Sch\u00f6nwies"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Landeck"
             }
         ]
     },

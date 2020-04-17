@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-c47fbad9e237b7ce36130cb01ab41233"
+        "name": "data-483381324963d4d8bc468ce57a8d1f09"
     },
     "datasets": {
-        "data-c47fbad9e237b7ce36130cb01ab41233": [
+        "data-483381324963d4d8bc468ce57a8d1f09": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16355,6 +16355,12 @@
                 "date": "2020-04-15T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Reith im Alpbachtal"
             }
         ]
     },

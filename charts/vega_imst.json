@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-70a1e53f1eae04cbf1ad21837c094066"
+        "name": "data-992dff4a905392879491095612e7ee94"
     },
     "datasets": {
-        "data-70a1e53f1eae04cbf1ad21837c094066": [
+        "data-992dff4a905392879491095612e7ee94": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7835,6 +7835,18 @@
                 "date": "2020-04-14T00:00:00",
                 "district": "Imst",
                 "municipaly": "Wenns"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Imst",
+                "municipaly": "Mieming"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Imst",
+                "municipaly": "Haiming"
             }
         ]
     },

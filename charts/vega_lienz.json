@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-3bcf7f0e3f286e527027edc14db64d93"
+        "name": "data-a1734a44e2753886152982e54d2d147a"
     },
     "datasets": {
-        "data-3bcf7f0e3f286e527027edc14db64d93": [
+        "data-a1734a44e2753886152982e54d2d147a": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -10349,6 +10349,12 @@
                 "date": "2020-04-14T00:00:00",
                 "district": "Lienz",
                 "municipaly": "Kals am Gro\u00dfglockner"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Thurn"
             }
         ]
     },

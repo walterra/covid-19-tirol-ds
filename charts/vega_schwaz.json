@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7835bf2247f7f84199439538784c78a4"
+        "name": "data-6ce9eba2595bb4823250ee965740fc3e"
     },
     "datasets": {
-        "data-7835bf2247f7f84199439538784c78a4": [
+        "data-6ce9eba2595bb4823250ee965740fc3e": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12850,7 +12850,19 @@
                 "count": 1,
                 "date": "2020-04-16T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Ramsau im Zillertal"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Zell am Ziller"
             }
         ]
     },

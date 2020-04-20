@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-6ce9eba2595bb4823250ee965740fc3e"
+        "name": "data-76f837e60e71b0b15fbe7c775662558a"
     },
     "datasets": {
-        "data-6ce9eba2595bb4823250ee965740fc3e": [
+        "data-76f837e60e71b0b15fbe7c775662558a": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12863,6 +12863,18 @@
                 "date": "2020-04-16T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Zell am Ziller"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Strass im Zillertal"
             }
         ]
     },

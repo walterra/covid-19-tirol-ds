@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-992dff4a905392879491095612e7ee94"
+        "name": "data-7d1b412a789f1df22036e5d39999586c"
     },
     "datasets": {
-        "data-992dff4a905392879491095612e7ee94": [
+        "data-7d1b412a789f1df22036e5d39999586c": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7847,6 +7847,12 @@
                 "date": "2020-04-16T00:00:00",
                 "district": "Imst",
                 "municipaly": "Haiming"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Imst",
+                "municipaly": "Imst"
             }
         ]
     },

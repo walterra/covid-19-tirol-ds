@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-8e0193f00bb17aee30dffb075c8aa6c8"
+        "name": "data-0373b5a3d76926adb0b6d9e4031d2326"
     },
     "datasets": {
-        "data-8e0193f00bb17aee30dffb075c8aa6c8": [
+        "data-0373b5a3d76926adb0b6d9e4031d2326": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -45758,7 +45758,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-15T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -45803,14 +45803,54 @@
                 "district": "Schwaz"
             },
             {
-                "count": 1,
+                "count": 5,
                 "date": "2020-04-17T00:00:00",
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-17T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Imst"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-18T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Landeck"
             }
         ]
     },

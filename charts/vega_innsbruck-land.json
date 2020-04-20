@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-103f068b60d0245babcc498c43657a39"
+        "name": "data-95e8b7f15341fb4415bc6b61fd78bb1b"
     },
     "datasets": {
-        "data-103f068b60d0245babcc498c43657a39": [
+        "data-95e8b7f15341fb4415bc6b61fd78bb1b": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22109,6 +22109,36 @@
                 "date": "2020-04-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Axams"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Sellrain"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Steinach am Brenner"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Volders"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Mutters"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Pettnau"
             }
         ]
     },

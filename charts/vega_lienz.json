@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-a1734a44e2753886152982e54d2d147a"
+        "name": "data-5bc99d0b4d666b1ac21d7f19cc9e9bf1"
     },
     "datasets": {
-        "data-a1734a44e2753886152982e54d2d147a": [
+        "data-5bc99d0b4d666b1ac21d7f19cc9e9bf1": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -10355,6 +10355,12 @@
                 "date": "2020-04-16T00:00:00",
                 "district": "Lienz",
                 "municipaly": "Thurn"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Nu\u00dfdorf-Debant"
             }
         ]
     },

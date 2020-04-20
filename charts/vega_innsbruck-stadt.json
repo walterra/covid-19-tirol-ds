@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-85b188b262807c855fd748baa05fbdd8"
+        "name": "data-1196601e500ae5f191470221ca3e0c3a"
     },
     "datasets": {
-        "data-85b188b262807c855fd748baa05fbdd8": [
+        "data-1196601e500ae5f191470221ca3e0c3a": [
             {
                 "count": 2,
                 "date": "2016-06-03T00:00:00",
@@ -6187,7 +6187,7 @@
                 "municipaly": "Innsbruck"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-15T00:00:00",
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck"

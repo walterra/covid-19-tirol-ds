@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7a5a33bd45e90594fda23983baa2c2b6"
+        "name": "data-8064884da74f7024dc96055818702b78"
     },
     "datasets": {
-        "data-7a5a33bd45e90594fda23983baa2c2b6": [
+        "data-8064884da74f7024dc96055818702b78": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7931,6 +7931,12 @@
                 "date": "2020-04-16T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Landeck"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Strengen"
             }
         ]
     },

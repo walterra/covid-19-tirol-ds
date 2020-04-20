@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-483381324963d4d8bc468ce57a8d1f09"
+        "name": "data-b176af5002b31796aa533cf48e6c8b78"
     },
     "datasets": {
-        "data-483381324963d4d8bc468ce57a8d1f09": [
+        "data-b176af5002b31796aa533cf48e6c8b78": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16360,7 +16360,25 @@
                 "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein",
+                "municipaly": "Brandenberg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Kufstein",
                 "municipaly": "Reith im Alpbachtal"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Langkampfen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Brixlegg"
             }
         ]
     },

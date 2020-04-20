@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-3cabf6979a2f241edcc7186da78f784a"
+        "name": "data-2c99afb367955f164885dd180f2e0e03"
     },
     "datasets": {
-        "data-3cabf6979a2f241edcc7186da78f784a": [
+        "data-2c99afb367955f164885dd180f2e0e03": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -11333,6 +11333,12 @@
                 "date": "2020-04-14T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Hopfgarten im Brixental"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7d1b412a789f1df22036e5d39999586c"
+        "name": "data-4553aa80e1a51f65863415e359a52c4e"
     },
     "datasets": {
-        "data-7d1b412a789f1df22036e5d39999586c": [
+        "data-4553aa80e1a51f65863415e359a52c4e": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7853,6 +7853,18 @@
                 "date": "2020-04-18T00:00:00",
                 "district": "Imst",
                 "municipaly": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Imst",
+                "municipaly": "Mieming"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Imst",
+                "municipaly": "Oetz"
             }
         ]
     },

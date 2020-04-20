@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-b176af5002b31796aa533cf48e6c8b78"
+        "name": "data-933320d79c745ac33d4f0b7e81c0de51"
     },
     "datasets": {
-        "data-b176af5002b31796aa533cf48e6c8b78": [
+        "data-933320d79c745ac33d4f0b7e81c0de51": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16360,13 +16360,31 @@
                 "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein",
+                "municipaly": "Alpbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Kufstein",
                 "municipaly": "Brandenberg"
             },
             {
                 "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein",
+                "municipaly": "Erl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Kufstein",
                 "municipaly": "Reith im Alpbachtal"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl"
             },
             {
                 "count": 1,

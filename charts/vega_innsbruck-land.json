@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-95e8b7f15341fb4415bc6b61fd78bb1b"
+        "name": "data-3f881509a62f88eb0f3534e3788a14bf"
     },
     "datasets": {
-        "data-95e8b7f15341fb4415bc6b61fd78bb1b": [
+        "data-3f881509a62f88eb0f3534e3788a14bf": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22106,6 +22106,24 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Absam"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Hall in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Axams"
@@ -22121,6 +22139,12 @@
                 "date": "2020-04-17T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Steinach am Brenner"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
             },
             {
                 "count": 2,
@@ -22139,6 +22163,24 @@
                 "date": "2020-04-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Pettnau"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-18T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Seefeld in Tirol"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Telfs"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-19T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Wattens"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-76f837e60e71b0b15fbe7c775662558a"
+        "name": "data-7384791ecb770af4244d2ab5866a910d"
     },
     "datasets": {
-        "data-76f837e60e71b0b15fbe7c775662558a": [
+        "data-7384791ecb770af4244d2ab5866a910d": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12874,7 +12874,43 @@
                 "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Schwaz",
+                "municipaly": "Mayrhofen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Schwaz",
                 "municipaly": "Strass im Zillertal"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-17T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Terfens"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Tux"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Finkenberg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Hainzenberg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
             }
         ]
     },

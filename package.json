@@ -6,11 +6,13 @@
   "dependencies": {
     "apify": "^0.20.2",
     "cheerio": "^1.0.0-rc.3",
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "moment": "^2.24.0"
   },
   "devDependencies": {},
   "scripts": {
     "notebook": "jupyter nbconvert --execute jupyter-notebooks/vega.ipynb",
+    "notebook-week": "jupyter nbconvert --execute jupyter-notebooks/vega-week.ipynb",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

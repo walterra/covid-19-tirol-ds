@@ -11,7 +11,7 @@
 <body>
   <div class="main_content">
     <h1>Analyse Todesanzeigen Tirol</h1>
-    <p><small>Letztes Update: 20.04.2020 19:00</small></p>
+    <p><small>Letztes Update: 23.04.2020 01:00</small></p>
     <p>Die Charts zeigen eine Auswertung von Todesanzeigen in Tirol seit Juni 2016.</p>
     <p>
       Die Zahlen beruhen nicht auf offiziell veröffentlichten Statistiken. Die Werte wurden durch Auswertung von im Internet veröffentlichten Todesanzeigen ermittelt.
@@ -21,6 +21,15 @@
       Source Code<br /><a href="https://github.com/walterra/covid-19-tirol-ds">github.com/walterra/covid-19-tirol-ds</a><br /><br />
       Feedback<br /><a href="https://twitter.com/walterra">twitter.com/walterra</a>
     </small></p>
+    <div class="vis_wrapper">
+      <p>
+        Die folgenden Charts zeigen als grauen Verlauf die wöchentlichen Todesanzeigen der Jahre 2017-2019.<br />
+        Die blaue Linie zeigt den Verlauf von Todesanzeigen pro Woche für 2020.<br />
+        Als Vergleich zeigt die orange Linie die von Statistik Austria veröffentlichten Zahlen. Der strichlierte Teil der Linie beruht auf Schätzungen. Die Daten der Statistik Austria sind auf Bundesländerebene verfügbar, deswegen gibt es die Vergleichlinie nur im ersten Chart mit den Zahlen für ganz Tirol.
+      </p>
+      <div id="vega_week"></div>
+    </div>
+    <div id="vega_week_district" class="vis_wrapper"></div>
     <div id="vega_districts" class="vis_wrapper"></div>
     <div class="vis_wrapper">
       <div>

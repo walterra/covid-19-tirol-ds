@@ -12,6 +12,8 @@ districts = {
 
 var supportedKeys = Object.keys(districts);
 supportedKeys.push('districts');
+supportedKeys.push('week');
+supportedKeys.push('week_district');
 
 var params={};
 window.location.search
@@ -35,6 +37,8 @@ function loadVega(f, id) {
 }
 
 $(document).ready(function(){
+  loadVega('week', 'vega_week');
+  loadVega('week_district', 'vega_week_district');
   loadVega('districts', 'vega_districts');
   loadVega(defaultDistrict, 'vega_drilldown');
 

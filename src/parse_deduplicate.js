@@ -1,7 +1,8 @@
 // cheerio is a jquery API inspired lib for nodejs
 const cheerio = require('cheerio')
 const fs = require('fs');
-const glob = require("glob")
+const glob = require('glob');
+const moment = require('moment');
 
 const rows = glob.sync("./data/scrape*.csv").flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
 
@@ -51,7 +52,24 @@ fs.writeFile(`./data/count_by_year.json`, JSON.stringify(countByYear, null, 2), 
   if (err) return console.log(err);
 })
 
-const data = `date,municipaly,district,hash\n${dedupe.join('\n')}`;
+moment.locale('at')
+
+// adds year and week columns
+const dedupedWithYearWeek = dedupe.map(line => {
+  // date format: 26.03.2020
+  const row = line.split(',');
+  const year = row[0].split('.').pop();
+  const week = moment(row[0], 'DD.MM.YYYY').isoWeek();
+  const date = row.shift();
+  return [
+    date,
+    year,
+    week,
+    ...row
+  ];
+});
+
+const data = `date,year,week,municipaly,district,hash\n${dedupedWithYearWeek.join('\n')}`;
 
 // write the CSV file
 fs.writeFile(`./data/tirol_obituaries_deduped.csv`, data, 'utf8', (err) => {

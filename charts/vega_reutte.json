@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-f8ffd07ff5fe050468c11d4df9edf729"
+        "name": "data-651c751e175ef73afcb3d8856b9954e9"
     },
     "datasets": {
-        "data-f8ffd07ff5fe050468c11d4df9edf729": [
+        "data-651c751e175ef73afcb3d8856b9954e9": [
             {
                 "count": 1,
                 "date": "2016-06-06T00:00:00",
@@ -4961,6 +4961,18 @@
                 "date": "2020-04-15T00:00:00",
                 "district": "Reutte",
                 "municipaly": "Nesselw\u00e4ngle"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Pinswang"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Reutte",
+                "municipaly": "Steeg"
             }
         ]
     },

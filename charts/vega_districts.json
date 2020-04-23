@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-ea683aa6454c58c9998c524f122b6a61"
+        "name": "data-581baede0460e061ab95d3b85e9b5e07"
     },
     "datasets": {
-        "data-ea683aa6454c58c9998c524f122b6a61": [
+        "data-581baede0460e061ab95d3b85e9b5e07": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -45608,7 +45608,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2020-04-10T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -45728,7 +45728,7 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 5,
+                "count": 7,
                 "date": "2020-04-14T00:00:00",
                 "district": "Innsbruck-Stadt"
             },
@@ -45763,9 +45763,14 @@
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2020-04-15T00:00:00",
                 "district": "Innsbruck-Stadt"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Kitzb\u00fchel"
             },
             {
                 "count": 3,
@@ -45788,7 +45793,7 @@
                 "district": "Imst"
             },
             {
-                "count": 3,
+                "count": 4,
                 "date": "2020-04-16T00:00:00",
                 "district": "Innsbruck-Land"
             },
@@ -45823,7 +45828,7 @@
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 5,
+                "count": 6,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein"
             },
@@ -45843,12 +45848,12 @@
                 "district": "Imst"
             },
             {
-                "count": 5,
+                "count": 7,
                 "date": "2020-04-18T00:00:00",
                 "district": "Innsbruck-Land"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-04-18T00:00:00",
                 "district": "Kitzb\u00fchel"
             },
@@ -45861,6 +45866,11 @@
                 "count": 1,
                 "date": "2020-04-18T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Reutte"
             },
             {
                 "count": 1,
@@ -45878,12 +45888,17 @@
                 "district": "Innsbruck-Land"
             },
             {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
                 "count": 2,
                 "date": "2020-04-19T00:00:00",
                 "district": "Kitzb\u00fchel"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2020-04-19T00:00:00",
                 "district": "Kufstein"
             },
@@ -45893,24 +45908,94 @@
                 "district": "Landeck"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-19T00:00:00",
                 "district": "Lienz"
             },
             {
-                "count": 3,
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Reutte"
+            },
+            {
+                "count": 4,
                 "date": "2020-04-19T00:00:00",
                 "district": "Schwaz"
             },
             {
-                "count": 1,
+                "count": 3,
                 "date": "2020-04-20T00:00:00",
                 "district": "Imst"
             },
             {
+                "count": 4,
+                "date": "2020-04-20T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
                 "count": 1,
                 "date": "2020-04-20T00:00:00",
+                "district": "Innsbruck-Stadt"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Landeck"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-20T00:00:00",
                 "district": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-21T00:00:00",
+                "district": "Innsbruck-Land"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-21T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-21T00:00:00",
+                "district": "Lienz"
+            },
+            {
+                "count": 4,
+                "date": "2020-04-21T00:00:00",
+                "district": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-22T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-22T00:00:00",
+                "district": "Landeck"
             }
         ]
     },
@@ -45961,7 +46046,7 @@
         ],
         "subtitleColor": "gray",
         "text": [
-            "Todesanzeigen Tirol pro Bundesland pro Woche seit Juni 2016"
+            "Todesanzeigen Tirol pro Bundesland pro Monat seit Juni 2016"
         ]
     }
 }

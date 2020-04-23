@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-7384791ecb770af4244d2ab5866a910d"
+        "name": "data-9428c939d3a7eb4622139a11e4b8a4c6"
     },
     "datasets": {
-        "data-7384791ecb770af4244d2ab5866a910d": [
+        "data-9428c939d3a7eb4622139a11e4b8a4c6": [
             {
                 "count": 2,
                 "date": "2016-06-02T00:00:00",
@@ -12907,10 +12907,40 @@
                 "municipaly": "Hainzenberg"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-19T00:00:00",
                 "district": "Schwaz",
                 "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Vomp"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Eben am Achensee"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Jenbach"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Schwaz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Schwaz",
+                "municipaly": "Terfens"
             }
         ]
     },

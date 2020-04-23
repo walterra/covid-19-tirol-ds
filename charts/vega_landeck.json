@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-8064884da74f7024dc96055818702b78"
+        "name": "data-4d623253017c02f3efca91ec9af03d83"
     },
     "datasets": {
-        "data-8064884da74f7024dc96055818702b78": [
+        "data-4d623253017c02f3efca91ec9af03d83": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -7937,6 +7937,18 @@
                 "date": "2020-04-19T00:00:00",
                 "district": "Landeck",
                 "municipaly": "Strengen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Nauders"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-22T00:00:00",
+                "district": "Landeck",
+                "municipaly": "Flie\u00df"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-b264f6652957518bcacd63acc4da7e72"
+        "name": "data-a2c000c13792c1a1cab1a6370fcac8c2"
     },
     "datasets": {
-        "data-b264f6652957518bcacd63acc4da7e72": [
+        "data-a2c000c13792c1a1cab1a6370fcac8c2": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -10376,9 +10376,33 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Obertilliach"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-20T00:00:00",
                 "district": "Lienz",
                 "municipaly": "Lienz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Strassen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Kals am Gro\u00dfglockner"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Lienz",
+                "municipaly": "Nu\u00dfdorf-Debant"
             }
         ]
     },

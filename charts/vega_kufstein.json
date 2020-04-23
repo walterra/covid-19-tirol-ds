@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-933320d79c745ac33d4f0b7e81c0de51"
+        "name": "data-ba5c99b65fead32dbce78fc8c271a26e"
     },
     "datasets": {
-        "data-933320d79c745ac33d4f0b7e81c0de51": [
+        "data-ba5c99b65fead32dbce78fc8c271a26e": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16381,7 +16381,7 @@
                 "municipaly": "Reith im Alpbachtal"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "W\u00f6rgl"
@@ -16397,6 +16397,42 @@
                 "date": "2020-04-19T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Brixlegg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Ebbs"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-19T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Langkampfen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Bad H\u00e4ring"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kundl"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Schwoich"
             }
         ]
     },

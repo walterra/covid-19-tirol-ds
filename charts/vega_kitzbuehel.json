@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-d01c7ca73aacd77a066431a100fb79c2"
+        "name": "data-0af42d1c6506fbef4c45a09c110f2bd6"
     },
     "datasets": {
-        "data-d01c7ca73aacd77a066431a100fb79c2": [
+        "data-0af42d1c6506fbef4c45a09c110f2bd6": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -11336,6 +11336,12 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-15T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-17T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "St. Johann in Tirol"
@@ -11354,6 +11360,12 @@
             },
             {
                 "count": 1,
+                "date": "2020-04-18T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "St. Johann in Tirol"
+            },
+            {
+                "count": 1,
                 "date": "2020-04-19T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Hopfgarten im Brixental"
@@ -11363,6 +11375,30 @@
                 "date": "2020-04-19T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Westendorf"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Waidring"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Westendorf"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-22T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Oberndorf in Tirol"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-4553aa80e1a51f65863415e359a52c4e"
+        "name": "data-365b6c5ebea81347b24ba1a38b57fcf1"
     },
     "datasets": {
-        "data-4553aa80e1a51f65863415e359a52c4e": [
+        "data-365b6c5ebea81347b24ba1a38b57fcf1": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7864,7 +7864,19 @@
                 "count": 1,
                 "date": "2020-04-20T00:00:00",
                 "district": "Imst",
+                "municipaly": "L\u00e4ngenfeld"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Imst",
                 "municipaly": "Oetz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Imst",
+                "municipaly": "Silz"
             }
         ]
     },

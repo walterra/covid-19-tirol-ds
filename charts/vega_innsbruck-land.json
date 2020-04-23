@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-3f881509a62f88eb0f3534e3788a14bf"
+        "name": "data-a63d19da58cfd8239bda52aaedf508ea"
     },
     "datasets": {
-        "data-3f881509a62f88eb0f3534e3788a14bf": [
+        "data-a63d19da58cfd8239bda52aaedf508ea": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -22120,6 +22120,12 @@
                 "count": 1,
                 "date": "2020-04-16T00:00:00",
                 "district": "Innsbruck-Land",
+                "municipaly": "Rum"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-16T00:00:00",
+                "district": "Innsbruck-Land",
                 "municipaly": "Telfs"
             },
             {
@@ -22165,13 +22171,13 @@
                 "municipaly": "Pettnau"
             },
             {
-                "count": 2,
+                "count": 3,
                 "date": "2020-04-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Seefeld in Tirol"
             },
             {
-                "count": 1,
+                "count": 2,
                 "date": "2020-04-18T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Telfs"
@@ -22181,6 +22187,36 @@
                 "date": "2020-04-19T00:00:00",
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Matrei am Brenner"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-20T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Pfons"
+            },
+            {
+                "count": 2,
+                "date": "2020-04-20T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Wattens"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-21T00:00:00",
+                "district": "Innsbruck-Land",
+                "municipaly": "St. Sigmund im Sellrain"
             }
         ]
     },

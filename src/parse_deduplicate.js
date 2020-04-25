@@ -61,11 +61,6 @@ Object.keys(countByYear).forEach(y => {
   console.log(`${y}: ${countByYear[y]}`);
 })
 
-// write count by year as JSON
-fs.writeFile(`./data/count_by_year.json`, JSON.stringify(countByYear, null, 2), 'utf8', (err) => {
-  if (err) return console.log(err);
-})
-
 moment.locale('at')
 
 // adds year and week columns
@@ -82,6 +77,20 @@ const dedupedWithYearWeek = dedupe.map(line => {
     ...row
   ];
 });
+
+const latestDate = dedupedWithYearWeek[0][0];
+
+const metadata = {
+  countByYear,
+  latestDate
+};
+
+
+// write count by year as JSON
+fs.writeFile(`./docs/data/metadata.json`, JSON.stringify(metadata, null, 2), 'utf8', (err) => {
+  if (err) return console.log(err);
+});
+
 
 const data = `date,year,week,municipaly,district,hash\n${dedupedWithYearWeek.join('\n')}`;
 

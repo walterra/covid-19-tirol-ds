@@ -11,8 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "notebook": "jupyter nbconvert --execute jupyter-notebooks/vega.ipynb",
-    "notebook-week": "jupyter nbconvert --execute jupyter-notebooks/vega-week.ipynb",
+    "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-monthly && npm run notebook-weekly",
+    "notebook-monthly": "jupyter nbconvert --execute jupyter-notebooks/vega.ipynb --stdout > docs/jupyter-notebook-monthly.html",
+    "notebook-weekly": "jupyter nbconvert --execute jupyter-notebooks/vega-week.ipynb --stdout > docs/jupyter-notebook-weekly.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

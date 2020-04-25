@@ -3,6 +3,10 @@ const cheerio = require('cheerio')
 const fs = require('fs');
 const hashCode = require('./hash');
 
+const {
+  PARSE_WRITE_DIR_NAME,
+} = require('./lib');
+
 // remove node and command from args list
 var cliArgs = process.argv.slice(2);
 
@@ -102,7 +106,7 @@ fs.readdir(dir, (err, files) => {
   console.log(`Number of cases: ${data.length - 1}`);
 
   // write the CSV file, use the directory name as the filename
-  fs.writeFile(`./data/${dirName}.csv`, data.join('\n'), 'utf8', (err) => {
+  fs.writeFile(`./${PARSE_WRITE_DIR_NAME}/${dirName}.csv`, data.join('\n'), 'utf8', (err) => {
     if (err) return console.log(err);
     console.log('Done.');
   })

@@ -1,3 +1,5 @@
 node_modules/
 scrape/scrape_*/
-data/scrape_*.csv
+scrape_bak_*/scrape_*/
+parse/scrape_*.csv
+parse_bak_*/scrape_*.csv

@@ -4,7 +4,21 @@ const fs = require('fs');
 const glob = require('glob');
 const moment = require('moment');
 
-const rows = glob.sync("./data/scrape*.csv").flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
+const deduped_filename = './data/tirol_obituaries_deduped.csv';
+
+const rows_existing = glob.sync(deduped_filename).flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
+// remove the CSV header row
+rows_existing.shift();
+// remove year and week, we'll add them again after deduplication
+const rows_existing_dedupe_format = rows_existing.map(row => {
+  const d = row.split(',');
+  d.splice(1,2);
+  return d.join(',');
+})
+
+const rows_new = glob.sync("./parse/scrape*.csv").flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
+
+const rows = [...rows_existing_dedupe_format, ...rows_new];
 
 console.log(`Running deduplication ...`);
 console.log(`rows: ${rows.length}`);
@@ -72,7 +86,7 @@ const dedupedWithYearWeek = dedupe.map(line => {
 const data = `date,year,week,municipaly,district,hash\n${dedupedWithYearWeek.join('\n')}`;
 
 // write the CSV file
-fs.writeFile(`./data/tirol_obituaries_deduped.csv`, data, 'utf8', (err) => {
+fs.writeFile(deduped_filename, data, 'utf8', (err) => {
   if (err) return console.log(err);
   console.log('Done.');
 })

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-242c4873c3f87297ec699577dc79f799"
+        "name": "data-94c20174d5a8ed46f10683303c601018"
     },
     "datasets": {
-        "data-242c4873c3f87297ec699577dc79f799": [
+        "data-94c20174d5a8ed46f10683303c601018": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -16463,6 +16463,12 @@
                 "date": "2020-04-24T00:00:00",
                 "district": "Kufstein",
                 "municipaly": "Brixlegg"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-25T00:00:00",
+                "district": "Kufstein",
+                "municipaly": "Kirchbichl"
             }
         ]
     },

@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-801967ca1a7cc512f9484c26b0a1fb1a"
+        "name": "data-d9389a85394c3425f708ff1115f47176"
     },
     "datasets": {
-        "data-801967ca1a7cc512f9484c26b0a1fb1a": [
+        "data-d9389a85394c3425f708ff1115f47176": [
             {
                 "count": 1,
                 "date": "2016-06-02T00:00:00",
@@ -11411,6 +11411,12 @@
                 "date": "2020-04-23T00:00:00",
                 "district": "Kitzb\u00fchel",
                 "municipaly": "K\u00f6ssen"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-24T00:00:00",
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Kirchdorf in Tirol"
             }
         ]
     },

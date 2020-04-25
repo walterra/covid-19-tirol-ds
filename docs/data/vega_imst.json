@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-365b6c5ebea81347b24ba1a38b57fcf1"
+        "name": "data-7c42709d022d44322e76ca22a6cab726"
     },
     "datasets": {
-        "data-365b6c5ebea81347b24ba1a38b57fcf1": [
+        "data-7c42709d022d44322e76ca22a6cab726": [
             {
                 "count": 1,
                 "date": "2016-06-03T00:00:00",
@@ -7877,6 +7877,12 @@
                 "date": "2020-04-20T00:00:00",
                 "district": "Imst",
                 "municipaly": "Silz"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-24T00:00:00",
+                "district": "Imst",
+                "municipaly": "Imst"
             }
         ]
     },

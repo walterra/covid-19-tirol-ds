@@ -8,10 +8,10 @@
         }
     },
     "data": {
-        "name": "data-a255d420b6f993b6f8efed859a5d4120"
+        "name": "data-e3d00e7ed615d08612fcaec97ec84703"
     },
     "datasets": {
-        "data-a255d420b6f993b6f8efed859a5d4120": [
+        "data-e3d00e7ed615d08612fcaec97ec84703": [
             {
                 "count": 1,
                 "date": "2016-06-01T00:00:00",
@@ -46055,11 +46055,26 @@
             {
                 "count": 1,
                 "date": "2020-04-24T00:00:00",
+                "district": "Imst"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-24T00:00:00",
                 "district": "Innsbruck-Land"
             },
             {
                 "count": 1,
                 "date": "2020-04-24T00:00:00",
+                "district": "Kitzb\u00fchel"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-24T00:00:00",
+                "district": "Kufstein"
+            },
+            {
+                "count": 1,
+                "date": "2020-04-25T00:00:00",
                 "district": "Kufstein"
             }
         ]

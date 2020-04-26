@@ -1,5 +1,6 @@
+jupyter-notebooks/.*
 node_modules/
-scrape/scrape_*/
-scrape_bak_*/scrape_*/
 parse/scrape_*.csv
 parse_bak_*/scrape_*.csv
+scrape/scrape_*/
+scrape_bak_*/scrape_*/

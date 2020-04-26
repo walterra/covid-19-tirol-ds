@@ -1,10 +1,11 @@
 // cheerio is a jquery API inspired lib for nodejs
-const cheerio = require('cheerio')
+const d3 = require('d3-array');
 const fs = require('fs');
 const glob = require('glob');
 const moment = require('moment');
 
 const deduped_filename = './data/tirol_obituaries_deduped.csv';
+const deduped_filename_weekly = './data/tirol_obituaries_deduped_weekly.csv';
 
 const rows_existing = glob.sync(deduped_filename).flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
 // remove the CSV header row
@@ -85,17 +86,66 @@ const metadata = {
   latestDate
 };
 
+const years = ['2017', '2018', '2019', '2020'];
+const weeks = Array.apply(0, Array(52)).map((d, i) => i + 1);
+const columns = ['district','municipaly','year','week','count'];
+
+const filled = [];
+
+const grouped = d3.groups(dedupedWithYearWeek, d => d[4], d => d[3], d => d[1], d => d[2]);
+grouped.forEach(g1 => {
+  console.log(g1[0]);
+  const district = g1[0];
+  g1[1].forEach(g2 => {
+    console.log(`  ${g2[0]}`);
+    const municipaly = g2[0];
+    years.forEach(year => {
+      const g3 = g2[1].find(d => d[0] === year);
+
+      if (g3 === undefined) {
+        weeks.forEach(week => {
+          const row = [district, municipaly, year, week, 0];
+          filled.push(row.join(','));
+        });
+        return;
+      }
+
+
+    console.log(`    ${year}`);
+      weeks.forEach(week => {
+        const g4 = g3[1].find(d => d[0] === week);
+
+        if (g4 === undefined) {
+          const row = [district, municipaly, year, week, 0];
+          filled.push(row.join(','));
+          return;
+        }
+
+        const weekValue = g4[1].length;
+        const row = [district, municipaly, year, week, weekValue];
+        filled.push(row.join(','));
+      })
+    });
+  })
+});
 
 // write count by year as JSON
 fs.writeFile(`./docs/data/metadata.json`, JSON.stringify(metadata, null, 2), 'utf8', (err) => {
   if (err) return console.log(err);
 });
 
-
 const data = `date,year,week,municipaly,district,hash\n${dedupedWithYearWeek.join('\n')}`;
 
 // write the CSV file
 fs.writeFile(deduped_filename, data, 'utf8', (err) => {
+  if (err) return console.log(err);
+  console.log('Done.');
+})
+
+const data_weekly = `${columns.join(',')}\n${filled.join('\n')}`;
+
+// write the CSV file
+fs.writeFile(deduped_filename_weekly, data_weekly, 'utf8', (err) => {
   if (err) return console.log(err);
   console.log('Done.');
 })

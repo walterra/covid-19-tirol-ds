@@ -6,12 +6,13 @@
   "dependencies": {
     "apify": "^0.20.2",
     "cheerio": "^1.0.0-rc.3",
+    "d3-array": "^2.4.0",
     "glob": "^7.1.6",
     "moment": "^2.24.0"
   },
   "devDependencies": {},
   "scripts": {
-    "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-monthly && npm run notebook-weekly",
+    "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-weekly",
     "notebook-monthly": "jupyter nbconvert --execute jupyter-notebooks/vega-monthly.ipynb --stdout > docs/jupyter-notebook-monthly.html",
     "notebook-weekly": "jupyter nbconvert --execute jupyter-notebooks/vega-weekly.ipynb --stdout > docs/jupyter-notebook-weekly.html",
     "test": "echo \"Error: no test specified\" && exit 1"

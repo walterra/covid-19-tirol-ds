@@ -39,7 +39,6 @@ function loadVega(f, id) {
 $(document).ready(function(){
   loadVega('week', 'vega_week');
   loadVega('week_district', 'vega_week_district');
-  loadVega('districts', 'vega_districts');
   loadVega(defaultDistrict, 'vega_drilldown');
 
   var $dropdown = $("#select_district");

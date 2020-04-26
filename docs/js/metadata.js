@@ -17,8 +17,6 @@ $(document).ready(function(){
 
     $('#latestDate').html(latestDate);
 
-    console.log('countByYear', countByYear);
-
     const p2017 = Math.round(countByYear['2017'] / countByYearReference['2017'] * 10000) / 100;
     const p2018 = Math.round(countByYear['2018'] / countByYearReference['2018'] * 10000) / 100;
 

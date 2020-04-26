@@ -1,4 +1,5 @@
 jupyter-notebooks/.*
+jupyter-notebooks/elasticsearch-host
 node_modules/
 parse/scrape_*.csv
 parse_bak_*/scrape_*.csv

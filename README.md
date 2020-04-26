@@ -11,8 +11,9 @@ The aim of this project is to collect, clean and represent this data in a way so
 Charts and Analysis Results:
 [walterra.github.io/covid-19-tirol-ds](https://walterra.github.io/covid-19-tirol-ds)
 
-![Todesanzeigen Tirol pro Bundesland pro Monat seit Juni 2016](assets/obituaries_by_district.png)
-
+![Todesanzeigen Tirol pro Woche](assets/vega_week.png)
+![Todesanzeigen Tirol pro Bezirk pro Woche](assets/vega_week_district.png)
+![Todesanzeigen Tirol pro Gemeinde pro Woche in Landeck](assets/vega_week_municipaly.png)
 
 ## Crawling
 

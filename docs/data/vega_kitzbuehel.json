@@ -33522,9 +33522,9 @@
                 "height": 60,
                 "mark": {
                     "color": "red",
-                    "opacity": 1,
-                    "size": 50,
-                    "strokeWidth": 1.5,
+                    "opacity": 0.4,
+                    "size": 60,
+                    "strokeWidth": 3,
                     "type": "point"
                 },
                 "transform": [
@@ -33556,20 +33556,20 @@
                 "encoding": {
                     "tooltip": [
                         {
-                            "field": "year",
-                            "type": "quantitative"
-                        },
-                        {
                             "field": "week",
-                            "type": "quantitative"
+                            "title": "Kalenderwoche",
+                            "type": "ordinal"
                         },
                         {
                             "aggregate": "sum",
                             "field": "count",
+                            "title": "Todesanzeigen",
                             "type": "quantitative"
                         },
                         {
                             "field": "outlier_score",
+                            "format": ".2%",
+                            "title": "Outlier-Score",
                             "type": "quantitative"
                         }
                     ],

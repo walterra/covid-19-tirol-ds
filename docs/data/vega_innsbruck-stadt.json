@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-308b8a29fccdf655febd6e8c41a60299"
+        "name": "data-b513f75d3122bc1597ab39bf008ab6c8"
     },
     "datasets": {
-        "data-308b8a29fccdf655febd6e8c41a60299": [
+        "data-b513f75d3122bc1597ab39bf008ab6c8": [
             {
                 "count": 21,
                 "district": "Innsbruck-Stadt",
@@ -1364,7 +1364,7 @@
                 "year": 2020
             },
             {
-                "count": 13,
+                "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "outlier_score": 0.06126832589507103,
@@ -1404,7 +1404,7 @@
                 "year": 2020
             },
             {
-                "count": 4,
+                "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "outlier_score": null,
@@ -1906,9 +1906,9 @@
                 "height": 60,
                 "mark": {
                     "color": "red",
-                    "opacity": 1,
-                    "size": 50,
-                    "strokeWidth": 1.5,
+                    "opacity": 0.4,
+                    "size": 60,
+                    "strokeWidth": 3,
                     "type": "point"
                 },
                 "transform": [
@@ -1940,20 +1940,20 @@
                 "encoding": {
                     "tooltip": [
                         {
-                            "field": "year",
-                            "type": "quantitative"
-                        },
-                        {
                             "field": "week",
-                            "type": "quantitative"
+                            "title": "Kalenderwoche",
+                            "type": "ordinal"
                         },
                         {
                             "aggregate": "sum",
                             "field": "count",
+                            "title": "Todesanzeigen",
                             "type": "quantitative"
                         },
                         {
                             "field": "outlier_score",
+                            "format": ".2%",
+                            "title": "Outlier-Score",
                             "type": "quantitative"
                         }
                     ],

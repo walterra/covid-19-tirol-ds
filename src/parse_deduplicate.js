@@ -1,11 +1,19 @@
-// cheerio is a jquery API inspired lib for nodejs
 const d3 = require('d3-array');
 const fs = require('fs');
 const glob = require('glob');
 const moment = require('moment');
 
+const filename_municipaly_population = './assets/gemeinden_einwohner_2020.csv';
 const deduped_filename = './data/tirol_obituaries_deduped.csv';
 const deduped_filename_weekly = './data/tirol_obituaries_deduped_weekly.csv';
+const deduped_filename_weekly_outlier_detection_features = './data/tirol_obituaries_deduped_weekly_outlier_detection_features.csv';
+
+const municipaly_population_arr = glob.sync(filename_municipaly_population).flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
+const municipaly_population_map = {};
+municipaly_population_arr.forEach(row => {
+  const [municipaly, population] = row.split(',');
+  municipaly_population_map[municipaly] = population;
+})
 
 const rows_existing = glob.sync(deduped_filename).flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
 // remove the CSV header row
@@ -88,16 +96,12 @@ const metadata = {
 
 const years = ['2017', '2018', '2019', '2020'];
 const weeks = Array.apply(0, Array(52)).map((d, i) => i + 1);
-const columns = ['district','municipaly','year','week','count'];
-
 const filled = [];
 
 const grouped = d3.groups(dedupedWithYearWeek, d => d[4], d => d[3], d => d[1], d => d[2]);
 grouped.forEach(g1 => {
-  console.log(g1[0]);
   const district = g1[0];
   g1[1].forEach(g2 => {
-    console.log(`  ${g2[0]}`);
     const municipaly = g2[0];
     years.forEach(year => {
       const g3 = g2[1].find(d => d[0] === year);
@@ -105,28 +109,95 @@ grouped.forEach(g1 => {
       if (g3 === undefined) {
         weeks.forEach(week => {
           const row = [district, municipaly, year, week, 0];
-          filled.push(row.join(','));
+          filled.push(row);
         });
         return;
       }
 
-
-    console.log(`    ${year}`);
       weeks.forEach(week => {
         const g4 = g3[1].find(d => d[0] === week);
 
         if (g4 === undefined) {
           const row = [district, municipaly, year, week, 0];
-          filled.push(row.join(','));
+          filled.push(row);
           return;
         }
 
         const weekValue = g4[1].length;
         const row = [district, municipaly, year, week, weekValue];
-        filled.push(row.join(','));
+        filled.push(row);
       })
     });
   })
+});
+
+yearly_stats = {};
+weekly_stats = [];
+
+const groupedOutlierYears = d3.groups(filled, d => d[1], d => d[2], d => d[3]);
+groupedOutlierYears.forEach(g1 => {
+  const municipaly = g1[0];
+
+  g1[1].forEach(g2 => {
+    const year = g2[0];
+    if (year !== '2020') {
+      counts = g2[1].map(d => d[1][0]).map(d => d[4]);
+      const yearly_mean = d3.mean(counts);
+      const yearly_min = d3.min(counts);
+      const yearly_max = d3.max(counts);
+      yearly_stats[municipaly] = { yearly_mean, yearly_min, yearly_max };
+    }
+  });
+});
+
+const groupedOutlierWeeks = d3.groups(filled, d => d[1], d => d[3], d => d[2]);
+groupedOutlierWeeks.forEach(g1 => {
+  const municipaly = g1[0];
+
+  g1[1].forEach(g2 => {
+    const week = g2[0];
+    // get the weekly counts and remove 2020
+    counts = g2[1].map(d => d[1][0]).map(d => d[4]).splice(0,3);
+    const weekly_mean = d3.mean(counts);
+    const weekly_min = d3.min(counts);
+    const weekly_max = d3.max(counts);
+    weekly_stats.push({ municipaly, week, weekly_mean, weekly_min, weekly_max });
+  });
+});
+
+const filled_weekly = filled.filter(row => {
+  const year = row[2];
+  const week = row[3];
+  return year === '2020' && week < 18;
+
+}).map(row => {
+  const municipaly = row[1];
+  const week = row[3];
+  const count = row[4];
+
+  const { yearly_mean, yearly_min, yearly_max } = yearly_stats[municipaly];
+  const { weekly_mean, weekly_min, weekly_max } = weekly_stats.find(w => w.municipaly === municipaly && w.week === week);
+
+  if (municipaly_population_map[municipaly] === undefined) {
+    console.error(`Municipaly "${municipaly}" not found.`);
+    process.exit()
+  }
+
+  function normalizeByPopulation(num) {
+    const countDiff = Math.max(0, count - num);
+    return countDiff;
+    // normalization by population didn't turn out to be useful/necessary.
+    // const norm = countDiff / municipaly_population_map[municipaly];
+    // return Math.round( norm * 10000000000 + Number.EPSILON ) / 10000000000;
+  }
+
+  return [
+    ...row,
+    ...[
+      yearly_max,
+      weekly_max,
+    ].map(normalizeByPopulation),
+  ];
 });
 
 // write count by year as JSON
@@ -134,21 +205,35 @@ fs.writeFile(`./docs/data/metadata.json`, JSON.stringify(metadata, null, 2), 'ut
   if (err) return console.log(err);
 });
 
-const data = `date,year,week,municipaly,district,hash\n${dedupedWithYearWeek.join('\n')}`;
+const columns = ['date','year','week','municipaly','district','hash'];
+const data = `${columns.join(',')}\n${dedupedWithYearWeek.join('\n')}`;
 
 // write the CSV file
 fs.writeFile(deduped_filename, data, 'utf8', (err) => {
   if (err) return console.log(err);
-  console.log('Done.');
+  console.log(`Saved: ${deduped_filename}`);
 })
 
-const data_weekly = `${columns.join(',')}\n${filled.join('\n')}`;
+const columns_weekly = ['district','municipaly','year','week','count'];
+const data_weekly = `${columns_weekly.join(',')}\n${filled.map(d => d.join(',')).join('\n')}`;
 
 // write the CSV file
 fs.writeFile(deduped_filename_weekly, data_weekly, 'utf8', (err) => {
   if (err) return console.log(err);
-  console.log('Done.');
+  console.log(`Saved: ${deduped_filename_weekly}`);
 })
+
+const columns_outlier_detection = ['district','municipaly','year','week','count', 'yearly_max', 'weekly_max'];
+const data_outlier_detection = `${columns_outlier_detection.join(',')}\n${filled_weekly.map(d => d.join(',')).join('\n')}`;
+
+// write the CSV file
+fs.writeFile(deduped_filename_weekly_outlier_detection_features, data_outlier_detection, 'utf8', (err) => {
+  if (err) return console.log(err);
+  console.log(`Saved: ${deduped_filename_weekly_outlier_detection_features}`);
+})
+
+
+
 
 
 

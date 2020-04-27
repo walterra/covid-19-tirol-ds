@@ -144,8 +144,17 @@ groupedOutlierYears.forEach(g1 => {
       counts = g2[1].map(d => d[1][0]).map(d => d[4]);
       const yearly_mean = d3.mean(counts);
       const yearly_min = d3.min(counts);
+      const yearly_min_count = counts.filter(d => d === yearly_min).length;
       const yearly_max = d3.max(counts);
-      yearly_stats[municipaly] = { yearly_mean, yearly_min, yearly_max };
+      const yearly_max_count = counts.filter(d => d === yearly_max).length;
+      yearly_stats[municipaly] = {
+        yearly_mean,
+        yearly_min,
+        yearly_min_count,
+        yearly_min_count,
+        yearly_max,
+        yearly_max_count
+      };
     }
   });
 });
@@ -160,8 +169,18 @@ groupedOutlierWeeks.forEach(g1 => {
     counts = g2[1].map(d => d[1][0]).map(d => d[4]).splice(0,3);
     const weekly_mean = d3.mean(counts);
     const weekly_min = d3.min(counts);
+    const weekly_min_count = counts.filter(d => d === weekly_min).length;
     const weekly_max = d3.max(counts);
-    weekly_stats.push({ municipaly, week, weekly_mean, weekly_min, weekly_max });
+    const weekly_max_count = counts.filter(d => d === weekly_max).length;
+    weekly_stats.push({
+      municipaly,
+      week,
+      weekly_mean,
+      weekly_min,
+      weekly_min_count,
+      weekly_max,
+      weekly_max_count
+    });
   });
 });
 
@@ -175,28 +194,29 @@ const filled_weekly = filled.filter(row => {
   const week = row[3];
   const count = row[4];
 
-  const { yearly_mean, yearly_min, yearly_max } = yearly_stats[municipaly];
-  const { weekly_mean, weekly_min, weekly_max } = weekly_stats.find(w => w.municipaly === municipaly && w.week === week);
+  const { yearly_mean, yearly_mean_count, yearly_max, yearly_max_count } = yearly_stats[municipaly];
+  const { weekly_mean, weekly_mean_count, weekly_max, weekly_max_count } = weekly_stats.find(w => w.municipaly === municipaly && w.week === week);
 
   if (municipaly_population_map[municipaly] === undefined) {
     console.error(`Municipaly "${municipaly}" not found.`);
     process.exit()
   }
 
-  function normalizeByPopulation(num) {
-    const countDiff = Math.max(0, count - num);
-    return countDiff;
-    // normalization by population didn't turn out to be useful/necessary.
-    // const norm = countDiff / municipaly_population_map[municipaly];
-    // return Math.round( norm * 10000000000 + Number.EPSILON ) / 10000000000;
+  function adjust(num) {
+    return Math.round( num * 10000000000 + Number.EPSILON ) / 10000000000;
   }
+
+  const yearly_max_adjust = adjust(Math.max(0, count - yearly_max) / Math.max(yearly_max_count,1) / 52);
+  const weekly_max_adjust = adjust(Math.max(0, count - weekly_max) / Math.max(weekly_max_count,1));
+  const yearly_mean_adjust = adjust(Math.max(0, count - yearly_mean) / Math.max(yearly_max,1) / 52);
+  const weekly_mean_adjust = adjust(Math.max(0, count - weekly_mean) / Math.max(weekly_max,1));
 
   return [
     ...row,
-    ...[
-      yearly_max,
-      weekly_max,
-    ].map(normalizeByPopulation),
+    yearly_max_adjust,
+    yearly_mean_adjust,
+    weekly_max_adjust,
+    weekly_mean_adjust,
   ];
 });
 
@@ -223,7 +243,17 @@ fs.writeFile(deduped_filename_weekly, data_weekly, 'utf8', (err) => {
   console.log(`Saved: ${deduped_filename_weekly}`);
 })
 
-const columns_outlier_detection = ['district','municipaly','year','week','count', 'yearly_max', 'weekly_max'];
+const columns_outlier_detection = [
+  'district',
+  'municipaly',
+  'year',
+  'week',
+  'count',
+  'yearly_max_diff',
+  'yearly_mean_diff',
+  'weekly_max_diff',
+  'weekly_mean_diff',
+];
 const data_outlier_detection = `${columns_outlier_detection.join(',')}\n${filled_weekly.map(d => d.join(',')).join('\n')}`;
 
 // write the CSV file

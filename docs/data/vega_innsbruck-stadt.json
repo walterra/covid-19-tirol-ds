@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-b513f75d3122bc1597ab39bf008ab6c8"
+        "name": "data-e49f313b6d2104abb27f5aedab7496b9"
     },
     "datasets": {
-        "data-b513f75d3122bc1597ab39bf008ab6c8": [
+        "data-e49f313b6d2104abb27f5aedab7496b9": [
             {
                 "count": 21,
                 "district": "Innsbruck-Stadt",
@@ -1279,7 +1279,7 @@
                 "count": 20,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 1,
                 "year": 2020
             },
@@ -1287,7 +1287,7 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.07775598019361496,
+                "outlier_score": 0.995023250579834,
                 "week": 2,
                 "year": 2020
             },
@@ -1295,7 +1295,7 @@
                 "count": 30,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9974444508552551,
+                "outlier_score": 0.9986892938613892,
                 "week": 3,
                 "year": 2020
             },
@@ -1311,7 +1311,7 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 5,
                 "year": 2020
             },
@@ -1319,7 +1319,7 @@
                 "count": 26,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9812955260276794,
+                "outlier_score": 0.9979584217071533,
                 "week": 6,
                 "year": 2020
             },
@@ -1327,7 +1327,7 @@
                 "count": 18,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 7,
                 "year": 2020
             },
@@ -1335,7 +1335,7 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 8,
                 "year": 2020
             },
@@ -1343,7 +1343,7 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 9,
                 "year": 2020
             },
@@ -1351,7 +1351,7 @@
                 "count": 18,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9812955260276794,
+                "outlier_score": 0.9979584217071533,
                 "week": 10,
                 "year": 2020
             },
@@ -1359,7 +1359,7 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 11,
                 "year": 2020
             },
@@ -1367,7 +1367,7 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 12,
                 "year": 2020
             },
@@ -1375,7 +1375,7 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 13,
                 "year": 2020
             },
@@ -1383,7 +1383,7 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 14,
                 "year": 2020
             },
@@ -1391,20 +1391,20 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.06126832589507103,
+                "outlier_score": 0.05289553850889206,
                 "week": 15,
                 "year": 2020
             },
             {
-                "count": 18,
+                "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.07775598019361496,
+                "outlier_score": 0.9641247987747192,
                 "week": 16,
                 "year": 2020
             },
             {
-                "count": 5,
+                "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "outlier_score": null,
@@ -1738,9 +1738,12 @@
                 },
                 "height": 60,
                 "mark": {
-                    "color": "lightgray",
-                    "opacity": 0.5,
+                    "fill": "lightgray",
+                    "opacity": 0.35,
+                    "stroke": "lightgray",
                     "strokeJoin": "round",
+                    "strokeOpacity": 0.35,
+                    "strokeWidth": 1,
                     "type": "area"
                 },
                 "transform": [
@@ -1858,7 +1861,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<17"
+                        "filter": "datum.year==2020 & datum.week<18"
                     },
                     {
                         "groupby": [
@@ -1913,7 +1916,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<17 & datum.outlier_score>=0.8"
+                        "filter": "datum.year==2020 & datum.week<18 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -1992,7 +1995,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<17"
+                        "filter": "datum.year==2020 & datum.week<18"
                     }
                 ],
                 "width": 150

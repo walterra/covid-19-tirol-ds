@@ -1,14 +1,32 @@
 date,year,week,municipaly,district,hash
+27.04.2020,2020,18,Weißenbach am Lech,Reutte,580265885
+27.04.2020,2020,18,Hochfilzen,Kitzbühel,-537866499
+27.04.2020,2020,18,St. Leonhard im Pitztal,Imst,741957545
+27.04.2020,2020,18,Ischgl,Landeck,1257804457
+26.04.2020,2020,17,Ranggen,Innsbruck-Land,441606063
+26.04.2020,2020,17,Gnadenwald,Innsbruck-Land,-982824700
+26.04.2020,2020,17,Schwaz,Schwaz,-2073442078
+26.04.2020,2020,17,Uderns,Schwaz,1514402432
+26.04.2020,2020,17,Erl,Kufstein,611084804
+26.04.2020,2020,17,Weißenbach am Lech,Reutte,1688381466
+26.04.2020,2020,17,Oberlienz,Lienz,-1905493246
+26.04.2020,2020,17,St. Ulrich am Pillersee,Kitzbühel,1741768407
 25.04.2020,2020,17,Kirchbichl,Kufstein,-1138806659
 25.04.2020,2020,17,Schwaz,Schwaz,1043290923
 25.04.2020,2020,17,Radfeld,Kufstein,1579384421
 25.04.2020,2020,17,Innsbruck,Innsbruck-Stadt,1481371814
 25.04.2020,2020,17,Niederndorf,Kufstein,-1717919509
 25.04.2020,2020,17,Kufstein,Kufstein,-694055347
+25.04.2020,2020,17,Wattens,Innsbruck-Land,1521343397
+25.04.2020,2020,17,Wattens,Innsbruck-Land,-1779725467
+25.04.2020,2020,17,Grän,Reutte,-1808575232
+25.04.2020,2020,17,Arzl im Pitztal,Imst,-1514976089
+25.04.2020,2020,17,Steeg,Reutte,1494543713
 24.04.2020,2020,17,Scharnitz,Innsbruck-Land,1031359887
 24.04.2020,2020,17,Brixlegg,Kufstein,32754731
 24.04.2020,2020,17,Imst,Imst,906324371
 24.04.2020,2020,17,Kirchdorf in Tirol,Kitzbühel,-2057210129
+24.04.2020,2020,17,Innsbruck,Innsbruck-Stadt,1175553743
 23.04.2020,2020,17,Kössen,Kitzbühel,845716956
 23.04.2020,2020,17,Zirl,Innsbruck-Land,-1850120446
 23.04.2020,2020,17,Kematen in Tirol,Innsbruck-Land,1877413356
@@ -24,6 +42,8 @@ date,year,week,municipaly,district,hash
 23.04.2020,2020,17,Schwoich,Kufstein,1944686057
 23.04.2020,2020,17,Lienz,Lienz,89352829
 23.04.2020,2020,17,Breitenbach am Inn,Kufstein,676992789
+23.04.2020,2020,17,Obsteig,Imst,-1613695673
+23.04.2020,2020,17,Kirchdorf in Tirol,Kitzbühel,-140410235
 22.04.2020,2020,17,Fließ,Landeck,425347311
 22.04.2020,2020,17,Prutz,Landeck,-1637083781
 22.04.2020,2020,17,Fügen,Schwaz,1006714284
@@ -63,6 +83,7 @@ date,year,week,municipaly,district,hash
 20.04.2020,2020,17,Bad Häring,Kufstein,-1681015161
 20.04.2020,2020,17,Waidring,Kitzbühel,-1857366640
 20.04.2020,2020,17,Strassen,Lienz,-1364217501
+20.04.2020,2020,17,Innsbruck,Innsbruck-Stadt,-709267581
 19.04.2020,2020,16,Wattens,Innsbruck-Land,371002069
 19.04.2020,2020,16,Mieming,Imst,-1220692996
 19.04.2020,2020,16,Strengen,Landeck,-517399111
@@ -80,6 +101,7 @@ date,year,week,municipaly,district,hash
 19.04.2020,2020,16,Obertilliach,Lienz,1363466538
 19.04.2020,2020,16,Ebbs,Kufstein,421186798
 19.04.2020,2020,16,Langkampfen,Kufstein,1828076739
+19.04.2020,2020,16,Innsbruck,Innsbruck-Stadt,-1925155678
 18.04.2020,2020,16,Pettnau,Innsbruck-Land,980269148
 18.04.2020,2020,16,Seefeld in Tirol,Innsbruck-Land,-382766737
 18.04.2020,2020,16,Seefeld in Tirol,Innsbruck-Land,-1873267871
@@ -114,6 +136,7 @@ date,year,week,municipaly,district,hash
 17.04.2020,2020,16,Wörgl,Kufstein,-1876308430
 17.04.2020,2020,16,Wörgl,Kufstein,-1723116892
 17.04.2020,2020,16,Kitzbühel,Kitzbühel,42014780
+17.04.2020,2020,16,Lienz,Lienz,102127377
 16.04.2020,2020,16,Landeck,Landeck,-551146413
 16.04.2020,2020,16,Jenbach,Schwaz,-600402076
 16.04.2020,2020,16,Absam,Innsbruck-Land,-857323932

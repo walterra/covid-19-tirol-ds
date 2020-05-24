@@ -12,6 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "crawl": "./bin/crawl_all.sh",
+    "parse": "./bin/parse.sh",
     "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-weekly",
     "notebook-monthly": "jupyter nbconvert --execute jupyter-notebooks/vega-monthly.ipynb --stdout > docs/jupyter-notebook-monthly.html",
     "notebook-weekly": "jupyter nbconvert --execute jupyter-notebooks/vega-weekly.ipynb --stdout > docs/jupyter-notebook-weekly.html",

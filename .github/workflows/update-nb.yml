@@ -43,7 +43,9 @@ jobs:
       id: update_nb
       run: |
         npm install
-        npm run crawl_parse_analyse
+        npm run crawl
+        npm run parse
+        npm run notebook-weekly
 
     - name: save notebooks & images
       run: |

@@ -187,7 +187,7 @@ groupedOutlierWeeks.forEach(g1 => {
 const filled_weekly = filled.filter(row => {
   const year = row[2];
   const week = row[3];
-  return year === '2020' && week < 18;
+  return year === '2020' && week <= moment().isoWeek();
 
 }).map(row => {
   const municipaly = row[1];

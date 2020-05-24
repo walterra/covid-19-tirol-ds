@@ -3,10 +3,12 @@ const fs = require('fs');
 const glob = require('glob');
 const moment = require('moment');
 
-const filename_municipaly_population = './assets/gemeinden_einwohner_2020.csv';
-const deduped_filename = './data/tirol_obituaries_deduped.csv';
-const deduped_filename_weekly = './data/tirol_obituaries_deduped_weekly.csv';
-const deduped_filename_weekly_outlier_detection_features = './data/tirol_obituaries_deduped_weekly_outlier_detection_features.csv';
+console.log('__dirname', __dirname);
+
+const filename_municipaly_population = __dirname + '/../assets/gemeinden_einwohner_2020.csv';
+const deduped_filename = __dirname + '/../data/tirol_obituaries_deduped.csv';
+const deduped_filename_weekly = __dirname + '/../data/tirol_obituaries_deduped_weekly.csv';
+const deduped_filename_weekly_outlier_detection_features = __dirname + '/../data/tirol_obituaries_deduped_weekly_outlier_detection_features.csv';
 
 const municipaly_population_arr = glob.sync(filename_municipaly_population).flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
 const municipaly_population_map = {};
@@ -25,7 +27,7 @@ const rows_existing_dedupe_format = rows_existing.map(row => {
   return d.join(',');
 })
 
-const rows_new = glob.sync("./parse/scrape*.csv").flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
+const rows_new = glob.sync(__dirname + '/../parse/scrape*.csv').flatMap((filename) => fs.readFileSync(filename, 'utf8').split('\n'));
 
 const rows = [...rows_existing_dedupe_format, ...rows_new];
 
@@ -221,7 +223,7 @@ const filled_weekly = filled.filter(row => {
 });
 
 // write count by year as JSON
-fs.writeFile(`./docs/data/metadata.json`, JSON.stringify(metadata, null, 2), 'utf8', (err) => {
+fs.writeFile(__dirname + '/../docs/data/metadata.json', JSON.stringify(metadata, null, 2), 'utf8', (err) => {
   if (err) return console.log(err);
 });
 

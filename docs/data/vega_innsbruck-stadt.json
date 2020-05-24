@@ -23,15 +23,14 @@
         }
     },
     "data": {
-        "name": "data-4d10b148f3d8601117e60f6412e61fe4"
+        "name": "data-48f3cc7bd665acb1b361e990d6114358"
     },
     "datasets": {
-        "data-4d10b148f3d8601117e60f6412e61fe4": [
+        "data-48f3cc7bd665acb1b361e990d6114358": [
             {
                 "count": 21,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 1,
                 "year": 2017
             },
@@ -39,7 +38,6 @@
                 "count": 21,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 2,
                 "year": 2017
             },
@@ -47,7 +45,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 3,
                 "year": 2017
             },
@@ -55,7 +52,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 4,
                 "year": 2017
             },
@@ -63,7 +59,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 5,
                 "year": 2017
             },
@@ -71,7 +66,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 6,
                 "year": 2017
             },
@@ -79,7 +73,6 @@
                 "count": 17,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 7,
                 "year": 2017
             },
@@ -87,7 +80,6 @@
                 "count": 4,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 8,
                 "year": 2017
             },
@@ -95,7 +87,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 9,
                 "year": 2017
             },
@@ -103,7 +94,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 10,
                 "year": 2017
             },
@@ -111,7 +101,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 11,
                 "year": 2017
             },
@@ -119,7 +108,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 12,
                 "year": 2017
             },
@@ -127,7 +115,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 13,
                 "year": 2017
             },
@@ -135,7 +122,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 14,
                 "year": 2017
             },
@@ -143,7 +129,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 15,
                 "year": 2017
             },
@@ -151,7 +136,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 16,
                 "year": 2017
             },
@@ -159,7 +143,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 17,
                 "year": 2017
             },
@@ -167,7 +150,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 18,
                 "year": 2017
             },
@@ -175,7 +157,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 19,
                 "year": 2017
             },
@@ -183,7 +164,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 20,
                 "year": 2017
             },
@@ -191,7 +171,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 21,
                 "year": 2017
             },
@@ -199,7 +178,6 @@
                 "count": 1,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 22,
                 "year": 2017
             },
@@ -207,7 +185,6 @@
                 "count": 3,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 23,
                 "year": 2017
             },
@@ -215,7 +192,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 24,
                 "year": 2017
             },
@@ -223,7 +199,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 25,
                 "year": 2017
             },
@@ -231,7 +206,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 26,
                 "year": 2017
             },
@@ -239,7 +213,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 27,
                 "year": 2017
             },
@@ -247,7 +220,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 28,
                 "year": 2017
             },
@@ -255,7 +227,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 29,
                 "year": 2017
             },
@@ -263,7 +234,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 30,
                 "year": 2017
             },
@@ -271,7 +241,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 31,
                 "year": 2017
             },
@@ -279,7 +248,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 32,
                 "year": 2017
             },
@@ -287,7 +255,6 @@
                 "count": 2,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 33,
                 "year": 2017
             },
@@ -295,7 +262,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 34,
                 "year": 2017
             },
@@ -303,7 +269,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 35,
                 "year": 2017
             },
@@ -311,7 +276,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 36,
                 "year": 2017
             },
@@ -319,7 +283,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 37,
                 "year": 2017
             },
@@ -327,7 +290,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 38,
                 "year": 2017
             },
@@ -335,7 +297,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 39,
                 "year": 2017
             },
@@ -343,7 +304,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 40,
                 "year": 2017
             },
@@ -351,7 +311,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 41,
                 "year": 2017
             },
@@ -359,7 +318,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 42,
                 "year": 2017
             },
@@ -367,7 +325,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 43,
                 "year": 2017
             },
@@ -375,7 +332,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 44,
                 "year": 2017
             },
@@ -383,7 +339,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 45,
                 "year": 2017
             },
@@ -391,7 +346,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 46,
                 "year": 2017
             },
@@ -399,7 +353,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 47,
                 "year": 2017
             },
@@ -407,7 +360,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 48,
                 "year": 2017
             },
@@ -415,7 +367,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 49,
                 "year": 2017
             },
@@ -423,7 +374,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 50,
                 "year": 2017
             },
@@ -431,7 +381,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 51,
                 "year": 2017
             },
@@ -439,7 +388,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 52,
                 "year": 2017
             },
@@ -447,7 +395,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 1,
                 "year": 2018
             },
@@ -455,7 +402,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 2,
                 "year": 2018
             },
@@ -463,7 +409,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 3,
                 "year": 2018
             },
@@ -471,7 +416,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 4,
                 "year": 2018
             },
@@ -479,7 +423,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 5,
                 "year": 2018
             },
@@ -487,7 +430,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 6,
                 "year": 2018
             },
@@ -495,7 +437,6 @@
                 "count": 21,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 7,
                 "year": 2018
             },
@@ -503,7 +444,6 @@
                 "count": 27,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 8,
                 "year": 2018
             },
@@ -511,7 +451,6 @@
                 "count": 17,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 9,
                 "year": 2018
             },
@@ -519,7 +458,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 10,
                 "year": 2018
             },
@@ -527,7 +465,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 11,
                 "year": 2018
             },
@@ -535,7 +472,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 12,
                 "year": 2018
             },
@@ -543,7 +479,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 13,
                 "year": 2018
             },
@@ -551,7 +486,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 14,
                 "year": 2018
             },
@@ -559,7 +493,6 @@
                 "count": 24,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 15,
                 "year": 2018
             },
@@ -567,7 +500,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 16,
                 "year": 2018
             },
@@ -575,7 +507,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 17,
                 "year": 2018
             },
@@ -583,7 +514,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 18,
                 "year": 2018
             },
@@ -591,7 +521,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 19,
                 "year": 2018
             },
@@ -599,7 +528,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 20,
                 "year": 2018
             },
@@ -607,7 +535,6 @@
                 "count": 4,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 21,
                 "year": 2018
             },
@@ -615,7 +542,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 22,
                 "year": 2018
             },
@@ -623,7 +549,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 23,
                 "year": 2018
             },
@@ -631,7 +556,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 24,
                 "year": 2018
             },
@@ -639,7 +563,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 25,
                 "year": 2018
             },
@@ -647,7 +570,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 26,
                 "year": 2018
             },
@@ -655,7 +577,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 27,
                 "year": 2018
             },
@@ -663,7 +584,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 28,
                 "year": 2018
             },
@@ -671,7 +591,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 29,
                 "year": 2018
             },
@@ -679,7 +598,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 30,
                 "year": 2018
             },
@@ -687,7 +605,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 31,
                 "year": 2018
             },
@@ -695,7 +612,6 @@
                 "count": 21,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 32,
                 "year": 2018
             },
@@ -703,7 +619,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 33,
                 "year": 2018
             },
@@ -711,7 +626,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 34,
                 "year": 2018
             },
@@ -719,7 +633,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 35,
                 "year": 2018
             },
@@ -727,7 +640,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 36,
                 "year": 2018
             },
@@ -735,7 +647,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 37,
                 "year": 2018
             },
@@ -743,7 +654,6 @@
                 "count": 3,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 38,
                 "year": 2018
             },
@@ -751,7 +661,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 39,
                 "year": 2018
             },
@@ -759,7 +668,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 40,
                 "year": 2018
             },
@@ -767,7 +675,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 41,
                 "year": 2018
             },
@@ -775,7 +682,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 42,
                 "year": 2018
             },
@@ -783,7 +689,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 43,
                 "year": 2018
             },
@@ -791,7 +696,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 44,
                 "year": 2018
             },
@@ -799,7 +703,6 @@
                 "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 45,
                 "year": 2018
             },
@@ -807,7 +710,6 @@
                 "count": 4,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 46,
                 "year": 2018
             },
@@ -815,7 +717,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 47,
                 "year": 2018
             },
@@ -823,7 +724,6 @@
                 "count": 7,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 48,
                 "year": 2018
             },
@@ -831,7 +731,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 49,
                 "year": 2018
             },
@@ -839,7 +738,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 50,
                 "year": 2018
             },
@@ -847,7 +745,6 @@
                 "count": 21,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 51,
                 "year": 2018
             },
@@ -855,7 +752,6 @@
                 "count": 26,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 52,
                 "year": 2018
             },
@@ -863,7 +759,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 1,
                 "year": 2019
             },
@@ -871,7 +766,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 2,
                 "year": 2019
             },
@@ -879,7 +773,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 3,
                 "year": 2019
             },
@@ -887,7 +780,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 4,
                 "year": 2019
             },
@@ -895,7 +787,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 5,
                 "year": 2019
             },
@@ -903,7 +794,6 @@
                 "count": 8,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 6,
                 "year": 2019
             },
@@ -911,7 +801,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 7,
                 "year": 2019
             },
@@ -919,7 +808,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 8,
                 "year": 2019
             },
@@ -927,7 +815,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 9,
                 "year": 2019
             },
@@ -935,7 +822,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 10,
                 "year": 2019
             },
@@ -943,7 +829,6 @@
                 "count": 18,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 11,
                 "year": 2019
             },
@@ -951,7 +836,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 12,
                 "year": 2019
             },
@@ -959,7 +843,6 @@
                 "count": 17,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 13,
                 "year": 2019
             },
@@ -967,7 +850,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 14,
                 "year": 2019
             },
@@ -975,7 +857,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 15,
                 "year": 2019
             },
@@ -983,7 +864,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 16,
                 "year": 2019
             },
@@ -991,7 +871,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 17,
                 "year": 2019
             },
@@ -999,7 +878,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 18,
                 "year": 2019
             },
@@ -1007,7 +885,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 19,
                 "year": 2019
             },
@@ -1015,7 +892,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 20,
                 "year": 2019
             },
@@ -1023,7 +899,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 21,
                 "year": 2019
             },
@@ -1031,7 +906,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 22,
                 "year": 2019
             },
@@ -1039,7 +913,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 23,
                 "year": 2019
             },
@@ -1047,7 +920,6 @@
                 "count": 20,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 24,
                 "year": 2019
             },
@@ -1055,7 +927,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 25,
                 "year": 2019
             },
@@ -1063,7 +934,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 26,
                 "year": 2019
             },
@@ -1071,7 +941,6 @@
                 "count": 12,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 27,
                 "year": 2019
             },
@@ -1079,7 +948,6 @@
                 "count": 17,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 28,
                 "year": 2019
             },
@@ -1087,7 +955,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 29,
                 "year": 2019
             },
@@ -1095,7 +962,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 30,
                 "year": 2019
             },
@@ -1103,7 +969,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 31,
                 "year": 2019
             },
@@ -1111,7 +976,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 32,
                 "year": 2019
             },
@@ -1119,7 +983,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 33,
                 "year": 2019
             },
@@ -1127,7 +990,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 34,
                 "year": 2019
             },
@@ -1135,7 +997,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 35,
                 "year": 2019
             },
@@ -1143,7 +1004,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 36,
                 "year": 2019
             },
@@ -1151,7 +1011,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 37,
                 "year": 2019
             },
@@ -1159,7 +1018,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 38,
                 "year": 2019
             },
@@ -1167,7 +1025,6 @@
                 "count": 9,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 39,
                 "year": 2019
             },
@@ -1175,7 +1032,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 40,
                 "year": 2019
             },
@@ -1183,7 +1039,6 @@
                 "count": 26,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 41,
                 "year": 2019
             },
@@ -1191,7 +1046,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 42,
                 "year": 2019
             },
@@ -1199,7 +1053,6 @@
                 "count": 20,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 43,
                 "year": 2019
             },
@@ -1207,7 +1060,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 44,
                 "year": 2019
             },
@@ -1215,7 +1067,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 45,
                 "year": 2019
             },
@@ -1223,7 +1074,6 @@
                 "count": 22,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 46,
                 "year": 2019
             },
@@ -1231,7 +1081,6 @@
                 "count": 13,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 47,
                 "year": 2019
             },
@@ -1239,7 +1088,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 48,
                 "year": 2019
             },
@@ -1247,7 +1095,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 49,
                 "year": 2019
             },
@@ -1255,7 +1102,6 @@
                 "count": 16,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 50,
                 "year": 2019
             },
@@ -1263,7 +1109,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 51,
                 "year": 2019
             },
@@ -1271,7 +1116,6 @@
                 "count": 26,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 52,
                 "year": 2019
             },
@@ -1279,7 +1123,6 @@
                 "count": 20,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 1,
                 "year": 2020
             },
@@ -1287,7 +1130,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.995023250579834,
                 "week": 2,
                 "year": 2020
             },
@@ -1295,7 +1137,6 @@
                 "count": 30,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9986892938613892,
                 "week": 3,
                 "year": 2020
             },
@@ -1303,7 +1144,6 @@
                 "count": 27,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9974444508552551,
                 "week": 4,
                 "year": 2020
             },
@@ -1311,7 +1151,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 5,
                 "year": 2020
             },
@@ -1319,7 +1158,6 @@
                 "count": 26,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9979584217071533,
                 "week": 6,
                 "year": 2020
             },
@@ -1327,7 +1165,6 @@
                 "count": 18,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 7,
                 "year": 2020
             },
@@ -1335,7 +1172,6 @@
                 "count": 23,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 8,
                 "year": 2020
             },
@@ -1343,7 +1179,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 9,
                 "year": 2020
             },
@@ -1351,7 +1186,6 @@
                 "count": 18,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9979584217071533,
                 "week": 10,
                 "year": 2020
             },
@@ -1359,7 +1193,6 @@
                 "count": 15,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 11,
                 "year": 2020
             },
@@ -1367,7 +1200,6 @@
                 "count": 14,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 12,
                 "year": 2020
             },
@@ -1375,7 +1207,6 @@
                 "count": 6,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 13,
                 "year": 2020
             },
@@ -1383,7 +1214,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 14,
                 "year": 2020
             },
@@ -1391,7 +1221,6 @@
                 "count": 11,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.05289553850889206,
                 "week": 15,
                 "year": 2020
             },
@@ -1399,7 +1228,6 @@
                 "count": 19,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": 0.9641247987747192,
                 "week": 16,
                 "year": 2020
             },
@@ -1407,7 +1235,6 @@
                 "count": 10,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 17,
                 "year": 2020
             },
@@ -1415,7 +1242,6 @@
                 "count": 3,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 18,
                 "year": 2020
             },
@@ -1423,7 +1249,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 19,
                 "year": 2020
             },
@@ -1431,7 +1256,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 20,
                 "year": 2020
             },
@@ -1439,7 +1263,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 21,
                 "year": 2020
             },
@@ -1447,7 +1270,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 22,
                 "year": 2020
             },
@@ -1455,7 +1277,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 23,
                 "year": 2020
             },
@@ -1463,7 +1284,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 24,
                 "year": 2020
             },
@@ -1471,7 +1291,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 25,
                 "year": 2020
             },
@@ -1479,7 +1298,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 26,
                 "year": 2020
             },
@@ -1487,7 +1305,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 27,
                 "year": 2020
             },
@@ -1495,7 +1312,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 28,
                 "year": 2020
             },
@@ -1503,7 +1319,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 29,
                 "year": 2020
             },
@@ -1511,7 +1326,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 30,
                 "year": 2020
             },
@@ -1519,7 +1333,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 31,
                 "year": 2020
             },
@@ -1527,7 +1340,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 32,
                 "year": 2020
             },
@@ -1535,7 +1347,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 33,
                 "year": 2020
             },
@@ -1543,7 +1354,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 34,
                 "year": 2020
             },
@@ -1551,7 +1361,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 35,
                 "year": 2020
             },
@@ -1559,7 +1368,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 36,
                 "year": 2020
             },
@@ -1567,7 +1375,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 37,
                 "year": 2020
             },
@@ -1575,7 +1382,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 38,
                 "year": 2020
             },
@@ -1583,7 +1389,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 39,
                 "year": 2020
             },
@@ -1591,7 +1396,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 40,
                 "year": 2020
             },
@@ -1599,7 +1403,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 41,
                 "year": 2020
             },
@@ -1607,7 +1410,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 42,
                 "year": 2020
             },
@@ -1615,7 +1417,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 43,
                 "year": 2020
             },
@@ -1623,7 +1424,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 44,
                 "year": 2020
             },
@@ -1631,7 +1431,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 45,
                 "year": 2020
             },
@@ -1639,7 +1438,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 46,
                 "year": 2020
             },
@@ -1647,7 +1445,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 47,
                 "year": 2020
             },
@@ -1655,7 +1452,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 48,
                 "year": 2020
             },
@@ -1663,7 +1459,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 49,
                 "year": 2020
             },
@@ -1671,7 +1466,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 50,
                 "year": 2020
             },
@@ -1679,7 +1473,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 51,
                 "year": 2020
             },
@@ -1687,7 +1480,6 @@
                 "count": 0,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
-                "outlier_score": null,
                 "week": 52,
                 "year": 2020
             }
@@ -1861,7 +1653,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<18"
+                        "filter": "datum.year==2020 & datum.week<19"
                     },
                     {
                         "groupby": [
@@ -1916,7 +1708,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<18 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<19 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -1995,7 +1787,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<18"
+                        "filter": "datum.year==2020 & datum.week<19"
                     }
                 ],
                 "width": 150

@@ -37,14 +37,22 @@ jobs:
         sudo apt-get update -y
         pip3 install pandas numpy ipykernel jupyter altair altair_saver eland
         python3 -m ipykernel install --user --name python3
+        npm install
         sudo chmod -R 777 .
+
+    - name: crawl obituaries
+      id: update_nb
+      run: |
+        npm run crawl
+
+    - name: parse obituaries
+      id: update_nb
+      run: |
+        npm run parse
 
     - name: update notebooks
       id: update_nb
       run: |
-        npm install
-        npm run crawl
-        npm run parse
         npm run notebook-weekly
 
     - name: save notebooks & images

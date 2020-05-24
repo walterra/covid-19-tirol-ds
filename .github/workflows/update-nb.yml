@@ -41,12 +41,12 @@ jobs:
         sudo chmod -R 777 .
 
     - name: crawl obituaries
-      id: update_nb
+      id: update_nb_crawl
       run: |
         npm run crawl
 
     - name: parse obituaries
-      id: update_nb
+      id: update_nb_parse
       run: |
         npm run parse
 

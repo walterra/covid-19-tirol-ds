@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-a0e3e0d7536cd272fa8fb1f4a51f0c26"
+        "name": "data-e0c73cdac9f31e16e621a95e5176001d"
     },
     "datasets": {
-        "data-a0e3e0d7536cd272fa8fb1f4a51f0c26": [
+        "data-e0c73cdac9f31e16e621a95e5176001d": [
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Karr\u00f6sten",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Imst",
@@ -1260,7 +2716,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Imst",
                 "municipaly": "St. Leonhard im Pitztal",
                 "week": 21,
@@ -24780,1462 +26236,6 @@
                 "year": 2020
             },
             {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Karr\u00f6sten",
-                "week": 52,
-                "year": 2020
-            },
-            {
                 "count": 2,
                 "district": "Imst",
                 "municipaly": "M\u00f6tz",
@@ -35141,7 +35141,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<19"
+                        "filter": "datum.year==2020 & datum.week<20"
                     },
                     {
                         "groupby": [
@@ -35196,7 +35196,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<19 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<20 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -35275,7 +35275,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<19"
+                        "filter": "datum.year==2020 & datum.week<20"
                     }
                 ],
                 "width": 150

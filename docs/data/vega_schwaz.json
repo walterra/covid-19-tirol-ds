@@ -23,10 +23,2922 @@
         }
     },
     "data": {
-        "name": "data-9cc0a0d022d48002abb263c0f7e81e3d"
+        "name": "data-94615d6d8e72706dd47112cec8419e41"
     },
     "datasets": {
-        "data-9cc0a0d022d48002abb263c0f7e81e3d": [
+        "data-94615d6d8e72706dd47112cec8419e41": [
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Weerberg",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 5,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 5,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 5,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Jenbach",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 1,
                 "district": "Schwaz",
@@ -11676,1462 +14588,6 @@
                 "year": 2020
             },
             {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Weerberg",
-                "week": 52,
-                "year": 2020
-            },
-            {
                 "count": 1,
                 "district": "Schwaz",
                 "municipaly": "Tux",
@@ -23320,1462 +24776,6 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Uderns",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 5,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 5,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 5,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Jenbach",
                 "week": 52,
                 "year": 2020
             },

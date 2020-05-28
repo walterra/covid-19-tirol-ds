@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-94615d6d8e72706dd47112cec8419e41"
+        "name": "data-f00ca33754c5b3979bca7cf394253f49"
     },
     "datasets": {
-        "data-94615d6d8e72706dd47112cec8419e41": [
+        "data-f00ca33754c5b3979bca7cf394253f49": [
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Vomp",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Schwaz",
@@ -11672,1462 +13128,6 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Zell am Ziller",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Vomp",
                 "week": 52,
                 "year": 2020
             },

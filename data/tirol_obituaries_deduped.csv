@@ -1,5 +1,39 @@
 date,year,week,municipaly,district,hash
+02.06.2020,2020,23,Völs,Innsbruck-Land,-1720090524
+02.06.2020,2020,23,Weer,Schwaz,-783648498
+02.06.2020,2020,23,Lechaschau,Reutte,-558719463
+02.06.2020,2020,23,Söll,Kufstein,-1384170618
+02.06.2020,2020,23,Ainet,Lienz,1680324112
+02.06.2020,2020,23,Kitzbühel,Kitzbühel,-1396037000
+02.06.2020,2020,23,Fieberbrunn,Kitzbühel,819001880
+02.06.2020,2020,23,Roppen,Imst,-251488491
+02.06.2020,2020,23,Hopfgarten im Brixental,Kitzbühel,1985377510
+02.06.2020,2020,23,St. Ulrich am Pillersee,Kitzbühel,300553501
+02.06.2020,2020,23,Kufstein,Kufstein,-301538119
+02.06.2020,2020,23,Tristach,Lienz,218695200
+01.06.2020,2020,23,Telfs,Innsbruck-Land,-29675279
+01.06.2020,2020,23,Anras,Lienz,2008672493
+31.05.2020,2020,22,Ried im Zillertal,Schwaz,-1061427237
+31.05.2020,2020,22,Götzens,Innsbruck-Land,975345423
+31.05.2020,2020,22,Innsbruck,Innsbruck-Stadt,-1825266002
+31.05.2020,2020,22,Kundl,Kufstein,-517273335
+31.05.2020,2020,22,Stans,Schwaz,920546225
+31.05.2020,2020,22,Stans,Schwaz,-408298181
+31.05.2020,2020,22,Nußdorf-Debant,Lienz,-713506491
+31.05.2020,2020,22,Reutte,Reutte,-315428295
+31.05.2020,2020,22,St. Jakob in Defereggen,Lienz,2036033112
+31.05.2020,2020,22,Münster,Kufstein,438058668
+31.05.2020,2020,22,Kirchberg in Tirol,Kitzbühel,831752994
+30.05.2020,2020,22,Baumkirchen,Innsbruck-Land,93606674
+30.05.2020,2020,22,Zirl,Innsbruck-Land,1217337956
+30.05.2020,2020,22,Landeck,Landeck,-881040237
+30.05.2020,2020,22,Baumkirchen,Innsbruck-Land,3591012
+30.05.2020,2020,22,Kufstein,Kufstein,1149027
 29.05.2020,2020,22,Pfunds,Landeck,1429949291
+29.05.2020,2020,22,Oberperfuss,Innsbruck-Land,49477565
+29.05.2020,2020,22,Fließ,Landeck,-1305608428
+29.05.2020,2020,22,Mayrhofen,Schwaz,-1885796935
+29.05.2020,2020,22,Kaltenbach,Schwaz,-1752258130
 28.05.2020,2020,22,Brixlegg,Kufstein,494985551
 28.05.2020,2020,22,Völs,Innsbruck-Land,-361704383
 28.05.2020,2020,22,Dölsach,Lienz,-1098714148
@@ -24,6 +58,7 @@ date,year,week,municipaly,district,hash
 26.05.2020,2020,22,Kirchberg in Tirol,Kitzbühel,1394131303
 26.05.2020,2020,22,See,Landeck,1888794833
 26.05.2020,2020,22,Kufstein,Kufstein,-1664024854
+26.05.2020,2020,22,Serfaus,Landeck,1896869047
 25.05.2020,2020,22,Rattenberg,Kufstein,-259576278
 25.05.2020,2020,22,Schönwies,Landeck,-946524717
 25.05.2020,2020,22,Landeck,Landeck,-2088722345
@@ -35,6 +70,7 @@ date,year,week,municipaly,district,hash
 25.05.2020,2020,22,Wattens,Innsbruck-Land,-2054030692
 25.05.2020,2020,22,Wattens,Innsbruck-Land,897265564
 25.05.2020,2020,22,Patsch,Innsbruck-Land,-475974051
+25.05.2020,2020,22,Jenbach,Schwaz,-299066992
 24.05.2020,2020,21,Oberperfuss,Innsbruck-Land,-64934249
 24.05.2020,2020,21,Rinn,Innsbruck-Land,913947
 24.05.2020,2020,21,Itter,Kitzbühel,773357526
@@ -60,6 +96,7 @@ date,year,week,municipaly,district,hash
 23.05.2020,2020,21,Vorderhornbach,Reutte,1541857233
 23.05.2020,2020,21,Wattens,Innsbruck-Land,1535722483
 23.05.2020,2020,21,Wattens,Innsbruck-Land,1537795885
+23.05.2020,2020,21,Innsbruck,Innsbruck-Stadt,1615339837
 22.05.2020,2020,21,Mayrhofen,Schwaz,151082102
 22.05.2020,2020,21,Brixlegg,Kufstein,-1815805344
 22.05.2020,2020,21,Breitenbach am Inn,Kufstein,-1712378527

@@ -201,7 +201,7 @@ const filled_weekly = filled.filter(row => {
 
   if (municipaly_population_map[municipaly] === undefined) {
     console.error(`Municipaly "${municipaly}" not found.`);
-    process.exit()
+    process.exit(1)
   }
 
   function adjust(num) {

@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-dd20a356adca3db40a6d30b264f6262b"
+        "name": "data-f34c415d6cc3f2c5872974be345222cb"
     },
     "datasets": {
-        "data-dd20a356adca3db40a6d30b264f6262b": [
+        "data-f34c415d6cc3f2c5872974be345222cb": [
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Pettneu am Arlberg",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Landeck",
@@ -13128,1462 +14584,6 @@
                 "count": 0,
                 "district": "Landeck",
                 "municipaly": "Zams",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Pettneu am Arlberg",
                 "week": 52,
                 "year": 2020
             },

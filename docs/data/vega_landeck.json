@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-d0b746a234bfd3c90d11217a2f3c9e3b"
+        "name": "data-68d68ffc4ab114527c7a72fe1793c737"
     },
     "datasets": {
-        "data-d0b746a234bfd3c90d11217a2f3c9e3b": [
+        "data-68d68ffc4ab114527c7a72fe1793c737": [
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flirsch",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Landeck",
@@ -21864,1462 +23320,6 @@
                 "count": 0,
                 "district": "Landeck",
                 "municipaly": "Ischgl",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flirsch",
                 "week": 52,
                 "year": 2020
             },

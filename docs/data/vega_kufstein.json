@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-309a53c075a4e7c7992455c6d6d0b438"
+        "name": "data-d91c9600037246d6a2410755b78b29ba"
     },
     "datasets": {
-        "data-309a53c075a4e7c7992455c6d6d0b438": [
+        "data-d91c9600037246d6a2410755b78b29ba": [
             {
                 "count": 0,
                 "district": "Kufstein",
@@ -4392,6 +4392,1462 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Ebbs",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Niederndorf",
                 "week": 52,
                 "year": 2020
             },
@@ -24776,1462 +26232,6 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Kirchbichl",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Niederndorf",
                 "week": 52,
                 "year": 2020
             },

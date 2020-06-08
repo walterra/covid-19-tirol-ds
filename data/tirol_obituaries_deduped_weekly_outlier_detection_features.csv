@@ -1,4 +1,484 @@
 district,municipaly,year,week,count,yearly_max_diff,yearly_mean_diff,weekly_max_diff,weekly_mean_diff
+Kitzbühel,St. Ulrich am Pillersee,2020,1,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,St. Ulrich am Pillersee,2020,2,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,St. Ulrich am Pillersee,2020,3,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,4,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,5,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,6,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,7,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,8,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,9,1,0,0.0079511834,0,0.6666666667
+Kitzbühel,St. Ulrich am Pillersee,2020,10,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,11,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,12,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,St. Ulrich am Pillersee,2020,13,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,14,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,15,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,16,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,17,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,St. Ulrich am Pillersee,2020,18,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,19,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,20,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,21,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,22,0,0,0,0,0
+Kitzbühel,St. Ulrich am Pillersee,2020,23,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,St. Ulrich am Pillersee,2020,24,1,0,0.0079511834,0.3333333333,1
+Kitzbühel,Jochberg,2020,1,0,0,0,0,0
+Kitzbühel,Jochberg,2020,2,2,0,0.0153476331,0.6666666667,2
+Kitzbühel,Jochberg,2020,3,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Jochberg,2020,4,0,0,0,0,0
+Kitzbühel,Jochberg,2020,5,0,0,0,0,0
+Kitzbühel,Jochberg,2020,6,0,0,0,0,0
+Kitzbühel,Jochberg,2020,7,1,0,0.0057322485,0,0.3333333333
+Kitzbühel,Jochberg,2020,8,0,0,0,0,0
+Kitzbühel,Jochberg,2020,9,0,0,0,0,0
+Kitzbühel,Jochberg,2020,10,0,0,0,0,0
+Kitzbühel,Jochberg,2020,11,0,0,0,0,0
+Kitzbühel,Jochberg,2020,12,1,0,0.0057322485,0,0
+Kitzbühel,Jochberg,2020,13,0,0,0,0,0
+Kitzbühel,Jochberg,2020,14,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Jochberg,2020,15,0,0,0,0,0
+Kitzbühel,Jochberg,2020,16,0,0,0,0,0
+Kitzbühel,Jochberg,2020,17,0,0,0,0,0
+Kitzbühel,Jochberg,2020,18,0,0,0,0,0
+Kitzbühel,Jochberg,2020,19,0,0,0,0,0
+Kitzbühel,Jochberg,2020,20,0,0,0,0,0
+Kitzbühel,Jochberg,2020,21,0,0,0,0,0
+Kitzbühel,Jochberg,2020,22,0,0,0,0,0
+Kitzbühel,Jochberg,2020,23,0,0,0,0,0
+Kitzbühel,Jochberg,2020,24,1,0,0.0057322485,0,0
+Kitzbühel,Kirchberg in Tirol,2020,1,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,2,2,0,0.0078895464,1,1.6666666667
+Kitzbühel,Kirchberg in Tirol,2020,3,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,4,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,5,1,0,0.0014792899,0,0
+Kitzbühel,Kirchberg in Tirol,2020,6,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,7,1,0,0.0014792899,0,0.3333333333
+Kitzbühel,Kirchberg in Tirol,2020,8,3,0,0.0142998028,1,0.8333333333
+Kitzbühel,Kirchberg in Tirol,2020,9,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,10,1,0,0.0014792899,0,0.1666666667
+Kitzbühel,Kirchberg in Tirol,2020,11,2,0,0.0078895464,1,1.6666666667
+Kitzbühel,Kirchberg in Tirol,2020,12,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,13,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,14,1,0,0.0014792899,0,0
+Kitzbühel,Kirchberg in Tirol,2020,15,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,16,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,17,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,18,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,19,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,20,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,21,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,22,2,0,0.0078895464,0.3333333333,1
+Kitzbühel,Kirchberg in Tirol,2020,23,0,0,0,0,0
+Kitzbühel,Kirchberg in Tirol,2020,24,1,0,0.0014792899,0,0
+Kitzbühel,Kössen,2020,1,2,0,0.0093688363,0,0.5
+Kitzbühel,Kössen,2020,2,1,0,0.0029585799,0.3333333333,1
+Kitzbühel,Kössen,2020,3,0,0,0,0,0
+Kitzbühel,Kössen,2020,4,0,0,0,0,0
+Kitzbühel,Kössen,2020,5,0,0,0,0,0
+Kitzbühel,Kössen,2020,6,0,0,0,0,0
+Kitzbühel,Kössen,2020,7,1,0,0.0029585799,0.3333333333,1
+Kitzbühel,Kössen,2020,8,2,0,0.0093688363,0.5,1.3333333333
+Kitzbühel,Kössen,2020,9,0,0,0,0,0
+Kitzbühel,Kössen,2020,10,0,0,0,0,0
+Kitzbühel,Kössen,2020,11,0,0,0,0,0
+Kitzbühel,Kössen,2020,12,0,0,0,0,0
+Kitzbühel,Kössen,2020,13,1,0,0.0029585799,0,0.1666666667
+Kitzbühel,Kössen,2020,14,1,0,0.0029585799,0,0.3333333333
+Kitzbühel,Kössen,2020,15,1,0,0.0029585799,0.3333333333,1
+Kitzbühel,Kössen,2020,16,0,0,0,0,0
+Kitzbühel,Kössen,2020,17,2,0,0.0093688363,0.5,1.3333333333
+Kitzbühel,Kössen,2020,18,0,0,0,0,0
+Kitzbühel,Kössen,2020,19,0,0,0,0,0
+Kitzbühel,Kössen,2020,20,0,0,0,0,0
+Kitzbühel,Kössen,2020,21,2,0,0.0093688363,0,0.3333333333
+Kitzbühel,Kössen,2020,22,0,0,0,0,0
+Kitzbühel,Kössen,2020,23,1,0,0.0029585799,0,0.6666666667
+Kitzbühel,Kössen,2020,24,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,1,1,0,0.0004622781,0,0.3333333333
+Kitzbühel,Fieberbrunn,2020,2,1,0,0.0004622781,0,0
+Kitzbühel,Fieberbrunn,2020,3,1,0,0.0004622781,0,0.6666666667
+Kitzbühel,Fieberbrunn,2020,4,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,5,1,0,0.0004622781,0,0
+Kitzbühel,Fieberbrunn,2020,6,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,7,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,8,1,0,0.0004622781,0,0.3333333333
+Kitzbühel,Fieberbrunn,2020,9,2,0,0.0052699704,0,0.5
+Kitzbühel,Fieberbrunn,2020,10,1,0,0.0004622781,0,0
+Kitzbühel,Fieberbrunn,2020,11,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,12,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,13,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,14,1,0,0.0004622781,0,0.6666666667
+Kitzbühel,Fieberbrunn,2020,15,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,16,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,17,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,18,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,19,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,20,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,21,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,22,0,0,0,0,0
+Kitzbühel,Fieberbrunn,2020,23,2,0,0.0052699704,0.6666666667,2
+Kitzbühel,Fieberbrunn,2020,24,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,1,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,2,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,3,1,0,0,0,0.6666666667
+Kitzbühel,St. Johann in Tirol,2020,4,2,0,0.0028661243,0.5,1.3333333333
+Kitzbühel,St. Johann in Tirol,2020,5,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,6,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,7,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,8,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,9,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,10,2,0,0.0028661243,1,1.6666666667
+Kitzbühel,St. Johann in Tirol,2020,11,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,12,2,0,0.0028661243,0,0.2222222222
+Kitzbühel,St. Johann in Tirol,2020,13,3,0,0.0076738166,2,2.6666666667
+Kitzbühel,St. Johann in Tirol,2020,14,2,0,0.0028661243,0.5,1.3333333333
+Kitzbühel,St. Johann in Tirol,2020,15,1,0,0,0,0.3333333333
+Kitzbühel,St. Johann in Tirol,2020,16,3,0,0.0076738166,0.3333333333,0.5
+Kitzbühel,St. Johann in Tirol,2020,17,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,18,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,19,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,20,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,21,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,22,3,0,0.0076738166,0.3333333333,0.5
+Kitzbühel,St. Johann in Tirol,2020,23,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,24,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,1,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,2,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,3,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,4,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,5,2,0,0.0009509721,0,0.5
+Kitzbühel,Kitzbühel,2020,6,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,7,3,0,0.0036982249,0.5,0.6666666667
+Kitzbühel,Kitzbühel,2020,8,2,0,0.0009509721,0,0.3333333333
+Kitzbühel,Kitzbühel,2020,9,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,10,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,11,3,0,0.0036982249,1,0.8333333333
+Kitzbühel,Kitzbühel,2020,12,1,0,0,0,0
+Kitzbühel,Kitzbühel,2020,13,2,0,0.0009509721,0,0.5
+Kitzbühel,Kitzbühel,2020,14,1,0,0,0,0.6666666667
+Kitzbühel,Kitzbühel,2020,15,2,0,0.0009509721,0,0.1666666667
+Kitzbühel,Kitzbühel,2020,16,3,0,0.0036982249,0.5,0.6666666667
+Kitzbühel,Kitzbühel,2020,17,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,18,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,19,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,20,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,21,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,22,0,0,0,0,0
+Kitzbühel,Kitzbühel,2020,23,3,0,0.0036982249,0,0.1333333333
+Kitzbühel,Kitzbühel,2020,24,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,1,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,2,2,0,0.0061637081,0.3333333333,1
+Kitzbühel,Hopfgarten im Brixental,2020,3,3,0,0.0125739645,1,3
+Kitzbühel,Hopfgarten im Brixental,2020,4,2,0,0.0061637081,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,5,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,6,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,7,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,8,1,0,0,0,0.6666666667
+Kitzbühel,Hopfgarten im Brixental,2020,9,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,10,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,11,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,12,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,13,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,14,2,0,0.0061637081,0,0.5
+Kitzbühel,Hopfgarten im Brixental,2020,15,3,0,0.0125739645,1,2.3333333333
+Kitzbühel,Hopfgarten im Brixental,2020,16,2,0,0.0061637081,0.3333333333,1
+Kitzbühel,Hopfgarten im Brixental,2020,17,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,18,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,19,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,20,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,21,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,22,0,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,23,1,0,0,0,0
+Kitzbühel,Hopfgarten im Brixental,2020,24,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,1,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,2,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,3,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,4,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,5,1,0,0.0040680473,0,0.6666666667
+Kitzbühel,Brixen im Thale,2020,6,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,7,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,8,1,0,0.0040680473,0,0
+Kitzbühel,Brixen im Thale,2020,9,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,10,1,0,0.0040680473,0,0.3333333333
+Kitzbühel,Brixen im Thale,2020,11,1,0,0.0040680473,0,0
+Kitzbühel,Brixen im Thale,2020,12,1,0,0.0040680473,0,0.6666666667
+Kitzbühel,Brixen im Thale,2020,13,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,14,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,15,2,0,0.0104783037,0.6666666667,2
+Kitzbühel,Brixen im Thale,2020,16,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,17,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,18,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,19,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,20,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,21,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,22,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,23,1,0,0.0040680473,0,0.3333333333
+Kitzbühel,Brixen im Thale,2020,24,0,0,0,0,0
+Kitzbühel,Schwendt,2020,1,0,0,0,0,0
+Kitzbühel,Schwendt,2020,2,0,0,0,0,0
+Kitzbühel,Schwendt,2020,3,0,0,0,0,0
+Kitzbühel,Schwendt,2020,4,0,0,0,0,0
+Kitzbühel,Schwendt,2020,5,0,0,0,0,0
+Kitzbühel,Schwendt,2020,6,0,0,0,0,0
+Kitzbühel,Schwendt,2020,7,0,0,0,0,0
+Kitzbühel,Schwendt,2020,8,0,0,0,0,0
+Kitzbühel,Schwendt,2020,9,0,0,0,0,0
+Kitzbühel,Schwendt,2020,10,0,0,0,0,0
+Kitzbühel,Schwendt,2020,11,0,0,0,0,0
+Kitzbühel,Schwendt,2020,12,0,0,0,0,0
+Kitzbühel,Schwendt,2020,13,0,0,0,0,0
+Kitzbühel,Schwendt,2020,14,0,0,0,0,0
+Kitzbühel,Schwendt,2020,15,0,0,0,0,0
+Kitzbühel,Schwendt,2020,16,0,0,0,0,0
+Kitzbühel,Schwendt,2020,17,0,0,0,0,0
+Kitzbühel,Schwendt,2020,18,0,0,0,0,0
+Kitzbühel,Schwendt,2020,19,0,0,0,0,0
+Kitzbühel,Schwendt,2020,20,0,0,0,0,0
+Kitzbühel,Schwendt,2020,21,0,0,0,0,0
+Kitzbühel,Schwendt,2020,22,1,0,0.0177514793,0.3333333333,1
+Kitzbühel,Schwendt,2020,23,0,0,0,0,0
+Kitzbühel,Schwendt,2020,24,0,0,0,0,0
+Kitzbühel,Itter,2020,1,0,0,0,0,0
+Kitzbühel,Itter,2020,2,0,0,0,0,0
+Kitzbühel,Itter,2020,3,0,0,0,0,0
+Kitzbühel,Itter,2020,4,0,0,0,0,0
+Kitzbühel,Itter,2020,5,0,0,0,0,0
+Kitzbühel,Itter,2020,6,0,0,0,0,0
+Kitzbühel,Itter,2020,7,0,0,0,0,0
+Kitzbühel,Itter,2020,8,0,0,0,0,0
+Kitzbühel,Itter,2020,9,0,0,0,0,0
+Kitzbühel,Itter,2020,10,0,0,0,0,0
+Kitzbühel,Itter,2020,11,0,0,0,0,0
+Kitzbühel,Itter,2020,12,0,0,0,0,0
+Kitzbühel,Itter,2020,13,0,0,0,0,0
+Kitzbühel,Itter,2020,14,0,0,0,0,0
+Kitzbühel,Itter,2020,15,0,0,0,0,0
+Kitzbühel,Itter,2020,16,0,0,0,0,0
+Kitzbühel,Itter,2020,17,0,0,0,0,0
+Kitzbühel,Itter,2020,18,0,0,0,0,0
+Kitzbühel,Itter,2020,19,0,0,0,0,0
+Kitzbühel,Itter,2020,20,0,0,0,0,0
+Kitzbühel,Itter,2020,21,1,0,0.0075813609,0.3333333333,1
+Kitzbühel,Itter,2020,22,0,0,0,0,0
+Kitzbühel,Itter,2020,23,0,0,0,0,0
+Kitzbühel,Itter,2020,24,0,0,0,0,0
+Kitzbühel,Waidring,2020,1,0,0,0,0,0
+Kitzbühel,Waidring,2020,2,0,0,0,0,0
+Kitzbühel,Waidring,2020,3,0,0,0,0,0
+Kitzbühel,Waidring,2020,4,0,0,0,0,0
+Kitzbühel,Waidring,2020,5,0,0,0,0,0
+Kitzbühel,Waidring,2020,6,0,0,0,0,0
+Kitzbühel,Waidring,2020,7,0,0,0,0,0
+Kitzbühel,Waidring,2020,8,2,0,0.0160872781,0.6666666667,2
+Kitzbühel,Waidring,2020,9,0,0,0,0,0
+Kitzbühel,Waidring,2020,10,1,0,0.0064718935,0.3333333333,1
+Kitzbühel,Waidring,2020,11,0,0,0,0,0
+Kitzbühel,Waidring,2020,12,0,0,0,0,0
+Kitzbühel,Waidring,2020,13,0,0,0,0,0
+Kitzbühel,Waidring,2020,14,0,0,0,0,0
+Kitzbühel,Waidring,2020,15,1,0,0.0064718935,0,0.6666666667
+Kitzbühel,Waidring,2020,16,0,0,0,0,0
+Kitzbühel,Waidring,2020,17,1,0,0.0064718935,0,0.3333333333
+Kitzbühel,Waidring,2020,18,0,0,0,0,0
+Kitzbühel,Waidring,2020,19,0,0,0,0,0
+Kitzbühel,Waidring,2020,20,0,0,0,0,0
+Kitzbühel,Waidring,2020,21,1,0,0.0064718935,0,0.3333333333
+Kitzbühel,Waidring,2020,22,0,0,0,0,0
+Kitzbühel,Waidring,2020,23,0,0,0,0,0
+Kitzbühel,Waidring,2020,24,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,1,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,2,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,3,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,4,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,5,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,6,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,7,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,8,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,9,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,10,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,11,1,0,0.0077662722,0,0.6666666667
+Kitzbühel,Hochfilzen,2020,12,1,0,0.0077662722,0.3333333333,1
+Kitzbühel,Hochfilzen,2020,13,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,14,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,15,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,16,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,17,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,18,1,0,0.0077662722,0,0.6666666667
+Kitzbühel,Hochfilzen,2020,19,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,20,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,21,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,22,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,23,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,24,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,1,1,0,0.003081854,0,0.3333333333
+Kitzbühel,Kirchdorf in Tirol,2020,2,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,3,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,4,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,5,2,0,0.0094921105,1,1.6666666667
+Kitzbühel,Kirchdorf in Tirol,2020,6,2,0,0.0094921105,1,1.6666666667
+Kitzbühel,Kirchdorf in Tirol,2020,7,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,8,1,0,0.003081854,0.3333333333,1
+Kitzbühel,Kirchdorf in Tirol,2020,9,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,10,1,0,0.003081854,0,0.3333333333
+Kitzbühel,Kirchdorf in Tirol,2020,11,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,12,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,13,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,14,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,15,1,0,0.003081854,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,16,1,0,0.003081854,0.3333333333,1
+Kitzbühel,Kirchdorf in Tirol,2020,17,2,0,0.0094921105,1,1.6666666667
+Kitzbühel,Kirchdorf in Tirol,2020,18,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,19,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,20,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,21,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,22,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,23,0,0,0,0,0
+Kitzbühel,Kirchdorf in Tirol,2020,24,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,1,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,2,2,0,0.0109714004,0.5,1.3333333333
+Kitzbühel,Oberndorf in Tirol,2020,3,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,4,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,5,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,6,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,7,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,8,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,9,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,10,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,11,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,12,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,13,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,14,1,0,0.004561144,0.3333333333,1
+Kitzbühel,Oberndorf in Tirol,2020,15,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,16,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,17,1,0,0.004561144,0,0.6666666667
+Kitzbühel,Oberndorf in Tirol,2020,18,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,19,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,20,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,21,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,22,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,23,0,0,0,0,0
+Kitzbühel,Oberndorf in Tirol,2020,24,0,0,0,0,0
+Kitzbühel,Westendorf,2020,1,0,0,0,0,0
+Kitzbühel,Westendorf,2020,2,2,0,0.0153476331,0,0.6666666667
+Kitzbühel,Westendorf,2020,3,1,0,0.0057322485,0.3333333333,1
+Kitzbühel,Westendorf,2020,4,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Westendorf,2020,5,0,0,0,0,0
+Kitzbühel,Westendorf,2020,6,1,0,0.0057322485,0,0
+Kitzbühel,Westendorf,2020,7,0,0,0,0,0
+Kitzbühel,Westendorf,2020,8,0,0,0,0,0
+Kitzbühel,Westendorf,2020,9,1,0,0.0057322485,0,0
+Kitzbühel,Westendorf,2020,10,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Westendorf,2020,11,0,0,0,0,0
+Kitzbühel,Westendorf,2020,12,2,0,0.0153476331,0,0
+Kitzbühel,Westendorf,2020,13,1,0,0.0057322485,0,0.3333333333
+Kitzbühel,Westendorf,2020,14,1,0,0.0057322485,0,0
+Kitzbühel,Westendorf,2020,15,2,0,0.0153476331,0.5,1.3333333333
+Kitzbühel,Westendorf,2020,16,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Westendorf,2020,17,1,0,0.0057322485,0,0.6666666667
+Kitzbühel,Westendorf,2020,18,0,0,0,0,0
+Kitzbühel,Westendorf,2020,19,0,0,0,0,0
+Kitzbühel,Westendorf,2020,20,0,0,0,0,0
+Kitzbühel,Westendorf,2020,21,0,0,0,0,0
+Kitzbühel,Westendorf,2020,22,0,0,0,0,0
+Kitzbühel,Westendorf,2020,23,0,0,0,0,0
+Kitzbühel,Westendorf,2020,24,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,1,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,2,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,3,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,4,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,5,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,6,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,7,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,8,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,9,1,0,0.005300789,0,0.6666666667
+Kitzbühel,Aurach bei Kitzbühel,2020,10,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,11,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,12,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,13,2,0,0.0117110454,1,1.6666666667
+Kitzbühel,Aurach bei Kitzbühel,2020,14,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,15,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,16,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,17,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,18,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,19,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,20,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,21,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,22,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,23,0,0,0,0,0
+Kitzbühel,Aurach bei Kitzbühel,2020,24,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,1,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,2,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,3,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,4,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,5,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,6,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,7,1,0,0.0166420118,0,0.6666666667
+Kitzbühel,Going am Wilden Kaiser,2020,8,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,9,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,10,1,0,0.0166420118,0,0.3333333333
+Kitzbühel,Going am Wilden Kaiser,2020,11,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,12,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,13,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,14,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,15,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,16,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,17,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,18,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,19,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,20,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,21,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,22,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,23,0,0,0,0,0
+Kitzbühel,Going am Wilden Kaiser,2020,24,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,1,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,2,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,3,1,0,0.0073964497,0,0.6666666667
+Kitzbühel,Reith bei Kitzbühel,2020,4,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,5,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,6,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,7,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,8,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,9,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,10,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,11,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,12,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,13,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,14,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,15,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,16,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,17,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,18,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,19,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,20,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,21,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,22,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,23,0,0,0,0,0
+Kitzbühel,Reith bei Kitzbühel,2020,24,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,1,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,2,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,3,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,4,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,5,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,6,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,7,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,8,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,9,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,10,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,11,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,12,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,13,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,14,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,15,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,16,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,17,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,18,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,19,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,20,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,21,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,22,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,23,0,0,0,0,0
+Kitzbühel,St. Jakob in Haus,2020,24,0,0,0,0,0
 Kufstein,Ellmau,2020,1,0,0,0,0,0
 Kufstein,Ellmau,2020,2,0,0,0,0,0
 Kufstein,Ellmau,2020,3,0,0,0,0,0
@@ -71,6 +551,30 @@ Kufstein,Ebbs,2020,21,0,0,0,0,0
 Kufstein,Ebbs,2020,22,0,0,0,0,0
 Kufstein,Ebbs,2020,23,1,0,0.0055473373,0,0
 Kufstein,Ebbs,2020,24,0,0,0,0,0
+Kufstein,Niederndorf,2020,1,0,0,0,0,0
+Kufstein,Niederndorf,2020,2,0,0,0,0,0
+Kufstein,Niederndorf,2020,3,0,0,0,0,0
+Kufstein,Niederndorf,2020,4,0,0,0,0,0
+Kufstein,Niederndorf,2020,5,0,0,0,0,0
+Kufstein,Niederndorf,2020,6,0,0,0,0,0
+Kufstein,Niederndorf,2020,7,1,0,0.0062869822,0,0.3333333333
+Kufstein,Niederndorf,2020,8,2,0,0.0159023669,1,1.6666666667
+Kufstein,Niederndorf,2020,9,1,0,0.0062869822,0,0.3333333333
+Kufstein,Niederndorf,2020,10,1,0,0.0062869822,0,0.6666666667
+Kufstein,Niederndorf,2020,11,0,0,0,0,0
+Kufstein,Niederndorf,2020,12,0,0,0,0,0
+Kufstein,Niederndorf,2020,13,2,0,0.0159023669,1,1.6666666667
+Kufstein,Niederndorf,2020,14,0,0,0,0,0
+Kufstein,Niederndorf,2020,15,0,0,0,0,0
+Kufstein,Niederndorf,2020,16,0,0,0,0,0
+Kufstein,Niederndorf,2020,17,1,0,0.0062869822,0.3333333333,1
+Kufstein,Niederndorf,2020,18,0,0,0,0,0
+Kufstein,Niederndorf,2020,19,0,0,0,0,0
+Kufstein,Niederndorf,2020,20,0,0,0,0,0
+Kufstein,Niederndorf,2020,21,0,0,0,0,0
+Kufstein,Niederndorf,2020,22,0,0,0,0,0
+Kufstein,Niederndorf,2020,23,1,0,0.0062869822,0,0.6666666667
+Kufstein,Niederndorf,2020,24,0,0,0,0,0
 Kufstein,Thiersee,2020,1,1,0,0.006102071,0,0
 Kufstein,Thiersee,2020,2,0,0,0,0,0
 Kufstein,Thiersee,2020,3,0,0,0,0,0
@@ -407,30 +911,6 @@ Kufstein,Kirchbichl,2020,21,0,0,0,0,0
 Kufstein,Kirchbichl,2020,22,0,0,0,0,0
 Kufstein,Kirchbichl,2020,23,0,0,0,0,0
 Kufstein,Kirchbichl,2020,24,0,0,0,0,0
-Kufstein,Niederndorf,2020,1,0,0,0,0,0
-Kufstein,Niederndorf,2020,2,0,0,0,0,0
-Kufstein,Niederndorf,2020,3,0,0,0,0,0
-Kufstein,Niederndorf,2020,4,0,0,0,0,0
-Kufstein,Niederndorf,2020,5,0,0,0,0,0
-Kufstein,Niederndorf,2020,6,0,0,0,0,0
-Kufstein,Niederndorf,2020,7,1,0,0.0062869822,0,0.3333333333
-Kufstein,Niederndorf,2020,8,2,0,0.0159023669,1,1.6666666667
-Kufstein,Niederndorf,2020,9,1,0,0.0062869822,0,0.3333333333
-Kufstein,Niederndorf,2020,10,1,0,0.0062869822,0,0.6666666667
-Kufstein,Niederndorf,2020,11,0,0,0,0,0
-Kufstein,Niederndorf,2020,12,0,0,0,0,0
-Kufstein,Niederndorf,2020,13,2,0,0.0159023669,1,1.6666666667
-Kufstein,Niederndorf,2020,14,0,0,0,0,0
-Kufstein,Niederndorf,2020,15,0,0,0,0,0
-Kufstein,Niederndorf,2020,16,0,0,0,0,0
-Kufstein,Niederndorf,2020,17,1,0,0.0062869822,0.3333333333,1
-Kufstein,Niederndorf,2020,18,0,0,0,0,0
-Kufstein,Niederndorf,2020,19,0,0,0,0,0
-Kufstein,Niederndorf,2020,20,0,0,0,0,0
-Kufstein,Niederndorf,2020,21,0,0,0,0,0
-Kufstein,Niederndorf,2020,22,0,0,0,0,0
-Kufstein,Niederndorf,2020,23,0,0,0,0,0
-Kufstein,Niederndorf,2020,24,0,0,0,0,0
 Kufstein,Schwoich,2020,1,0,0,0,0,0
 Kufstein,Schwoich,2020,2,0,0,0,0,0
 Kufstein,Schwoich,2020,3,0,0,0,0,0
@@ -2087,486 +2567,30 @@ Imst,Mils bei Imst,2020,21,0,0,0,0,0
 Imst,Mils bei Imst,2020,22,0,0,0,0,0
 Imst,Mils bei Imst,2020,23,0,0,0,0,0
 Imst,Mils bei Imst,2020,24,0,0,0,0,0
-Kitzbühel,Kössen,2020,1,2,0,0.0093688363,0,0.5
-Kitzbühel,Kössen,2020,2,1,0,0.0029585799,0.3333333333,1
-Kitzbühel,Kössen,2020,3,0,0,0,0,0
-Kitzbühel,Kössen,2020,4,0,0,0,0,0
-Kitzbühel,Kössen,2020,5,0,0,0,0,0
-Kitzbühel,Kössen,2020,6,0,0,0,0,0
-Kitzbühel,Kössen,2020,7,1,0,0.0029585799,0.3333333333,1
-Kitzbühel,Kössen,2020,8,2,0,0.0093688363,0.5,1.3333333333
-Kitzbühel,Kössen,2020,9,0,0,0,0,0
-Kitzbühel,Kössen,2020,10,0,0,0,0,0
-Kitzbühel,Kössen,2020,11,0,0,0,0,0
-Kitzbühel,Kössen,2020,12,0,0,0,0,0
-Kitzbühel,Kössen,2020,13,1,0,0.0029585799,0,0.1666666667
-Kitzbühel,Kössen,2020,14,1,0,0.0029585799,0,0.3333333333
-Kitzbühel,Kössen,2020,15,1,0,0.0029585799,0.3333333333,1
-Kitzbühel,Kössen,2020,16,0,0,0,0,0
-Kitzbühel,Kössen,2020,17,2,0,0.0093688363,0.5,1.3333333333
-Kitzbühel,Kössen,2020,18,0,0,0,0,0
-Kitzbühel,Kössen,2020,19,0,0,0,0,0
-Kitzbühel,Kössen,2020,20,0,0,0,0,0
-Kitzbühel,Kössen,2020,21,2,0,0.0093688363,0,0.3333333333
-Kitzbühel,Kössen,2020,22,0,0,0,0,0
-Kitzbühel,Kössen,2020,23,1,0,0.0029585799,0,0.6666666667
-Kitzbühel,Kössen,2020,24,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,1,1,0,0.0004622781,0,0.3333333333
-Kitzbühel,Fieberbrunn,2020,2,1,0,0.0004622781,0,0
-Kitzbühel,Fieberbrunn,2020,3,1,0,0.0004622781,0,0.6666666667
-Kitzbühel,Fieberbrunn,2020,4,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,5,1,0,0.0004622781,0,0
-Kitzbühel,Fieberbrunn,2020,6,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,7,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,8,1,0,0.0004622781,0,0.3333333333
-Kitzbühel,Fieberbrunn,2020,9,2,0,0.0052699704,0,0.5
-Kitzbühel,Fieberbrunn,2020,10,1,0,0.0004622781,0,0
-Kitzbühel,Fieberbrunn,2020,11,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,12,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,13,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,14,1,0,0.0004622781,0,0.6666666667
-Kitzbühel,Fieberbrunn,2020,15,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,16,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,17,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,18,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,19,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,20,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,21,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,22,0,0,0,0,0
-Kitzbühel,Fieberbrunn,2020,23,2,0,0.0052699704,0.6666666667,2
-Kitzbühel,Fieberbrunn,2020,24,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,1,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,2,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,3,1,0,0,0,0.6666666667
-Kitzbühel,St. Johann in Tirol,2020,4,2,0,0.0028661243,0.5,1.3333333333
-Kitzbühel,St. Johann in Tirol,2020,5,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,6,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,7,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,8,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,9,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,10,2,0,0.0028661243,1,1.6666666667
-Kitzbühel,St. Johann in Tirol,2020,11,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,12,2,0,0.0028661243,0,0.2222222222
-Kitzbühel,St. Johann in Tirol,2020,13,3,0,0.0076738166,2,2.6666666667
-Kitzbühel,St. Johann in Tirol,2020,14,2,0,0.0028661243,0.5,1.3333333333
-Kitzbühel,St. Johann in Tirol,2020,15,1,0,0,0,0.3333333333
-Kitzbühel,St. Johann in Tirol,2020,16,3,0,0.0076738166,0.3333333333,0.5
-Kitzbühel,St. Johann in Tirol,2020,17,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,18,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,19,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,20,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,21,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,22,3,0,0.0076738166,0.3333333333,0.5
-Kitzbühel,St. Johann in Tirol,2020,23,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,24,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,1,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,2,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,3,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,4,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,5,2,0,0.0009509721,0,0.5
-Kitzbühel,Kitzbühel,2020,6,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,7,3,0,0.0036982249,0.5,0.6666666667
-Kitzbühel,Kitzbühel,2020,8,2,0,0.0009509721,0,0.3333333333
-Kitzbühel,Kitzbühel,2020,9,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,10,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,11,3,0,0.0036982249,1,0.8333333333
-Kitzbühel,Kitzbühel,2020,12,1,0,0,0,0
-Kitzbühel,Kitzbühel,2020,13,2,0,0.0009509721,0,0.5
-Kitzbühel,Kitzbühel,2020,14,1,0,0,0,0.6666666667
-Kitzbühel,Kitzbühel,2020,15,2,0,0.0009509721,0,0.1666666667
-Kitzbühel,Kitzbühel,2020,16,3,0,0.0036982249,0.5,0.6666666667
-Kitzbühel,Kitzbühel,2020,17,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,18,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,19,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,20,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,21,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,22,0,0,0,0,0
-Kitzbühel,Kitzbühel,2020,23,3,0,0.0036982249,0,0.1333333333
-Kitzbühel,Kitzbühel,2020,24,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,1,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,2,2,0,0.0061637081,0.3333333333,1
-Kitzbühel,Hopfgarten im Brixental,2020,3,3,0,0.0125739645,1,3
-Kitzbühel,Hopfgarten im Brixental,2020,4,2,0,0.0061637081,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,5,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,6,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,7,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,8,1,0,0,0,0.6666666667
-Kitzbühel,Hopfgarten im Brixental,2020,9,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,10,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,11,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,12,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,13,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,14,2,0,0.0061637081,0,0.5
-Kitzbühel,Hopfgarten im Brixental,2020,15,3,0,0.0125739645,1,2.3333333333
-Kitzbühel,Hopfgarten im Brixental,2020,16,2,0,0.0061637081,0.3333333333,1
-Kitzbühel,Hopfgarten im Brixental,2020,17,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,18,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,19,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,20,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,21,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,22,0,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,23,1,0,0,0,0
-Kitzbühel,Hopfgarten im Brixental,2020,24,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,1,1,0,0.0079511834,0.3333333333,1
-Kitzbühel,St. Ulrich am Pillersee,2020,2,1,0,0.0079511834,0.3333333333,1
-Kitzbühel,St. Ulrich am Pillersee,2020,3,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,4,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,5,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,6,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,7,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,8,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,9,1,0,0.0079511834,0,0.6666666667
-Kitzbühel,St. Ulrich am Pillersee,2020,10,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,11,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,12,1,0,0.0079511834,0.3333333333,1
-Kitzbühel,St. Ulrich am Pillersee,2020,13,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,14,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,15,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,16,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,17,1,0,0.0079511834,0.3333333333,1
-Kitzbühel,St. Ulrich am Pillersee,2020,18,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,19,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,20,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,21,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,22,0,0,0,0,0
-Kitzbühel,St. Ulrich am Pillersee,2020,23,1,0,0.0079511834,0.3333333333,1
-Kitzbühel,St. Ulrich am Pillersee,2020,24,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,1,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,2,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,3,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,4,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,5,1,0,0.0040680473,0,0.6666666667
-Kitzbühel,Brixen im Thale,2020,6,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,7,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,8,1,0,0.0040680473,0,0
-Kitzbühel,Brixen im Thale,2020,9,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,10,1,0,0.0040680473,0,0.3333333333
-Kitzbühel,Brixen im Thale,2020,11,1,0,0.0040680473,0,0
-Kitzbühel,Brixen im Thale,2020,12,1,0,0.0040680473,0,0.6666666667
-Kitzbühel,Brixen im Thale,2020,13,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,14,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,15,2,0,0.0104783037,0.6666666667,2
-Kitzbühel,Brixen im Thale,2020,16,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,17,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,18,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,19,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,20,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,21,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,22,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,23,1,0,0.0040680473,0,0.3333333333
-Kitzbühel,Brixen im Thale,2020,24,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,1,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,2,2,0,0.0078895464,1,1.6666666667
-Kitzbühel,Kirchberg in Tirol,2020,3,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,4,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,5,1,0,0.0014792899,0,0
-Kitzbühel,Kirchberg in Tirol,2020,6,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,7,1,0,0.0014792899,0,0.3333333333
-Kitzbühel,Kirchberg in Tirol,2020,8,3,0,0.0142998028,1,0.8333333333
-Kitzbühel,Kirchberg in Tirol,2020,9,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,10,1,0,0.0014792899,0,0.1666666667
-Kitzbühel,Kirchberg in Tirol,2020,11,2,0,0.0078895464,1,1.6666666667
-Kitzbühel,Kirchberg in Tirol,2020,12,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,13,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,14,1,0,0.0014792899,0,0
-Kitzbühel,Kirchberg in Tirol,2020,15,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,16,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,17,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,18,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,19,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,20,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,21,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,22,2,0,0.0078895464,0.3333333333,1
-Kitzbühel,Kirchberg in Tirol,2020,23,0,0,0,0,0
-Kitzbühel,Kirchberg in Tirol,2020,24,0,0,0,0,0
-Kitzbühel,Schwendt,2020,1,0,0,0,0,0
-Kitzbühel,Schwendt,2020,2,0,0,0,0,0
-Kitzbühel,Schwendt,2020,3,0,0,0,0,0
-Kitzbühel,Schwendt,2020,4,0,0,0,0,0
-Kitzbühel,Schwendt,2020,5,0,0,0,0,0
-Kitzbühel,Schwendt,2020,6,0,0,0,0,0
-Kitzbühel,Schwendt,2020,7,0,0,0,0,0
-Kitzbühel,Schwendt,2020,8,0,0,0,0,0
-Kitzbühel,Schwendt,2020,9,0,0,0,0,0
-Kitzbühel,Schwendt,2020,10,0,0,0,0,0
-Kitzbühel,Schwendt,2020,11,0,0,0,0,0
-Kitzbühel,Schwendt,2020,12,0,0,0,0,0
-Kitzbühel,Schwendt,2020,13,0,0,0,0,0
-Kitzbühel,Schwendt,2020,14,0,0,0,0,0
-Kitzbühel,Schwendt,2020,15,0,0,0,0,0
-Kitzbühel,Schwendt,2020,16,0,0,0,0,0
-Kitzbühel,Schwendt,2020,17,0,0,0,0,0
-Kitzbühel,Schwendt,2020,18,0,0,0,0,0
-Kitzbühel,Schwendt,2020,19,0,0,0,0,0
-Kitzbühel,Schwendt,2020,20,0,0,0,0,0
-Kitzbühel,Schwendt,2020,21,0,0,0,0,0
-Kitzbühel,Schwendt,2020,22,1,0,0.0177514793,0.3333333333,1
-Kitzbühel,Schwendt,2020,23,0,0,0,0,0
-Kitzbühel,Schwendt,2020,24,0,0,0,0,0
-Kitzbühel,Itter,2020,1,0,0,0,0,0
-Kitzbühel,Itter,2020,2,0,0,0,0,0
-Kitzbühel,Itter,2020,3,0,0,0,0,0
-Kitzbühel,Itter,2020,4,0,0,0,0,0
-Kitzbühel,Itter,2020,5,0,0,0,0,0
-Kitzbühel,Itter,2020,6,0,0,0,0,0
-Kitzbühel,Itter,2020,7,0,0,0,0,0
-Kitzbühel,Itter,2020,8,0,0,0,0,0
-Kitzbühel,Itter,2020,9,0,0,0,0,0
-Kitzbühel,Itter,2020,10,0,0,0,0,0
-Kitzbühel,Itter,2020,11,0,0,0,0,0
-Kitzbühel,Itter,2020,12,0,0,0,0,0
-Kitzbühel,Itter,2020,13,0,0,0,0,0
-Kitzbühel,Itter,2020,14,0,0,0,0,0
-Kitzbühel,Itter,2020,15,0,0,0,0,0
-Kitzbühel,Itter,2020,16,0,0,0,0,0
-Kitzbühel,Itter,2020,17,0,0,0,0,0
-Kitzbühel,Itter,2020,18,0,0,0,0,0
-Kitzbühel,Itter,2020,19,0,0,0,0,0
-Kitzbühel,Itter,2020,20,0,0,0,0,0
-Kitzbühel,Itter,2020,21,1,0,0.0075813609,0.3333333333,1
-Kitzbühel,Itter,2020,22,0,0,0,0,0
-Kitzbühel,Itter,2020,23,0,0,0,0,0
-Kitzbühel,Itter,2020,24,0,0,0,0,0
-Kitzbühel,Waidring,2020,1,0,0,0,0,0
-Kitzbühel,Waidring,2020,2,0,0,0,0,0
-Kitzbühel,Waidring,2020,3,0,0,0,0,0
-Kitzbühel,Waidring,2020,4,0,0,0,0,0
-Kitzbühel,Waidring,2020,5,0,0,0,0,0
-Kitzbühel,Waidring,2020,6,0,0,0,0,0
-Kitzbühel,Waidring,2020,7,0,0,0,0,0
-Kitzbühel,Waidring,2020,8,2,0,0.0160872781,0.6666666667,2
-Kitzbühel,Waidring,2020,9,0,0,0,0,0
-Kitzbühel,Waidring,2020,10,1,0,0.0064718935,0.3333333333,1
-Kitzbühel,Waidring,2020,11,0,0,0,0,0
-Kitzbühel,Waidring,2020,12,0,0,0,0,0
-Kitzbühel,Waidring,2020,13,0,0,0,0,0
-Kitzbühel,Waidring,2020,14,0,0,0,0,0
-Kitzbühel,Waidring,2020,15,1,0,0.0064718935,0,0.6666666667
-Kitzbühel,Waidring,2020,16,0,0,0,0,0
-Kitzbühel,Waidring,2020,17,1,0,0.0064718935,0,0.3333333333
-Kitzbühel,Waidring,2020,18,0,0,0,0,0
-Kitzbühel,Waidring,2020,19,0,0,0,0,0
-Kitzbühel,Waidring,2020,20,0,0,0,0,0
-Kitzbühel,Waidring,2020,21,1,0,0.0064718935,0,0.3333333333
-Kitzbühel,Waidring,2020,22,0,0,0,0,0
-Kitzbühel,Waidring,2020,23,0,0,0,0,0
-Kitzbühel,Waidring,2020,24,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,1,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,2,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,3,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,4,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,5,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,6,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,7,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,8,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,9,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,10,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,11,1,0,0.0077662722,0,0.6666666667
-Kitzbühel,Hochfilzen,2020,12,1,0,0.0077662722,0.3333333333,1
-Kitzbühel,Hochfilzen,2020,13,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,14,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,15,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,16,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,17,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,18,1,0,0.0077662722,0,0.6666666667
-Kitzbühel,Hochfilzen,2020,19,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,20,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,21,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,22,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,23,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,24,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,1,1,0,0.003081854,0,0.3333333333
-Kitzbühel,Kirchdorf in Tirol,2020,2,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,3,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,4,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,5,2,0,0.0094921105,1,1.6666666667
-Kitzbühel,Kirchdorf in Tirol,2020,6,2,0,0.0094921105,1,1.6666666667
-Kitzbühel,Kirchdorf in Tirol,2020,7,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,8,1,0,0.003081854,0.3333333333,1
-Kitzbühel,Kirchdorf in Tirol,2020,9,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,10,1,0,0.003081854,0,0.3333333333
-Kitzbühel,Kirchdorf in Tirol,2020,11,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,12,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,13,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,14,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,15,1,0,0.003081854,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,16,1,0,0.003081854,0.3333333333,1
-Kitzbühel,Kirchdorf in Tirol,2020,17,2,0,0.0094921105,1,1.6666666667
-Kitzbühel,Kirchdorf in Tirol,2020,18,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,19,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,20,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,21,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,22,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,23,0,0,0,0,0
-Kitzbühel,Kirchdorf in Tirol,2020,24,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,1,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,2,2,0,0.0109714004,0.5,1.3333333333
-Kitzbühel,Oberndorf in Tirol,2020,3,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,4,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,5,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,6,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,7,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,8,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,9,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,10,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,11,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,12,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,13,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,14,1,0,0.004561144,0.3333333333,1
-Kitzbühel,Oberndorf in Tirol,2020,15,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,16,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,17,1,0,0.004561144,0,0.6666666667
-Kitzbühel,Oberndorf in Tirol,2020,18,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,19,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,20,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,21,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,22,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,23,0,0,0,0,0
-Kitzbühel,Oberndorf in Tirol,2020,24,0,0,0,0,0
-Kitzbühel,Westendorf,2020,1,0,0,0,0,0
-Kitzbühel,Westendorf,2020,2,2,0,0.0153476331,0,0.6666666667
-Kitzbühel,Westendorf,2020,3,1,0,0.0057322485,0.3333333333,1
-Kitzbühel,Westendorf,2020,4,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Westendorf,2020,5,0,0,0,0,0
-Kitzbühel,Westendorf,2020,6,1,0,0.0057322485,0,0
-Kitzbühel,Westendorf,2020,7,0,0,0,0,0
-Kitzbühel,Westendorf,2020,8,0,0,0,0,0
-Kitzbühel,Westendorf,2020,9,1,0,0.0057322485,0,0
-Kitzbühel,Westendorf,2020,10,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Westendorf,2020,11,0,0,0,0,0
-Kitzbühel,Westendorf,2020,12,2,0,0.0153476331,0,0
-Kitzbühel,Westendorf,2020,13,1,0,0.0057322485,0,0.3333333333
-Kitzbühel,Westendorf,2020,14,1,0,0.0057322485,0,0
-Kitzbühel,Westendorf,2020,15,2,0,0.0153476331,0.5,1.3333333333
-Kitzbühel,Westendorf,2020,16,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Westendorf,2020,17,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Westendorf,2020,18,0,0,0,0,0
-Kitzbühel,Westendorf,2020,19,0,0,0,0,0
-Kitzbühel,Westendorf,2020,20,0,0,0,0,0
-Kitzbühel,Westendorf,2020,21,0,0,0,0,0
-Kitzbühel,Westendorf,2020,22,0,0,0,0,0
-Kitzbühel,Westendorf,2020,23,0,0,0,0,0
-Kitzbühel,Westendorf,2020,24,0,0,0,0,0
-Kitzbühel,Jochberg,2020,1,0,0,0,0,0
-Kitzbühel,Jochberg,2020,2,2,0,0.0153476331,0.6666666667,2
-Kitzbühel,Jochberg,2020,3,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Jochberg,2020,4,0,0,0,0,0
-Kitzbühel,Jochberg,2020,5,0,0,0,0,0
-Kitzbühel,Jochberg,2020,6,0,0,0,0,0
-Kitzbühel,Jochberg,2020,7,1,0,0.0057322485,0,0.3333333333
-Kitzbühel,Jochberg,2020,8,0,0,0,0,0
-Kitzbühel,Jochberg,2020,9,0,0,0,0,0
-Kitzbühel,Jochberg,2020,10,0,0,0,0,0
-Kitzbühel,Jochberg,2020,11,0,0,0,0,0
-Kitzbühel,Jochberg,2020,12,1,0,0.0057322485,0,0
-Kitzbühel,Jochberg,2020,13,0,0,0,0,0
-Kitzbühel,Jochberg,2020,14,1,0,0.0057322485,0,0.6666666667
-Kitzbühel,Jochberg,2020,15,0,0,0,0,0
-Kitzbühel,Jochberg,2020,16,0,0,0,0,0
-Kitzbühel,Jochberg,2020,17,0,0,0,0,0
-Kitzbühel,Jochberg,2020,18,0,0,0,0,0
-Kitzbühel,Jochberg,2020,19,0,0,0,0,0
-Kitzbühel,Jochberg,2020,20,0,0,0,0,0
-Kitzbühel,Jochberg,2020,21,0,0,0,0,0
-Kitzbühel,Jochberg,2020,22,0,0,0,0,0
-Kitzbühel,Jochberg,2020,23,0,0,0,0,0
-Kitzbühel,Jochberg,2020,24,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,1,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,2,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,3,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,4,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,5,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,6,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,7,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,8,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,9,1,0,0.005300789,0,0.6666666667
-Kitzbühel,Aurach bei Kitzbühel,2020,10,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,11,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,12,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,13,2,0,0.0117110454,1,1.6666666667
-Kitzbühel,Aurach bei Kitzbühel,2020,14,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,15,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,16,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,17,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,18,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,19,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,20,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,21,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,22,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,23,0,0,0,0,0
-Kitzbühel,Aurach bei Kitzbühel,2020,24,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,1,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,2,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,3,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,4,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,5,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,6,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,7,1,0,0.0166420118,0,0.6666666667
-Kitzbühel,Going am Wilden Kaiser,2020,8,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,9,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,10,1,0,0.0166420118,0,0.3333333333
-Kitzbühel,Going am Wilden Kaiser,2020,11,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,12,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,13,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,14,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,15,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,16,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,17,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,18,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,19,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,20,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,21,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,22,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,23,0,0,0,0,0
-Kitzbühel,Going am Wilden Kaiser,2020,24,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,1,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,2,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,3,1,0,0.0073964497,0,0.6666666667
-Kitzbühel,Reith bei Kitzbühel,2020,4,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,5,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,6,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,7,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,8,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,9,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,10,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,11,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,12,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,13,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,14,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,15,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,16,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,17,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,18,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,19,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,20,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,21,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,22,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,23,0,0,0,0,0
-Kitzbühel,Reith bei Kitzbühel,2020,24,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,1,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,2,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,3,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,4,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,5,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,6,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,7,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,8,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,9,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,10,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,11,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,12,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,13,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,14,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,15,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,16,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,17,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,18,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,19,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,20,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,21,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,22,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,23,0,0,0,0,0
-Kitzbühel,St. Jakob in Haus,2020,24,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,1,2,0,0.0072115385,0,0
+Innsbruck-Land,Fritzens,2020,2,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,3,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,4,2,0,0.0072115385,0,0
+Innsbruck-Land,Fritzens,2020,5,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,6,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,7,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,8,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,9,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,10,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,11,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,12,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,13,2,0,0.0072115385,0,0.6666666667
+Innsbruck-Land,Fritzens,2020,14,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,15,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,16,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,17,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,18,1,0,0.0024038462,0.3333333333,1
+Innsbruck-Land,Fritzens,2020,19,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,20,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,21,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,22,0,0,0,0,0
+Innsbruck-Land,Fritzens,2020,23,2,0,0.0072115385,0,0.6666666667
+Innsbruck-Land,Fritzens,2020,24,0,0,0,0,0
 Innsbruck-Land,Inzing,2020,1,0,0,0,0,0
 Innsbruck-Land,Inzing,2020,2,2,0,0.0146079882,1,1.6666666667
 Innsbruck-Land,Inzing,2020,3,1,0,0.0049926036,0,0.3333333333
@@ -2615,6 +2639,30 @@ Innsbruck-Land,Völs,2020,21,1,0,0.0010170118,0,0.3333333333
 Innsbruck-Land,Völs,2020,22,1,0,0.0010170118,0,0.6666666667
 Innsbruck-Land,Völs,2020,23,3,0,0.0106323964,1,0.8333333333
 Innsbruck-Land,Völs,2020,24,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,1,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,2,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,3,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,4,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,5,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,6,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,7,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,8,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,9,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,10,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,11,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,12,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,13,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,14,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,15,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,16,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,17,1,0,0.0086908284,0.3333333333,1
+Innsbruck-Land,Gries im Sellrain,2020,18,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,19,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,20,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,21,1,0,0.0086908284,0.3333333333,1
+Innsbruck-Land,Gries im Sellrain,2020,22,0,0,0,0,0
+Innsbruck-Land,Gries im Sellrain,2020,23,1,0,0.0086908284,0.3333333333,1
+Innsbruck-Land,Gries im Sellrain,2020,24,0,0,0,0,0
 Innsbruck-Land,Sistrans,2020,1,0,0,0,0,0
 Innsbruck-Land,Sistrans,2020,2,1,0,0.0173816568,0.3333333333,1
 Innsbruck-Land,Sistrans,2020,3,0,0,0,0,0
@@ -3047,30 +3095,6 @@ Innsbruck-Land,Telfes im Stubai,2020,21,1,0,0.0072115385,0,0.6666666667
 Innsbruck-Land,Telfes im Stubai,2020,22,0,0,0,0,0
 Innsbruck-Land,Telfes im Stubai,2020,23,0,0,0,0,0
 Innsbruck-Land,Telfes im Stubai,2020,24,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,1,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,2,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,3,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,4,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,5,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,6,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,7,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,8,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,9,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,10,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,11,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,12,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,13,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,14,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,15,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,16,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,17,1,0,0.0086908284,0.3333333333,1
-Innsbruck-Land,Gries im Sellrain,2020,18,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,19,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,20,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,21,1,0,0.0086908284,0.3333333333,1
-Innsbruck-Land,Gries im Sellrain,2020,22,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,23,0,0,0,0,0
-Innsbruck-Land,Gries im Sellrain,2020,24,0,0,0,0,0
 Innsbruck-Land,Volders,2020,1,2,0,0.0037598619,0.6666666667,2
 Innsbruck-Land,Volders,2020,2,2,0,0.0037598619,0.6666666667,2
 Innsbruck-Land,Volders,2020,3,0,0,0,0,0
@@ -3335,30 +3359,6 @@ Innsbruck-Land,Aldrans,2020,21,0,0,0,0,0
 Innsbruck-Land,Aldrans,2020,22,0,0,0,0,0
 Innsbruck-Land,Aldrans,2020,23,0,0,0,0,0
 Innsbruck-Land,Aldrans,2020,24,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,1,2,0,0.0072115385,0,0
-Innsbruck-Land,Fritzens,2020,2,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,3,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,4,2,0,0.0072115385,0,0
-Innsbruck-Land,Fritzens,2020,5,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,6,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,7,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,8,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,9,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,10,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,11,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,12,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,13,2,0,0.0072115385,0,0.6666666667
-Innsbruck-Land,Fritzens,2020,14,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,15,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,16,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,17,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,18,1,0,0.0024038462,0.3333333333,1
-Innsbruck-Land,Fritzens,2020,19,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,20,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,21,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,22,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,23,0,0,0,0,0
-Innsbruck-Land,Fritzens,2020,24,0,0,0,0,0
 Innsbruck-Land,Scharnitz,2020,1,0,0,0,0,0
 Innsbruck-Land,Scharnitz,2020,2,0,0,0,0,0
 Innsbruck-Land,Scharnitz,2020,3,0,0,0,0,0
@@ -6645,5 +6645,5 @@ Innsbruck-Stadt,Innsbruck,2020,19,4,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,20,1,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,21,7,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,22,2,0,0,0,0
-Innsbruck-Stadt,Innsbruck,2020,23,0,0,0,0,0
+Innsbruck-Stadt,Innsbruck,2020,23,1,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,24,0,0,0,0,0

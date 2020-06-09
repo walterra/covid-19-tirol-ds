@@ -1,4 +1,5 @@
 date,year,week,municipaly,district,hash
+09.06.2020,2020,24,Götzens,Innsbruck-Land,1214601101
 08.06.2020,2020,24,St. Ulrich am Pillersee,Kitzbühel,1741768407
 08.06.2020,2020,24,Jochberg,Kitzbühel,433604508
 08.06.2020,2020,24,Kirchberg in Tirol,Kitzbühel,-1470347643
@@ -10,6 +11,7 @@ date,year,week,municipaly,district,hash
 07.06.2020,2020,23,Fritzens,Innsbruck-Land,52253313
 07.06.2020,2020,23,Kirchberg in Tirol,Kitzbühel,-280717256
 07.06.2020,2020,23,Kirchdorf in Tirol,Kitzbühel,-236295534
+07.06.2020,2020,23,Mayrhofen,Schwaz,494106688
 06.06.2020,2020,23,Kössen,Kitzbühel,-611930038
 06.06.2020,2020,23,Tristach,Lienz,-1870818284
 06.06.2020,2020,23,Inzing,Innsbruck-Land,-959363385
@@ -18,6 +20,9 @@ date,year,week,municipaly,district,hash
 06.06.2020,2020,23,Gries im Sellrain,Innsbruck-Land,-1309884594
 06.06.2020,2020,23,Seefeld in Tirol,Innsbruck-Land,1962758244
 06.06.2020,2020,23,Hopfgarten im Brixental,Kitzbühel,2017286977
+06.06.2020,2020,23,Wattens,Innsbruck-Land,-348767896
+06.06.2020,2020,23,Wattens,Innsbruck-Land,-1827582040
+06.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,-202627456
 05.06.2020,2020,23,Sistrans,Innsbruck-Land,-675551267
 05.06.2020,2020,23,Fieberbrunn,Kitzbühel,-1322852713
 05.06.2020,2020,23,Ebbs,Kufstein,1663053196
@@ -28,6 +33,8 @@ date,year,week,municipaly,district,hash
 05.06.2020,2020,23,Völs,Innsbruck-Land,-2084114898
 05.06.2020,2020,23,Niederndorf,Kufstein,1031180010
 05.06.2020,2020,23,Kirchdorf in Tirol,Kitzbühel,1027114037
+05.06.2020,2020,23,Terfens,Schwaz,353845758
+05.06.2020,2020,23,Imst,Imst,-1227542789
 04.06.2020,2020,23,Zirl,Innsbruck-Land,-872821476
 04.06.2020,2020,23,Zirl,Innsbruck-Land,-530484754
 04.06.2020,2020,23,Flirsch,Landeck,-210968569
@@ -69,6 +76,7 @@ date,year,week,municipaly,district,hash
 02.06.2020,2020,23,Reith im Alpbachtal,Kufstein,-1619511143
 02.06.2020,2020,23,Brixen im Thale,Kitzbühel,555671763
 02.06.2020,2020,23,Kramsach,Kufstein,85384377
+02.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,-1373559716
 01.06.2020,2020,23,Telfs,Innsbruck-Land,-29675279
 01.06.2020,2020,23,Anras,Lienz,2008672493
 01.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,508274806

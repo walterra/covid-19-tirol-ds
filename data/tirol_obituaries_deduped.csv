@@ -1,9 +1,23 @@
 date,year,week,municipaly,district,hash
+10.06.2020,2020,24,Wörgl,Kufstein,-173094833
 09.06.2020,2020,24,Götzens,Innsbruck-Land,1214601101
+09.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,-1141377805
+09.06.2020,2020,24,Mutters,Innsbruck-Land,-476918432
+09.06.2020,2020,24,Kundl,Kufstein,-448225182
+09.06.2020,2020,24,Hopfgarten im Brixental,Kitzbühel,-2131603009
+09.06.2020,2020,24,Längenfeld,Imst,-343706750
 08.06.2020,2020,24,St. Ulrich am Pillersee,Kitzbühel,1741768407
 08.06.2020,2020,24,Jochberg,Kitzbühel,433604508
 08.06.2020,2020,24,Kirchberg in Tirol,Kitzbühel,-1470347643
 08.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,1257500282
+08.06.2020,2020,24,Seefeld in Tirol,Innsbruck-Land,242242951
+08.06.2020,2020,24,Weerberg,Schwaz,-617392339
+08.06.2020,2020,24,Tux,Schwaz,867811012
+08.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,124345300
+08.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,-422517711
+08.06.2020,2020,24,Matrei in Osttirol,Lienz,-1941587196
+08.06.2020,2020,24,Breitenwang,Reutte,1829145893
+08.06.2020,2020,24,Kirchdorf in Tirol,Kitzbühel,46890734
 07.06.2020,2020,23,Ellmau,Kufstein,-740758
 07.06.2020,2020,23,Lienz,Lienz,834249387
 07.06.2020,2020,23,Längenfeld,Imst,1632642347
@@ -23,6 +37,7 @@ date,year,week,municipaly,district,hash
 06.06.2020,2020,23,Wattens,Innsbruck-Land,-348767896
 06.06.2020,2020,23,Wattens,Innsbruck-Land,-1827582040
 06.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,-202627456
+06.06.2020,2020,23,Ainet,Lienz,2022638096
 05.06.2020,2020,23,Sistrans,Innsbruck-Land,-675551267
 05.06.2020,2020,23,Fieberbrunn,Kitzbühel,-1322852713
 05.06.2020,2020,23,Ebbs,Kufstein,1663053196
@@ -80,6 +95,7 @@ date,year,week,municipaly,district,hash
 01.06.2020,2020,23,Telfs,Innsbruck-Land,-29675279
 01.06.2020,2020,23,Anras,Lienz,2008672493
 01.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,508274806
+01.06.2020,2020,23,Innsbruck,Innsbruck-Stadt,209202045
 31.05.2020,2020,22,Ried im Zillertal,Schwaz,-1061427237
 31.05.2020,2020,22,Götzens,Innsbruck-Land,975345423
 31.05.2020,2020,22,Innsbruck,Innsbruck-Stadt,-1825266002

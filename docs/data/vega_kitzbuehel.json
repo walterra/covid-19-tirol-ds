@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-4f059638e5b6eb1fc55b1a802b8942b6"
+        "name": "data-531c43ddc6e7fe45fe5edb50385550da"
     },
     "datasets": {
-        "data-4f059638e5b6eb1fc55b1a802b8942b6": [
+        "data-531c43ddc6e7fe45fe5edb50385550da": [
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 4,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 4,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Hopfgarten im Brixental",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Kitzb\u00fchel",
@@ -5649,7 +7105,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Kirchdorf in Tirol",
                 "week": 24,
@@ -7304,1462 +8760,6 @@
                 "count": 0,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "K\u00f6ssen",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 4,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 4,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Hopfgarten im Brixental",
                 "week": 52,
                 "year": 2020
             },

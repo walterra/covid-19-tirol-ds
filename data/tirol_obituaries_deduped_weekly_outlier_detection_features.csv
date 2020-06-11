@@ -47,6 +47,30 @@ Kufstein,Kundl,2020,21,0,0,0,0,0
 Kufstein,Kundl,2020,22,1,0,0.0022189349,0,0.6666666667
 Kufstein,Kundl,2020,23,1,0,0.0022189349,0,0.3333333333
 Kufstein,Kundl,2020,24,1,0,0.0022189349,0,0
+Kufstein,Alpbach,2020,1,1,0,0.0110946746,0,0.3333333333
+Kufstein,Alpbach,2020,2,1,0,0.0110946746,0,0.3333333333
+Kufstein,Alpbach,2020,3,0,0,0,0,0
+Kufstein,Alpbach,2020,4,0,0,0,0,0
+Kufstein,Alpbach,2020,5,0,0,0,0,0
+Kufstein,Alpbach,2020,6,1,0,0.0110946746,0,0
+Kufstein,Alpbach,2020,7,0,0,0,0,0
+Kufstein,Alpbach,2020,8,1,0,0.0110946746,0,0.6666666667
+Kufstein,Alpbach,2020,9,1,0,0.0110946746,0,0.6666666667
+Kufstein,Alpbach,2020,10,0,0,0,0,0
+Kufstein,Alpbach,2020,11,0,0,0,0,0
+Kufstein,Alpbach,2020,12,0,0,0,0,0
+Kufstein,Alpbach,2020,13,0,0,0,0,0
+Kufstein,Alpbach,2020,14,0,0,0,0,0
+Kufstein,Alpbach,2020,15,1,0,0.0110946746,0,0.6666666667
+Kufstein,Alpbach,2020,16,1,0,0.0110946746,0,0.6666666667
+Kufstein,Alpbach,2020,17,0,0,0,0,0
+Kufstein,Alpbach,2020,18,0,0,0,0,0
+Kufstein,Alpbach,2020,19,0,0,0,0,0
+Kufstein,Alpbach,2020,20,0,0,0,0,0
+Kufstein,Alpbach,2020,21,0,0,0,0,0
+Kufstein,Alpbach,2020,22,0,0,0,0,0
+Kufstein,Alpbach,2020,23,0,0,0,0,0
+Kufstein,Alpbach,2020,24,1,0,0.0110946746,0.3333333333,1
 Kufstein,Ellmau,2020,1,0,0,0,0,0
 Kufstein,Ellmau,2020,2,0,0,0,0,0
 Kufstein,Ellmau,2020,3,0,0,0,0,0
@@ -503,30 +527,6 @@ Kufstein,Langkampfen,2020,21,0,0,0,0,0
 Kufstein,Langkampfen,2020,22,0,0,0,0,0
 Kufstein,Langkampfen,2020,23,0,0,0,0,0
 Kufstein,Langkampfen,2020,24,0,0,0,0,0
-Kufstein,Alpbach,2020,1,1,0,0.0110946746,0,0.3333333333
-Kufstein,Alpbach,2020,2,1,0,0.0110946746,0,0.3333333333
-Kufstein,Alpbach,2020,3,0,0,0,0,0
-Kufstein,Alpbach,2020,4,0,0,0,0,0
-Kufstein,Alpbach,2020,5,0,0,0,0,0
-Kufstein,Alpbach,2020,6,1,0,0.0110946746,0,0
-Kufstein,Alpbach,2020,7,0,0,0,0,0
-Kufstein,Alpbach,2020,8,1,0,0.0110946746,0,0.6666666667
-Kufstein,Alpbach,2020,9,1,0,0.0110946746,0,0.6666666667
-Kufstein,Alpbach,2020,10,0,0,0,0,0
-Kufstein,Alpbach,2020,11,0,0,0,0,0
-Kufstein,Alpbach,2020,12,0,0,0,0,0
-Kufstein,Alpbach,2020,13,0,0,0,0,0
-Kufstein,Alpbach,2020,14,0,0,0,0,0
-Kufstein,Alpbach,2020,15,1,0,0.0110946746,0,0.6666666667
-Kufstein,Alpbach,2020,16,1,0,0.0110946746,0,0.6666666667
-Kufstein,Alpbach,2020,17,0,0,0,0,0
-Kufstein,Alpbach,2020,18,0,0,0,0,0
-Kufstein,Alpbach,2020,19,0,0,0,0,0
-Kufstein,Alpbach,2020,20,0,0,0,0,0
-Kufstein,Alpbach,2020,21,0,0,0,0,0
-Kufstein,Alpbach,2020,22,0,0,0,0,0
-Kufstein,Alpbach,2020,23,0,0,0,0,0
-Kufstein,Alpbach,2020,24,0,0,0,0,0
 Kufstein,Brandenberg,2020,1,1,0,0.0159023669,0,0.6666666667
 Kufstein,Brandenberg,2020,2,0,0,0,0,0
 Kufstein,Brandenberg,2020,3,1,0,0.0159023669,0.3333333333,1
@@ -719,6 +719,30 @@ Kufstein,Rettenschöss,2020,21,0,0,0,0,0
 Kufstein,Rettenschöss,2020,22,0,0,0,0,0
 Kufstein,Rettenschöss,2020,23,0,0,0,0,0
 Kufstein,Rettenschöss,2020,24,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,1,1,0,0,0,0
+Innsbruck-Land,Zirl,2020,2,1,0,0,0,0
+Innsbruck-Land,Zirl,2020,3,2,0,0.0038461538,0,0
+Innsbruck-Land,Zirl,2020,4,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,5,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,6,1,0,0,0,0
+Innsbruck-Land,Zirl,2020,7,1,0,0,0,0
+Innsbruck-Land,Zirl,2020,8,3,0,0.0076923077,0.6666666667,2
+Innsbruck-Land,Zirl,2020,9,1,0,0,0,0.3333333333
+Innsbruck-Land,Zirl,2020,10,2,0,0.0038461538,1,1.6666666667
+Innsbruck-Land,Zirl,2020,11,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,12,1,0,0,0,0.3333333333
+Innsbruck-Land,Zirl,2020,13,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,14,1,0,0,0,0.3333333333
+Innsbruck-Land,Zirl,2020,15,2,0,0.0038461538,0,0
+Innsbruck-Land,Zirl,2020,16,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,17,1,0,0,0,0.3333333333
+Innsbruck-Land,Zirl,2020,18,1,0,0,0,0
+Innsbruck-Land,Zirl,2020,19,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,20,1,0,0,0,0.3333333333
+Innsbruck-Land,Zirl,2020,21,0,0,0,0,0
+Innsbruck-Land,Zirl,2020,22,1,0,0,0,0.1666666667
+Innsbruck-Land,Zirl,2020,23,2,0,0.0038461538,0,0.5
+Innsbruck-Land,Zirl,2020,24,1,0,0,0,0
 Innsbruck-Land,Götzens,2020,1,0,0,0,0,0
 Innsbruck-Land,Götzens,2020,2,0,0,0,0,0
 Innsbruck-Land,Götzens,2020,3,1,0,0.003081854,0,0
@@ -959,30 +983,6 @@ Innsbruck-Land,Kolsassberg,2020,21,0,0,0,0,0
 Innsbruck-Land,Kolsassberg,2020,22,0,0,0,0,0
 Innsbruck-Land,Kolsassberg,2020,23,1,0.0003698225,0.0192307692,0.3333333333,1
 Innsbruck-Land,Kolsassberg,2020,24,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,1,1,0,0,0,0
-Innsbruck-Land,Zirl,2020,2,1,0,0,0,0
-Innsbruck-Land,Zirl,2020,3,2,0,0.0038461538,0,0
-Innsbruck-Land,Zirl,2020,4,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,5,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,6,1,0,0,0,0
-Innsbruck-Land,Zirl,2020,7,1,0,0,0,0
-Innsbruck-Land,Zirl,2020,8,3,0,0.0076923077,0.6666666667,2
-Innsbruck-Land,Zirl,2020,9,1,0,0,0,0.3333333333
-Innsbruck-Land,Zirl,2020,10,2,0,0.0038461538,1,1.6666666667
-Innsbruck-Land,Zirl,2020,11,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,12,1,0,0,0,0.3333333333
-Innsbruck-Land,Zirl,2020,13,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,14,1,0,0,0,0.3333333333
-Innsbruck-Land,Zirl,2020,15,2,0,0.0038461538,0,0
-Innsbruck-Land,Zirl,2020,16,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,17,1,0,0,0,0.3333333333
-Innsbruck-Land,Zirl,2020,18,1,0,0,0,0
-Innsbruck-Land,Zirl,2020,19,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,20,1,0,0,0,0.3333333333
-Innsbruck-Land,Zirl,2020,21,0,0,0,0,0
-Innsbruck-Land,Zirl,2020,22,1,0,0,0,0.1666666667
-Innsbruck-Land,Zirl,2020,23,2,0,0.0038461538,0,0.5
-Innsbruck-Land,Zirl,2020,24,0,0,0,0,0
 Innsbruck-Land,Kolsass,2020,1,0,0,0,0,0
 Innsbruck-Land,Kolsass,2020,2,0,0,0,0,0
 Innsbruck-Land,Kolsass,2020,3,0,0,0,0,0
@@ -2255,6 +2255,1806 @@ Innsbruck-Land,Unterperfuss,2020,21,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,22,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,23,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,24,0,0,0,0,0
+Schwaz,Uderns,2020,1,0,0,0,0,0
+Schwaz,Uderns,2020,2,0,0,0,0,0
+Schwaz,Uderns,2020,3,0,0,0,0,0
+Schwaz,Uderns,2020,4,0,0,0,0,0
+Schwaz,Uderns,2020,5,1,0,0.0048076923,0,0.3333333333
+Schwaz,Uderns,2020,6,0,0,0,0,0
+Schwaz,Uderns,2020,7,0,0,0,0,0
+Schwaz,Uderns,2020,8,0,0,0,0,0
+Schwaz,Uderns,2020,9,0,0,0,0,0
+Schwaz,Uderns,2020,10,1,0,0.0048076923,0.3333333333,1
+Schwaz,Uderns,2020,11,0,0,0,0,0
+Schwaz,Uderns,2020,12,0,0,0,0,0
+Schwaz,Uderns,2020,13,2,0,0.0112179487,0.6666666667,2
+Schwaz,Uderns,2020,14,0,0,0,0,0
+Schwaz,Uderns,2020,15,0,0,0,0,0
+Schwaz,Uderns,2020,16,0,0,0,0,0
+Schwaz,Uderns,2020,17,1,0,0.0048076923,0.3333333333,1
+Schwaz,Uderns,2020,18,1,0,0.0048076923,0.3333333333,1
+Schwaz,Uderns,2020,19,0,0,0,0,0
+Schwaz,Uderns,2020,20,0,0,0,0,0
+Schwaz,Uderns,2020,21,0,0,0,0,0
+Schwaz,Uderns,2020,22,0,0,0,0,0
+Schwaz,Uderns,2020,23,0,0,0,0,0
+Schwaz,Uderns,2020,24,1,0,0.0048076923,0,0.6666666667
+Schwaz,Jenbach,2020,1,1,0,0,0,0
+Schwaz,Jenbach,2020,2,1,0,0,0,0
+Schwaz,Jenbach,2020,3,0,0,0,0,0
+Schwaz,Jenbach,2020,4,4,0,0.0105029586,3,3.6666666667
+Schwaz,Jenbach,2020,5,2,0,0.0028106509,0,0.5
+Schwaz,Jenbach,2020,6,2,0,0.0028106509,0,0.6666666667
+Schwaz,Jenbach,2020,7,1,0,0,0,0
+Schwaz,Jenbach,2020,8,0,0,0,0,0
+Schwaz,Jenbach,2020,9,2,0,0.0028106509,0,0
+Schwaz,Jenbach,2020,10,0,0,0,0,0
+Schwaz,Jenbach,2020,11,1,0,0,0,0
+Schwaz,Jenbach,2020,12,4,0,0.0105029586,2,1.6666666667
+Schwaz,Jenbach,2020,13,3,0,0.0066568047,1,2.3333333333
+Schwaz,Jenbach,2020,14,4,0,0.0105029586,1,0.8888888889
+Schwaz,Jenbach,2020,15,5,0,0.0143491124,2,4.3333333333
+Schwaz,Jenbach,2020,16,2,0,0.0028106509,0,0.3333333333
+Schwaz,Jenbach,2020,17,2,0,0.0028106509,0,0.5
+Schwaz,Jenbach,2020,18,0,0,0,0,0
+Schwaz,Jenbach,2020,19,0,0,0,0,0
+Schwaz,Jenbach,2020,20,0,0,0,0,0
+Schwaz,Jenbach,2020,21,0,0,0,0,0
+Schwaz,Jenbach,2020,22,2,0,0.0028106509,0,0.5
+Schwaz,Jenbach,2020,23,0,0,0,0,0
+Schwaz,Jenbach,2020,24,1,0,0,0,0
+Schwaz,Weerberg,2020,1,1,0,0.0040680473,0,0
+Schwaz,Weerberg,2020,2,1,0,0.0040680473,0.3333333333,1
+Schwaz,Weerberg,2020,3,0,0,0,0,0
+Schwaz,Weerberg,2020,4,0,0,0,0,0
+Schwaz,Weerberg,2020,5,0,0,0,0,0
+Schwaz,Weerberg,2020,6,0,0,0,0,0
+Schwaz,Weerberg,2020,7,0,0,0,0,0
+Schwaz,Weerberg,2020,8,0,0,0,0,0
+Schwaz,Weerberg,2020,9,1,0,0.0040680473,0.3333333333,1
+Schwaz,Weerberg,2020,10,1,0,0.0040680473,0,0.6666666667
+Schwaz,Weerberg,2020,11,1,0,0.0040680473,0.3333333333,1
+Schwaz,Weerberg,2020,12,1,0,0.0040680473,0,0
+Schwaz,Weerberg,2020,13,1,0,0.0040680473,0.3333333333,1
+Schwaz,Weerberg,2020,14,0,0,0,0,0
+Schwaz,Weerberg,2020,15,0,0,0,0,0
+Schwaz,Weerberg,2020,16,0,0,0,0,0
+Schwaz,Weerberg,2020,17,0,0,0,0,0
+Schwaz,Weerberg,2020,18,0,0,0,0,0
+Schwaz,Weerberg,2020,19,0,0,0,0,0
+Schwaz,Weerberg,2020,20,1,0,0.0040680473,0.3333333333,1
+Schwaz,Weerberg,2020,21,1,0,0.0040680473,0,0.6666666667
+Schwaz,Weerberg,2020,22,1,0,0.0040680473,0,0.6666666667
+Schwaz,Weerberg,2020,23,0,0,0,0,0
+Schwaz,Weerberg,2020,24,1,0,0.0040680473,0.3333333333,1
+Schwaz,Tux,2020,1,0,0,0,0,0
+Schwaz,Tux,2020,2,1,0,0.0073964497,0,0.3333333333
+Schwaz,Tux,2020,3,0,0,0,0,0
+Schwaz,Tux,2020,4,0,0,0,0,0
+Schwaz,Tux,2020,5,2,0,0.0170118343,0.6666666667,2
+Schwaz,Tux,2020,6,0,0,0,0,0
+Schwaz,Tux,2020,7,0,0,0,0,0
+Schwaz,Tux,2020,8,0,0,0,0,0
+Schwaz,Tux,2020,9,0,0,0,0,0
+Schwaz,Tux,2020,10,0,0,0,0,0
+Schwaz,Tux,2020,11,0,0,0,0,0
+Schwaz,Tux,2020,12,0,0,0,0,0
+Schwaz,Tux,2020,13,0,0,0,0,0
+Schwaz,Tux,2020,14,0,0,0,0,0
+Schwaz,Tux,2020,15,1,0,0.0073964497,0,0.6666666667
+Schwaz,Tux,2020,16,1,0,0.0073964497,0.3333333333,1
+Schwaz,Tux,2020,17,0,0,0,0,0
+Schwaz,Tux,2020,18,0,0,0,0,0
+Schwaz,Tux,2020,19,0,0,0,0,0
+Schwaz,Tux,2020,20,1,0,0.0073964497,0,0.1666666667
+Schwaz,Tux,2020,21,0,0,0,0,0
+Schwaz,Tux,2020,22,0,0,0,0,0
+Schwaz,Tux,2020,23,0,0,0,0,0
+Schwaz,Tux,2020,24,1,0,0.0073964497,0.3333333333,1
+Schwaz,Mayrhofen,2020,1,1,0,0.0019723866,0,0
+Schwaz,Mayrhofen,2020,2,3,0,0.0147928994,1,1
+Schwaz,Mayrhofen,2020,3,3,0,0.0147928994,1,1.1666666667
+Schwaz,Mayrhofen,2020,4,0,0,0,0,0
+Schwaz,Mayrhofen,2020,5,0,0,0,0,0
+Schwaz,Mayrhofen,2020,6,2,0,0.008382643,0.6666666667,2
+Schwaz,Mayrhofen,2020,7,0,0,0,0,0
+Schwaz,Mayrhofen,2020,8,1,0,0.0019723866,0.3333333333,1
+Schwaz,Mayrhofen,2020,9,1,0,0.0019723866,0,0
+Schwaz,Mayrhofen,2020,10,0,0,0,0,0
+Schwaz,Mayrhofen,2020,11,1,0,0.0019723866,0,0
+Schwaz,Mayrhofen,2020,12,0,0,0,0,0
+Schwaz,Mayrhofen,2020,13,2,0,0.008382643,1,1.6666666667
+Schwaz,Mayrhofen,2020,14,2,0,0.008382643,1,1.6666666667
+Schwaz,Mayrhofen,2020,15,0,0,0,0,0
+Schwaz,Mayrhofen,2020,16,2,0,0.008382643,0,0.6666666667
+Schwaz,Mayrhofen,2020,17,0,0,0,0,0
+Schwaz,Mayrhofen,2020,18,1,0,0.0019723866,0,0.3333333333
+Schwaz,Mayrhofen,2020,19,0,0,0,0,0
+Schwaz,Mayrhofen,2020,20,0,0,0,0,0
+Schwaz,Mayrhofen,2020,21,1,0,0.0019723866,0.3333333333,1
+Schwaz,Mayrhofen,2020,22,1,0,0.0019723866,0,0.6666666667
+Schwaz,Mayrhofen,2020,23,2,0,0.008382643,0,0.5
+Schwaz,Mayrhofen,2020,24,0,0,0,0,0
+Schwaz,Weer,2020,1,0,0,0,0,0
+Schwaz,Weer,2020,2,0,0,0,0,0
+Schwaz,Weer,2020,3,0,0,0,0,0
+Schwaz,Weer,2020,4,1,0,0.0036982249,0,0.6666666667
+Schwaz,Weer,2020,5,0,0,0,0,0
+Schwaz,Weer,2020,6,1,0,0.0036982249,0,0.6666666667
+Schwaz,Weer,2020,7,0,0,0,0,0
+Schwaz,Weer,2020,8,0,0,0,0,0
+Schwaz,Weer,2020,9,0,0,0,0,0
+Schwaz,Weer,2020,10,0,0,0,0,0
+Schwaz,Weer,2020,11,0,0,0,0,0
+Schwaz,Weer,2020,12,1,0,0.0036982249,0.3333333333,1
+Schwaz,Weer,2020,13,1,0,0.0036982249,0.3333333333,1
+Schwaz,Weer,2020,14,1,0,0.0036982249,0,0.6666666667
+Schwaz,Weer,2020,15,2,0,0.0085059172,1,1.6666666667
+Schwaz,Weer,2020,16,0,0,0,0,0
+Schwaz,Weer,2020,17,1,0,0.0036982249,0.3333333333,1
+Schwaz,Weer,2020,18,0,0,0,0,0
+Schwaz,Weer,2020,19,0,0,0,0,0
+Schwaz,Weer,2020,20,0,0,0,0,0
+Schwaz,Weer,2020,21,0,0,0,0,0
+Schwaz,Weer,2020,22,1,0,0.0036982249,0.3333333333,1
+Schwaz,Weer,2020,23,2,0,0.0085059172,0.6666666667,2
+Schwaz,Weer,2020,24,0,0,0,0,0
+Schwaz,Terfens,2020,1,0,0,0,0,0
+Schwaz,Terfens,2020,2,1,0,0.0075813609,0,0.1666666667
+Schwaz,Terfens,2020,3,1,0,0.0075813609,0,0.6666666667
+Schwaz,Terfens,2020,4,0,0,0,0,0
+Schwaz,Terfens,2020,5,0,0,0,0,0
+Schwaz,Terfens,2020,6,0,0,0,0,0
+Schwaz,Terfens,2020,7,0,0,0,0,0
+Schwaz,Terfens,2020,8,0,0,0,0,0
+Schwaz,Terfens,2020,9,0,0,0,0,0
+Schwaz,Terfens,2020,10,0,0,0,0,0
+Schwaz,Terfens,2020,11,0,0,0,0,0
+Schwaz,Terfens,2020,12,0,0,0,0,0
+Schwaz,Terfens,2020,13,0,0,0,0,0
+Schwaz,Terfens,2020,14,0,0,0,0,0
+Schwaz,Terfens,2020,15,0,0,0,0,0
+Schwaz,Terfens,2020,16,1,0,0.0075813609,0.3333333333,1
+Schwaz,Terfens,2020,17,1,0,0.0075813609,0,0
+Schwaz,Terfens,2020,18,0,0,0,0,0
+Schwaz,Terfens,2020,19,0,0,0,0,0
+Schwaz,Terfens,2020,20,0,0,0,0,0
+Schwaz,Terfens,2020,21,0,0,0,0,0
+Schwaz,Terfens,2020,22,0,0,0,0,0
+Schwaz,Terfens,2020,23,1,0,0.0075813609,0.3333333333,1
+Schwaz,Terfens,2020,24,0,0,0,0,0
+Schwaz,Achenkirch,2020,1,0,0,0,0,0
+Schwaz,Achenkirch,2020,2,0,0,0,0,0
+Schwaz,Achenkirch,2020,3,2,0,0.0159023669,1,1.6666666667
+Schwaz,Achenkirch,2020,4,0,0,0,0,0
+Schwaz,Achenkirch,2020,5,0,0,0,0,0
+Schwaz,Achenkirch,2020,6,1,0,0.0062869822,0,0.3333333333
+Schwaz,Achenkirch,2020,7,1,0,0.0062869822,0,0.6666666667
+Schwaz,Achenkirch,2020,8,0,0,0,0,0
+Schwaz,Achenkirch,2020,9,0,0,0,0,0
+Schwaz,Achenkirch,2020,10,0,0,0,0,0
+Schwaz,Achenkirch,2020,11,0,0,0,0,0
+Schwaz,Achenkirch,2020,12,2,0,0.0159023669,1,1.6666666667
+Schwaz,Achenkirch,2020,13,0,0,0,0,0
+Schwaz,Achenkirch,2020,14,1,0,0.0062869822,0.3333333333,1
+Schwaz,Achenkirch,2020,15,0,0,0,0,0
+Schwaz,Achenkirch,2020,16,1,0,0.0062869822,0,0
+Schwaz,Achenkirch,2020,17,0,0,0,0,0
+Schwaz,Achenkirch,2020,18,1,0,0.0062869822,0,0.6666666667
+Schwaz,Achenkirch,2020,19,0,0,0,0,0
+Schwaz,Achenkirch,2020,20,0,0,0,0,0
+Schwaz,Achenkirch,2020,21,0,0,0,0,0
+Schwaz,Achenkirch,2020,22,0,0,0,0,0
+Schwaz,Achenkirch,2020,23,1,0,0.0062869822,0,0.3333333333
+Schwaz,Achenkirch,2020,24,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,1,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,2,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,3,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,4,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,5,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,6,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,7,1,0,0.0062869822,0,0.6666666667
+Schwaz,Ried im Zillertal,2020,8,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,9,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,10,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,11,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,12,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,13,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,14,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,15,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,16,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,17,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,18,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,19,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,20,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,21,1,0,0.0062869822,0.3333333333,1
+Schwaz,Ried im Zillertal,2020,22,1,0,0.0062869822,0,0.6666666667
+Schwaz,Ried im Zillertal,2020,23,0,0,0,0,0
+Schwaz,Ried im Zillertal,2020,24,0,0,0,0,0
+Schwaz,Stans,2020,1,0,0,0,0,0
+Schwaz,Stans,2020,2,0,0,0,0,0
+Schwaz,Stans,2020,3,0,0,0,0,0
+Schwaz,Stans,2020,4,0,0,0,0,0
+Schwaz,Stans,2020,5,0,0,0,0,0
+Schwaz,Stans,2020,6,0,0,0,0,0
+Schwaz,Stans,2020,7,0,0,0,0,0
+Schwaz,Stans,2020,8,0,0,0,0,0
+Schwaz,Stans,2020,9,0,0,0,0,0
+Schwaz,Stans,2020,10,0,0,0,0,0
+Schwaz,Stans,2020,11,1,0,0.0062869822,0,0.6666666667
+Schwaz,Stans,2020,12,1,0,0.0062869822,0.3333333333,1
+Schwaz,Stans,2020,13,0,0,0,0,0
+Schwaz,Stans,2020,14,1,0,0.0062869822,0.3333333333,1
+Schwaz,Stans,2020,15,0,0,0,0,0
+Schwaz,Stans,2020,16,0,0,0,0,0
+Schwaz,Stans,2020,17,0,0,0,0,0
+Schwaz,Stans,2020,18,0,0,0,0,0
+Schwaz,Stans,2020,19,0,0,0,0,0
+Schwaz,Stans,2020,20,0,0,0,0,0
+Schwaz,Stans,2020,21,0,0,0,0,0
+Schwaz,Stans,2020,22,2,0,0.0159023669,0.6666666667,2
+Schwaz,Stans,2020,23,0,0,0,0,0
+Schwaz,Stans,2020,24,0,0,0,0,0
+Schwaz,Kaltenbach,2020,1,0,0,0,0,0
+Schwaz,Kaltenbach,2020,2,1,0,0.0173816568,0.3333333333,1
+Schwaz,Kaltenbach,2020,3,0,0,0,0,0
+Schwaz,Kaltenbach,2020,4,0,0,0,0,0
+Schwaz,Kaltenbach,2020,5,0,0,0,0,0
+Schwaz,Kaltenbach,2020,6,0,0,0,0,0
+Schwaz,Kaltenbach,2020,7,1,0,0.0173816568,0.3333333333,1
+Schwaz,Kaltenbach,2020,8,0,0,0,0,0
+Schwaz,Kaltenbach,2020,9,0,0,0,0,0
+Schwaz,Kaltenbach,2020,10,0,0,0,0,0
+Schwaz,Kaltenbach,2020,11,0,0,0,0,0
+Schwaz,Kaltenbach,2020,12,0,0,0,0,0
+Schwaz,Kaltenbach,2020,13,0,0,0,0,0
+Schwaz,Kaltenbach,2020,14,0,0,0,0,0
+Schwaz,Kaltenbach,2020,15,0,0,0,0,0
+Schwaz,Kaltenbach,2020,16,0,0,0,0,0
+Schwaz,Kaltenbach,2020,17,0,0,0,0,0
+Schwaz,Kaltenbach,2020,18,1,0,0.0173816568,0.3333333333,1
+Schwaz,Kaltenbach,2020,19,2,0.0038461538,0.036612426,0.6666666667,2
+Schwaz,Kaltenbach,2020,20,0,0,0,0,0
+Schwaz,Kaltenbach,2020,21,1,0,0.0173816568,0.3333333333,1
+Schwaz,Kaltenbach,2020,22,1,0,0.0173816568,0.3333333333,1
+Schwaz,Kaltenbach,2020,23,0,0,0,0,0
+Schwaz,Kaltenbach,2020,24,0,0,0,0,0
+Schwaz,Vomp,2020,1,0,0,0,0,0
+Schwaz,Vomp,2020,2,2,0,0.0140532544,0.3333333333,1
+Schwaz,Vomp,2020,3,0,0,0,0,0
+Schwaz,Vomp,2020,4,0,0,0,0,0
+Schwaz,Vomp,2020,5,1,0,0.0044378698,0.3333333333,1
+Schwaz,Vomp,2020,6,1,0,0.0044378698,0.3333333333,1
+Schwaz,Vomp,2020,7,1,0,0.0044378698,0,0
+Schwaz,Vomp,2020,8,2,0,0.0140532544,0,0.3333333333
+Schwaz,Vomp,2020,9,0,0,0,0,0
+Schwaz,Vomp,2020,10,1,0,0.0044378698,0.3333333333,1
+Schwaz,Vomp,2020,11,0,0,0,0,0
+Schwaz,Vomp,2020,12,0,0,0,0,0
+Schwaz,Vomp,2020,13,0,0,0,0,0
+Schwaz,Vomp,2020,14,0,0,0,0,0
+Schwaz,Vomp,2020,15,0,0,0,0,0
+Schwaz,Vomp,2020,16,1,0,0.0044378698,0,0.6666666667
+Schwaz,Vomp,2020,17,1,0,0.0044378698,0,0.3333333333
+Schwaz,Vomp,2020,18,0,0,0,0,0
+Schwaz,Vomp,2020,19,0,0,0,0,0
+Schwaz,Vomp,2020,20,0,0,0,0,0
+Schwaz,Vomp,2020,21,1,0,0.0044378698,0,0.6666666667
+Schwaz,Vomp,2020,22,1,0,0.0044378698,0,0.6666666667
+Schwaz,Vomp,2020,23,0,0,0,0,0
+Schwaz,Vomp,2020,24,0,0,0,0,0
+Schwaz,Gerlosberg,2020,1,0,0,0,0,0
+Schwaz,Gerlosberg,2020,2,0,0,0,0,0
+Schwaz,Gerlosberg,2020,3,0,0,0,0,0
+Schwaz,Gerlosberg,2020,4,0,0,0,0,0
+Schwaz,Gerlosberg,2020,5,0,0,0,0,0
+Schwaz,Gerlosberg,2020,6,1,0,0.0181213018,0.3333333333,1
+Schwaz,Gerlosberg,2020,7,0,0,0,0,0
+Schwaz,Gerlosberg,2020,8,0,0,0,0,0
+Schwaz,Gerlosberg,2020,9,0,0,0,0,0
+Schwaz,Gerlosberg,2020,10,0,0,0,0,0
+Schwaz,Gerlosberg,2020,11,0,0,0,0,0
+Schwaz,Gerlosberg,2020,12,0,0,0,0,0
+Schwaz,Gerlosberg,2020,13,0,0,0,0,0
+Schwaz,Gerlosberg,2020,14,0,0,0,0,0
+Schwaz,Gerlosberg,2020,15,0,0,0,0,0
+Schwaz,Gerlosberg,2020,16,0,0,0,0,0
+Schwaz,Gerlosberg,2020,17,0,0,0,0,0
+Schwaz,Gerlosberg,2020,18,0,0,0,0,0
+Schwaz,Gerlosberg,2020,19,0,0,0,0,0
+Schwaz,Gerlosberg,2020,20,0,0,0,0,0
+Schwaz,Gerlosberg,2020,21,0,0,0,0,0
+Schwaz,Gerlosberg,2020,22,1,0,0.0181213018,0.3333333333,1
+Schwaz,Gerlosberg,2020,23,0,0,0,0,0
+Schwaz,Gerlosberg,2020,24,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,1,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,2,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,3,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,4,2,0,0.0067492604,0.6666666667,2
+Schwaz,Zell am Ziller,2020,5,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,6,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,7,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,8,1,0,0.001941568,0,0
+Schwaz,Zell am Ziller,2020,9,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,10,1,0,0.001941568,0,0
+Schwaz,Zell am Ziller,2020,11,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,12,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,13,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,14,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,15,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,16,3,0,0.0115569527,1,1.1666666667
+Schwaz,Zell am Ziller,2020,17,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,18,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,19,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,20,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,21,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,22,1,0,0.001941568,0,0.6666666667
+Schwaz,Zell am Ziller,2020,23,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,24,0,0,0,0,0
+Schwaz,Schwaz,2020,1,1,0,0,0,0
+Schwaz,Schwaz,2020,2,4,0,0.0045435334,1,0.6666666667
+Schwaz,Schwaz,2020,3,1,0,0,0,0
+Schwaz,Schwaz,2020,4,3,0,0.0017962806,0,0.3333333333
+Schwaz,Schwaz,2020,5,3,0,0.0017962806,0,0.2222222222
+Schwaz,Schwaz,2020,6,2,0,0,0,0.3333333333
+Schwaz,Schwaz,2020,7,2,0,0,0,0.2222222222
+Schwaz,Schwaz,2020,8,1,0,0,0,0
+Schwaz,Schwaz,2020,9,4,0,0.0045435334,1,0.7777777778
+Schwaz,Schwaz,2020,10,0,0,0,0,0
+Schwaz,Schwaz,2020,11,2,0,0,0,0
+Schwaz,Schwaz,2020,12,3,0,0.0017962806,0,0
+Schwaz,Schwaz,2020,13,4,0,0.0045435334,1,1.3333333333
+Schwaz,Schwaz,2020,14,3,0,0.0017962806,1,1.1666666667
+Schwaz,Schwaz,2020,15,2,0,0,0,0
+Schwaz,Schwaz,2020,16,3,0,0.0017962806,1,1
+Schwaz,Schwaz,2020,17,3,0,0.0017962806,0,0.3333333333
+Schwaz,Schwaz,2020,18,0,0,0,0,0
+Schwaz,Schwaz,2020,19,0,0,0,0,0
+Schwaz,Schwaz,2020,20,0,0,0,0,0
+Schwaz,Schwaz,2020,21,2,0,0,0,0.1666666667
+Schwaz,Schwaz,2020,22,0,0,0,0,0
+Schwaz,Schwaz,2020,23,0,0,0,0,0
+Schwaz,Schwaz,2020,24,0,0,0,0,0
+Schwaz,Pill,2020,1,0,0,0,0,0
+Schwaz,Pill,2020,2,0,0,0,0,0
+Schwaz,Pill,2020,3,2,0,0.0173816568,0.6666666667,2
+Schwaz,Pill,2020,4,1,0,0.0077662722,0.3333333333,1
+Schwaz,Pill,2020,5,0,0,0,0,0
+Schwaz,Pill,2020,6,0,0,0,0,0
+Schwaz,Pill,2020,7,0,0,0,0,0
+Schwaz,Pill,2020,8,0,0,0,0,0
+Schwaz,Pill,2020,9,1,0,0.0077662722,0.3333333333,1
+Schwaz,Pill,2020,10,0,0,0,0,0
+Schwaz,Pill,2020,11,0,0,0,0,0
+Schwaz,Pill,2020,12,0,0,0,0,0
+Schwaz,Pill,2020,13,1,0,0.0077662722,0,0.1666666667
+Schwaz,Pill,2020,14,0,0,0,0,0
+Schwaz,Pill,2020,15,0,0,0,0,0
+Schwaz,Pill,2020,16,0,0,0,0,0
+Schwaz,Pill,2020,17,0,0,0,0,0
+Schwaz,Pill,2020,18,0,0,0,0,0
+Schwaz,Pill,2020,19,1,0,0.0077662722,0.3333333333,1
+Schwaz,Pill,2020,20,1,0,0.0077662722,0.3333333333,1
+Schwaz,Pill,2020,21,1,0,0.0077662722,0,0.6666666667
+Schwaz,Pill,2020,22,0,0,0,0,0
+Schwaz,Pill,2020,23,0,0,0,0,0
+Schwaz,Pill,2020,24,0,0,0,0,0
+Schwaz,Stumm,2020,1,0,0,0,0,0
+Schwaz,Stumm,2020,2,0,0,0,0,0
+Schwaz,Stumm,2020,3,2,0,0.0107248521,0,0.5
+Schwaz,Stumm,2020,4,0,0,0,0,0
+Schwaz,Stumm,2020,5,0,0,0,0,0
+Schwaz,Stumm,2020,6,0,0,0,0,0
+Schwaz,Stumm,2020,7,0,0,0,0,0
+Schwaz,Stumm,2020,8,0,0,0,0,0
+Schwaz,Stumm,2020,9,1,0,0.0043145957,0.3333333333,1
+Schwaz,Stumm,2020,10,1,0,0.0043145957,0,0
+Schwaz,Stumm,2020,11,0,0,0,0,0
+Schwaz,Stumm,2020,12,0,0,0,0,0
+Schwaz,Stumm,2020,13,0,0,0,0,0
+Schwaz,Stumm,2020,14,0,0,0,0,0
+Schwaz,Stumm,2020,15,0,0,0,0,0
+Schwaz,Stumm,2020,16,0,0,0,0,0
+Schwaz,Stumm,2020,17,0,0,0,0,0
+Schwaz,Stumm,2020,18,0,0,0,0,0
+Schwaz,Stumm,2020,19,0,0,0,0,0
+Schwaz,Stumm,2020,20,1,0,0.0043145957,0,0.3333333333
+Schwaz,Stumm,2020,21,1,0,0.0043145957,0,0.3333333333
+Schwaz,Stumm,2020,22,0,0,0,0,0
+Schwaz,Stumm,2020,23,0,0,0,0,0
+Schwaz,Stumm,2020,24,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,1,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,2,1,0,0.0184911243,0.3333333333,1
+Schwaz,Steinberg am Rofan,2020,3,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,4,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,5,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,6,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,7,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,8,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,9,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,10,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,11,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,12,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,13,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,14,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,15,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,16,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,17,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,18,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,19,1,0,0.0184911243,0.3333333333,1
+Schwaz,Steinberg am Rofan,2020,20,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,21,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,22,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,23,0,0,0,0,0
+Schwaz,Steinberg am Rofan,2020,24,0,0,0,0,0
+Schwaz,Stummerberg,2020,1,0,0,0,0,0
+Schwaz,Stummerberg,2020,2,0,0,0,0,0
+Schwaz,Stummerberg,2020,3,0,0,0,0,0
+Schwaz,Stummerberg,2020,4,0,0,0,0,0
+Schwaz,Stummerberg,2020,5,0,0,0,0,0
+Schwaz,Stummerberg,2020,6,0,0,0,0,0
+Schwaz,Stummerberg,2020,7,0,0,0,0,0
+Schwaz,Stummerberg,2020,8,0,0,0,0,0
+Schwaz,Stummerberg,2020,9,1,0,0.0083210059,0.3333333333,1
+Schwaz,Stummerberg,2020,10,0,0,0,0,0
+Schwaz,Stummerberg,2020,11,0,0,0,0,0
+Schwaz,Stummerberg,2020,12,0,0,0,0,0
+Schwaz,Stummerberg,2020,13,0,0,0,0,0
+Schwaz,Stummerberg,2020,14,0,0,0,0,0
+Schwaz,Stummerberg,2020,15,0,0,0,0,0
+Schwaz,Stummerberg,2020,16,0,0,0,0,0
+Schwaz,Stummerberg,2020,17,0,0,0,0,0
+Schwaz,Stummerberg,2020,18,0,0,0,0,0
+Schwaz,Stummerberg,2020,19,1,0,0.0083210059,0,0.6666666667
+Schwaz,Stummerberg,2020,20,0,0,0,0,0
+Schwaz,Stummerberg,2020,21,0,0,0,0,0
+Schwaz,Stummerberg,2020,22,0,0,0,0,0
+Schwaz,Stummerberg,2020,23,0,0,0,0,0
+Schwaz,Stummerberg,2020,24,0,0,0,0,0
+Schwaz,Gerlos,2020,1,0,0,0,0,0
+Schwaz,Gerlos,2020,2,0,0,0,0,0
+Schwaz,Gerlos,2020,3,0,0,0,0,0
+Schwaz,Gerlos,2020,4,0,0,0,0,0
+Schwaz,Gerlos,2020,5,1,0,0.0081360947,0.3333333333,1
+Schwaz,Gerlos,2020,6,0,0,0,0,0
+Schwaz,Gerlos,2020,7,0,0,0,0,0
+Schwaz,Gerlos,2020,8,0,0,0,0,0
+Schwaz,Gerlos,2020,9,1,0,0.0081360947,0,0.6666666667
+Schwaz,Gerlos,2020,10,0,0,0,0,0
+Schwaz,Gerlos,2020,11,0,0,0,0,0
+Schwaz,Gerlos,2020,12,0,0,0,0,0
+Schwaz,Gerlos,2020,13,0,0,0,0,0
+Schwaz,Gerlos,2020,14,0,0,0,0,0
+Schwaz,Gerlos,2020,15,0,0,0,0,0
+Schwaz,Gerlos,2020,16,0,0,0,0,0
+Schwaz,Gerlos,2020,17,0,0,0,0,0
+Schwaz,Gerlos,2020,18,1,0,0.0081360947,0.3333333333,1
+Schwaz,Gerlos,2020,19,0,0,0,0,0
+Schwaz,Gerlos,2020,20,0,0,0,0,0
+Schwaz,Gerlos,2020,21,0,0,0,0,0
+Schwaz,Gerlos,2020,22,0,0,0,0,0
+Schwaz,Gerlos,2020,23,0,0,0,0,0
+Schwaz,Gerlos,2020,24,0,0,0,0,0
+Schwaz,Zellberg,2020,1,0,0,0,0,0
+Schwaz,Zellberg,2020,2,0,0,0,0,0
+Schwaz,Zellberg,2020,3,0,0,0,0,0
+Schwaz,Zellberg,2020,4,1,0,0.0181213018,0.3333333333,1
+Schwaz,Zellberg,2020,5,0,0,0,0,0
+Schwaz,Zellberg,2020,6,0,0,0,0,0
+Schwaz,Zellberg,2020,7,0,0,0,0,0
+Schwaz,Zellberg,2020,8,0,0,0,0,0
+Schwaz,Zellberg,2020,9,0,0,0,0,0
+Schwaz,Zellberg,2020,10,0,0,0,0,0
+Schwaz,Zellberg,2020,11,0,0,0,0,0
+Schwaz,Zellberg,2020,12,0,0,0,0,0
+Schwaz,Zellberg,2020,13,2,0.0064102564,0.037352071,0.6666666667,2
+Schwaz,Zellberg,2020,14,0,0,0,0,0
+Schwaz,Zellberg,2020,15,0,0,0,0,0
+Schwaz,Zellberg,2020,16,0,0,0,0,0
+Schwaz,Zellberg,2020,17,0,0,0,0,0
+Schwaz,Zellberg,2020,18,1,0,0.0181213018,0.3333333333,1
+Schwaz,Zellberg,2020,19,0,0,0,0,0
+Schwaz,Zellberg,2020,20,0,0,0,0,0
+Schwaz,Zellberg,2020,21,0,0,0,0,0
+Schwaz,Zellberg,2020,22,0,0,0,0,0
+Schwaz,Zellberg,2020,23,0,0,0,0,0
+Schwaz,Zellberg,2020,24,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,1,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,2,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,3,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,4,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,5,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,6,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,7,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,8,1,0,0.0070266272,0.3333333333,1
+Schwaz,Ramsau im Zillertal,2020,9,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,10,3,0.0096153846,0.0262573964,2,2.6666666667
+Schwaz,Ramsau im Zillertal,2020,11,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,12,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,13,1,0,0.0070266272,0,0.6666666667
+Schwaz,Ramsau im Zillertal,2020,14,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,15,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,16,1,0,0.0070266272,0.3333333333,1
+Schwaz,Ramsau im Zillertal,2020,17,1,0,0.0070266272,0,0.6666666667
+Schwaz,Ramsau im Zillertal,2020,18,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,19,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,20,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,21,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,22,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,23,0,0,0,0,0
+Schwaz,Ramsau im Zillertal,2020,24,0,0,0,0,0
+Schwaz,Fügen,2020,1,0,0,0,0,0
+Schwaz,Fügen,2020,2,1,0,0.0013868343,0.3333333333,1
+Schwaz,Fügen,2020,3,0,0,0,0,0
+Schwaz,Fügen,2020,4,1,0,0.0013868343,0.3333333333,1
+Schwaz,Fügen,2020,5,2,0,0.0061945266,0,0
+Schwaz,Fügen,2020,6,2,0,0.0061945266,0.6666666667,2
+Schwaz,Fügen,2020,7,0,0,0,0,0
+Schwaz,Fügen,2020,8,1,0,0.0013868343,0,0.3333333333
+Schwaz,Fügen,2020,9,0,0,0,0,0
+Schwaz,Fügen,2020,10,0,0,0,0,0
+Schwaz,Fügen,2020,11,0,0,0,0,0
+Schwaz,Fügen,2020,12,0,0,0,0,0
+Schwaz,Fügen,2020,13,1,0,0.0013868343,0,0.6666666667
+Schwaz,Fügen,2020,14,2,0,0.0061945266,0.5,1.3333333333
+Schwaz,Fügen,2020,15,0,0,0,0,0
+Schwaz,Fügen,2020,16,1,0,0.0013868343,0.3333333333,1
+Schwaz,Fügen,2020,17,1,0,0.0013868343,0.3333333333,1
+Schwaz,Fügen,2020,18,0,0,0,0,0
+Schwaz,Fügen,2020,19,0,0,0,0,0
+Schwaz,Fügen,2020,20,0,0,0,0,0
+Schwaz,Fügen,2020,21,0,0,0,0,0
+Schwaz,Fügen,2020,22,0,0,0,0,0
+Schwaz,Fügen,2020,23,0,0,0,0,0
+Schwaz,Fügen,2020,24,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,1,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,2,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,3,1,0,0.0162721893,0.3333333333,1
+Schwaz,Eben am Achensee,2020,4,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,5,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,6,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,7,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,8,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,9,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,10,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,11,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,12,1,0,0.0162721893,0,0.3333333333
+Schwaz,Eben am Achensee,2020,13,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,14,1,0,0.0162721893,0,0.6666666667
+Schwaz,Eben am Achensee,2020,15,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,16,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,17,2,0.0024038462,0.0355029586,1,1.6666666667
+Schwaz,Eben am Achensee,2020,18,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,19,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,20,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,21,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,22,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,23,0,0,0,0,0
+Schwaz,Eben am Achensee,2020,24,0,0,0,0,0
+Schwaz,Finkenberg,2020,1,0,0,0,0,0
+Schwaz,Finkenberg,2020,2,0,0,0,0,0
+Schwaz,Finkenberg,2020,3,0,0,0,0,0
+Schwaz,Finkenberg,2020,4,0,0,0,0,0
+Schwaz,Finkenberg,2020,5,0,0,0,0,0
+Schwaz,Finkenberg,2020,6,0,0,0,0,0
+Schwaz,Finkenberg,2020,7,0,0,0,0,0
+Schwaz,Finkenberg,2020,8,0,0,0,0,0
+Schwaz,Finkenberg,2020,9,0,0,0,0,0
+Schwaz,Finkenberg,2020,10,0,0,0,0,0
+Schwaz,Finkenberg,2020,11,0,0,0,0,0
+Schwaz,Finkenberg,2020,12,0,0,0,0,0
+Schwaz,Finkenberg,2020,13,0,0,0,0,0
+Schwaz,Finkenberg,2020,14,0,0,0,0,0
+Schwaz,Finkenberg,2020,15,1,0,0.0170118343,0,0.6666666667
+Schwaz,Finkenberg,2020,16,1,0,0.0170118343,0.3333333333,1
+Schwaz,Finkenberg,2020,17,0,0,0,0,0
+Schwaz,Finkenberg,2020,18,0,0,0,0,0
+Schwaz,Finkenberg,2020,19,0,0,0,0,0
+Schwaz,Finkenberg,2020,20,0,0,0,0,0
+Schwaz,Finkenberg,2020,21,0,0,0,0,0
+Schwaz,Finkenberg,2020,22,0,0,0,0,0
+Schwaz,Finkenberg,2020,23,0,0,0,0,0
+Schwaz,Finkenberg,2020,24,0,0,0,0,0
+Schwaz,Hainzenberg,2020,1,0,0,0,0,0
+Schwaz,Hainzenberg,2020,2,0,0,0,0,0
+Schwaz,Hainzenberg,2020,3,0,0,0,0,0
+Schwaz,Hainzenberg,2020,4,1,0,0.0085059172,0.3333333333,1
+Schwaz,Hainzenberg,2020,5,0,0,0,0,0
+Schwaz,Hainzenberg,2020,6,0,0,0,0,0
+Schwaz,Hainzenberg,2020,7,0,0,0,0,0
+Schwaz,Hainzenberg,2020,8,0,0,0,0,0
+Schwaz,Hainzenberg,2020,9,0,0,0,0,0
+Schwaz,Hainzenberg,2020,10,1,0,0.0085059172,0.3333333333,1
+Schwaz,Hainzenberg,2020,11,0,0,0,0,0
+Schwaz,Hainzenberg,2020,12,0,0,0,0,0
+Schwaz,Hainzenberg,2020,13,1,0,0.0085059172,0.3333333333,1
+Schwaz,Hainzenberg,2020,14,0,0,0,0,0
+Schwaz,Hainzenberg,2020,15,0,0,0,0,0
+Schwaz,Hainzenberg,2020,16,1,0,0.0085059172,0.3333333333,1
+Schwaz,Hainzenberg,2020,17,0,0,0,0,0
+Schwaz,Hainzenberg,2020,18,0,0,0,0,0
+Schwaz,Hainzenberg,2020,19,0,0,0,0,0
+Schwaz,Hainzenberg,2020,20,0,0,0,0,0
+Schwaz,Hainzenberg,2020,21,0,0,0,0,0
+Schwaz,Hainzenberg,2020,22,0,0,0,0,0
+Schwaz,Hainzenberg,2020,23,0,0,0,0,0
+Schwaz,Hainzenberg,2020,24,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,1,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,2,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,3,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,4,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,5,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,6,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,7,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,8,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,9,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,10,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,11,1,0,0.0177514793,0.3333333333,1
+Schwaz,Strass im Zillertal,2020,12,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,13,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,14,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,15,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,16,1,0,0.0177514793,0.3333333333,1
+Schwaz,Strass im Zillertal,2020,17,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,18,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,19,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,20,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,21,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,22,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,23,0,0,0,0,0
+Schwaz,Strass im Zillertal,2020,24,0,0,0,0,0
+Schwaz,Gallzein,2020,1,0,0,0,0,0
+Schwaz,Gallzein,2020,2,0,0,0,0,0
+Schwaz,Gallzein,2020,3,0,0,0,0,0
+Schwaz,Gallzein,2020,4,0,0,0,0,0
+Schwaz,Gallzein,2020,5,0,0,0,0,0
+Schwaz,Gallzein,2020,6,0,0,0,0,0
+Schwaz,Gallzein,2020,7,0,0,0,0,0
+Schwaz,Gallzein,2020,8,0,0,0,0,0
+Schwaz,Gallzein,2020,9,0,0,0,0,0
+Schwaz,Gallzein,2020,10,0,0,0,0,0
+Schwaz,Gallzein,2020,11,0,0,0,0,0
+Schwaz,Gallzein,2020,12,0,0,0,0,0
+Schwaz,Gallzein,2020,13,0,0,0,0,0
+Schwaz,Gallzein,2020,14,0,0,0,0,0
+Schwaz,Gallzein,2020,15,0,0,0,0,0
+Schwaz,Gallzein,2020,16,1,0,0.0170118343,0,0.6666666667
+Schwaz,Gallzein,2020,17,0,0,0,0,0
+Schwaz,Gallzein,2020,18,0,0,0,0,0
+Schwaz,Gallzein,2020,19,0,0,0,0,0
+Schwaz,Gallzein,2020,20,0,0,0,0,0
+Schwaz,Gallzein,2020,21,0,0,0,0,0
+Schwaz,Gallzein,2020,22,0,0,0,0,0
+Schwaz,Gallzein,2020,23,0,0,0,0,0
+Schwaz,Gallzein,2020,24,0,0,0,0,0
+Schwaz,Hippach,2020,1,2,0,0.0142381657,0.5,1.3333333333
+Schwaz,Hippach,2020,2,0,0,0,0,0
+Schwaz,Hippach,2020,3,1,0,0.0046227811,0,0.3333333333
+Schwaz,Hippach,2020,4,1,0,0.0046227811,0,0
+Schwaz,Hippach,2020,5,0,0,0,0,0
+Schwaz,Hippach,2020,6,0,0,0,0,0
+Schwaz,Hippach,2020,7,1,0,0.0046227811,0,0
+Schwaz,Hippach,2020,8,0,0,0,0,0
+Schwaz,Hippach,2020,9,0,0,0,0,0
+Schwaz,Hippach,2020,10,0,0,0,0,0
+Schwaz,Hippach,2020,11,1,0,0.0046227811,0,0
+Schwaz,Hippach,2020,12,1,0,0.0046227811,0,0
+Schwaz,Hippach,2020,13,1,0,0.0046227811,0.3333333333,1
+Schwaz,Hippach,2020,14,0,0,0,0,0
+Schwaz,Hippach,2020,15,0,0,0,0,0
+Schwaz,Hippach,2020,16,0,0,0,0,0
+Schwaz,Hippach,2020,17,0,0,0,0,0
+Schwaz,Hippach,2020,18,0,0,0,0,0
+Schwaz,Hippach,2020,19,0,0,0,0,0
+Schwaz,Hippach,2020,20,0,0,0,0,0
+Schwaz,Hippach,2020,21,0,0,0,0,0
+Schwaz,Hippach,2020,22,0,0,0,0,0
+Schwaz,Hippach,2020,23,0,0,0,0,0
+Schwaz,Hippach,2020,24,0,0,0,0,0
+Schwaz,Schlitters,2020,1,1,0,0.0083210059,0,0.3333333333
+Schwaz,Schlitters,2020,2,0,0,0,0,0
+Schwaz,Schlitters,2020,3,0,0,0,0,0
+Schwaz,Schlitters,2020,4,0,0,0,0,0
+Schwaz,Schlitters,2020,5,0,0,0,0,0
+Schwaz,Schlitters,2020,6,0,0,0,0,0
+Schwaz,Schlitters,2020,7,0,0,0,0,0
+Schwaz,Schlitters,2020,8,0,0,0,0,0
+Schwaz,Schlitters,2020,9,1,0,0.0083210059,0,0.6666666667
+Schwaz,Schlitters,2020,10,0,0,0,0,0
+Schwaz,Schlitters,2020,11,0,0,0,0,0
+Schwaz,Schlitters,2020,12,0,0,0,0,0
+Schwaz,Schlitters,2020,13,1,0,0.0083210059,0.3333333333,1
+Schwaz,Schlitters,2020,14,0,0,0,0,0
+Schwaz,Schlitters,2020,15,0,0,0,0,0
+Schwaz,Schlitters,2020,16,0,0,0,0,0
+Schwaz,Schlitters,2020,17,0,0,0,0,0
+Schwaz,Schlitters,2020,18,0,0,0,0,0
+Schwaz,Schlitters,2020,19,0,0,0,0,0
+Schwaz,Schlitters,2020,20,0,0,0,0,0
+Schwaz,Schlitters,2020,21,0,0,0,0,0
+Schwaz,Schlitters,2020,22,0,0,0,0,0
+Schwaz,Schlitters,2020,23,0,0,0,0,0
+Schwaz,Schlitters,2020,24,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,1,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,2,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,3,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,4,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,5,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,6,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,7,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,8,1,0,0.0072115385,0.3333333333,1
+Schwaz,Bruck am Ziller,2020,9,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,10,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,11,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,12,1,0,0.0072115385,0,0.6666666667
+Schwaz,Bruck am Ziller,2020,13,2,0,0.0168269231,1,1.6666666667
+Schwaz,Bruck am Ziller,2020,14,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,15,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,16,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,17,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,18,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,19,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,20,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,21,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,22,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,23,0,0,0,0,0
+Schwaz,Bruck am Ziller,2020,24,0,0,0,0,0
+Schwaz,Fügenberg,2020,1,0,0,0,0,0
+Schwaz,Fügenberg,2020,2,0,0,0,0,0
+Schwaz,Fügenberg,2020,3,0,0,0,0,0
+Schwaz,Fügenberg,2020,4,0,0,0,0,0
+Schwaz,Fügenberg,2020,5,0,0,0,0,0
+Schwaz,Fügenberg,2020,6,0,0,0,0,0
+Schwaz,Fügenberg,2020,7,0,0,0,0,0
+Schwaz,Fügenberg,2020,8,0,0,0,0,0
+Schwaz,Fügenberg,2020,9,0,0,0,0,0
+Schwaz,Fügenberg,2020,10,0,0,0,0,0
+Schwaz,Fügenberg,2020,11,0,0,0,0,0
+Schwaz,Fügenberg,2020,12,0,0,0,0,0
+Schwaz,Fügenberg,2020,13,1,0,0.0188609467,0.3333333333,1
+Schwaz,Fügenberg,2020,14,0,0,0,0,0
+Schwaz,Fügenberg,2020,15,0,0,0,0,0
+Schwaz,Fügenberg,2020,16,0,0,0,0,0
+Schwaz,Fügenberg,2020,17,0,0,0,0,0
+Schwaz,Fügenberg,2020,18,0,0,0,0,0
+Schwaz,Fügenberg,2020,19,0,0,0,0,0
+Schwaz,Fügenberg,2020,20,0,0,0,0,0
+Schwaz,Fügenberg,2020,21,0,0,0,0,0
+Schwaz,Fügenberg,2020,22,0,0,0,0,0
+Schwaz,Fügenberg,2020,23,0,0,0,0,0
+Schwaz,Fügenberg,2020,24,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,1,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,2,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,3,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,4,1,0,0.0036982249,0.3333333333,1
+Schwaz,Buch in Tirol,2020,5,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,6,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,7,2,0,0.0101084813,1,1.6666666667
+Schwaz,Buch in Tirol,2020,8,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,9,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,10,1,0,0.0036982249,0.3333333333,1
+Schwaz,Buch in Tirol,2020,11,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,12,1,0,0.0036982249,0,0.6666666667
+Schwaz,Buch in Tirol,2020,13,1,0,0.0036982249,0,0.3333333333
+Schwaz,Buch in Tirol,2020,14,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,15,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,16,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,17,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,18,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,19,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,20,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,21,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,22,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,23,0,0,0,0,0
+Schwaz,Buch in Tirol,2020,24,0,0,0,0,0
+Schwaz,Schwendau,2020,1,1,0,0.0072115385,0.3333333333,1
+Schwaz,Schwendau,2020,2,0,0,0,0,0
+Schwaz,Schwendau,2020,3,0,0,0,0,0
+Schwaz,Schwendau,2020,4,0,0,0,0,0
+Schwaz,Schwendau,2020,5,0,0,0,0,0
+Schwaz,Schwendau,2020,6,0,0,0,0,0
+Schwaz,Schwendau,2020,7,0,0,0,0,0
+Schwaz,Schwendau,2020,8,0,0,0,0,0
+Schwaz,Schwendau,2020,9,0,0,0,0,0
+Schwaz,Schwendau,2020,10,0,0,0,0,0
+Schwaz,Schwendau,2020,11,0,0,0,0,0
+Schwaz,Schwendau,2020,12,1,0,0.0072115385,0.3333333333,1
+Schwaz,Schwendau,2020,13,0,0,0,0,0
+Schwaz,Schwendau,2020,14,0,0,0,0,0
+Schwaz,Schwendau,2020,15,0,0,0,0,0
+Schwaz,Schwendau,2020,16,0,0,0,0,0
+Schwaz,Schwendau,2020,17,0,0,0,0,0
+Schwaz,Schwendau,2020,18,0,0,0,0,0
+Schwaz,Schwendau,2020,19,0,0,0,0,0
+Schwaz,Schwendau,2020,20,0,0,0,0,0
+Schwaz,Schwendau,2020,21,0,0,0,0,0
+Schwaz,Schwendau,2020,22,0,0,0,0,0
+Schwaz,Schwendau,2020,23,0,0,0,0,0
+Schwaz,Schwendau,2020,24,0,0,0,0,0
+Schwaz,Wiesing,2020,1,0,0,0,0,0
+Schwaz,Wiesing,2020,2,1,0,0.006841716,0,0.6666666667
+Schwaz,Wiesing,2020,3,1,0,0.006841716,0,0
+Schwaz,Wiesing,2020,4,0,0,0,0,0
+Schwaz,Wiesing,2020,5,0,0,0,0,0
+Schwaz,Wiesing,2020,6,0,0,0,0,0
+Schwaz,Wiesing,2020,7,0,0,0,0,0
+Schwaz,Wiesing,2020,8,0,0,0,0,0
+Schwaz,Wiesing,2020,9,1,0,0.006841716,0,0.6666666667
+Schwaz,Wiesing,2020,10,1,0,0.006841716,0.3333333333,1
+Schwaz,Wiesing,2020,11,1,0,0.006841716,0.3333333333,1
+Schwaz,Wiesing,2020,12,0,0,0,0,0
+Schwaz,Wiesing,2020,13,0,0,0,0,0
+Schwaz,Wiesing,2020,14,0,0,0,0,0
+Schwaz,Wiesing,2020,15,0,0,0,0,0
+Schwaz,Wiesing,2020,16,0,0,0,0,0
+Schwaz,Wiesing,2020,17,0,0,0,0,0
+Schwaz,Wiesing,2020,18,0,0,0,0,0
+Schwaz,Wiesing,2020,19,0,0,0,0,0
+Schwaz,Wiesing,2020,20,0,0,0,0,0
+Schwaz,Wiesing,2020,21,0,0,0,0,0
+Schwaz,Wiesing,2020,22,0,0,0,0,0
+Schwaz,Wiesing,2020,23,0,0,0,0,0
+Schwaz,Wiesing,2020,24,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,1,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,2,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,3,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,4,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,5,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,6,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,7,1,0,0.0070266272,0.3333333333,1
+Schwaz,Hart im Zillertal,2020,8,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,9,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,10,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,11,1,0,0.0070266272,0,0.1666666667
+Schwaz,Hart im Zillertal,2020,12,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,13,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,14,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,15,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,16,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,17,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,18,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,19,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,20,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,21,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,22,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,23,0,0,0,0,0
+Schwaz,Hart im Zillertal,2020,24,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,1,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,2,1,0,0.0170118343,0.3333333333,1
+Schwaz,Aschau im Zillertal,2020,3,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,4,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,5,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,6,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,7,1,0,0.0170118343,0.3333333333,1
+Schwaz,Aschau im Zillertal,2020,8,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,9,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,10,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,11,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,12,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,13,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,14,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,15,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,16,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,17,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,18,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,19,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,20,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,21,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,22,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,23,0,0,0,0,0
+Schwaz,Aschau im Zillertal,2020,24,0,0,0,0,0
+Schwaz,Rohrberg,2020,1,0,0,0,0,0
+Schwaz,Rohrberg,2020,2,0,0,0,0,0
+Schwaz,Rohrberg,2020,3,0,0,0,0,0
+Schwaz,Rohrberg,2020,4,2,0.0096153846,0.0377218935,0.6666666667,2
+Schwaz,Rohrberg,2020,5,0,0,0,0,0
+Schwaz,Rohrberg,2020,6,0,0,0,0,0
+Schwaz,Rohrberg,2020,7,0,0,0,0,0
+Schwaz,Rohrberg,2020,8,0,0,0,0,0
+Schwaz,Rohrberg,2020,9,0,0,0,0,0
+Schwaz,Rohrberg,2020,10,0,0,0,0,0
+Schwaz,Rohrberg,2020,11,0,0,0,0,0
+Schwaz,Rohrberg,2020,12,0,0,0,0,0
+Schwaz,Rohrberg,2020,13,0,0,0,0,0
+Schwaz,Rohrberg,2020,14,0,0,0,0,0
+Schwaz,Rohrberg,2020,15,0,0,0,0,0
+Schwaz,Rohrberg,2020,16,0,0,0,0,0
+Schwaz,Rohrberg,2020,17,0,0,0,0,0
+Schwaz,Rohrberg,2020,18,0,0,0,0,0
+Schwaz,Rohrberg,2020,19,0,0,0,0,0
+Schwaz,Rohrberg,2020,20,0,0,0,0,0
+Schwaz,Rohrberg,2020,21,0,0,0,0,0
+Schwaz,Rohrberg,2020,22,0,0,0,0,0
+Schwaz,Rohrberg,2020,23,0,0,0,0,0
+Schwaz,Rohrberg,2020,24,0,0,0,0,0
+Schwaz,Brandberg,2020,1,0,0,0,0,0
+Schwaz,Brandberg,2020,2,1,0,0.0088757396,0.3333333333,1
+Schwaz,Brandberg,2020,3,0,0,0,0,0
+Schwaz,Brandberg,2020,4,0,0,0,0,0
+Schwaz,Brandberg,2020,5,0,0,0,0,0
+Schwaz,Brandberg,2020,6,0,0,0,0,0
+Schwaz,Brandberg,2020,7,0,0,0,0,0
+Schwaz,Brandberg,2020,8,0,0,0,0,0
+Schwaz,Brandberg,2020,9,0,0,0,0,0
+Schwaz,Brandberg,2020,10,0,0,0,0,0
+Schwaz,Brandberg,2020,11,0,0,0,0,0
+Schwaz,Brandberg,2020,12,0,0,0,0,0
+Schwaz,Brandberg,2020,13,0,0,0,0,0
+Schwaz,Brandberg,2020,14,0,0,0,0,0
+Schwaz,Brandberg,2020,15,0,0,0,0,0
+Schwaz,Brandberg,2020,16,0,0,0,0,0
+Schwaz,Brandberg,2020,17,0,0,0,0,0
+Schwaz,Brandberg,2020,18,0,0,0,0,0
+Schwaz,Brandberg,2020,19,0,0,0,0,0
+Schwaz,Brandberg,2020,20,0,0,0,0,0
+Schwaz,Brandberg,2020,21,0,0,0,0,0
+Schwaz,Brandberg,2020,22,0,0,0,0,0
+Schwaz,Brandberg,2020,23,0,0,0,0,0
+Schwaz,Brandberg,2020,24,0,0,0,0,0
+Reutte,Reutte,2020,1,2,0,0.0030325444,0,0.1111111111
+Reutte,Reutte,2020,2,1,0,0,0,0
+Reutte,Reutte,2020,3,1,0,0,0,0
+Reutte,Reutte,2020,4,1,0,0,0,0.3333333333
+Reutte,Reutte,2020,5,0,0,0,0,0
+Reutte,Reutte,2020,6,2,0,0.0030325444,0.5,1.3333333333
+Reutte,Reutte,2020,7,2,0,0.0030325444,0,0.5
+Reutte,Reutte,2020,8,1,0,0,0,0.6666666667
+Reutte,Reutte,2020,9,3,0,0.0068786982,0.6666666667,2
+Reutte,Reutte,2020,10,2,0,0.0030325444,0,0.5
+Reutte,Reutte,2020,11,0,0,0,0,0
+Reutte,Reutte,2020,12,0,0,0,0,0
+Reutte,Reutte,2020,13,3,0,0.0068786982,0,0.25
+Reutte,Reutte,2020,14,0,0,0,0,0
+Reutte,Reutte,2020,15,0,0,0,0,0
+Reutte,Reutte,2020,16,0,0,0,0,0
+Reutte,Reutte,2020,17,0,0,0,0,0
+Reutte,Reutte,2020,18,0,0,0,0,0
+Reutte,Reutte,2020,19,0,0,0,0,0
+Reutte,Reutte,2020,20,0,0,0,0,0
+Reutte,Reutte,2020,21,0,0,0,0,0
+Reutte,Reutte,2020,22,1,0,0,0,0
+Reutte,Reutte,2020,23,0,0,0,0,0
+Reutte,Reutte,2020,24,1,0,0,0,0
+Reutte,Berwang,2020,1,1,0,0.0173816568,0,0.6666666667
+Reutte,Berwang,2020,2,0,0,0,0,0
+Reutte,Berwang,2020,3,0,0,0,0,0
+Reutte,Berwang,2020,4,1,0,0.0173816568,0,0.6666666667
+Reutte,Berwang,2020,5,0,0,0,0,0
+Reutte,Berwang,2020,6,0,0,0,0,0
+Reutte,Berwang,2020,7,0,0,0,0,0
+Reutte,Berwang,2020,8,0,0,0,0,0
+Reutte,Berwang,2020,9,0,0,0,0,0
+Reutte,Berwang,2020,10,0,0,0,0,0
+Reutte,Berwang,2020,11,0,0,0,0,0
+Reutte,Berwang,2020,12,0,0,0,0,0
+Reutte,Berwang,2020,13,0,0,0,0,0
+Reutte,Berwang,2020,14,0,0,0,0,0
+Reutte,Berwang,2020,15,0,0,0,0,0
+Reutte,Berwang,2020,16,0,0,0,0,0
+Reutte,Berwang,2020,17,0,0,0,0,0
+Reutte,Berwang,2020,18,0,0,0,0,0
+Reutte,Berwang,2020,19,0,0,0,0,0
+Reutte,Berwang,2020,20,0,0,0,0,0
+Reutte,Berwang,2020,21,0,0,0,0,0
+Reutte,Berwang,2020,22,0,0,0,0,0
+Reutte,Berwang,2020,23,0,0,0,0,0
+Reutte,Berwang,2020,24,1,0,0.0173816568,0.3333333333,1
+Reutte,Stanzach,2020,1,0,0,0,0,0
+Reutte,Stanzach,2020,2,1,0,0.0170118343,0,0.6666666667
+Reutte,Stanzach,2020,3,0,0,0,0,0
+Reutte,Stanzach,2020,4,0,0,0,0,0
+Reutte,Stanzach,2020,5,0,0,0,0,0
+Reutte,Stanzach,2020,6,0,0,0,0,0
+Reutte,Stanzach,2020,7,1,0,0.0170118343,0.3333333333,1
+Reutte,Stanzach,2020,8,0,0,0,0,0
+Reutte,Stanzach,2020,9,0,0,0,0,0
+Reutte,Stanzach,2020,10,0,0,0,0,0
+Reutte,Stanzach,2020,11,0,0,0,0,0
+Reutte,Stanzach,2020,12,0,0,0,0,0
+Reutte,Stanzach,2020,13,0,0,0,0,0
+Reutte,Stanzach,2020,14,0,0,0,0,0
+Reutte,Stanzach,2020,15,0,0,0,0,0
+Reutte,Stanzach,2020,16,0,0,0,0,0
+Reutte,Stanzach,2020,17,0,0,0,0,0
+Reutte,Stanzach,2020,18,0,0,0,0,0
+Reutte,Stanzach,2020,19,0,0,0,0,0
+Reutte,Stanzach,2020,20,0,0,0,0,0
+Reutte,Stanzach,2020,21,0,0,0,0,0
+Reutte,Stanzach,2020,22,0,0,0,0,0
+Reutte,Stanzach,2020,23,0,0,0,0,0
+Reutte,Stanzach,2020,24,1,0,0.0170118343,0.3333333333,1
+Reutte,Breitenwang,2020,1,0,0,0,0,0
+Reutte,Breitenwang,2020,2,0,0,0,0,0
+Reutte,Breitenwang,2020,3,1,0,0.0177514793,0.3333333333,1
+Reutte,Breitenwang,2020,4,0,0,0,0,0
+Reutte,Breitenwang,2020,5,0,0,0,0,0
+Reutte,Breitenwang,2020,6,0,0,0,0,0
+Reutte,Breitenwang,2020,7,0,0,0,0,0
+Reutte,Breitenwang,2020,8,1,0,0.0177514793,0.3333333333,1
+Reutte,Breitenwang,2020,9,0,0,0,0,0
+Reutte,Breitenwang,2020,10,0,0,0,0,0
+Reutte,Breitenwang,2020,11,1,0,0.0177514793,0.3333333333,1
+Reutte,Breitenwang,2020,12,0,0,0,0,0
+Reutte,Breitenwang,2020,13,0,0,0,0,0
+Reutte,Breitenwang,2020,14,1,0,0.0177514793,0,0.6666666667
+Reutte,Breitenwang,2020,15,0,0,0,0,0
+Reutte,Breitenwang,2020,16,0,0,0,0,0
+Reutte,Breitenwang,2020,17,0,0,0,0,0
+Reutte,Breitenwang,2020,18,0,0,0,0,0
+Reutte,Breitenwang,2020,19,0,0,0,0,0
+Reutte,Breitenwang,2020,20,0,0,0,0,0
+Reutte,Breitenwang,2020,21,0,0,0,0,0
+Reutte,Breitenwang,2020,22,0,0,0,0,0
+Reutte,Breitenwang,2020,23,0,0,0,0,0
+Reutte,Breitenwang,2020,24,1,0,0.0177514793,0,0.3333333333
+Reutte,Pflach,2020,1,1,0,0.0155325444,0,0.6666666667
+Reutte,Pflach,2020,2,0,0,0,0,0
+Reutte,Pflach,2020,3,0,0,0,0,0
+Reutte,Pflach,2020,4,0,0,0,0,0
+Reutte,Pflach,2020,5,0,0,0,0,0
+Reutte,Pflach,2020,6,1,0,0.0155325444,0.3333333333,1
+Reutte,Pflach,2020,7,0,0,0,0,0
+Reutte,Pflach,2020,8,0,0,0,0,0
+Reutte,Pflach,2020,9,0,0,0,0,0
+Reutte,Pflach,2020,10,0,0,0,0,0
+Reutte,Pflach,2020,11,0,0,0,0,0
+Reutte,Pflach,2020,12,0,0,0,0,0
+Reutte,Pflach,2020,13,0,0,0,0,0
+Reutte,Pflach,2020,14,0,0,0,0,0
+Reutte,Pflach,2020,15,0,0,0,0,0
+Reutte,Pflach,2020,16,0,0,0,0,0
+Reutte,Pflach,2020,17,0,0,0,0,0
+Reutte,Pflach,2020,18,0,0,0,0,0
+Reutte,Pflach,2020,19,0,0,0,0,0
+Reutte,Pflach,2020,20,0,0,0,0,0
+Reutte,Pflach,2020,21,0,0,0,0,0
+Reutte,Pflach,2020,22,0,0,0,0,0
+Reutte,Pflach,2020,23,1,0,0.0155325444,0.3333333333,1
+Reutte,Pflach,2020,24,0,0,0,0,0
+Reutte,Lechaschau,2020,1,3,0.0027472527,0.0525147929,2,2.6666666667
+Reutte,Lechaschau,2020,2,0,0,0,0,0
+Reutte,Lechaschau,2020,3,1,0,0.0140532544,0,0.3333333333
+Reutte,Lechaschau,2020,4,0,0,0,0,0
+Reutte,Lechaschau,2020,5,1,0,0.0140532544,0,0.3333333333
+Reutte,Lechaschau,2020,6,0,0,0,0,0
+Reutte,Lechaschau,2020,7,0,0,0,0,0
+Reutte,Lechaschau,2020,8,0,0,0,0,0
+Reutte,Lechaschau,2020,9,1,0,0.0140532544,0,0.1666666667
+Reutte,Lechaschau,2020,10,0,0,0,0,0
+Reutte,Lechaschau,2020,11,0,0,0,0,0
+Reutte,Lechaschau,2020,12,0,0,0,0,0
+Reutte,Lechaschau,2020,13,0,0,0,0,0
+Reutte,Lechaschau,2020,14,1,0,0.0140532544,0.3333333333,1
+Reutte,Lechaschau,2020,15,0,0,0,0,0
+Reutte,Lechaschau,2020,16,0,0,0,0,0
+Reutte,Lechaschau,2020,17,0,0,0,0,0
+Reutte,Lechaschau,2020,18,0,0,0,0,0
+Reutte,Lechaschau,2020,19,0,0,0,0,0
+Reutte,Lechaschau,2020,20,0,0,0,0,0
+Reutte,Lechaschau,2020,21,0,0,0,0,0
+Reutte,Lechaschau,2020,22,0,0,0,0,0
+Reutte,Lechaschau,2020,23,1,0,0.0140532544,0.3333333333,1
+Reutte,Lechaschau,2020,24,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,1,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,2,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,3,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,4,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,5,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,6,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,7,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,8,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,9,1,0,0.0077662722,0.3333333333,1
+Reutte,Weißenbach am Lech,2020,10,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,11,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,12,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,13,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,14,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,15,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,16,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,17,1,0,0.0077662722,0.3333333333,1
+Reutte,Weißenbach am Lech,2020,18,1,0,0.0077662722,0.3333333333,1
+Reutte,Weißenbach am Lech,2020,19,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,20,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,21,1,0,0.0077662722,0,0.6666666667
+Reutte,Weißenbach am Lech,2020,22,1,0,0.0077662722,0.3333333333,1
+Reutte,Weißenbach am Lech,2020,23,0,0,0,0,0
+Reutte,Weißenbach am Lech,2020,24,0,0,0,0,0
+Reutte,Vorderhornbach,2020,1,0,0,0,0,0
+Reutte,Vorderhornbach,2020,2,0,0,0,0,0
+Reutte,Vorderhornbach,2020,3,0,0,0,0,0
+Reutte,Vorderhornbach,2020,4,0,0,0,0,0
+Reutte,Vorderhornbach,2020,5,0,0,0,0,0
+Reutte,Vorderhornbach,2020,6,0,0,0,0,0
+Reutte,Vorderhornbach,2020,7,0,0,0,0,0
+Reutte,Vorderhornbach,2020,8,0,0,0,0,0
+Reutte,Vorderhornbach,2020,9,0,0,0,0,0
+Reutte,Vorderhornbach,2020,10,0,0,0,0,0
+Reutte,Vorderhornbach,2020,11,0,0,0,0,0
+Reutte,Vorderhornbach,2020,12,0,0,0,0,0
+Reutte,Vorderhornbach,2020,13,0,0,0,0,0
+Reutte,Vorderhornbach,2020,14,1,0,0.0188609467,0,0.6666666667
+Reutte,Vorderhornbach,2020,15,0,0,0,0,0
+Reutte,Vorderhornbach,2020,16,0,0,0,0,0
+Reutte,Vorderhornbach,2020,17,0,0,0,0,0
+Reutte,Vorderhornbach,2020,18,0,0,0,0,0
+Reutte,Vorderhornbach,2020,19,0,0,0,0,0
+Reutte,Vorderhornbach,2020,20,0,0,0,0,0
+Reutte,Vorderhornbach,2020,21,1,0,0.0188609467,0.3333333333,1
+Reutte,Vorderhornbach,2020,22,0,0,0,0,0
+Reutte,Vorderhornbach,2020,23,0,0,0,0,0
+Reutte,Vorderhornbach,2020,24,0,0,0,0,0
+Reutte,Elbigenalp,2020,1,0,0,0,0,0
+Reutte,Elbigenalp,2020,2,0,0,0,0,0
+Reutte,Elbigenalp,2020,3,0,0,0,0,0
+Reutte,Elbigenalp,2020,4,2,0.0096153846,0.0377218935,0.6666666667,2
+Reutte,Elbigenalp,2020,5,0,0,0,0,0
+Reutte,Elbigenalp,2020,6,0,0,0,0,0
+Reutte,Elbigenalp,2020,7,0,0,0,0,0
+Reutte,Elbigenalp,2020,8,0,0,0,0,0
+Reutte,Elbigenalp,2020,9,0,0,0,0,0
+Reutte,Elbigenalp,2020,10,1,0,0.0184911243,0.3333333333,1
+Reutte,Elbigenalp,2020,11,0,0,0,0,0
+Reutte,Elbigenalp,2020,12,0,0,0,0,0
+Reutte,Elbigenalp,2020,13,0,0,0,0,0
+Reutte,Elbigenalp,2020,14,0,0,0,0,0
+Reutte,Elbigenalp,2020,15,0,0,0,0,0
+Reutte,Elbigenalp,2020,16,0,0,0,0,0
+Reutte,Elbigenalp,2020,17,0,0,0,0,0
+Reutte,Elbigenalp,2020,18,0,0,0,0,0
+Reutte,Elbigenalp,2020,19,0,0,0,0,0
+Reutte,Elbigenalp,2020,20,0,0,0,0,0
+Reutte,Elbigenalp,2020,21,1,0,0.0184911243,0.3333333333,1
+Reutte,Elbigenalp,2020,22,0,0,0,0,0
+Reutte,Elbigenalp,2020,23,0,0,0,0,0
+Reutte,Elbigenalp,2020,24,0,0,0,0,0
+Reutte,Grän,2020,1,0,0,0,0,0
+Reutte,Grän,2020,2,0,0,0,0,0
+Reutte,Grän,2020,3,0,0,0,0,0
+Reutte,Grän,2020,4,0,0,0,0,0
+Reutte,Grän,2020,5,0,0,0,0,0
+Reutte,Grän,2020,6,0,0,0,0,0
+Reutte,Grän,2020,7,0,0,0,0,0
+Reutte,Grän,2020,8,0,0,0,0,0
+Reutte,Grän,2020,9,0,0,0,0,0
+Reutte,Grän,2020,10,0,0,0,0,0
+Reutte,Grän,2020,11,0,0,0,0,0
+Reutte,Grän,2020,12,0,0,0,0,0
+Reutte,Grän,2020,13,1,0,0.0181213018,0.3333333333,1
+Reutte,Grän,2020,14,0,0,0,0,0
+Reutte,Grän,2020,15,0,0,0,0,0
+Reutte,Grän,2020,16,0,0,0,0,0
+Reutte,Grän,2020,17,1,0,0.0181213018,0.3333333333,1
+Reutte,Grän,2020,18,0,0,0,0,0
+Reutte,Grän,2020,19,0,0,0,0,0
+Reutte,Grän,2020,20,0,0,0,0,0
+Reutte,Grän,2020,21,0,0,0,0,0
+Reutte,Grän,2020,22,0,0,0,0,0
+Reutte,Grän,2020,23,0,0,0,0,0
+Reutte,Grän,2020,24,0,0,0,0,0
+Reutte,Steeg,2020,1,0,0,0,0,0
+Reutte,Steeg,2020,2,0,0,0,0,0
+Reutte,Steeg,2020,3,0,0,0,0,0
+Reutte,Steeg,2020,4,0,0,0,0,0
+Reutte,Steeg,2020,5,0,0,0,0,0
+Reutte,Steeg,2020,6,0,0,0,0,0
+Reutte,Steeg,2020,7,0,0,0,0,0
+Reutte,Steeg,2020,8,0,0,0,0,0
+Reutte,Steeg,2020,9,0,0,0,0,0
+Reutte,Steeg,2020,10,0,0,0,0,0
+Reutte,Steeg,2020,11,0,0,0,0,0
+Reutte,Steeg,2020,12,1,0,0.0170118343,0,0.3333333333
+Reutte,Steeg,2020,13,0,0,0,0,0
+Reutte,Steeg,2020,14,0,0,0,0,0
+Reutte,Steeg,2020,15,0,0,0,0,0
+Reutte,Steeg,2020,16,1,0,0.0170118343,0.3333333333,1
+Reutte,Steeg,2020,17,1,0,0.0170118343,0.3333333333,1
+Reutte,Steeg,2020,18,0,0,0,0,0
+Reutte,Steeg,2020,19,0,0,0,0,0
+Reutte,Steeg,2020,20,0,0,0,0,0
+Reutte,Steeg,2020,21,0,0,0,0,0
+Reutte,Steeg,2020,22,0,0,0,0,0
+Reutte,Steeg,2020,23,0,0,0,0,0
+Reutte,Steeg,2020,24,0,0,0,0,0
+Reutte,Wängle,2020,1,0,0,0,0,0
+Reutte,Wängle,2020,2,0,0,0,0,0
+Reutte,Wängle,2020,3,0,0,0,0,0
+Reutte,Wängle,2020,4,0,0,0,0,0
+Reutte,Wängle,2020,5,0,0,0,0,0
+Reutte,Wängle,2020,6,0,0,0,0,0
+Reutte,Wängle,2020,7,1,0,0.0155325444,0,0.6666666667
+Reutte,Wängle,2020,8,0,0,0,0,0
+Reutte,Wängle,2020,9,0,0,0,0,0
+Reutte,Wängle,2020,10,0,0,0,0,0
+Reutte,Wängle,2020,11,0,0,0,0,0
+Reutte,Wängle,2020,12,0,0,0,0,0
+Reutte,Wängle,2020,13,0,0,0,0,0
+Reutte,Wängle,2020,14,0,0,0,0,0
+Reutte,Wängle,2020,15,0,0,0,0,0
+Reutte,Wängle,2020,16,0,0,0,0,0
+Reutte,Wängle,2020,17,1,0,0.0155325444,0,0.3333333333
+Reutte,Wängle,2020,18,0,0,0,0,0
+Reutte,Wängle,2020,19,0,0,0,0,0
+Reutte,Wängle,2020,20,0,0,0,0,0
+Reutte,Wängle,2020,21,0,0,0,0,0
+Reutte,Wängle,2020,22,0,0,0,0,0
+Reutte,Wängle,2020,23,0,0,0,0,0
+Reutte,Wängle,2020,24,0,0,0,0,0
+Reutte,Pinswang,2020,1,0,0,0,0,0
+Reutte,Pinswang,2020,2,0,0,0,0,0
+Reutte,Pinswang,2020,3,0,0,0,0,0
+Reutte,Pinswang,2020,4,0,0,0,0,0
+Reutte,Pinswang,2020,5,0,0,0,0,0
+Reutte,Pinswang,2020,6,0,0,0,0,0
+Reutte,Pinswang,2020,7,0,0,0,0,0
+Reutte,Pinswang,2020,8,0,0,0,0,0
+Reutte,Pinswang,2020,9,0,0,0,0,0
+Reutte,Pinswang,2020,10,0,0,0,0,0
+Reutte,Pinswang,2020,11,0,0,0,0,0
+Reutte,Pinswang,2020,12,0,0,0,0,0
+Reutte,Pinswang,2020,13,0,0,0,0,0
+Reutte,Pinswang,2020,14,0,0,0,0,0
+Reutte,Pinswang,2020,15,0,0,0,0,0
+Reutte,Pinswang,2020,16,1,0,0.0086908284,0.3333333333,1
+Reutte,Pinswang,2020,17,0,0,0,0,0
+Reutte,Pinswang,2020,18,0,0,0,0,0
+Reutte,Pinswang,2020,19,0,0,0,0,0
+Reutte,Pinswang,2020,20,0,0,0,0,0
+Reutte,Pinswang,2020,21,0,0,0,0,0
+Reutte,Pinswang,2020,22,0,0,0,0,0
+Reutte,Pinswang,2020,23,0,0,0,0,0
+Reutte,Pinswang,2020,24,0,0,0,0,0
+Reutte,Nesselwängle,2020,1,0,0,0,0,0
+Reutte,Nesselwängle,2020,2,0,0,0,0,0
+Reutte,Nesselwängle,2020,3,0,0,0,0,0
+Reutte,Nesselwängle,2020,4,0,0,0,0,0
+Reutte,Nesselwängle,2020,5,0,0,0,0,0
+Reutte,Nesselwängle,2020,6,1,0,0.0184911243,0.3333333333,1
+Reutte,Nesselwängle,2020,7,0,0,0,0,0
+Reutte,Nesselwängle,2020,8,0,0,0,0,0
+Reutte,Nesselwängle,2020,9,0,0,0,0,0
+Reutte,Nesselwängle,2020,10,0,0,0,0,0
+Reutte,Nesselwängle,2020,11,0,0,0,0,0
+Reutte,Nesselwängle,2020,12,0,0,0,0,0
+Reutte,Nesselwängle,2020,13,1,0,0.0184911243,0.3333333333,1
+Reutte,Nesselwängle,2020,14,0,0,0,0,0
+Reutte,Nesselwängle,2020,15,0,0,0,0,0
+Reutte,Nesselwängle,2020,16,1,0,0.0184911243,0.3333333333,1
+Reutte,Nesselwängle,2020,17,0,0,0,0,0
+Reutte,Nesselwängle,2020,18,0,0,0,0,0
+Reutte,Nesselwängle,2020,19,0,0,0,0,0
+Reutte,Nesselwängle,2020,20,0,0,0,0,0
+Reutte,Nesselwängle,2020,21,0,0,0,0,0
+Reutte,Nesselwängle,2020,22,0,0,0,0,0
+Reutte,Nesselwängle,2020,23,0,0,0,0,0
+Reutte,Nesselwängle,2020,24,0,0,0,0,0
+Reutte,Holzgau,2020,1,0,0,0,0,0
+Reutte,Holzgau,2020,2,0,0,0,0,0
+Reutte,Holzgau,2020,3,0,0,0,0,0
+Reutte,Holzgau,2020,4,0,0,0,0,0
+Reutte,Holzgau,2020,5,1,0,0.0184911243,0.3333333333,1
+Reutte,Holzgau,2020,6,0,0,0,0,0
+Reutte,Holzgau,2020,7,0,0,0,0,0
+Reutte,Holzgau,2020,8,0,0,0,0,0
+Reutte,Holzgau,2020,9,0,0,0,0,0
+Reutte,Holzgau,2020,10,1,0,0.0184911243,0.3333333333,1
+Reutte,Holzgau,2020,11,0,0,0,0,0
+Reutte,Holzgau,2020,12,0,0,0,0,0
+Reutte,Holzgau,2020,13,0,0,0,0,0
+Reutte,Holzgau,2020,14,0,0,0,0,0
+Reutte,Holzgau,2020,15,1,0,0.0184911243,0.3333333333,1
+Reutte,Holzgau,2020,16,0,0,0,0,0
+Reutte,Holzgau,2020,17,0,0,0,0,0
+Reutte,Holzgau,2020,18,0,0,0,0,0
+Reutte,Holzgau,2020,19,0,0,0,0,0
+Reutte,Holzgau,2020,20,0,0,0,0,0
+Reutte,Holzgau,2020,21,0,0,0,0,0
+Reutte,Holzgau,2020,22,0,0,0,0,0
+Reutte,Holzgau,2020,23,0,0,0,0,0
+Reutte,Holzgau,2020,24,0,0,0,0,0
+Reutte,Vils,2020,1,1,0,0.006841716,0.3333333333,1
+Reutte,Vils,2020,2,1,0,0.006841716,0.3333333333,1
+Reutte,Vils,2020,3,0,0,0,0,0
+Reutte,Vils,2020,4,0,0,0,0,0
+Reutte,Vils,2020,5,0,0,0,0,0
+Reutte,Vils,2020,6,0,0,0,0,0
+Reutte,Vils,2020,7,1,0,0.006841716,0.3333333333,1
+Reutte,Vils,2020,8,0,0,0,0,0
+Reutte,Vils,2020,9,0,0,0,0,0
+Reutte,Vils,2020,10,0,0,0,0,0
+Reutte,Vils,2020,11,0,0,0,0,0
+Reutte,Vils,2020,12,0,0,0,0,0
+Reutte,Vils,2020,13,0,0,0,0,0
+Reutte,Vils,2020,14,1,0,0.006841716,0,0.6666666667
+Reutte,Vils,2020,15,2,0,0.0164571006,0.6666666667,2
+Reutte,Vils,2020,16,0,0,0,0,0
+Reutte,Vils,2020,17,0,0,0,0,0
+Reutte,Vils,2020,18,0,0,0,0,0
+Reutte,Vils,2020,19,0,0,0,0,0
+Reutte,Vils,2020,20,0,0,0,0,0
+Reutte,Vils,2020,21,0,0,0,0,0
+Reutte,Vils,2020,22,0,0,0,0,0
+Reutte,Vils,2020,23,0,0,0,0,0
+Reutte,Vils,2020,24,0,0,0,0,0
+Reutte,Ehrwald,2020,1,0,0,0,0,0
+Reutte,Ehrwald,2020,2,1,0,0.0070266272,0,0.6666666667
+Reutte,Ehrwald,2020,3,0,0,0,0,0
+Reutte,Ehrwald,2020,4,1,0,0.0070266272,0,0.6666666667
+Reutte,Ehrwald,2020,5,1,0,0.0070266272,0.3333333333,1
+Reutte,Ehrwald,2020,6,0,0,0,0,0
+Reutte,Ehrwald,2020,7,0,0,0,0,0
+Reutte,Ehrwald,2020,8,0,0,0,0,0
+Reutte,Ehrwald,2020,9,0,0,0,0,0
+Reutte,Ehrwald,2020,10,0,0,0,0,0
+Reutte,Ehrwald,2020,11,0,0,0,0,0
+Reutte,Ehrwald,2020,12,1,0,0.0070266272,0,0.6666666667
+Reutte,Ehrwald,2020,13,0,0,0,0,0
+Reutte,Ehrwald,2020,14,1,0,0.0070266272,0,0
+Reutte,Ehrwald,2020,15,1,0,0.0070266272,0,0
+Reutte,Ehrwald,2020,16,0,0,0,0,0
+Reutte,Ehrwald,2020,17,0,0,0,0,0
+Reutte,Ehrwald,2020,18,0,0,0,0,0
+Reutte,Ehrwald,2020,19,0,0,0,0,0
+Reutte,Ehrwald,2020,20,0,0,0,0,0
+Reutte,Ehrwald,2020,21,0,0,0,0,0
+Reutte,Ehrwald,2020,22,0,0,0,0,0
+Reutte,Ehrwald,2020,23,0,0,0,0,0
+Reutte,Ehrwald,2020,24,0,0,0,0,0
+Reutte,Heiterwang,2020,1,0,0,0,0,0
+Reutte,Heiterwang,2020,2,0,0,0,0,0
+Reutte,Heiterwang,2020,3,0,0,0,0,0
+Reutte,Heiterwang,2020,4,0,0,0,0,0
+Reutte,Heiterwang,2020,5,0,0,0,0,0
+Reutte,Heiterwang,2020,6,0,0,0,0,0
+Reutte,Heiterwang,2020,7,0,0,0,0,0
+Reutte,Heiterwang,2020,8,0,0,0,0,0
+Reutte,Heiterwang,2020,9,0,0,0,0,0
+Reutte,Heiterwang,2020,10,0,0,0,0,0
+Reutte,Heiterwang,2020,11,0,0,0,0,0
+Reutte,Heiterwang,2020,12,0,0,0,0,0
+Reutte,Heiterwang,2020,13,1,0,0.0181213018,0.3333333333,1
+Reutte,Heiterwang,2020,14,1,0,0.0181213018,0.3333333333,1
+Reutte,Heiterwang,2020,15,0,0,0,0,0
+Reutte,Heiterwang,2020,16,0,0,0,0,0
+Reutte,Heiterwang,2020,17,0,0,0,0,0
+Reutte,Heiterwang,2020,18,0,0,0,0,0
+Reutte,Heiterwang,2020,19,0,0,0,0,0
+Reutte,Heiterwang,2020,20,0,0,0,0,0
+Reutte,Heiterwang,2020,21,0,0,0,0,0
+Reutte,Heiterwang,2020,22,0,0,0,0,0
+Reutte,Heiterwang,2020,23,0,0,0,0,0
+Reutte,Heiterwang,2020,24,0,0,0,0,0
+Reutte,Höfen,2020,1,0,0,0,0,0
+Reutte,Höfen,2020,2,0,0,0,0,0
+Reutte,Höfen,2020,3,0,0,0,0,0
+Reutte,Höfen,2020,4,0,0,0,0,0
+Reutte,Höfen,2020,5,1,0,0.0085059172,0,0.6666666667
+Reutte,Höfen,2020,6,0,0,0,0,0
+Reutte,Höfen,2020,7,0,0,0,0,0
+Reutte,Höfen,2020,8,0,0,0,0,0
+Reutte,Höfen,2020,9,0,0,0,0,0
+Reutte,Höfen,2020,10,0,0,0,0,0
+Reutte,Höfen,2020,11,0,0,0,0,0
+Reutte,Höfen,2020,12,0,0,0,0,0
+Reutte,Höfen,2020,13,1,0,0.0085059172,0,0.1666666667
+Reutte,Höfen,2020,14,0,0,0,0,0
+Reutte,Höfen,2020,15,0,0,0,0,0
+Reutte,Höfen,2020,16,0,0,0,0,0
+Reutte,Höfen,2020,17,0,0,0,0,0
+Reutte,Höfen,2020,18,0,0,0,0,0
+Reutte,Höfen,2020,19,0,0,0,0,0
+Reutte,Höfen,2020,20,0,0,0,0,0
+Reutte,Höfen,2020,21,0,0,0,0,0
+Reutte,Höfen,2020,22,0,0,0,0,0
+Reutte,Höfen,2020,23,0,0,0,0,0
+Reutte,Höfen,2020,24,0,0,0,0,0
+Reutte,Schattwald,2020,1,0,0,0,0,0
+Reutte,Schattwald,2020,2,0,0,0,0,0
+Reutte,Schattwald,2020,3,0,0,0,0,0
+Reutte,Schattwald,2020,4,0,0,0,0,0
+Reutte,Schattwald,2020,5,0,0,0,0,0
+Reutte,Schattwald,2020,6,0,0,0,0,0
+Reutte,Schattwald,2020,7,0,0,0,0,0
+Reutte,Schattwald,2020,8,0,0,0,0,0
+Reutte,Schattwald,2020,9,0,0,0,0,0
+Reutte,Schattwald,2020,10,0,0,0,0,0
+Reutte,Schattwald,2020,11,0,0,0,0,0
+Reutte,Schattwald,2020,12,1,0,0.0170118343,0.3333333333,1
+Reutte,Schattwald,2020,13,0,0,0,0,0
+Reutte,Schattwald,2020,14,0,0,0,0,0
+Reutte,Schattwald,2020,15,0,0,0,0,0
+Reutte,Schattwald,2020,16,0,0,0,0,0
+Reutte,Schattwald,2020,17,0,0,0,0,0
+Reutte,Schattwald,2020,18,0,0,0,0,0
+Reutte,Schattwald,2020,19,0,0,0,0,0
+Reutte,Schattwald,2020,20,0,0,0,0,0
+Reutte,Schattwald,2020,21,0,0,0,0,0
+Reutte,Schattwald,2020,22,0,0,0,0,0
+Reutte,Schattwald,2020,23,0,0,0,0,0
+Reutte,Schattwald,2020,24,0,0,0,0,0
+Reutte,Ehenbichl,2020,1,0,0,0,0,0
+Reutte,Ehenbichl,2020,2,0,0,0,0,0
+Reutte,Ehenbichl,2020,3,0,0,0,0,0
+Reutte,Ehenbichl,2020,4,0,0,0,0,0
+Reutte,Ehenbichl,2020,5,0,0,0,0,0
+Reutte,Ehenbichl,2020,6,0,0,0,0,0
+Reutte,Ehenbichl,2020,7,1,0,0.0173816568,0.3333333333,1
+Reutte,Ehenbichl,2020,8,0,0,0,0,0
+Reutte,Ehenbichl,2020,9,0,0,0,0,0
+Reutte,Ehenbichl,2020,10,0,0,0,0,0
+Reutte,Ehenbichl,2020,11,1,0,0.0173816568,0,0.6666666667
+Reutte,Ehenbichl,2020,12,0,0,0,0,0
+Reutte,Ehenbichl,2020,13,0,0,0,0,0
+Reutte,Ehenbichl,2020,14,0,0,0,0,0
+Reutte,Ehenbichl,2020,15,0,0,0,0,0
+Reutte,Ehenbichl,2020,16,0,0,0,0,0
+Reutte,Ehenbichl,2020,17,0,0,0,0,0
+Reutte,Ehenbichl,2020,18,0,0,0,0,0
+Reutte,Ehenbichl,2020,19,0,0,0,0,0
+Reutte,Ehenbichl,2020,20,0,0,0,0,0
+Reutte,Ehenbichl,2020,21,0,0,0,0,0
+Reutte,Ehenbichl,2020,22,0,0,0,0,0
+Reutte,Ehenbichl,2020,23,0,0,0,0,0
+Reutte,Ehenbichl,2020,24,0,0,0,0,0
+Reutte,Häselgehr,2020,1,0,0,0,0,0
+Reutte,Häselgehr,2020,2,0,0,0,0,0
+Reutte,Häselgehr,2020,3,0,0,0,0,0
+Reutte,Häselgehr,2020,4,0,0,0,0,0
+Reutte,Häselgehr,2020,5,0,0,0,0,0
+Reutte,Häselgehr,2020,6,0,0,0,0,0
+Reutte,Häselgehr,2020,7,0,0,0,0,0
+Reutte,Häselgehr,2020,8,0,0,0,0,0
+Reutte,Häselgehr,2020,9,0,0,0,0,0
+Reutte,Häselgehr,2020,10,1,0,0.0177514793,0.3333333333,1
+Reutte,Häselgehr,2020,11,0,0,0,0,0
+Reutte,Häselgehr,2020,12,0,0,0,0,0
+Reutte,Häselgehr,2020,13,0,0,0,0,0
+Reutte,Häselgehr,2020,14,0,0,0,0,0
+Reutte,Häselgehr,2020,15,0,0,0,0,0
+Reutte,Häselgehr,2020,16,0,0,0,0,0
+Reutte,Häselgehr,2020,17,0,0,0,0,0
+Reutte,Häselgehr,2020,18,0,0,0,0,0
+Reutte,Häselgehr,2020,19,0,0,0,0,0
+Reutte,Häselgehr,2020,20,0,0,0,0,0
+Reutte,Häselgehr,2020,21,0,0,0,0,0
+Reutte,Häselgehr,2020,22,0,0,0,0,0
+Reutte,Häselgehr,2020,23,0,0,0,0,0
+Reutte,Häselgehr,2020,24,0,0,0,0,0
+Reutte,Bichlbach,2020,1,0,0,0,0,0
+Reutte,Bichlbach,2020,2,0,0,0,0,0
+Reutte,Bichlbach,2020,3,0,0,0,0,0
+Reutte,Bichlbach,2020,4,0,0,0,0,0
+Reutte,Bichlbach,2020,5,0,0,0,0,0
+Reutte,Bichlbach,2020,6,0,0,0,0,0
+Reutte,Bichlbach,2020,7,0,0,0,0,0
+Reutte,Bichlbach,2020,8,0,0,0,0,0
+Reutte,Bichlbach,2020,9,1,0,0.0173816568,0.3333333333,1
+Reutte,Bichlbach,2020,10,0,0,0,0,0
+Reutte,Bichlbach,2020,11,0,0,0,0,0
+Reutte,Bichlbach,2020,12,0,0,0,0,0
+Reutte,Bichlbach,2020,13,0,0,0,0,0
+Reutte,Bichlbach,2020,14,0,0,0,0,0
+Reutte,Bichlbach,2020,15,0,0,0,0,0
+Reutte,Bichlbach,2020,16,0,0,0,0,0
+Reutte,Bichlbach,2020,17,0,0,0,0,0
+Reutte,Bichlbach,2020,18,0,0,0,0,0
+Reutte,Bichlbach,2020,19,0,0,0,0,0
+Reutte,Bichlbach,2020,20,0,0,0,0,0
+Reutte,Bichlbach,2020,21,0,0,0,0,0
+Reutte,Bichlbach,2020,22,0,0,0,0,0
+Reutte,Bichlbach,2020,23,0,0,0,0,0
+Reutte,Bichlbach,2020,24,0,0,0,0,0
+Reutte,Biberwier,2020,1,0,0,0,0,0
+Reutte,Biberwier,2020,2,0,0,0,0,0
+Reutte,Biberwier,2020,3,1,0,0.0184911243,0,0.6666666667
+Reutte,Biberwier,2020,4,1,0,0.0184911243,0.3333333333,1
+Reutte,Biberwier,2020,5,0,0,0,0,0
+Reutte,Biberwier,2020,6,0,0,0,0,0
+Reutte,Biberwier,2020,7,0,0,0,0,0
+Reutte,Biberwier,2020,8,0,0,0,0,0
+Reutte,Biberwier,2020,9,0,0,0,0,0
+Reutte,Biberwier,2020,10,0,0,0,0,0
+Reutte,Biberwier,2020,11,0,0,0,0,0
+Reutte,Biberwier,2020,12,0,0,0,0,0
+Reutte,Biberwier,2020,13,0,0,0,0,0
+Reutte,Biberwier,2020,14,0,0,0,0,0
+Reutte,Biberwier,2020,15,0,0,0,0,0
+Reutte,Biberwier,2020,16,0,0,0,0,0
+Reutte,Biberwier,2020,17,0,0,0,0,0
+Reutte,Biberwier,2020,18,0,0,0,0,0
+Reutte,Biberwier,2020,19,0,0,0,0,0
+Reutte,Biberwier,2020,20,0,0,0,0,0
+Reutte,Biberwier,2020,21,0,0,0,0,0
+Reutte,Biberwier,2020,22,0,0,0,0,0
+Reutte,Biberwier,2020,23,0,0,0,0,0
+Reutte,Biberwier,2020,24,0,0,0,0,0
+Reutte,Lermoos,2020,1,0,0,0,0,0
+Reutte,Lermoos,2020,2,0,0,0,0,0
+Reutte,Lermoos,2020,3,1,0,0.0166420118,0.3333333333,1
+Reutte,Lermoos,2020,4,0,0,0,0,0
+Reutte,Lermoos,2020,5,0,0,0,0,0
+Reutte,Lermoos,2020,6,0,0,0,0,0
+Reutte,Lermoos,2020,7,0,0,0,0,0
+Reutte,Lermoos,2020,8,0,0,0,0,0
+Reutte,Lermoos,2020,9,0,0,0,0,0
+Reutte,Lermoos,2020,10,0,0,0,0,0
+Reutte,Lermoos,2020,11,0,0,0,0,0
+Reutte,Lermoos,2020,12,0,0,0,0,0
+Reutte,Lermoos,2020,13,0,0,0,0,0
+Reutte,Lermoos,2020,14,0,0,0,0,0
+Reutte,Lermoos,2020,15,0,0,0,0,0
+Reutte,Lermoos,2020,16,0,0,0,0,0
+Reutte,Lermoos,2020,17,0,0,0,0,0
+Reutte,Lermoos,2020,18,0,0,0,0,0
+Reutte,Lermoos,2020,19,0,0,0,0,0
+Reutte,Lermoos,2020,20,0,0,0,0,0
+Reutte,Lermoos,2020,21,0,0,0,0,0
+Reutte,Lermoos,2020,22,0,0,0,0,0
+Reutte,Lermoos,2020,23,0,0,0,0,0
+Reutte,Lermoos,2020,24,0,0,0,0,0
+Reutte,Tannheim,2020,1,0,0,0,0,0
+Reutte,Tannheim,2020,2,1,0,0.0184911243,0.3333333333,1
+Reutte,Tannheim,2020,3,0,0,0,0,0
+Reutte,Tannheim,2020,4,0,0,0,0,0
+Reutte,Tannheim,2020,5,0,0,0,0,0
+Reutte,Tannheim,2020,6,0,0,0,0,0
+Reutte,Tannheim,2020,7,0,0,0,0,0
+Reutte,Tannheim,2020,8,0,0,0,0,0
+Reutte,Tannheim,2020,9,0,0,0,0,0
+Reutte,Tannheim,2020,10,0,0,0,0,0
+Reutte,Tannheim,2020,11,0,0,0,0,0
+Reutte,Tannheim,2020,12,0,0,0,0,0
+Reutte,Tannheim,2020,13,0,0,0,0,0
+Reutte,Tannheim,2020,14,0,0,0,0,0
+Reutte,Tannheim,2020,15,0,0,0,0,0
+Reutte,Tannheim,2020,16,0,0,0,0,0
+Reutte,Tannheim,2020,17,0,0,0,0,0
+Reutte,Tannheim,2020,18,0,0,0,0,0
+Reutte,Tannheim,2020,19,0,0,0,0,0
+Reutte,Tannheim,2020,20,0,0,0,0,0
+Reutte,Tannheim,2020,21,0,0,0,0,0
+Reutte,Tannheim,2020,22,0,0,0,0,0
+Reutte,Tannheim,2020,23,0,0,0,0,0
+Reutte,Tannheim,2020,24,0,0,0,0,0
+Reutte,Musau,2020,1,0,0,0,0,0
+Reutte,Musau,2020,2,0,0,0,0,0
+Reutte,Musau,2020,3,0,0,0,0,0
+Reutte,Musau,2020,4,0,0,0,0,0
+Reutte,Musau,2020,5,0,0,0,0,0
+Reutte,Musau,2020,6,0,0,0,0,0
+Reutte,Musau,2020,7,0,0,0,0,0
+Reutte,Musau,2020,8,0,0,0,0,0
+Reutte,Musau,2020,9,0,0,0,0,0
+Reutte,Musau,2020,10,0,0,0,0,0
+Reutte,Musau,2020,11,0,0,0,0,0
+Reutte,Musau,2020,12,0,0,0,0,0
+Reutte,Musau,2020,13,0,0,0,0,0
+Reutte,Musau,2020,14,0,0,0,0,0
+Reutte,Musau,2020,15,0,0,0,0,0
+Reutte,Musau,2020,16,0,0,0,0,0
+Reutte,Musau,2020,17,0,0,0,0,0
+Reutte,Musau,2020,18,0,0,0,0,0
+Reutte,Musau,2020,19,0,0,0,0,0
+Reutte,Musau,2020,20,0,0,0,0,0
+Reutte,Musau,2020,21,0,0,0,0,0
+Reutte,Musau,2020,22,0,0,0,0,0
+Reutte,Musau,2020,23,0,0,0,0,0
+Reutte,Musau,2020,24,0,0,0,0,0
+Reutte,Elmen,2020,1,0,0,0,0,0
+Reutte,Elmen,2020,2,0,0,0,0,0
+Reutte,Elmen,2020,3,0,0,0,0,0
+Reutte,Elmen,2020,4,0,0,0,0,0
+Reutte,Elmen,2020,5,0,0,0,0,0
+Reutte,Elmen,2020,6,0,0,0,0,0
+Reutte,Elmen,2020,7,0,0,0,0,0
+Reutte,Elmen,2020,8,0,0,0,0,0
+Reutte,Elmen,2020,9,0,0,0,0,0
+Reutte,Elmen,2020,10,0,0,0,0,0
+Reutte,Elmen,2020,11,0,0,0,0,0
+Reutte,Elmen,2020,12,0,0,0,0,0
+Reutte,Elmen,2020,13,0,0,0,0,0
+Reutte,Elmen,2020,14,0,0,0,0,0
+Reutte,Elmen,2020,15,0,0,0,0,0
+Reutte,Elmen,2020,16,0,0,0,0,0
+Reutte,Elmen,2020,17,0,0,0,0,0
+Reutte,Elmen,2020,18,0,0,0,0,0
+Reutte,Elmen,2020,19,0,0,0,0,0
+Reutte,Elmen,2020,20,0,0,0,0,0
+Reutte,Elmen,2020,21,0,0,0,0,0
+Reutte,Elmen,2020,22,0,0,0,0,0
+Reutte,Elmen,2020,23,0,0,0,0,0
+Reutte,Elmen,2020,24,0,0,0,0,0
+Reutte,Forchach,2020,1,0,0,0,0,0
+Reutte,Forchach,2020,2,0,0,0,0,0
+Reutte,Forchach,2020,3,0,0,0,0,0
+Reutte,Forchach,2020,4,0,0,0,0,0
+Reutte,Forchach,2020,5,0,0,0,0,0
+Reutte,Forchach,2020,6,0,0,0,0,0
+Reutte,Forchach,2020,7,0,0,0,0,0
+Reutte,Forchach,2020,8,0,0,0,0,0
+Reutte,Forchach,2020,9,0,0,0,0,0
+Reutte,Forchach,2020,10,0,0,0,0,0
+Reutte,Forchach,2020,11,0,0,0,0,0
+Reutte,Forchach,2020,12,0,0,0,0,0
+Reutte,Forchach,2020,13,0,0,0,0,0
+Reutte,Forchach,2020,14,0,0,0,0,0
+Reutte,Forchach,2020,15,0,0,0,0,0
+Reutte,Forchach,2020,16,0,0,0,0,0
+Reutte,Forchach,2020,17,0,0,0,0,0
+Reutte,Forchach,2020,18,0,0,0,0,0
+Reutte,Forchach,2020,19,0,0,0,0,0
+Reutte,Forchach,2020,20,0,0,0,0,0
+Reutte,Forchach,2020,21,0,0,0,0,0
+Reutte,Forchach,2020,22,0,0,0,0,0
+Reutte,Forchach,2020,23,0,0,0,0,0
+Reutte,Forchach,2020,24,0,0,0,0,0
+Reutte,Zöblen,2020,1,0,0,0,0,0
+Reutte,Zöblen,2020,2,0,0,0,0,0
+Reutte,Zöblen,2020,3,0,0,0,0,0
+Reutte,Zöblen,2020,4,0,0,0,0,0
+Reutte,Zöblen,2020,5,0,0,0,0,0
+Reutte,Zöblen,2020,6,0,0,0,0,0
+Reutte,Zöblen,2020,7,0,0,0,0,0
+Reutte,Zöblen,2020,8,0,0,0,0,0
+Reutte,Zöblen,2020,9,0,0,0,0,0
+Reutte,Zöblen,2020,10,0,0,0,0,0
+Reutte,Zöblen,2020,11,0,0,0,0,0
+Reutte,Zöblen,2020,12,0,0,0,0,0
+Reutte,Zöblen,2020,13,0,0,0,0,0
+Reutte,Zöblen,2020,14,0,0,0,0,0
+Reutte,Zöblen,2020,15,0,0,0,0,0
+Reutte,Zöblen,2020,16,0,0,0,0,0
+Reutte,Zöblen,2020,17,0,0,0,0,0
+Reutte,Zöblen,2020,18,0,0,0,0,0
+Reutte,Zöblen,2020,19,0,0,0,0,0
+Reutte,Zöblen,2020,20,0,0,0,0,0
+Reutte,Zöblen,2020,21,0,0,0,0,0
+Reutte,Zöblen,2020,22,0,0,0,0,0
+Reutte,Zöblen,2020,23,0,0,0,0,0
+Reutte,Zöblen,2020,24,0,0,0,0,0
+Reutte,Bach,2020,1,0,0,0,0,0
+Reutte,Bach,2020,2,0,0,0,0,0
+Reutte,Bach,2020,3,0,0,0,0,0
+Reutte,Bach,2020,4,0,0,0,0,0
+Reutte,Bach,2020,5,0,0,0,0,0
+Reutte,Bach,2020,6,0,0,0,0,0
+Reutte,Bach,2020,7,0,0,0,0,0
+Reutte,Bach,2020,8,0,0,0,0,0
+Reutte,Bach,2020,9,0,0,0,0,0
+Reutte,Bach,2020,10,0,0,0,0,0
+Reutte,Bach,2020,11,0,0,0,0,0
+Reutte,Bach,2020,12,0,0,0,0,0
+Reutte,Bach,2020,13,0,0,0,0,0
+Reutte,Bach,2020,14,0,0,0,0,0
+Reutte,Bach,2020,15,0,0,0,0,0
+Reutte,Bach,2020,16,0,0,0,0,0
+Reutte,Bach,2020,17,0,0,0,0,0
+Reutte,Bach,2020,18,0,0,0,0,0
+Reutte,Bach,2020,19,0,0,0,0,0
+Reutte,Bach,2020,20,0,0,0,0,0
+Reutte,Bach,2020,21,0,0,0,0,0
+Reutte,Bach,2020,22,0,0,0,0,0
+Reutte,Bach,2020,23,0,0,0,0,0
+Reutte,Bach,2020,24,0,0,0,0,0
+Reutte,Kaisers,2020,1,0,0,0,0,0
+Reutte,Kaisers,2020,2,0,0,0,0,0
+Reutte,Kaisers,2020,3,0,0,0,0,0
+Reutte,Kaisers,2020,4,0,0,0,0,0
+Reutte,Kaisers,2020,5,0,0,0,0,0
+Reutte,Kaisers,2020,6,0,0,0,0,0
+Reutte,Kaisers,2020,7,0,0,0,0,0
+Reutte,Kaisers,2020,8,0,0,0,0,0
+Reutte,Kaisers,2020,9,0,0,0,0,0
+Reutte,Kaisers,2020,10,0,0,0,0,0
+Reutte,Kaisers,2020,11,0,0,0,0,0
+Reutte,Kaisers,2020,12,0,0,0,0,0
+Reutte,Kaisers,2020,13,0,0,0,0,0
+Reutte,Kaisers,2020,14,0,0,0,0,0
+Reutte,Kaisers,2020,15,0,0,0,0,0
+Reutte,Kaisers,2020,16,0,0,0,0,0
+Reutte,Kaisers,2020,17,0,0,0,0,0
+Reutte,Kaisers,2020,18,0,0,0,0,0
+Reutte,Kaisers,2020,19,0,0,0,0,0
+Reutte,Kaisers,2020,20,0,0,0,0,0
+Reutte,Kaisers,2020,21,0,0,0,0,0
+Reutte,Kaisers,2020,22,0,0,0,0,0
+Reutte,Kaisers,2020,23,0,0,0,0,0
+Reutte,Kaisers,2020,24,0,0,0,0,0
+Reutte,Namlos,2020,1,0,0,0,0,0
+Reutte,Namlos,2020,2,0,0,0,0,0
+Reutte,Namlos,2020,3,0,0,0,0,0
+Reutte,Namlos,2020,4,0,0,0,0,0
+Reutte,Namlos,2020,5,0,0,0,0,0
+Reutte,Namlos,2020,6,0,0,0,0,0
+Reutte,Namlos,2020,7,0,0,0,0,0
+Reutte,Namlos,2020,8,0,0,0,0,0
+Reutte,Namlos,2020,9,0,0,0,0,0
+Reutte,Namlos,2020,10,0,0,0,0,0
+Reutte,Namlos,2020,11,0,0,0,0,0
+Reutte,Namlos,2020,12,0,0,0,0,0
+Reutte,Namlos,2020,13,0,0,0,0,0
+Reutte,Namlos,2020,14,0,0,0,0,0
+Reutte,Namlos,2020,15,0,0,0,0,0
+Reutte,Namlos,2020,16,0,0,0,0,0
+Reutte,Namlos,2020,17,0,0,0,0,0
+Reutte,Namlos,2020,18,0,0,0,0,0
+Reutte,Namlos,2020,19,0,0,0,0,0
+Reutte,Namlos,2020,20,0,0,0,0,0
+Reutte,Namlos,2020,21,0,0,0,0,0
+Reutte,Namlos,2020,22,0,0,0,0,0
+Reutte,Namlos,2020,23,0,0,0,0,0
+Reutte,Namlos,2020,24,0,0,0,0,0
+Reutte,Pfafflar,2020,1,0,0,0,0,0
+Reutte,Pfafflar,2020,2,0,0,0,0,0
+Reutte,Pfafflar,2020,3,0,0,0,0,0
+Reutte,Pfafflar,2020,4,0,0,0,0,0
+Reutte,Pfafflar,2020,5,0,0,0,0,0
+Reutte,Pfafflar,2020,6,0,0,0,0,0
+Reutte,Pfafflar,2020,7,0,0,0,0,0
+Reutte,Pfafflar,2020,8,0,0,0,0,0
+Reutte,Pfafflar,2020,9,0,0,0,0,0
+Reutte,Pfafflar,2020,10,0,0,0,0,0
+Reutte,Pfafflar,2020,11,0,0,0,0,0
+Reutte,Pfafflar,2020,12,0,0,0,0,0
+Reutte,Pfafflar,2020,13,0,0,0,0,0
+Reutte,Pfafflar,2020,14,0,0,0,0,0
+Reutte,Pfafflar,2020,15,0,0,0,0,0
+Reutte,Pfafflar,2020,16,0,0,0,0,0
+Reutte,Pfafflar,2020,17,0,0,0,0,0
+Reutte,Pfafflar,2020,18,0,0,0,0,0
+Reutte,Pfafflar,2020,19,0,0,0,0,0
+Reutte,Pfafflar,2020,20,0,0,0,0,0
+Reutte,Pfafflar,2020,21,0,0,0,0,0
+Reutte,Pfafflar,2020,22,0,0,0,0,0
+Reutte,Pfafflar,2020,23,0,0,0,0,0
+Reutte,Pfafflar,2020,24,0,0,0,0,0
+Reutte,Gramais,2020,1,0,0,0,0,0
+Reutte,Gramais,2020,2,0,0,0,0,0
+Reutte,Gramais,2020,3,0,0,0,0,0
+Reutte,Gramais,2020,4,0,0,0,0,0
+Reutte,Gramais,2020,5,0,0,0,0,0
+Reutte,Gramais,2020,6,0,0,0,0,0
+Reutte,Gramais,2020,7,0,0,0,0,0
+Reutte,Gramais,2020,8,0,0,0,0,0
+Reutte,Gramais,2020,9,0,0,0,0,0
+Reutte,Gramais,2020,10,0,0,0,0,0
+Reutte,Gramais,2020,11,0,0,0,0,0
+Reutte,Gramais,2020,12,0,0,0,0,0
+Reutte,Gramais,2020,13,0,0,0,0,0
+Reutte,Gramais,2020,14,0,0,0,0,0
+Reutte,Gramais,2020,15,0,0,0,0,0
+Reutte,Gramais,2020,16,0,0,0,0,0
+Reutte,Gramais,2020,17,0,0,0,0,0
+Reutte,Gramais,2020,18,0,0,0,0,0
+Reutte,Gramais,2020,19,0,0,0,0,0
+Reutte,Gramais,2020,20,0,0,0,0,0
+Reutte,Gramais,2020,21,0,0,0,0,0
+Reutte,Gramais,2020,22,0,0,0,0,0
+Reutte,Gramais,2020,23,0,0,0,0,0
+Reutte,Gramais,2020,24,0,0,0,0,0
+Reutte,Hinterhornbach,2020,1,0,0,0,0,0
+Reutte,Hinterhornbach,2020,2,0,0,0,0,0
+Reutte,Hinterhornbach,2020,3,0,0,0,0,0
+Reutte,Hinterhornbach,2020,4,0,0,0,0,0
+Reutte,Hinterhornbach,2020,5,0,0,0,0,0
+Reutte,Hinterhornbach,2020,6,0,0,0,0,0
+Reutte,Hinterhornbach,2020,7,0,0,0,0,0
+Reutte,Hinterhornbach,2020,8,0,0,0,0,0
+Reutte,Hinterhornbach,2020,9,0,0,0,0,0
+Reutte,Hinterhornbach,2020,10,0,0,0,0,0
+Reutte,Hinterhornbach,2020,11,0,0,0,0,0
+Reutte,Hinterhornbach,2020,12,0,0,0,0,0
+Reutte,Hinterhornbach,2020,13,0,0,0,0,0
+Reutte,Hinterhornbach,2020,14,0,0,0,0,0
+Reutte,Hinterhornbach,2020,15,0,0,0,0,0
+Reutte,Hinterhornbach,2020,16,0,0,0,0,0
+Reutte,Hinterhornbach,2020,17,0,0,0,0,0
+Reutte,Hinterhornbach,2020,18,0,0,0,0,0
+Reutte,Hinterhornbach,2020,19,0,0,0,0,0
+Reutte,Hinterhornbach,2020,20,0,0,0,0,0
+Reutte,Hinterhornbach,2020,21,0,0,0,0,0
+Reutte,Hinterhornbach,2020,22,0,0,0,0,0
+Reutte,Hinterhornbach,2020,23,0,0,0,0,0
+Reutte,Hinterhornbach,2020,24,0,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,1,20,0,0.0038546882,0,0.1060606061
 Innsbruck-Stadt,Innsbruck,2020,2,23,0,0.0060736231,2,0.3174603175
 Innsbruck-Stadt,Innsbruck,2020,3,30,0.0384615385,0.0112511379,4,0.5303030303
@@ -2277,7 +4077,7 @@ Innsbruck-Stadt,Innsbruck,2020,19,4,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,20,1,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,21,7,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,22,2,0,0,0,0
-Innsbruck-Stadt,Innsbruck,2020,23,5,0,0,0,0
+Innsbruck-Stadt,Innsbruck,2020,23,6,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,24,4,0,0,0,0
 Kitzbühel,Hopfgarten im Brixental,2020,1,0,0,0,0,0
 Kitzbühel,Hopfgarten im Brixental,2020,2,2,0,0.0061637081,0.3333333333,1
@@ -2303,6 +4103,30 @@ Kitzbühel,Hopfgarten im Brixental,2020,21,1,0,0,0,0
 Kitzbühel,Hopfgarten im Brixental,2020,22,0,0,0,0,0
 Kitzbühel,Hopfgarten im Brixental,2020,23,2,0,0.0061637081,0.3333333333,1
 Kitzbühel,Hopfgarten im Brixental,2020,24,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,1,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,2,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,3,1,0,0,0,0.6666666667
+Kitzbühel,St. Johann in Tirol,2020,4,2,0,0.0028661243,0.5,1.3333333333
+Kitzbühel,St. Johann in Tirol,2020,5,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,6,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,7,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,8,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,9,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,10,2,0,0.0028661243,1,1.6666666667
+Kitzbühel,St. Johann in Tirol,2020,11,2,0,0.0028661243,0,0
+Kitzbühel,St. Johann in Tirol,2020,12,2,0,0.0028661243,0,0.2222222222
+Kitzbühel,St. Johann in Tirol,2020,13,3,0,0.0076738166,2,2.6666666667
+Kitzbühel,St. Johann in Tirol,2020,14,2,0,0.0028661243,0.5,1.3333333333
+Kitzbühel,St. Johann in Tirol,2020,15,1,0,0,0,0.3333333333
+Kitzbühel,St. Johann in Tirol,2020,16,3,0,0.0076738166,0.3333333333,0.5
+Kitzbühel,St. Johann in Tirol,2020,17,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,18,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,19,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,20,0,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,21,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,22,3,0,0.0076738166,0.3333333333,0.5
+Kitzbühel,St. Johann in Tirol,2020,23,1,0,0,0,0
+Kitzbühel,St. Johann in Tirol,2020,24,1,0,0,0,0
 Kitzbühel,St. Ulrich am Pillersee,2020,1,1,0,0.0079511834,0.3333333333,1
 Kitzbühel,St. Ulrich am Pillersee,2020,2,1,0,0.0079511834,0.3333333333,1
 Kitzbühel,St. Ulrich am Pillersee,2020,3,0,0,0,0,0
@@ -2447,30 +4271,6 @@ Kitzbühel,Fieberbrunn,2020,21,0,0,0,0,0
 Kitzbühel,Fieberbrunn,2020,22,0,0,0,0,0
 Kitzbühel,Fieberbrunn,2020,23,2,0,0.0052699704,0.6666666667,2
 Kitzbühel,Fieberbrunn,2020,24,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,1,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,2,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,3,1,0,0,0,0.6666666667
-Kitzbühel,St. Johann in Tirol,2020,4,2,0,0.0028661243,0.5,1.3333333333
-Kitzbühel,St. Johann in Tirol,2020,5,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,6,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,7,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,8,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,9,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,10,2,0,0.0028661243,1,1.6666666667
-Kitzbühel,St. Johann in Tirol,2020,11,2,0,0.0028661243,0,0
-Kitzbühel,St. Johann in Tirol,2020,12,2,0,0.0028661243,0,0.2222222222
-Kitzbühel,St. Johann in Tirol,2020,13,3,0,0.0076738166,2,2.6666666667
-Kitzbühel,St. Johann in Tirol,2020,14,2,0,0.0028661243,0.5,1.3333333333
-Kitzbühel,St. Johann in Tirol,2020,15,1,0,0,0,0.3333333333
-Kitzbühel,St. Johann in Tirol,2020,16,3,0,0.0076738166,0.3333333333,0.5
-Kitzbühel,St. Johann in Tirol,2020,17,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,18,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,19,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,20,0,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,21,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,22,3,0,0.0076738166,0.3333333333,0.5
-Kitzbühel,St. Johann in Tirol,2020,23,1,0,0,0,0
-Kitzbühel,St. Johann in Tirol,2020,24,0,0,0,0,0
 Kitzbühel,Kitzbühel,2020,1,1,0,0,0,0
 Kitzbühel,Kitzbühel,2020,2,1,0,0,0,0
 Kitzbühel,Kitzbühel,2020,3,1,0,0,0,0
@@ -3335,942 +5135,6 @@ Imst,Mils bei Imst,2020,21,0,0,0,0,0
 Imst,Mils bei Imst,2020,22,0,0,0,0,0
 Imst,Mils bei Imst,2020,23,0,0,0,0,0
 Imst,Mils bei Imst,2020,24,0,0,0,0,0
-Schwaz,Weerberg,2020,1,1,0,0.0040680473,0,0
-Schwaz,Weerberg,2020,2,1,0,0.0040680473,0.3333333333,1
-Schwaz,Weerberg,2020,3,0,0,0,0,0
-Schwaz,Weerberg,2020,4,0,0,0,0,0
-Schwaz,Weerberg,2020,5,0,0,0,0,0
-Schwaz,Weerberg,2020,6,0,0,0,0,0
-Schwaz,Weerberg,2020,7,0,0,0,0,0
-Schwaz,Weerberg,2020,8,0,0,0,0,0
-Schwaz,Weerberg,2020,9,1,0,0.0040680473,0.3333333333,1
-Schwaz,Weerberg,2020,10,1,0,0.0040680473,0,0.6666666667
-Schwaz,Weerberg,2020,11,1,0,0.0040680473,0.3333333333,1
-Schwaz,Weerberg,2020,12,1,0,0.0040680473,0,0
-Schwaz,Weerberg,2020,13,1,0,0.0040680473,0.3333333333,1
-Schwaz,Weerberg,2020,14,0,0,0,0,0
-Schwaz,Weerberg,2020,15,0,0,0,0,0
-Schwaz,Weerberg,2020,16,0,0,0,0,0
-Schwaz,Weerberg,2020,17,0,0,0,0,0
-Schwaz,Weerberg,2020,18,0,0,0,0,0
-Schwaz,Weerberg,2020,19,0,0,0,0,0
-Schwaz,Weerberg,2020,20,1,0,0.0040680473,0.3333333333,1
-Schwaz,Weerberg,2020,21,1,0,0.0040680473,0,0.6666666667
-Schwaz,Weerberg,2020,22,1,0,0.0040680473,0,0.6666666667
-Schwaz,Weerberg,2020,23,0,0,0,0,0
-Schwaz,Weerberg,2020,24,1,0,0.0040680473,0.3333333333,1
-Schwaz,Tux,2020,1,0,0,0,0,0
-Schwaz,Tux,2020,2,1,0,0.0073964497,0,0.3333333333
-Schwaz,Tux,2020,3,0,0,0,0,0
-Schwaz,Tux,2020,4,0,0,0,0,0
-Schwaz,Tux,2020,5,2,0,0.0170118343,0.6666666667,2
-Schwaz,Tux,2020,6,0,0,0,0,0
-Schwaz,Tux,2020,7,0,0,0,0,0
-Schwaz,Tux,2020,8,0,0,0,0,0
-Schwaz,Tux,2020,9,0,0,0,0,0
-Schwaz,Tux,2020,10,0,0,0,0,0
-Schwaz,Tux,2020,11,0,0,0,0,0
-Schwaz,Tux,2020,12,0,0,0,0,0
-Schwaz,Tux,2020,13,0,0,0,0,0
-Schwaz,Tux,2020,14,0,0,0,0,0
-Schwaz,Tux,2020,15,1,0,0.0073964497,0,0.6666666667
-Schwaz,Tux,2020,16,1,0,0.0073964497,0.3333333333,1
-Schwaz,Tux,2020,17,0,0,0,0,0
-Schwaz,Tux,2020,18,0,0,0,0,0
-Schwaz,Tux,2020,19,0,0,0,0,0
-Schwaz,Tux,2020,20,1,0,0.0073964497,0,0.1666666667
-Schwaz,Tux,2020,21,0,0,0,0,0
-Schwaz,Tux,2020,22,0,0,0,0,0
-Schwaz,Tux,2020,23,0,0,0,0,0
-Schwaz,Tux,2020,24,1,0,0.0073964497,0.3333333333,1
-Schwaz,Mayrhofen,2020,1,1,0,0.0019723866,0,0
-Schwaz,Mayrhofen,2020,2,3,0,0.0147928994,1,1
-Schwaz,Mayrhofen,2020,3,3,0,0.0147928994,1,1.1666666667
-Schwaz,Mayrhofen,2020,4,0,0,0,0,0
-Schwaz,Mayrhofen,2020,5,0,0,0,0,0
-Schwaz,Mayrhofen,2020,6,2,0,0.008382643,0.6666666667,2
-Schwaz,Mayrhofen,2020,7,0,0,0,0,0
-Schwaz,Mayrhofen,2020,8,1,0,0.0019723866,0.3333333333,1
-Schwaz,Mayrhofen,2020,9,1,0,0.0019723866,0,0
-Schwaz,Mayrhofen,2020,10,0,0,0,0,0
-Schwaz,Mayrhofen,2020,11,1,0,0.0019723866,0,0
-Schwaz,Mayrhofen,2020,12,0,0,0,0,0
-Schwaz,Mayrhofen,2020,13,2,0,0.008382643,1,1.6666666667
-Schwaz,Mayrhofen,2020,14,2,0,0.008382643,1,1.6666666667
-Schwaz,Mayrhofen,2020,15,0,0,0,0,0
-Schwaz,Mayrhofen,2020,16,2,0,0.008382643,0,0.6666666667
-Schwaz,Mayrhofen,2020,17,0,0,0,0,0
-Schwaz,Mayrhofen,2020,18,1,0,0.0019723866,0,0.3333333333
-Schwaz,Mayrhofen,2020,19,0,0,0,0,0
-Schwaz,Mayrhofen,2020,20,0,0,0,0,0
-Schwaz,Mayrhofen,2020,21,1,0,0.0019723866,0.3333333333,1
-Schwaz,Mayrhofen,2020,22,1,0,0.0019723866,0,0.6666666667
-Schwaz,Mayrhofen,2020,23,2,0,0.008382643,0,0.5
-Schwaz,Mayrhofen,2020,24,0,0,0,0,0
-Schwaz,Weer,2020,1,0,0,0,0,0
-Schwaz,Weer,2020,2,0,0,0,0,0
-Schwaz,Weer,2020,3,0,0,0,0,0
-Schwaz,Weer,2020,4,1,0,0.0036982249,0,0.6666666667
-Schwaz,Weer,2020,5,0,0,0,0,0
-Schwaz,Weer,2020,6,1,0,0.0036982249,0,0.6666666667
-Schwaz,Weer,2020,7,0,0,0,0,0
-Schwaz,Weer,2020,8,0,0,0,0,0
-Schwaz,Weer,2020,9,0,0,0,0,0
-Schwaz,Weer,2020,10,0,0,0,0,0
-Schwaz,Weer,2020,11,0,0,0,0,0
-Schwaz,Weer,2020,12,1,0,0.0036982249,0.3333333333,1
-Schwaz,Weer,2020,13,1,0,0.0036982249,0.3333333333,1
-Schwaz,Weer,2020,14,1,0,0.0036982249,0,0.6666666667
-Schwaz,Weer,2020,15,2,0,0.0085059172,1,1.6666666667
-Schwaz,Weer,2020,16,0,0,0,0,0
-Schwaz,Weer,2020,17,1,0,0.0036982249,0.3333333333,1
-Schwaz,Weer,2020,18,0,0,0,0,0
-Schwaz,Weer,2020,19,0,0,0,0,0
-Schwaz,Weer,2020,20,0,0,0,0,0
-Schwaz,Weer,2020,21,0,0,0,0,0
-Schwaz,Weer,2020,22,1,0,0.0036982249,0.3333333333,1
-Schwaz,Weer,2020,23,2,0,0.0085059172,0.6666666667,2
-Schwaz,Weer,2020,24,0,0,0,0,0
-Schwaz,Terfens,2020,1,0,0,0,0,0
-Schwaz,Terfens,2020,2,1,0,0.0075813609,0,0.1666666667
-Schwaz,Terfens,2020,3,1,0,0.0075813609,0,0.6666666667
-Schwaz,Terfens,2020,4,0,0,0,0,0
-Schwaz,Terfens,2020,5,0,0,0,0,0
-Schwaz,Terfens,2020,6,0,0,0,0,0
-Schwaz,Terfens,2020,7,0,0,0,0,0
-Schwaz,Terfens,2020,8,0,0,0,0,0
-Schwaz,Terfens,2020,9,0,0,0,0,0
-Schwaz,Terfens,2020,10,0,0,0,0,0
-Schwaz,Terfens,2020,11,0,0,0,0,0
-Schwaz,Terfens,2020,12,0,0,0,0,0
-Schwaz,Terfens,2020,13,0,0,0,0,0
-Schwaz,Terfens,2020,14,0,0,0,0,0
-Schwaz,Terfens,2020,15,0,0,0,0,0
-Schwaz,Terfens,2020,16,1,0,0.0075813609,0.3333333333,1
-Schwaz,Terfens,2020,17,1,0,0.0075813609,0,0
-Schwaz,Terfens,2020,18,0,0,0,0,0
-Schwaz,Terfens,2020,19,0,0,0,0,0
-Schwaz,Terfens,2020,20,0,0,0,0,0
-Schwaz,Terfens,2020,21,0,0,0,0,0
-Schwaz,Terfens,2020,22,0,0,0,0,0
-Schwaz,Terfens,2020,23,1,0,0.0075813609,0.3333333333,1
-Schwaz,Terfens,2020,24,0,0,0,0,0
-Schwaz,Achenkirch,2020,1,0,0,0,0,0
-Schwaz,Achenkirch,2020,2,0,0,0,0,0
-Schwaz,Achenkirch,2020,3,2,0,0.0159023669,1,1.6666666667
-Schwaz,Achenkirch,2020,4,0,0,0,0,0
-Schwaz,Achenkirch,2020,5,0,0,0,0,0
-Schwaz,Achenkirch,2020,6,1,0,0.0062869822,0,0.3333333333
-Schwaz,Achenkirch,2020,7,1,0,0.0062869822,0,0.6666666667
-Schwaz,Achenkirch,2020,8,0,0,0,0,0
-Schwaz,Achenkirch,2020,9,0,0,0,0,0
-Schwaz,Achenkirch,2020,10,0,0,0,0,0
-Schwaz,Achenkirch,2020,11,0,0,0,0,0
-Schwaz,Achenkirch,2020,12,2,0,0.0159023669,1,1.6666666667
-Schwaz,Achenkirch,2020,13,0,0,0,0,0
-Schwaz,Achenkirch,2020,14,1,0,0.0062869822,0.3333333333,1
-Schwaz,Achenkirch,2020,15,0,0,0,0,0
-Schwaz,Achenkirch,2020,16,1,0,0.0062869822,0,0
-Schwaz,Achenkirch,2020,17,0,0,0,0,0
-Schwaz,Achenkirch,2020,18,1,0,0.0062869822,0,0.6666666667
-Schwaz,Achenkirch,2020,19,0,0,0,0,0
-Schwaz,Achenkirch,2020,20,0,0,0,0,0
-Schwaz,Achenkirch,2020,21,0,0,0,0,0
-Schwaz,Achenkirch,2020,22,0,0,0,0,0
-Schwaz,Achenkirch,2020,23,1,0,0.0062869822,0,0.3333333333
-Schwaz,Achenkirch,2020,24,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,1,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,2,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,3,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,4,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,5,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,6,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,7,1,0,0.0062869822,0,0.6666666667
-Schwaz,Ried im Zillertal,2020,8,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,9,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,10,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,11,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,12,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,13,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,14,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,15,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,16,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,17,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,18,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,19,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,20,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,21,1,0,0.0062869822,0.3333333333,1
-Schwaz,Ried im Zillertal,2020,22,1,0,0.0062869822,0,0.6666666667
-Schwaz,Ried im Zillertal,2020,23,0,0,0,0,0
-Schwaz,Ried im Zillertal,2020,24,0,0,0,0,0
-Schwaz,Stans,2020,1,0,0,0,0,0
-Schwaz,Stans,2020,2,0,0,0,0,0
-Schwaz,Stans,2020,3,0,0,0,0,0
-Schwaz,Stans,2020,4,0,0,0,0,0
-Schwaz,Stans,2020,5,0,0,0,0,0
-Schwaz,Stans,2020,6,0,0,0,0,0
-Schwaz,Stans,2020,7,0,0,0,0,0
-Schwaz,Stans,2020,8,0,0,0,0,0
-Schwaz,Stans,2020,9,0,0,0,0,0
-Schwaz,Stans,2020,10,0,0,0,0,0
-Schwaz,Stans,2020,11,1,0,0.0062869822,0,0.6666666667
-Schwaz,Stans,2020,12,1,0,0.0062869822,0.3333333333,1
-Schwaz,Stans,2020,13,0,0,0,0,0
-Schwaz,Stans,2020,14,1,0,0.0062869822,0.3333333333,1
-Schwaz,Stans,2020,15,0,0,0,0,0
-Schwaz,Stans,2020,16,0,0,0,0,0
-Schwaz,Stans,2020,17,0,0,0,0,0
-Schwaz,Stans,2020,18,0,0,0,0,0
-Schwaz,Stans,2020,19,0,0,0,0,0
-Schwaz,Stans,2020,20,0,0,0,0,0
-Schwaz,Stans,2020,21,0,0,0,0,0
-Schwaz,Stans,2020,22,2,0,0.0159023669,0.6666666667,2
-Schwaz,Stans,2020,23,0,0,0,0,0
-Schwaz,Stans,2020,24,0,0,0,0,0
-Schwaz,Kaltenbach,2020,1,0,0,0,0,0
-Schwaz,Kaltenbach,2020,2,1,0,0.0173816568,0.3333333333,1
-Schwaz,Kaltenbach,2020,3,0,0,0,0,0
-Schwaz,Kaltenbach,2020,4,0,0,0,0,0
-Schwaz,Kaltenbach,2020,5,0,0,0,0,0
-Schwaz,Kaltenbach,2020,6,0,0,0,0,0
-Schwaz,Kaltenbach,2020,7,1,0,0.0173816568,0.3333333333,1
-Schwaz,Kaltenbach,2020,8,0,0,0,0,0
-Schwaz,Kaltenbach,2020,9,0,0,0,0,0
-Schwaz,Kaltenbach,2020,10,0,0,0,0,0
-Schwaz,Kaltenbach,2020,11,0,0,0,0,0
-Schwaz,Kaltenbach,2020,12,0,0,0,0,0
-Schwaz,Kaltenbach,2020,13,0,0,0,0,0
-Schwaz,Kaltenbach,2020,14,0,0,0,0,0
-Schwaz,Kaltenbach,2020,15,0,0,0,0,0
-Schwaz,Kaltenbach,2020,16,0,0,0,0,0
-Schwaz,Kaltenbach,2020,17,0,0,0,0,0
-Schwaz,Kaltenbach,2020,18,1,0,0.0173816568,0.3333333333,1
-Schwaz,Kaltenbach,2020,19,2,0.0038461538,0.036612426,0.6666666667,2
-Schwaz,Kaltenbach,2020,20,0,0,0,0,0
-Schwaz,Kaltenbach,2020,21,1,0,0.0173816568,0.3333333333,1
-Schwaz,Kaltenbach,2020,22,1,0,0.0173816568,0.3333333333,1
-Schwaz,Kaltenbach,2020,23,0,0,0,0,0
-Schwaz,Kaltenbach,2020,24,0,0,0,0,0
-Schwaz,Vomp,2020,1,0,0,0,0,0
-Schwaz,Vomp,2020,2,2,0,0.0140532544,0.3333333333,1
-Schwaz,Vomp,2020,3,0,0,0,0,0
-Schwaz,Vomp,2020,4,0,0,0,0,0
-Schwaz,Vomp,2020,5,1,0,0.0044378698,0.3333333333,1
-Schwaz,Vomp,2020,6,1,0,0.0044378698,0.3333333333,1
-Schwaz,Vomp,2020,7,1,0,0.0044378698,0,0
-Schwaz,Vomp,2020,8,2,0,0.0140532544,0,0.3333333333
-Schwaz,Vomp,2020,9,0,0,0,0,0
-Schwaz,Vomp,2020,10,1,0,0.0044378698,0.3333333333,1
-Schwaz,Vomp,2020,11,0,0,0,0,0
-Schwaz,Vomp,2020,12,0,0,0,0,0
-Schwaz,Vomp,2020,13,0,0,0,0,0
-Schwaz,Vomp,2020,14,0,0,0,0,0
-Schwaz,Vomp,2020,15,0,0,0,0,0
-Schwaz,Vomp,2020,16,1,0,0.0044378698,0,0.6666666667
-Schwaz,Vomp,2020,17,1,0,0.0044378698,0,0.3333333333
-Schwaz,Vomp,2020,18,0,0,0,0,0
-Schwaz,Vomp,2020,19,0,0,0,0,0
-Schwaz,Vomp,2020,20,0,0,0,0,0
-Schwaz,Vomp,2020,21,1,0,0.0044378698,0,0.6666666667
-Schwaz,Vomp,2020,22,1,0,0.0044378698,0,0.6666666667
-Schwaz,Vomp,2020,23,0,0,0,0,0
-Schwaz,Vomp,2020,24,0,0,0,0,0
-Schwaz,Gerlosberg,2020,1,0,0,0,0,0
-Schwaz,Gerlosberg,2020,2,0,0,0,0,0
-Schwaz,Gerlosberg,2020,3,0,0,0,0,0
-Schwaz,Gerlosberg,2020,4,0,0,0,0,0
-Schwaz,Gerlosberg,2020,5,0,0,0,0,0
-Schwaz,Gerlosberg,2020,6,1,0,0.0181213018,0.3333333333,1
-Schwaz,Gerlosberg,2020,7,0,0,0,0,0
-Schwaz,Gerlosberg,2020,8,0,0,0,0,0
-Schwaz,Gerlosberg,2020,9,0,0,0,0,0
-Schwaz,Gerlosberg,2020,10,0,0,0,0,0
-Schwaz,Gerlosberg,2020,11,0,0,0,0,0
-Schwaz,Gerlosberg,2020,12,0,0,0,0,0
-Schwaz,Gerlosberg,2020,13,0,0,0,0,0
-Schwaz,Gerlosberg,2020,14,0,0,0,0,0
-Schwaz,Gerlosberg,2020,15,0,0,0,0,0
-Schwaz,Gerlosberg,2020,16,0,0,0,0,0
-Schwaz,Gerlosberg,2020,17,0,0,0,0,0
-Schwaz,Gerlosberg,2020,18,0,0,0,0,0
-Schwaz,Gerlosberg,2020,19,0,0,0,0,0
-Schwaz,Gerlosberg,2020,20,0,0,0,0,0
-Schwaz,Gerlosberg,2020,21,0,0,0,0,0
-Schwaz,Gerlosberg,2020,22,1,0,0.0181213018,0.3333333333,1
-Schwaz,Gerlosberg,2020,23,0,0,0,0,0
-Schwaz,Gerlosberg,2020,24,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,1,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,2,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,3,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,4,2,0,0.0067492604,0.6666666667,2
-Schwaz,Zell am Ziller,2020,5,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,6,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,7,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,8,1,0,0.001941568,0,0
-Schwaz,Zell am Ziller,2020,9,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,10,1,0,0.001941568,0,0
-Schwaz,Zell am Ziller,2020,11,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,12,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,13,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,14,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,15,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,16,3,0,0.0115569527,1,1.1666666667
-Schwaz,Zell am Ziller,2020,17,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,18,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,19,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,20,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,21,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,22,1,0,0.001941568,0,0.6666666667
-Schwaz,Zell am Ziller,2020,23,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,24,0,0,0,0,0
-Schwaz,Jenbach,2020,1,1,0,0,0,0
-Schwaz,Jenbach,2020,2,1,0,0,0,0
-Schwaz,Jenbach,2020,3,0,0,0,0,0
-Schwaz,Jenbach,2020,4,4,0,0.0105029586,3,3.6666666667
-Schwaz,Jenbach,2020,5,2,0,0.0028106509,0,0.5
-Schwaz,Jenbach,2020,6,2,0,0.0028106509,0,0.6666666667
-Schwaz,Jenbach,2020,7,1,0,0,0,0
-Schwaz,Jenbach,2020,8,0,0,0,0,0
-Schwaz,Jenbach,2020,9,2,0,0.0028106509,0,0
-Schwaz,Jenbach,2020,10,0,0,0,0,0
-Schwaz,Jenbach,2020,11,1,0,0,0,0
-Schwaz,Jenbach,2020,12,4,0,0.0105029586,2,1.6666666667
-Schwaz,Jenbach,2020,13,3,0,0.0066568047,1,2.3333333333
-Schwaz,Jenbach,2020,14,4,0,0.0105029586,1,0.8888888889
-Schwaz,Jenbach,2020,15,5,0,0.0143491124,2,4.3333333333
-Schwaz,Jenbach,2020,16,2,0,0.0028106509,0,0.3333333333
-Schwaz,Jenbach,2020,17,2,0,0.0028106509,0,0.5
-Schwaz,Jenbach,2020,18,0,0,0,0,0
-Schwaz,Jenbach,2020,19,0,0,0,0,0
-Schwaz,Jenbach,2020,20,0,0,0,0,0
-Schwaz,Jenbach,2020,21,0,0,0,0,0
-Schwaz,Jenbach,2020,22,2,0,0.0028106509,0,0.5
-Schwaz,Jenbach,2020,23,0,0,0,0,0
-Schwaz,Jenbach,2020,24,0,0,0,0,0
-Schwaz,Schwaz,2020,1,1,0,0,0,0
-Schwaz,Schwaz,2020,2,4,0,0.0045435334,1,0.6666666667
-Schwaz,Schwaz,2020,3,1,0,0,0,0
-Schwaz,Schwaz,2020,4,3,0,0.0017962806,0,0.3333333333
-Schwaz,Schwaz,2020,5,3,0,0.0017962806,0,0.2222222222
-Schwaz,Schwaz,2020,6,2,0,0,0,0.3333333333
-Schwaz,Schwaz,2020,7,2,0,0,0,0.2222222222
-Schwaz,Schwaz,2020,8,1,0,0,0,0
-Schwaz,Schwaz,2020,9,4,0,0.0045435334,1,0.7777777778
-Schwaz,Schwaz,2020,10,0,0,0,0,0
-Schwaz,Schwaz,2020,11,2,0,0,0,0
-Schwaz,Schwaz,2020,12,3,0,0.0017962806,0,0
-Schwaz,Schwaz,2020,13,4,0,0.0045435334,1,1.3333333333
-Schwaz,Schwaz,2020,14,3,0,0.0017962806,1,1.1666666667
-Schwaz,Schwaz,2020,15,2,0,0,0,0
-Schwaz,Schwaz,2020,16,3,0,0.0017962806,1,1
-Schwaz,Schwaz,2020,17,3,0,0.0017962806,0,0.3333333333
-Schwaz,Schwaz,2020,18,0,0,0,0,0
-Schwaz,Schwaz,2020,19,0,0,0,0,0
-Schwaz,Schwaz,2020,20,0,0,0,0,0
-Schwaz,Schwaz,2020,21,2,0,0,0,0.1666666667
-Schwaz,Schwaz,2020,22,0,0,0,0,0
-Schwaz,Schwaz,2020,23,0,0,0,0,0
-Schwaz,Schwaz,2020,24,0,0,0,0,0
-Schwaz,Pill,2020,1,0,0,0,0,0
-Schwaz,Pill,2020,2,0,0,0,0,0
-Schwaz,Pill,2020,3,2,0,0.0173816568,0.6666666667,2
-Schwaz,Pill,2020,4,1,0,0.0077662722,0.3333333333,1
-Schwaz,Pill,2020,5,0,0,0,0,0
-Schwaz,Pill,2020,6,0,0,0,0,0
-Schwaz,Pill,2020,7,0,0,0,0,0
-Schwaz,Pill,2020,8,0,0,0,0,0
-Schwaz,Pill,2020,9,1,0,0.0077662722,0.3333333333,1
-Schwaz,Pill,2020,10,0,0,0,0,0
-Schwaz,Pill,2020,11,0,0,0,0,0
-Schwaz,Pill,2020,12,0,0,0,0,0
-Schwaz,Pill,2020,13,1,0,0.0077662722,0,0.1666666667
-Schwaz,Pill,2020,14,0,0,0,0,0
-Schwaz,Pill,2020,15,0,0,0,0,0
-Schwaz,Pill,2020,16,0,0,0,0,0
-Schwaz,Pill,2020,17,0,0,0,0,0
-Schwaz,Pill,2020,18,0,0,0,0,0
-Schwaz,Pill,2020,19,1,0,0.0077662722,0.3333333333,1
-Schwaz,Pill,2020,20,1,0,0.0077662722,0.3333333333,1
-Schwaz,Pill,2020,21,1,0,0.0077662722,0,0.6666666667
-Schwaz,Pill,2020,22,0,0,0,0,0
-Schwaz,Pill,2020,23,0,0,0,0,0
-Schwaz,Pill,2020,24,0,0,0,0,0
-Schwaz,Stumm,2020,1,0,0,0,0,0
-Schwaz,Stumm,2020,2,0,0,0,0,0
-Schwaz,Stumm,2020,3,2,0,0.0107248521,0,0.5
-Schwaz,Stumm,2020,4,0,0,0,0,0
-Schwaz,Stumm,2020,5,0,0,0,0,0
-Schwaz,Stumm,2020,6,0,0,0,0,0
-Schwaz,Stumm,2020,7,0,0,0,0,0
-Schwaz,Stumm,2020,8,0,0,0,0,0
-Schwaz,Stumm,2020,9,1,0,0.0043145957,0.3333333333,1
-Schwaz,Stumm,2020,10,1,0,0.0043145957,0,0
-Schwaz,Stumm,2020,11,0,0,0,0,0
-Schwaz,Stumm,2020,12,0,0,0,0,0
-Schwaz,Stumm,2020,13,0,0,0,0,0
-Schwaz,Stumm,2020,14,0,0,0,0,0
-Schwaz,Stumm,2020,15,0,0,0,0,0
-Schwaz,Stumm,2020,16,0,0,0,0,0
-Schwaz,Stumm,2020,17,0,0,0,0,0
-Schwaz,Stumm,2020,18,0,0,0,0,0
-Schwaz,Stumm,2020,19,0,0,0,0,0
-Schwaz,Stumm,2020,20,1,0,0.0043145957,0,0.3333333333
-Schwaz,Stumm,2020,21,1,0,0.0043145957,0,0.3333333333
-Schwaz,Stumm,2020,22,0,0,0,0,0
-Schwaz,Stumm,2020,23,0,0,0,0,0
-Schwaz,Stumm,2020,24,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,1,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,2,1,0,0.0184911243,0.3333333333,1
-Schwaz,Steinberg am Rofan,2020,3,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,4,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,5,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,6,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,7,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,8,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,9,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,10,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,11,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,12,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,13,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,14,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,15,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,16,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,17,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,18,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,19,1,0,0.0184911243,0.3333333333,1
-Schwaz,Steinberg am Rofan,2020,20,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,21,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,22,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,23,0,0,0,0,0
-Schwaz,Steinberg am Rofan,2020,24,0,0,0,0,0
-Schwaz,Stummerberg,2020,1,0,0,0,0,0
-Schwaz,Stummerberg,2020,2,0,0,0,0,0
-Schwaz,Stummerberg,2020,3,0,0,0,0,0
-Schwaz,Stummerberg,2020,4,0,0,0,0,0
-Schwaz,Stummerberg,2020,5,0,0,0,0,0
-Schwaz,Stummerberg,2020,6,0,0,0,0,0
-Schwaz,Stummerberg,2020,7,0,0,0,0,0
-Schwaz,Stummerberg,2020,8,0,0,0,0,0
-Schwaz,Stummerberg,2020,9,1,0,0.0083210059,0.3333333333,1
-Schwaz,Stummerberg,2020,10,0,0,0,0,0
-Schwaz,Stummerberg,2020,11,0,0,0,0,0
-Schwaz,Stummerberg,2020,12,0,0,0,0,0
-Schwaz,Stummerberg,2020,13,0,0,0,0,0
-Schwaz,Stummerberg,2020,14,0,0,0,0,0
-Schwaz,Stummerberg,2020,15,0,0,0,0,0
-Schwaz,Stummerberg,2020,16,0,0,0,0,0
-Schwaz,Stummerberg,2020,17,0,0,0,0,0
-Schwaz,Stummerberg,2020,18,0,0,0,0,0
-Schwaz,Stummerberg,2020,19,1,0,0.0083210059,0,0.6666666667
-Schwaz,Stummerberg,2020,20,0,0,0,0,0
-Schwaz,Stummerberg,2020,21,0,0,0,0,0
-Schwaz,Stummerberg,2020,22,0,0,0,0,0
-Schwaz,Stummerberg,2020,23,0,0,0,0,0
-Schwaz,Stummerberg,2020,24,0,0,0,0,0
-Schwaz,Gerlos,2020,1,0,0,0,0,0
-Schwaz,Gerlos,2020,2,0,0,0,0,0
-Schwaz,Gerlos,2020,3,0,0,0,0,0
-Schwaz,Gerlos,2020,4,0,0,0,0,0
-Schwaz,Gerlos,2020,5,1,0,0.0081360947,0.3333333333,1
-Schwaz,Gerlos,2020,6,0,0,0,0,0
-Schwaz,Gerlos,2020,7,0,0,0,0,0
-Schwaz,Gerlos,2020,8,0,0,0,0,0
-Schwaz,Gerlos,2020,9,1,0,0.0081360947,0,0.6666666667
-Schwaz,Gerlos,2020,10,0,0,0,0,0
-Schwaz,Gerlos,2020,11,0,0,0,0,0
-Schwaz,Gerlos,2020,12,0,0,0,0,0
-Schwaz,Gerlos,2020,13,0,0,0,0,0
-Schwaz,Gerlos,2020,14,0,0,0,0,0
-Schwaz,Gerlos,2020,15,0,0,0,0,0
-Schwaz,Gerlos,2020,16,0,0,0,0,0
-Schwaz,Gerlos,2020,17,0,0,0,0,0
-Schwaz,Gerlos,2020,18,1,0,0.0081360947,0.3333333333,1
-Schwaz,Gerlos,2020,19,0,0,0,0,0
-Schwaz,Gerlos,2020,20,0,0,0,0,0
-Schwaz,Gerlos,2020,21,0,0,0,0,0
-Schwaz,Gerlos,2020,22,0,0,0,0,0
-Schwaz,Gerlos,2020,23,0,0,0,0,0
-Schwaz,Gerlos,2020,24,0,0,0,0,0
-Schwaz,Zellberg,2020,1,0,0,0,0,0
-Schwaz,Zellberg,2020,2,0,0,0,0,0
-Schwaz,Zellberg,2020,3,0,0,0,0,0
-Schwaz,Zellberg,2020,4,1,0,0.0181213018,0.3333333333,1
-Schwaz,Zellberg,2020,5,0,0,0,0,0
-Schwaz,Zellberg,2020,6,0,0,0,0,0
-Schwaz,Zellberg,2020,7,0,0,0,0,0
-Schwaz,Zellberg,2020,8,0,0,0,0,0
-Schwaz,Zellberg,2020,9,0,0,0,0,0
-Schwaz,Zellberg,2020,10,0,0,0,0,0
-Schwaz,Zellberg,2020,11,0,0,0,0,0
-Schwaz,Zellberg,2020,12,0,0,0,0,0
-Schwaz,Zellberg,2020,13,2,0.0064102564,0.037352071,0.6666666667,2
-Schwaz,Zellberg,2020,14,0,0,0,0,0
-Schwaz,Zellberg,2020,15,0,0,0,0,0
-Schwaz,Zellberg,2020,16,0,0,0,0,0
-Schwaz,Zellberg,2020,17,0,0,0,0,0
-Schwaz,Zellberg,2020,18,1,0,0.0181213018,0.3333333333,1
-Schwaz,Zellberg,2020,19,0,0,0,0,0
-Schwaz,Zellberg,2020,20,0,0,0,0,0
-Schwaz,Zellberg,2020,21,0,0,0,0,0
-Schwaz,Zellberg,2020,22,0,0,0,0,0
-Schwaz,Zellberg,2020,23,0,0,0,0,0
-Schwaz,Zellberg,2020,24,0,0,0,0,0
-Schwaz,Uderns,2020,1,0,0,0,0,0
-Schwaz,Uderns,2020,2,0,0,0,0,0
-Schwaz,Uderns,2020,3,0,0,0,0,0
-Schwaz,Uderns,2020,4,0,0,0,0,0
-Schwaz,Uderns,2020,5,1,0,0.0048076923,0,0.3333333333
-Schwaz,Uderns,2020,6,0,0,0,0,0
-Schwaz,Uderns,2020,7,0,0,0,0,0
-Schwaz,Uderns,2020,8,0,0,0,0,0
-Schwaz,Uderns,2020,9,0,0,0,0,0
-Schwaz,Uderns,2020,10,1,0,0.0048076923,0.3333333333,1
-Schwaz,Uderns,2020,11,0,0,0,0,0
-Schwaz,Uderns,2020,12,0,0,0,0,0
-Schwaz,Uderns,2020,13,2,0,0.0112179487,0.6666666667,2
-Schwaz,Uderns,2020,14,0,0,0,0,0
-Schwaz,Uderns,2020,15,0,0,0,0,0
-Schwaz,Uderns,2020,16,0,0,0,0,0
-Schwaz,Uderns,2020,17,1,0,0.0048076923,0.3333333333,1
-Schwaz,Uderns,2020,18,1,0,0.0048076923,0.3333333333,1
-Schwaz,Uderns,2020,19,0,0,0,0,0
-Schwaz,Uderns,2020,20,0,0,0,0,0
-Schwaz,Uderns,2020,21,0,0,0,0,0
-Schwaz,Uderns,2020,22,0,0,0,0,0
-Schwaz,Uderns,2020,23,0,0,0,0,0
-Schwaz,Uderns,2020,24,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,1,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,2,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,3,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,4,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,5,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,6,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,7,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,8,1,0,0.0070266272,0.3333333333,1
-Schwaz,Ramsau im Zillertal,2020,9,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,10,3,0.0096153846,0.0262573964,2,2.6666666667
-Schwaz,Ramsau im Zillertal,2020,11,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,12,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,13,1,0,0.0070266272,0,0.6666666667
-Schwaz,Ramsau im Zillertal,2020,14,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,15,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,16,1,0,0.0070266272,0.3333333333,1
-Schwaz,Ramsau im Zillertal,2020,17,1,0,0.0070266272,0,0.6666666667
-Schwaz,Ramsau im Zillertal,2020,18,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,19,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,20,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,21,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,22,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,23,0,0,0,0,0
-Schwaz,Ramsau im Zillertal,2020,24,0,0,0,0,0
-Schwaz,Fügen,2020,1,0,0,0,0,0
-Schwaz,Fügen,2020,2,1,0,0.0013868343,0.3333333333,1
-Schwaz,Fügen,2020,3,0,0,0,0,0
-Schwaz,Fügen,2020,4,1,0,0.0013868343,0.3333333333,1
-Schwaz,Fügen,2020,5,2,0,0.0061945266,0,0
-Schwaz,Fügen,2020,6,2,0,0.0061945266,0.6666666667,2
-Schwaz,Fügen,2020,7,0,0,0,0,0
-Schwaz,Fügen,2020,8,1,0,0.0013868343,0,0.3333333333
-Schwaz,Fügen,2020,9,0,0,0,0,0
-Schwaz,Fügen,2020,10,0,0,0,0,0
-Schwaz,Fügen,2020,11,0,0,0,0,0
-Schwaz,Fügen,2020,12,0,0,0,0,0
-Schwaz,Fügen,2020,13,1,0,0.0013868343,0,0.6666666667
-Schwaz,Fügen,2020,14,2,0,0.0061945266,0.5,1.3333333333
-Schwaz,Fügen,2020,15,0,0,0,0,0
-Schwaz,Fügen,2020,16,1,0,0.0013868343,0.3333333333,1
-Schwaz,Fügen,2020,17,1,0,0.0013868343,0.3333333333,1
-Schwaz,Fügen,2020,18,0,0,0,0,0
-Schwaz,Fügen,2020,19,0,0,0,0,0
-Schwaz,Fügen,2020,20,0,0,0,0,0
-Schwaz,Fügen,2020,21,0,0,0,0,0
-Schwaz,Fügen,2020,22,0,0,0,0,0
-Schwaz,Fügen,2020,23,0,0,0,0,0
-Schwaz,Fügen,2020,24,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,1,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,2,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,3,1,0,0.0162721893,0.3333333333,1
-Schwaz,Eben am Achensee,2020,4,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,5,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,6,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,7,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,8,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,9,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,10,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,11,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,12,1,0,0.0162721893,0,0.3333333333
-Schwaz,Eben am Achensee,2020,13,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,14,1,0,0.0162721893,0,0.6666666667
-Schwaz,Eben am Achensee,2020,15,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,16,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,17,2,0.0024038462,0.0355029586,1,1.6666666667
-Schwaz,Eben am Achensee,2020,18,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,19,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,20,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,21,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,22,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,23,0,0,0,0,0
-Schwaz,Eben am Achensee,2020,24,0,0,0,0,0
-Schwaz,Finkenberg,2020,1,0,0,0,0,0
-Schwaz,Finkenberg,2020,2,0,0,0,0,0
-Schwaz,Finkenberg,2020,3,0,0,0,0,0
-Schwaz,Finkenberg,2020,4,0,0,0,0,0
-Schwaz,Finkenberg,2020,5,0,0,0,0,0
-Schwaz,Finkenberg,2020,6,0,0,0,0,0
-Schwaz,Finkenberg,2020,7,0,0,0,0,0
-Schwaz,Finkenberg,2020,8,0,0,0,0,0
-Schwaz,Finkenberg,2020,9,0,0,0,0,0
-Schwaz,Finkenberg,2020,10,0,0,0,0,0
-Schwaz,Finkenberg,2020,11,0,0,0,0,0
-Schwaz,Finkenberg,2020,12,0,0,0,0,0
-Schwaz,Finkenberg,2020,13,0,0,0,0,0
-Schwaz,Finkenberg,2020,14,0,0,0,0,0
-Schwaz,Finkenberg,2020,15,1,0,0.0170118343,0,0.6666666667
-Schwaz,Finkenberg,2020,16,1,0,0.0170118343,0.3333333333,1
-Schwaz,Finkenberg,2020,17,0,0,0,0,0
-Schwaz,Finkenberg,2020,18,0,0,0,0,0
-Schwaz,Finkenberg,2020,19,0,0,0,0,0
-Schwaz,Finkenberg,2020,20,0,0,0,0,0
-Schwaz,Finkenberg,2020,21,0,0,0,0,0
-Schwaz,Finkenberg,2020,22,0,0,0,0,0
-Schwaz,Finkenberg,2020,23,0,0,0,0,0
-Schwaz,Finkenberg,2020,24,0,0,0,0,0
-Schwaz,Hainzenberg,2020,1,0,0,0,0,0
-Schwaz,Hainzenberg,2020,2,0,0,0,0,0
-Schwaz,Hainzenberg,2020,3,0,0,0,0,0
-Schwaz,Hainzenberg,2020,4,1,0,0.0085059172,0.3333333333,1
-Schwaz,Hainzenberg,2020,5,0,0,0,0,0
-Schwaz,Hainzenberg,2020,6,0,0,0,0,0
-Schwaz,Hainzenberg,2020,7,0,0,0,0,0
-Schwaz,Hainzenberg,2020,8,0,0,0,0,0
-Schwaz,Hainzenberg,2020,9,0,0,0,0,0
-Schwaz,Hainzenberg,2020,10,1,0,0.0085059172,0.3333333333,1
-Schwaz,Hainzenberg,2020,11,0,0,0,0,0
-Schwaz,Hainzenberg,2020,12,0,0,0,0,0
-Schwaz,Hainzenberg,2020,13,1,0,0.0085059172,0.3333333333,1
-Schwaz,Hainzenberg,2020,14,0,0,0,0,0
-Schwaz,Hainzenberg,2020,15,0,0,0,0,0
-Schwaz,Hainzenberg,2020,16,1,0,0.0085059172,0.3333333333,1
-Schwaz,Hainzenberg,2020,17,0,0,0,0,0
-Schwaz,Hainzenberg,2020,18,0,0,0,0,0
-Schwaz,Hainzenberg,2020,19,0,0,0,0,0
-Schwaz,Hainzenberg,2020,20,0,0,0,0,0
-Schwaz,Hainzenberg,2020,21,0,0,0,0,0
-Schwaz,Hainzenberg,2020,22,0,0,0,0,0
-Schwaz,Hainzenberg,2020,23,0,0,0,0,0
-Schwaz,Hainzenberg,2020,24,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,1,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,2,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,3,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,4,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,5,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,6,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,7,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,8,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,9,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,10,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,11,1,0,0.0177514793,0.3333333333,1
-Schwaz,Strass im Zillertal,2020,12,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,13,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,14,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,15,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,16,1,0,0.0177514793,0.3333333333,1
-Schwaz,Strass im Zillertal,2020,17,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,18,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,19,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,20,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,21,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,22,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,23,0,0,0,0,0
-Schwaz,Strass im Zillertal,2020,24,0,0,0,0,0
-Schwaz,Gallzein,2020,1,0,0,0,0,0
-Schwaz,Gallzein,2020,2,0,0,0,0,0
-Schwaz,Gallzein,2020,3,0,0,0,0,0
-Schwaz,Gallzein,2020,4,0,0,0,0,0
-Schwaz,Gallzein,2020,5,0,0,0,0,0
-Schwaz,Gallzein,2020,6,0,0,0,0,0
-Schwaz,Gallzein,2020,7,0,0,0,0,0
-Schwaz,Gallzein,2020,8,0,0,0,0,0
-Schwaz,Gallzein,2020,9,0,0,0,0,0
-Schwaz,Gallzein,2020,10,0,0,0,0,0
-Schwaz,Gallzein,2020,11,0,0,0,0,0
-Schwaz,Gallzein,2020,12,0,0,0,0,0
-Schwaz,Gallzein,2020,13,0,0,0,0,0
-Schwaz,Gallzein,2020,14,0,0,0,0,0
-Schwaz,Gallzein,2020,15,0,0,0,0,0
-Schwaz,Gallzein,2020,16,1,0,0.0170118343,0,0.6666666667
-Schwaz,Gallzein,2020,17,0,0,0,0,0
-Schwaz,Gallzein,2020,18,0,0,0,0,0
-Schwaz,Gallzein,2020,19,0,0,0,0,0
-Schwaz,Gallzein,2020,20,0,0,0,0,0
-Schwaz,Gallzein,2020,21,0,0,0,0,0
-Schwaz,Gallzein,2020,22,0,0,0,0,0
-Schwaz,Gallzein,2020,23,0,0,0,0,0
-Schwaz,Gallzein,2020,24,0,0,0,0,0
-Schwaz,Hippach,2020,1,2,0,0.0142381657,0.5,1.3333333333
-Schwaz,Hippach,2020,2,0,0,0,0,0
-Schwaz,Hippach,2020,3,1,0,0.0046227811,0,0.3333333333
-Schwaz,Hippach,2020,4,1,0,0.0046227811,0,0
-Schwaz,Hippach,2020,5,0,0,0,0,0
-Schwaz,Hippach,2020,6,0,0,0,0,0
-Schwaz,Hippach,2020,7,1,0,0.0046227811,0,0
-Schwaz,Hippach,2020,8,0,0,0,0,0
-Schwaz,Hippach,2020,9,0,0,0,0,0
-Schwaz,Hippach,2020,10,0,0,0,0,0
-Schwaz,Hippach,2020,11,1,0,0.0046227811,0,0
-Schwaz,Hippach,2020,12,1,0,0.0046227811,0,0
-Schwaz,Hippach,2020,13,1,0,0.0046227811,0.3333333333,1
-Schwaz,Hippach,2020,14,0,0,0,0,0
-Schwaz,Hippach,2020,15,0,0,0,0,0
-Schwaz,Hippach,2020,16,0,0,0,0,0
-Schwaz,Hippach,2020,17,0,0,0,0,0
-Schwaz,Hippach,2020,18,0,0,0,0,0
-Schwaz,Hippach,2020,19,0,0,0,0,0
-Schwaz,Hippach,2020,20,0,0,0,0,0
-Schwaz,Hippach,2020,21,0,0,0,0,0
-Schwaz,Hippach,2020,22,0,0,0,0,0
-Schwaz,Hippach,2020,23,0,0,0,0,0
-Schwaz,Hippach,2020,24,0,0,0,0,0
-Schwaz,Schlitters,2020,1,1,0,0.0083210059,0,0.3333333333
-Schwaz,Schlitters,2020,2,0,0,0,0,0
-Schwaz,Schlitters,2020,3,0,0,0,0,0
-Schwaz,Schlitters,2020,4,0,0,0,0,0
-Schwaz,Schlitters,2020,5,0,0,0,0,0
-Schwaz,Schlitters,2020,6,0,0,0,0,0
-Schwaz,Schlitters,2020,7,0,0,0,0,0
-Schwaz,Schlitters,2020,8,0,0,0,0,0
-Schwaz,Schlitters,2020,9,1,0,0.0083210059,0,0.6666666667
-Schwaz,Schlitters,2020,10,0,0,0,0,0
-Schwaz,Schlitters,2020,11,0,0,0,0,0
-Schwaz,Schlitters,2020,12,0,0,0,0,0
-Schwaz,Schlitters,2020,13,1,0,0.0083210059,0.3333333333,1
-Schwaz,Schlitters,2020,14,0,0,0,0,0
-Schwaz,Schlitters,2020,15,0,0,0,0,0
-Schwaz,Schlitters,2020,16,0,0,0,0,0
-Schwaz,Schlitters,2020,17,0,0,0,0,0
-Schwaz,Schlitters,2020,18,0,0,0,0,0
-Schwaz,Schlitters,2020,19,0,0,0,0,0
-Schwaz,Schlitters,2020,20,0,0,0,0,0
-Schwaz,Schlitters,2020,21,0,0,0,0,0
-Schwaz,Schlitters,2020,22,0,0,0,0,0
-Schwaz,Schlitters,2020,23,0,0,0,0,0
-Schwaz,Schlitters,2020,24,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,1,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,2,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,3,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,4,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,5,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,6,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,7,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,8,1,0,0.0072115385,0.3333333333,1
-Schwaz,Bruck am Ziller,2020,9,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,10,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,11,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,12,1,0,0.0072115385,0,0.6666666667
-Schwaz,Bruck am Ziller,2020,13,2,0,0.0168269231,1,1.6666666667
-Schwaz,Bruck am Ziller,2020,14,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,15,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,16,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,17,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,18,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,19,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,20,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,21,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,22,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,23,0,0,0,0,0
-Schwaz,Bruck am Ziller,2020,24,0,0,0,0,0
-Schwaz,Fügenberg,2020,1,0,0,0,0,0
-Schwaz,Fügenberg,2020,2,0,0,0,0,0
-Schwaz,Fügenberg,2020,3,0,0,0,0,0
-Schwaz,Fügenberg,2020,4,0,0,0,0,0
-Schwaz,Fügenberg,2020,5,0,0,0,0,0
-Schwaz,Fügenberg,2020,6,0,0,0,0,0
-Schwaz,Fügenberg,2020,7,0,0,0,0,0
-Schwaz,Fügenberg,2020,8,0,0,0,0,0
-Schwaz,Fügenberg,2020,9,0,0,0,0,0
-Schwaz,Fügenberg,2020,10,0,0,0,0,0
-Schwaz,Fügenberg,2020,11,0,0,0,0,0
-Schwaz,Fügenberg,2020,12,0,0,0,0,0
-Schwaz,Fügenberg,2020,13,1,0,0.0188609467,0.3333333333,1
-Schwaz,Fügenberg,2020,14,0,0,0,0,0
-Schwaz,Fügenberg,2020,15,0,0,0,0,0
-Schwaz,Fügenberg,2020,16,0,0,0,0,0
-Schwaz,Fügenberg,2020,17,0,0,0,0,0
-Schwaz,Fügenberg,2020,18,0,0,0,0,0
-Schwaz,Fügenberg,2020,19,0,0,0,0,0
-Schwaz,Fügenberg,2020,20,0,0,0,0,0
-Schwaz,Fügenberg,2020,21,0,0,0,0,0
-Schwaz,Fügenberg,2020,22,0,0,0,0,0
-Schwaz,Fügenberg,2020,23,0,0,0,0,0
-Schwaz,Fügenberg,2020,24,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,1,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,2,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,3,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,4,1,0,0.0036982249,0.3333333333,1
-Schwaz,Buch in Tirol,2020,5,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,6,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,7,2,0,0.0101084813,1,1.6666666667
-Schwaz,Buch in Tirol,2020,8,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,9,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,10,1,0,0.0036982249,0.3333333333,1
-Schwaz,Buch in Tirol,2020,11,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,12,1,0,0.0036982249,0,0.6666666667
-Schwaz,Buch in Tirol,2020,13,1,0,0.0036982249,0,0.3333333333
-Schwaz,Buch in Tirol,2020,14,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,15,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,16,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,17,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,18,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,19,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,20,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,21,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,22,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,23,0,0,0,0,0
-Schwaz,Buch in Tirol,2020,24,0,0,0,0,0
-Schwaz,Schwendau,2020,1,1,0,0.0072115385,0.3333333333,1
-Schwaz,Schwendau,2020,2,0,0,0,0,0
-Schwaz,Schwendau,2020,3,0,0,0,0,0
-Schwaz,Schwendau,2020,4,0,0,0,0,0
-Schwaz,Schwendau,2020,5,0,0,0,0,0
-Schwaz,Schwendau,2020,6,0,0,0,0,0
-Schwaz,Schwendau,2020,7,0,0,0,0,0
-Schwaz,Schwendau,2020,8,0,0,0,0,0
-Schwaz,Schwendau,2020,9,0,0,0,0,0
-Schwaz,Schwendau,2020,10,0,0,0,0,0
-Schwaz,Schwendau,2020,11,0,0,0,0,0
-Schwaz,Schwendau,2020,12,1,0,0.0072115385,0.3333333333,1
-Schwaz,Schwendau,2020,13,0,0,0,0,0
-Schwaz,Schwendau,2020,14,0,0,0,0,0
-Schwaz,Schwendau,2020,15,0,0,0,0,0
-Schwaz,Schwendau,2020,16,0,0,0,0,0
-Schwaz,Schwendau,2020,17,0,0,0,0,0
-Schwaz,Schwendau,2020,18,0,0,0,0,0
-Schwaz,Schwendau,2020,19,0,0,0,0,0
-Schwaz,Schwendau,2020,20,0,0,0,0,0
-Schwaz,Schwendau,2020,21,0,0,0,0,0
-Schwaz,Schwendau,2020,22,0,0,0,0,0
-Schwaz,Schwendau,2020,23,0,0,0,0,0
-Schwaz,Schwendau,2020,24,0,0,0,0,0
-Schwaz,Wiesing,2020,1,0,0,0,0,0
-Schwaz,Wiesing,2020,2,1,0,0.006841716,0,0.6666666667
-Schwaz,Wiesing,2020,3,1,0,0.006841716,0,0
-Schwaz,Wiesing,2020,4,0,0,0,0,0
-Schwaz,Wiesing,2020,5,0,0,0,0,0
-Schwaz,Wiesing,2020,6,0,0,0,0,0
-Schwaz,Wiesing,2020,7,0,0,0,0,0
-Schwaz,Wiesing,2020,8,0,0,0,0,0
-Schwaz,Wiesing,2020,9,1,0,0.006841716,0,0.6666666667
-Schwaz,Wiesing,2020,10,1,0,0.006841716,0.3333333333,1
-Schwaz,Wiesing,2020,11,1,0,0.006841716,0.3333333333,1
-Schwaz,Wiesing,2020,12,0,0,0,0,0
-Schwaz,Wiesing,2020,13,0,0,0,0,0
-Schwaz,Wiesing,2020,14,0,0,0,0,0
-Schwaz,Wiesing,2020,15,0,0,0,0,0
-Schwaz,Wiesing,2020,16,0,0,0,0,0
-Schwaz,Wiesing,2020,17,0,0,0,0,0
-Schwaz,Wiesing,2020,18,0,0,0,0,0
-Schwaz,Wiesing,2020,19,0,0,0,0,0
-Schwaz,Wiesing,2020,20,0,0,0,0,0
-Schwaz,Wiesing,2020,21,0,0,0,0,0
-Schwaz,Wiesing,2020,22,0,0,0,0,0
-Schwaz,Wiesing,2020,23,0,0,0,0,0
-Schwaz,Wiesing,2020,24,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,1,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,2,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,3,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,4,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,5,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,6,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,7,1,0,0.0070266272,0.3333333333,1
-Schwaz,Hart im Zillertal,2020,8,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,9,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,10,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,11,1,0,0.0070266272,0,0.1666666667
-Schwaz,Hart im Zillertal,2020,12,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,13,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,14,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,15,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,16,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,17,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,18,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,19,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,20,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,21,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,22,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,23,0,0,0,0,0
-Schwaz,Hart im Zillertal,2020,24,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,1,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,2,1,0,0.0170118343,0.3333333333,1
-Schwaz,Aschau im Zillertal,2020,3,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,4,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,5,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,6,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,7,1,0,0.0170118343,0.3333333333,1
-Schwaz,Aschau im Zillertal,2020,8,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,9,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,10,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,11,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,12,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,13,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,14,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,15,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,16,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,17,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,18,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,19,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,20,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,21,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,22,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,23,0,0,0,0,0
-Schwaz,Aschau im Zillertal,2020,24,0,0,0,0,0
-Schwaz,Rohrberg,2020,1,0,0,0,0,0
-Schwaz,Rohrberg,2020,2,0,0,0,0,0
-Schwaz,Rohrberg,2020,3,0,0,0,0,0
-Schwaz,Rohrberg,2020,4,2,0.0096153846,0.0377218935,0.6666666667,2
-Schwaz,Rohrberg,2020,5,0,0,0,0,0
-Schwaz,Rohrberg,2020,6,0,0,0,0,0
-Schwaz,Rohrberg,2020,7,0,0,0,0,0
-Schwaz,Rohrberg,2020,8,0,0,0,0,0
-Schwaz,Rohrberg,2020,9,0,0,0,0,0
-Schwaz,Rohrberg,2020,10,0,0,0,0,0
-Schwaz,Rohrberg,2020,11,0,0,0,0,0
-Schwaz,Rohrberg,2020,12,0,0,0,0,0
-Schwaz,Rohrberg,2020,13,0,0,0,0,0
-Schwaz,Rohrberg,2020,14,0,0,0,0,0
-Schwaz,Rohrberg,2020,15,0,0,0,0,0
-Schwaz,Rohrberg,2020,16,0,0,0,0,0
-Schwaz,Rohrberg,2020,17,0,0,0,0,0
-Schwaz,Rohrberg,2020,18,0,0,0,0,0
-Schwaz,Rohrberg,2020,19,0,0,0,0,0
-Schwaz,Rohrberg,2020,20,0,0,0,0,0
-Schwaz,Rohrberg,2020,21,0,0,0,0,0
-Schwaz,Rohrberg,2020,22,0,0,0,0,0
-Schwaz,Rohrberg,2020,23,0,0,0,0,0
-Schwaz,Rohrberg,2020,24,0,0,0,0,0
-Schwaz,Brandberg,2020,1,0,0,0,0,0
-Schwaz,Brandberg,2020,2,1,0,0.0088757396,0.3333333333,1
-Schwaz,Brandberg,2020,3,0,0,0,0,0
-Schwaz,Brandberg,2020,4,0,0,0,0,0
-Schwaz,Brandberg,2020,5,0,0,0,0,0
-Schwaz,Brandberg,2020,6,0,0,0,0,0
-Schwaz,Brandberg,2020,7,0,0,0,0,0
-Schwaz,Brandberg,2020,8,0,0,0,0,0
-Schwaz,Brandberg,2020,9,0,0,0,0,0
-Schwaz,Brandberg,2020,10,0,0,0,0,0
-Schwaz,Brandberg,2020,11,0,0,0,0,0
-Schwaz,Brandberg,2020,12,0,0,0,0,0
-Schwaz,Brandberg,2020,13,0,0,0,0,0
-Schwaz,Brandberg,2020,14,0,0,0,0,0
-Schwaz,Brandberg,2020,15,0,0,0,0,0
-Schwaz,Brandberg,2020,16,0,0,0,0,0
-Schwaz,Brandberg,2020,17,0,0,0,0,0
-Schwaz,Brandberg,2020,18,0,0,0,0,0
-Schwaz,Brandberg,2020,19,0,0,0,0,0
-Schwaz,Brandberg,2020,20,0,0,0,0,0
-Schwaz,Brandberg,2020,21,0,0,0,0,0
-Schwaz,Brandberg,2020,22,0,0,0,0,0
-Schwaz,Brandberg,2020,23,0,0,0,0,0
-Schwaz,Brandberg,2020,24,0,0,0,0,0
 Lienz,Matrei in Osttirol,2020,1,0,0,0,0,0
 Lienz,Matrei in Osttirol,2020,2,0,0,0,0,0
 Lienz,Matrei in Osttirol,2020,3,0,0,0,0,0
@@ -5063,870 +5927,6 @@ Lienz,Amlach,2020,21,0,0,0,0,0
 Lienz,Amlach,2020,22,0,0,0,0,0
 Lienz,Amlach,2020,23,0,0,0,0,0
 Lienz,Amlach,2020,24,0,0,0,0,0
-Reutte,Breitenwang,2020,1,0,0,0,0,0
-Reutte,Breitenwang,2020,2,0,0,0,0,0
-Reutte,Breitenwang,2020,3,1,0,0.0177514793,0.3333333333,1
-Reutte,Breitenwang,2020,4,0,0,0,0,0
-Reutte,Breitenwang,2020,5,0,0,0,0,0
-Reutte,Breitenwang,2020,6,0,0,0,0,0
-Reutte,Breitenwang,2020,7,0,0,0,0,0
-Reutte,Breitenwang,2020,8,1,0,0.0177514793,0.3333333333,1
-Reutte,Breitenwang,2020,9,0,0,0,0,0
-Reutte,Breitenwang,2020,10,0,0,0,0,0
-Reutte,Breitenwang,2020,11,1,0,0.0177514793,0.3333333333,1
-Reutte,Breitenwang,2020,12,0,0,0,0,0
-Reutte,Breitenwang,2020,13,0,0,0,0,0
-Reutte,Breitenwang,2020,14,1,0,0.0177514793,0,0.6666666667
-Reutte,Breitenwang,2020,15,0,0,0,0,0
-Reutte,Breitenwang,2020,16,0,0,0,0,0
-Reutte,Breitenwang,2020,17,0,0,0,0,0
-Reutte,Breitenwang,2020,18,0,0,0,0,0
-Reutte,Breitenwang,2020,19,0,0,0,0,0
-Reutte,Breitenwang,2020,20,0,0,0,0,0
-Reutte,Breitenwang,2020,21,0,0,0,0,0
-Reutte,Breitenwang,2020,22,0,0,0,0,0
-Reutte,Breitenwang,2020,23,0,0,0,0,0
-Reutte,Breitenwang,2020,24,1,0,0.0177514793,0,0.3333333333
-Reutte,Pflach,2020,1,1,0,0.0155325444,0,0.6666666667
-Reutte,Pflach,2020,2,0,0,0,0,0
-Reutte,Pflach,2020,3,0,0,0,0,0
-Reutte,Pflach,2020,4,0,0,0,0,0
-Reutte,Pflach,2020,5,0,0,0,0,0
-Reutte,Pflach,2020,6,1,0,0.0155325444,0.3333333333,1
-Reutte,Pflach,2020,7,0,0,0,0,0
-Reutte,Pflach,2020,8,0,0,0,0,0
-Reutte,Pflach,2020,9,0,0,0,0,0
-Reutte,Pflach,2020,10,0,0,0,0,0
-Reutte,Pflach,2020,11,0,0,0,0,0
-Reutte,Pflach,2020,12,0,0,0,0,0
-Reutte,Pflach,2020,13,0,0,0,0,0
-Reutte,Pflach,2020,14,0,0,0,0,0
-Reutte,Pflach,2020,15,0,0,0,0,0
-Reutte,Pflach,2020,16,0,0,0,0,0
-Reutte,Pflach,2020,17,0,0,0,0,0
-Reutte,Pflach,2020,18,0,0,0,0,0
-Reutte,Pflach,2020,19,0,0,0,0,0
-Reutte,Pflach,2020,20,0,0,0,0,0
-Reutte,Pflach,2020,21,0,0,0,0,0
-Reutte,Pflach,2020,22,0,0,0,0,0
-Reutte,Pflach,2020,23,1,0,0.0155325444,0.3333333333,1
-Reutte,Pflach,2020,24,0,0,0,0,0
-Reutte,Lechaschau,2020,1,3,0.0027472527,0.0525147929,2,2.6666666667
-Reutte,Lechaschau,2020,2,0,0,0,0,0
-Reutte,Lechaschau,2020,3,1,0,0.0140532544,0,0.3333333333
-Reutte,Lechaschau,2020,4,0,0,0,0,0
-Reutte,Lechaschau,2020,5,1,0,0.0140532544,0,0.3333333333
-Reutte,Lechaschau,2020,6,0,0,0,0,0
-Reutte,Lechaschau,2020,7,0,0,0,0,0
-Reutte,Lechaschau,2020,8,0,0,0,0,0
-Reutte,Lechaschau,2020,9,1,0,0.0140532544,0,0.1666666667
-Reutte,Lechaschau,2020,10,0,0,0,0,0
-Reutte,Lechaschau,2020,11,0,0,0,0,0
-Reutte,Lechaschau,2020,12,0,0,0,0,0
-Reutte,Lechaschau,2020,13,0,0,0,0,0
-Reutte,Lechaschau,2020,14,1,0,0.0140532544,0.3333333333,1
-Reutte,Lechaschau,2020,15,0,0,0,0,0
-Reutte,Lechaschau,2020,16,0,0,0,0,0
-Reutte,Lechaschau,2020,17,0,0,0,0,0
-Reutte,Lechaschau,2020,18,0,0,0,0,0
-Reutte,Lechaschau,2020,19,0,0,0,0,0
-Reutte,Lechaschau,2020,20,0,0,0,0,0
-Reutte,Lechaschau,2020,21,0,0,0,0,0
-Reutte,Lechaschau,2020,22,0,0,0,0,0
-Reutte,Lechaschau,2020,23,1,0,0.0140532544,0.3333333333,1
-Reutte,Lechaschau,2020,24,0,0,0,0,0
-Reutte,Reutte,2020,1,2,0,0.0030325444,0,0.1111111111
-Reutte,Reutte,2020,2,1,0,0,0,0
-Reutte,Reutte,2020,3,1,0,0,0,0
-Reutte,Reutte,2020,4,1,0,0,0,0.3333333333
-Reutte,Reutte,2020,5,0,0,0,0,0
-Reutte,Reutte,2020,6,2,0,0.0030325444,0.5,1.3333333333
-Reutte,Reutte,2020,7,2,0,0.0030325444,0,0.5
-Reutte,Reutte,2020,8,1,0,0,0,0.6666666667
-Reutte,Reutte,2020,9,3,0,0.0068786982,0.6666666667,2
-Reutte,Reutte,2020,10,2,0,0.0030325444,0,0.5
-Reutte,Reutte,2020,11,0,0,0,0,0
-Reutte,Reutte,2020,12,0,0,0,0,0
-Reutte,Reutte,2020,13,3,0,0.0068786982,0,0.25
-Reutte,Reutte,2020,14,0,0,0,0,0
-Reutte,Reutte,2020,15,0,0,0,0,0
-Reutte,Reutte,2020,16,0,0,0,0,0
-Reutte,Reutte,2020,17,0,0,0,0,0
-Reutte,Reutte,2020,18,0,0,0,0,0
-Reutte,Reutte,2020,19,0,0,0,0,0
-Reutte,Reutte,2020,20,0,0,0,0,0
-Reutte,Reutte,2020,21,0,0,0,0,0
-Reutte,Reutte,2020,22,1,0,0,0,0
-Reutte,Reutte,2020,23,0,0,0,0,0
-Reutte,Reutte,2020,24,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,1,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,2,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,3,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,4,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,5,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,6,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,7,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,8,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,9,1,0,0.0077662722,0.3333333333,1
-Reutte,Weißenbach am Lech,2020,10,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,11,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,12,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,13,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,14,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,15,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,16,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,17,1,0,0.0077662722,0.3333333333,1
-Reutte,Weißenbach am Lech,2020,18,1,0,0.0077662722,0.3333333333,1
-Reutte,Weißenbach am Lech,2020,19,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,20,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,21,1,0,0.0077662722,0,0.6666666667
-Reutte,Weißenbach am Lech,2020,22,1,0,0.0077662722,0.3333333333,1
-Reutte,Weißenbach am Lech,2020,23,0,0,0,0,0
-Reutte,Weißenbach am Lech,2020,24,0,0,0,0,0
-Reutte,Vorderhornbach,2020,1,0,0,0,0,0
-Reutte,Vorderhornbach,2020,2,0,0,0,0,0
-Reutte,Vorderhornbach,2020,3,0,0,0,0,0
-Reutte,Vorderhornbach,2020,4,0,0,0,0,0
-Reutte,Vorderhornbach,2020,5,0,0,0,0,0
-Reutte,Vorderhornbach,2020,6,0,0,0,0,0
-Reutte,Vorderhornbach,2020,7,0,0,0,0,0
-Reutte,Vorderhornbach,2020,8,0,0,0,0,0
-Reutte,Vorderhornbach,2020,9,0,0,0,0,0
-Reutte,Vorderhornbach,2020,10,0,0,0,0,0
-Reutte,Vorderhornbach,2020,11,0,0,0,0,0
-Reutte,Vorderhornbach,2020,12,0,0,0,0,0
-Reutte,Vorderhornbach,2020,13,0,0,0,0,0
-Reutte,Vorderhornbach,2020,14,1,0,0.0188609467,0,0.6666666667
-Reutte,Vorderhornbach,2020,15,0,0,0,0,0
-Reutte,Vorderhornbach,2020,16,0,0,0,0,0
-Reutte,Vorderhornbach,2020,17,0,0,0,0,0
-Reutte,Vorderhornbach,2020,18,0,0,0,0,0
-Reutte,Vorderhornbach,2020,19,0,0,0,0,0
-Reutte,Vorderhornbach,2020,20,0,0,0,0,0
-Reutte,Vorderhornbach,2020,21,1,0,0.0188609467,0.3333333333,1
-Reutte,Vorderhornbach,2020,22,0,0,0,0,0
-Reutte,Vorderhornbach,2020,23,0,0,0,0,0
-Reutte,Vorderhornbach,2020,24,0,0,0,0,0
-Reutte,Elbigenalp,2020,1,0,0,0,0,0
-Reutte,Elbigenalp,2020,2,0,0,0,0,0
-Reutte,Elbigenalp,2020,3,0,0,0,0,0
-Reutte,Elbigenalp,2020,4,2,0.0096153846,0.0377218935,0.6666666667,2
-Reutte,Elbigenalp,2020,5,0,0,0,0,0
-Reutte,Elbigenalp,2020,6,0,0,0,0,0
-Reutte,Elbigenalp,2020,7,0,0,0,0,0
-Reutte,Elbigenalp,2020,8,0,0,0,0,0
-Reutte,Elbigenalp,2020,9,0,0,0,0,0
-Reutte,Elbigenalp,2020,10,1,0,0.0184911243,0.3333333333,1
-Reutte,Elbigenalp,2020,11,0,0,0,0,0
-Reutte,Elbigenalp,2020,12,0,0,0,0,0
-Reutte,Elbigenalp,2020,13,0,0,0,0,0
-Reutte,Elbigenalp,2020,14,0,0,0,0,0
-Reutte,Elbigenalp,2020,15,0,0,0,0,0
-Reutte,Elbigenalp,2020,16,0,0,0,0,0
-Reutte,Elbigenalp,2020,17,0,0,0,0,0
-Reutte,Elbigenalp,2020,18,0,0,0,0,0
-Reutte,Elbigenalp,2020,19,0,0,0,0,0
-Reutte,Elbigenalp,2020,20,0,0,0,0,0
-Reutte,Elbigenalp,2020,21,1,0,0.0184911243,0.3333333333,1
-Reutte,Elbigenalp,2020,22,0,0,0,0,0
-Reutte,Elbigenalp,2020,23,0,0,0,0,0
-Reutte,Elbigenalp,2020,24,0,0,0,0,0
-Reutte,Grän,2020,1,0,0,0,0,0
-Reutte,Grän,2020,2,0,0,0,0,0
-Reutte,Grän,2020,3,0,0,0,0,0
-Reutte,Grän,2020,4,0,0,0,0,0
-Reutte,Grän,2020,5,0,0,0,0,0
-Reutte,Grän,2020,6,0,0,0,0,0
-Reutte,Grän,2020,7,0,0,0,0,0
-Reutte,Grän,2020,8,0,0,0,0,0
-Reutte,Grän,2020,9,0,0,0,0,0
-Reutte,Grän,2020,10,0,0,0,0,0
-Reutte,Grän,2020,11,0,0,0,0,0
-Reutte,Grän,2020,12,0,0,0,0,0
-Reutte,Grän,2020,13,1,0,0.0181213018,0.3333333333,1
-Reutte,Grän,2020,14,0,0,0,0,0
-Reutte,Grän,2020,15,0,0,0,0,0
-Reutte,Grän,2020,16,0,0,0,0,0
-Reutte,Grän,2020,17,1,0,0.0181213018,0.3333333333,1
-Reutte,Grän,2020,18,0,0,0,0,0
-Reutte,Grän,2020,19,0,0,0,0,0
-Reutte,Grän,2020,20,0,0,0,0,0
-Reutte,Grän,2020,21,0,0,0,0,0
-Reutte,Grän,2020,22,0,0,0,0,0
-Reutte,Grän,2020,23,0,0,0,0,0
-Reutte,Grän,2020,24,0,0,0,0,0
-Reutte,Steeg,2020,1,0,0,0,0,0
-Reutte,Steeg,2020,2,0,0,0,0,0
-Reutte,Steeg,2020,3,0,0,0,0,0
-Reutte,Steeg,2020,4,0,0,0,0,0
-Reutte,Steeg,2020,5,0,0,0,0,0
-Reutte,Steeg,2020,6,0,0,0,0,0
-Reutte,Steeg,2020,7,0,0,0,0,0
-Reutte,Steeg,2020,8,0,0,0,0,0
-Reutte,Steeg,2020,9,0,0,0,0,0
-Reutte,Steeg,2020,10,0,0,0,0,0
-Reutte,Steeg,2020,11,0,0,0,0,0
-Reutte,Steeg,2020,12,1,0,0.0170118343,0,0.3333333333
-Reutte,Steeg,2020,13,0,0,0,0,0
-Reutte,Steeg,2020,14,0,0,0,0,0
-Reutte,Steeg,2020,15,0,0,0,0,0
-Reutte,Steeg,2020,16,1,0,0.0170118343,0.3333333333,1
-Reutte,Steeg,2020,17,1,0,0.0170118343,0.3333333333,1
-Reutte,Steeg,2020,18,0,0,0,0,0
-Reutte,Steeg,2020,19,0,0,0,0,0
-Reutte,Steeg,2020,20,0,0,0,0,0
-Reutte,Steeg,2020,21,0,0,0,0,0
-Reutte,Steeg,2020,22,0,0,0,0,0
-Reutte,Steeg,2020,23,0,0,0,0,0
-Reutte,Steeg,2020,24,0,0,0,0,0
-Reutte,Wängle,2020,1,0,0,0,0,0
-Reutte,Wängle,2020,2,0,0,0,0,0
-Reutte,Wängle,2020,3,0,0,0,0,0
-Reutte,Wängle,2020,4,0,0,0,0,0
-Reutte,Wängle,2020,5,0,0,0,0,0
-Reutte,Wängle,2020,6,0,0,0,0,0
-Reutte,Wängle,2020,7,1,0,0.0155325444,0,0.6666666667
-Reutte,Wängle,2020,8,0,0,0,0,0
-Reutte,Wängle,2020,9,0,0,0,0,0
-Reutte,Wängle,2020,10,0,0,0,0,0
-Reutte,Wängle,2020,11,0,0,0,0,0
-Reutte,Wängle,2020,12,0,0,0,0,0
-Reutte,Wängle,2020,13,0,0,0,0,0
-Reutte,Wängle,2020,14,0,0,0,0,0
-Reutte,Wängle,2020,15,0,0,0,0,0
-Reutte,Wängle,2020,16,0,0,0,0,0
-Reutte,Wängle,2020,17,1,0,0.0155325444,0,0.3333333333
-Reutte,Wängle,2020,18,0,0,0,0,0
-Reutte,Wängle,2020,19,0,0,0,0,0
-Reutte,Wängle,2020,20,0,0,0,0,0
-Reutte,Wängle,2020,21,0,0,0,0,0
-Reutte,Wängle,2020,22,0,0,0,0,0
-Reutte,Wängle,2020,23,0,0,0,0,0
-Reutte,Wängle,2020,24,0,0,0,0,0
-Reutte,Pinswang,2020,1,0,0,0,0,0
-Reutte,Pinswang,2020,2,0,0,0,0,0
-Reutte,Pinswang,2020,3,0,0,0,0,0
-Reutte,Pinswang,2020,4,0,0,0,0,0
-Reutte,Pinswang,2020,5,0,0,0,0,0
-Reutte,Pinswang,2020,6,0,0,0,0,0
-Reutte,Pinswang,2020,7,0,0,0,0,0
-Reutte,Pinswang,2020,8,0,0,0,0,0
-Reutte,Pinswang,2020,9,0,0,0,0,0
-Reutte,Pinswang,2020,10,0,0,0,0,0
-Reutte,Pinswang,2020,11,0,0,0,0,0
-Reutte,Pinswang,2020,12,0,0,0,0,0
-Reutte,Pinswang,2020,13,0,0,0,0,0
-Reutte,Pinswang,2020,14,0,0,0,0,0
-Reutte,Pinswang,2020,15,0,0,0,0,0
-Reutte,Pinswang,2020,16,1,0,0.0086908284,0.3333333333,1
-Reutte,Pinswang,2020,17,0,0,0,0,0
-Reutte,Pinswang,2020,18,0,0,0,0,0
-Reutte,Pinswang,2020,19,0,0,0,0,0
-Reutte,Pinswang,2020,20,0,0,0,0,0
-Reutte,Pinswang,2020,21,0,0,0,0,0
-Reutte,Pinswang,2020,22,0,0,0,0,0
-Reutte,Pinswang,2020,23,0,0,0,0,0
-Reutte,Pinswang,2020,24,0,0,0,0,0
-Reutte,Nesselwängle,2020,1,0,0,0,0,0
-Reutte,Nesselwängle,2020,2,0,0,0,0,0
-Reutte,Nesselwängle,2020,3,0,0,0,0,0
-Reutte,Nesselwängle,2020,4,0,0,0,0,0
-Reutte,Nesselwängle,2020,5,0,0,0,0,0
-Reutte,Nesselwängle,2020,6,1,0,0.0184911243,0.3333333333,1
-Reutte,Nesselwängle,2020,7,0,0,0,0,0
-Reutte,Nesselwängle,2020,8,0,0,0,0,0
-Reutte,Nesselwängle,2020,9,0,0,0,0,0
-Reutte,Nesselwängle,2020,10,0,0,0,0,0
-Reutte,Nesselwängle,2020,11,0,0,0,0,0
-Reutte,Nesselwängle,2020,12,0,0,0,0,0
-Reutte,Nesselwängle,2020,13,1,0,0.0184911243,0.3333333333,1
-Reutte,Nesselwängle,2020,14,0,0,0,0,0
-Reutte,Nesselwängle,2020,15,0,0,0,0,0
-Reutte,Nesselwängle,2020,16,1,0,0.0184911243,0.3333333333,1
-Reutte,Nesselwängle,2020,17,0,0,0,0,0
-Reutte,Nesselwängle,2020,18,0,0,0,0,0
-Reutte,Nesselwängle,2020,19,0,0,0,0,0
-Reutte,Nesselwängle,2020,20,0,0,0,0,0
-Reutte,Nesselwängle,2020,21,0,0,0,0,0
-Reutte,Nesselwängle,2020,22,0,0,0,0,0
-Reutte,Nesselwängle,2020,23,0,0,0,0,0
-Reutte,Nesselwängle,2020,24,0,0,0,0,0
-Reutte,Holzgau,2020,1,0,0,0,0,0
-Reutte,Holzgau,2020,2,0,0,0,0,0
-Reutte,Holzgau,2020,3,0,0,0,0,0
-Reutte,Holzgau,2020,4,0,0,0,0,0
-Reutte,Holzgau,2020,5,1,0,0.0184911243,0.3333333333,1
-Reutte,Holzgau,2020,6,0,0,0,0,0
-Reutte,Holzgau,2020,7,0,0,0,0,0
-Reutte,Holzgau,2020,8,0,0,0,0,0
-Reutte,Holzgau,2020,9,0,0,0,0,0
-Reutte,Holzgau,2020,10,1,0,0.0184911243,0.3333333333,1
-Reutte,Holzgau,2020,11,0,0,0,0,0
-Reutte,Holzgau,2020,12,0,0,0,0,0
-Reutte,Holzgau,2020,13,0,0,0,0,0
-Reutte,Holzgau,2020,14,0,0,0,0,0
-Reutte,Holzgau,2020,15,1,0,0.0184911243,0.3333333333,1
-Reutte,Holzgau,2020,16,0,0,0,0,0
-Reutte,Holzgau,2020,17,0,0,0,0,0
-Reutte,Holzgau,2020,18,0,0,0,0,0
-Reutte,Holzgau,2020,19,0,0,0,0,0
-Reutte,Holzgau,2020,20,0,0,0,0,0
-Reutte,Holzgau,2020,21,0,0,0,0,0
-Reutte,Holzgau,2020,22,0,0,0,0,0
-Reutte,Holzgau,2020,23,0,0,0,0,0
-Reutte,Holzgau,2020,24,0,0,0,0,0
-Reutte,Vils,2020,1,1,0,0.006841716,0.3333333333,1
-Reutte,Vils,2020,2,1,0,0.006841716,0.3333333333,1
-Reutte,Vils,2020,3,0,0,0,0,0
-Reutte,Vils,2020,4,0,0,0,0,0
-Reutte,Vils,2020,5,0,0,0,0,0
-Reutte,Vils,2020,6,0,0,0,0,0
-Reutte,Vils,2020,7,1,0,0.006841716,0.3333333333,1
-Reutte,Vils,2020,8,0,0,0,0,0
-Reutte,Vils,2020,9,0,0,0,0,0
-Reutte,Vils,2020,10,0,0,0,0,0
-Reutte,Vils,2020,11,0,0,0,0,0
-Reutte,Vils,2020,12,0,0,0,0,0
-Reutte,Vils,2020,13,0,0,0,0,0
-Reutte,Vils,2020,14,1,0,0.006841716,0,0.6666666667
-Reutte,Vils,2020,15,2,0,0.0164571006,0.6666666667,2
-Reutte,Vils,2020,16,0,0,0,0,0
-Reutte,Vils,2020,17,0,0,0,0,0
-Reutte,Vils,2020,18,0,0,0,0,0
-Reutte,Vils,2020,19,0,0,0,0,0
-Reutte,Vils,2020,20,0,0,0,0,0
-Reutte,Vils,2020,21,0,0,0,0,0
-Reutte,Vils,2020,22,0,0,0,0,0
-Reutte,Vils,2020,23,0,0,0,0,0
-Reutte,Vils,2020,24,0,0,0,0,0
-Reutte,Ehrwald,2020,1,0,0,0,0,0
-Reutte,Ehrwald,2020,2,1,0,0.0070266272,0,0.6666666667
-Reutte,Ehrwald,2020,3,0,0,0,0,0
-Reutte,Ehrwald,2020,4,1,0,0.0070266272,0,0.6666666667
-Reutte,Ehrwald,2020,5,1,0,0.0070266272,0.3333333333,1
-Reutte,Ehrwald,2020,6,0,0,0,0,0
-Reutte,Ehrwald,2020,7,0,0,0,0,0
-Reutte,Ehrwald,2020,8,0,0,0,0,0
-Reutte,Ehrwald,2020,9,0,0,0,0,0
-Reutte,Ehrwald,2020,10,0,0,0,0,0
-Reutte,Ehrwald,2020,11,0,0,0,0,0
-Reutte,Ehrwald,2020,12,1,0,0.0070266272,0,0.6666666667
-Reutte,Ehrwald,2020,13,0,0,0,0,0
-Reutte,Ehrwald,2020,14,1,0,0.0070266272,0,0
-Reutte,Ehrwald,2020,15,1,0,0.0070266272,0,0
-Reutte,Ehrwald,2020,16,0,0,0,0,0
-Reutte,Ehrwald,2020,17,0,0,0,0,0
-Reutte,Ehrwald,2020,18,0,0,0,0,0
-Reutte,Ehrwald,2020,19,0,0,0,0,0
-Reutte,Ehrwald,2020,20,0,0,0,0,0
-Reutte,Ehrwald,2020,21,0,0,0,0,0
-Reutte,Ehrwald,2020,22,0,0,0,0,0
-Reutte,Ehrwald,2020,23,0,0,0,0,0
-Reutte,Ehrwald,2020,24,0,0,0,0,0
-Reutte,Heiterwang,2020,1,0,0,0,0,0
-Reutte,Heiterwang,2020,2,0,0,0,0,0
-Reutte,Heiterwang,2020,3,0,0,0,0,0
-Reutte,Heiterwang,2020,4,0,0,0,0,0
-Reutte,Heiterwang,2020,5,0,0,0,0,0
-Reutte,Heiterwang,2020,6,0,0,0,0,0
-Reutte,Heiterwang,2020,7,0,0,0,0,0
-Reutte,Heiterwang,2020,8,0,0,0,0,0
-Reutte,Heiterwang,2020,9,0,0,0,0,0
-Reutte,Heiterwang,2020,10,0,0,0,0,0
-Reutte,Heiterwang,2020,11,0,0,0,0,0
-Reutte,Heiterwang,2020,12,0,0,0,0,0
-Reutte,Heiterwang,2020,13,1,0,0.0181213018,0.3333333333,1
-Reutte,Heiterwang,2020,14,1,0,0.0181213018,0.3333333333,1
-Reutte,Heiterwang,2020,15,0,0,0,0,0
-Reutte,Heiterwang,2020,16,0,0,0,0,0
-Reutte,Heiterwang,2020,17,0,0,0,0,0
-Reutte,Heiterwang,2020,18,0,0,0,0,0
-Reutte,Heiterwang,2020,19,0,0,0,0,0
-Reutte,Heiterwang,2020,20,0,0,0,0,0
-Reutte,Heiterwang,2020,21,0,0,0,0,0
-Reutte,Heiterwang,2020,22,0,0,0,0,0
-Reutte,Heiterwang,2020,23,0,0,0,0,0
-Reutte,Heiterwang,2020,24,0,0,0,0,0
-Reutte,Höfen,2020,1,0,0,0,0,0
-Reutte,Höfen,2020,2,0,0,0,0,0
-Reutte,Höfen,2020,3,0,0,0,0,0
-Reutte,Höfen,2020,4,0,0,0,0,0
-Reutte,Höfen,2020,5,1,0,0.0085059172,0,0.6666666667
-Reutte,Höfen,2020,6,0,0,0,0,0
-Reutte,Höfen,2020,7,0,0,0,0,0
-Reutte,Höfen,2020,8,0,0,0,0,0
-Reutte,Höfen,2020,9,0,0,0,0,0
-Reutte,Höfen,2020,10,0,0,0,0,0
-Reutte,Höfen,2020,11,0,0,0,0,0
-Reutte,Höfen,2020,12,0,0,0,0,0
-Reutte,Höfen,2020,13,1,0,0.0085059172,0,0.1666666667
-Reutte,Höfen,2020,14,0,0,0,0,0
-Reutte,Höfen,2020,15,0,0,0,0,0
-Reutte,Höfen,2020,16,0,0,0,0,0
-Reutte,Höfen,2020,17,0,0,0,0,0
-Reutte,Höfen,2020,18,0,0,0,0,0
-Reutte,Höfen,2020,19,0,0,0,0,0
-Reutte,Höfen,2020,20,0,0,0,0,0
-Reutte,Höfen,2020,21,0,0,0,0,0
-Reutte,Höfen,2020,22,0,0,0,0,0
-Reutte,Höfen,2020,23,0,0,0,0,0
-Reutte,Höfen,2020,24,0,0,0,0,0
-Reutte,Schattwald,2020,1,0,0,0,0,0
-Reutte,Schattwald,2020,2,0,0,0,0,0
-Reutte,Schattwald,2020,3,0,0,0,0,0
-Reutte,Schattwald,2020,4,0,0,0,0,0
-Reutte,Schattwald,2020,5,0,0,0,0,0
-Reutte,Schattwald,2020,6,0,0,0,0,0
-Reutte,Schattwald,2020,7,0,0,0,0,0
-Reutte,Schattwald,2020,8,0,0,0,0,0
-Reutte,Schattwald,2020,9,0,0,0,0,0
-Reutte,Schattwald,2020,10,0,0,0,0,0
-Reutte,Schattwald,2020,11,0,0,0,0,0
-Reutte,Schattwald,2020,12,1,0,0.0170118343,0.3333333333,1
-Reutte,Schattwald,2020,13,0,0,0,0,0
-Reutte,Schattwald,2020,14,0,0,0,0,0
-Reutte,Schattwald,2020,15,0,0,0,0,0
-Reutte,Schattwald,2020,16,0,0,0,0,0
-Reutte,Schattwald,2020,17,0,0,0,0,0
-Reutte,Schattwald,2020,18,0,0,0,0,0
-Reutte,Schattwald,2020,19,0,0,0,0,0
-Reutte,Schattwald,2020,20,0,0,0,0,0
-Reutte,Schattwald,2020,21,0,0,0,0,0
-Reutte,Schattwald,2020,22,0,0,0,0,0
-Reutte,Schattwald,2020,23,0,0,0,0,0
-Reutte,Schattwald,2020,24,0,0,0,0,0
-Reutte,Ehenbichl,2020,1,0,0,0,0,0
-Reutte,Ehenbichl,2020,2,0,0,0,0,0
-Reutte,Ehenbichl,2020,3,0,0,0,0,0
-Reutte,Ehenbichl,2020,4,0,0,0,0,0
-Reutte,Ehenbichl,2020,5,0,0,0,0,0
-Reutte,Ehenbichl,2020,6,0,0,0,0,0
-Reutte,Ehenbichl,2020,7,1,0,0.0173816568,0.3333333333,1
-Reutte,Ehenbichl,2020,8,0,0,0,0,0
-Reutte,Ehenbichl,2020,9,0,0,0,0,0
-Reutte,Ehenbichl,2020,10,0,0,0,0,0
-Reutte,Ehenbichl,2020,11,1,0,0.0173816568,0,0.6666666667
-Reutte,Ehenbichl,2020,12,0,0,0,0,0
-Reutte,Ehenbichl,2020,13,0,0,0,0,0
-Reutte,Ehenbichl,2020,14,0,0,0,0,0
-Reutte,Ehenbichl,2020,15,0,0,0,0,0
-Reutte,Ehenbichl,2020,16,0,0,0,0,0
-Reutte,Ehenbichl,2020,17,0,0,0,0,0
-Reutte,Ehenbichl,2020,18,0,0,0,0,0
-Reutte,Ehenbichl,2020,19,0,0,0,0,0
-Reutte,Ehenbichl,2020,20,0,0,0,0,0
-Reutte,Ehenbichl,2020,21,0,0,0,0,0
-Reutte,Ehenbichl,2020,22,0,0,0,0,0
-Reutte,Ehenbichl,2020,23,0,0,0,0,0
-Reutte,Ehenbichl,2020,24,0,0,0,0,0
-Reutte,Häselgehr,2020,1,0,0,0,0,0
-Reutte,Häselgehr,2020,2,0,0,0,0,0
-Reutte,Häselgehr,2020,3,0,0,0,0,0
-Reutte,Häselgehr,2020,4,0,0,0,0,0
-Reutte,Häselgehr,2020,5,0,0,0,0,0
-Reutte,Häselgehr,2020,6,0,0,0,0,0
-Reutte,Häselgehr,2020,7,0,0,0,0,0
-Reutte,Häselgehr,2020,8,0,0,0,0,0
-Reutte,Häselgehr,2020,9,0,0,0,0,0
-Reutte,Häselgehr,2020,10,1,0,0.0177514793,0.3333333333,1
-Reutte,Häselgehr,2020,11,0,0,0,0,0
-Reutte,Häselgehr,2020,12,0,0,0,0,0
-Reutte,Häselgehr,2020,13,0,0,0,0,0
-Reutte,Häselgehr,2020,14,0,0,0,0,0
-Reutte,Häselgehr,2020,15,0,0,0,0,0
-Reutte,Häselgehr,2020,16,0,0,0,0,0
-Reutte,Häselgehr,2020,17,0,0,0,0,0
-Reutte,Häselgehr,2020,18,0,0,0,0,0
-Reutte,Häselgehr,2020,19,0,0,0,0,0
-Reutte,Häselgehr,2020,20,0,0,0,0,0
-Reutte,Häselgehr,2020,21,0,0,0,0,0
-Reutte,Häselgehr,2020,22,0,0,0,0,0
-Reutte,Häselgehr,2020,23,0,0,0,0,0
-Reutte,Häselgehr,2020,24,0,0,0,0,0
-Reutte,Bichlbach,2020,1,0,0,0,0,0
-Reutte,Bichlbach,2020,2,0,0,0,0,0
-Reutte,Bichlbach,2020,3,0,0,0,0,0
-Reutte,Bichlbach,2020,4,0,0,0,0,0
-Reutte,Bichlbach,2020,5,0,0,0,0,0
-Reutte,Bichlbach,2020,6,0,0,0,0,0
-Reutte,Bichlbach,2020,7,0,0,0,0,0
-Reutte,Bichlbach,2020,8,0,0,0,0,0
-Reutte,Bichlbach,2020,9,1,0,0.0173816568,0.3333333333,1
-Reutte,Bichlbach,2020,10,0,0,0,0,0
-Reutte,Bichlbach,2020,11,0,0,0,0,0
-Reutte,Bichlbach,2020,12,0,0,0,0,0
-Reutte,Bichlbach,2020,13,0,0,0,0,0
-Reutte,Bichlbach,2020,14,0,0,0,0,0
-Reutte,Bichlbach,2020,15,0,0,0,0,0
-Reutte,Bichlbach,2020,16,0,0,0,0,0
-Reutte,Bichlbach,2020,17,0,0,0,0,0
-Reutte,Bichlbach,2020,18,0,0,0,0,0
-Reutte,Bichlbach,2020,19,0,0,0,0,0
-Reutte,Bichlbach,2020,20,0,0,0,0,0
-Reutte,Bichlbach,2020,21,0,0,0,0,0
-Reutte,Bichlbach,2020,22,0,0,0,0,0
-Reutte,Bichlbach,2020,23,0,0,0,0,0
-Reutte,Bichlbach,2020,24,0,0,0,0,0
-Reutte,Stanzach,2020,1,0,0,0,0,0
-Reutte,Stanzach,2020,2,1,0,0.0170118343,0,0.6666666667
-Reutte,Stanzach,2020,3,0,0,0,0,0
-Reutte,Stanzach,2020,4,0,0,0,0,0
-Reutte,Stanzach,2020,5,0,0,0,0,0
-Reutte,Stanzach,2020,6,0,0,0,0,0
-Reutte,Stanzach,2020,7,1,0,0.0170118343,0.3333333333,1
-Reutte,Stanzach,2020,8,0,0,0,0,0
-Reutte,Stanzach,2020,9,0,0,0,0,0
-Reutte,Stanzach,2020,10,0,0,0,0,0
-Reutte,Stanzach,2020,11,0,0,0,0,0
-Reutte,Stanzach,2020,12,0,0,0,0,0
-Reutte,Stanzach,2020,13,0,0,0,0,0
-Reutte,Stanzach,2020,14,0,0,0,0,0
-Reutte,Stanzach,2020,15,0,0,0,0,0
-Reutte,Stanzach,2020,16,0,0,0,0,0
-Reutte,Stanzach,2020,17,0,0,0,0,0
-Reutte,Stanzach,2020,18,0,0,0,0,0
-Reutte,Stanzach,2020,19,0,0,0,0,0
-Reutte,Stanzach,2020,20,0,0,0,0,0
-Reutte,Stanzach,2020,21,0,0,0,0,0
-Reutte,Stanzach,2020,22,0,0,0,0,0
-Reutte,Stanzach,2020,23,0,0,0,0,0
-Reutte,Stanzach,2020,24,0,0,0,0,0
-Reutte,Berwang,2020,1,1,0,0.0173816568,0,0.6666666667
-Reutte,Berwang,2020,2,0,0,0,0,0
-Reutte,Berwang,2020,3,0,0,0,0,0
-Reutte,Berwang,2020,4,1,0,0.0173816568,0,0.6666666667
-Reutte,Berwang,2020,5,0,0,0,0,0
-Reutte,Berwang,2020,6,0,0,0,0,0
-Reutte,Berwang,2020,7,0,0,0,0,0
-Reutte,Berwang,2020,8,0,0,0,0,0
-Reutte,Berwang,2020,9,0,0,0,0,0
-Reutte,Berwang,2020,10,0,0,0,0,0
-Reutte,Berwang,2020,11,0,0,0,0,0
-Reutte,Berwang,2020,12,0,0,0,0,0
-Reutte,Berwang,2020,13,0,0,0,0,0
-Reutte,Berwang,2020,14,0,0,0,0,0
-Reutte,Berwang,2020,15,0,0,0,0,0
-Reutte,Berwang,2020,16,0,0,0,0,0
-Reutte,Berwang,2020,17,0,0,0,0,0
-Reutte,Berwang,2020,18,0,0,0,0,0
-Reutte,Berwang,2020,19,0,0,0,0,0
-Reutte,Berwang,2020,20,0,0,0,0,0
-Reutte,Berwang,2020,21,0,0,0,0,0
-Reutte,Berwang,2020,22,0,0,0,0,0
-Reutte,Berwang,2020,23,0,0,0,0,0
-Reutte,Berwang,2020,24,0,0,0,0,0
-Reutte,Biberwier,2020,1,0,0,0,0,0
-Reutte,Biberwier,2020,2,0,0,0,0,0
-Reutte,Biberwier,2020,3,1,0,0.0184911243,0,0.6666666667
-Reutte,Biberwier,2020,4,1,0,0.0184911243,0.3333333333,1
-Reutte,Biberwier,2020,5,0,0,0,0,0
-Reutte,Biberwier,2020,6,0,0,0,0,0
-Reutte,Biberwier,2020,7,0,0,0,0,0
-Reutte,Biberwier,2020,8,0,0,0,0,0
-Reutte,Biberwier,2020,9,0,0,0,0,0
-Reutte,Biberwier,2020,10,0,0,0,0,0
-Reutte,Biberwier,2020,11,0,0,0,0,0
-Reutte,Biberwier,2020,12,0,0,0,0,0
-Reutte,Biberwier,2020,13,0,0,0,0,0
-Reutte,Biberwier,2020,14,0,0,0,0,0
-Reutte,Biberwier,2020,15,0,0,0,0,0
-Reutte,Biberwier,2020,16,0,0,0,0,0
-Reutte,Biberwier,2020,17,0,0,0,0,0
-Reutte,Biberwier,2020,18,0,0,0,0,0
-Reutte,Biberwier,2020,19,0,0,0,0,0
-Reutte,Biberwier,2020,20,0,0,0,0,0
-Reutte,Biberwier,2020,21,0,0,0,0,0
-Reutte,Biberwier,2020,22,0,0,0,0,0
-Reutte,Biberwier,2020,23,0,0,0,0,0
-Reutte,Biberwier,2020,24,0,0,0,0,0
-Reutte,Lermoos,2020,1,0,0,0,0,0
-Reutte,Lermoos,2020,2,0,0,0,0,0
-Reutte,Lermoos,2020,3,1,0,0.0166420118,0.3333333333,1
-Reutte,Lermoos,2020,4,0,0,0,0,0
-Reutte,Lermoos,2020,5,0,0,0,0,0
-Reutte,Lermoos,2020,6,0,0,0,0,0
-Reutte,Lermoos,2020,7,0,0,0,0,0
-Reutte,Lermoos,2020,8,0,0,0,0,0
-Reutte,Lermoos,2020,9,0,0,0,0,0
-Reutte,Lermoos,2020,10,0,0,0,0,0
-Reutte,Lermoos,2020,11,0,0,0,0,0
-Reutte,Lermoos,2020,12,0,0,0,0,0
-Reutte,Lermoos,2020,13,0,0,0,0,0
-Reutte,Lermoos,2020,14,0,0,0,0,0
-Reutte,Lermoos,2020,15,0,0,0,0,0
-Reutte,Lermoos,2020,16,0,0,0,0,0
-Reutte,Lermoos,2020,17,0,0,0,0,0
-Reutte,Lermoos,2020,18,0,0,0,0,0
-Reutte,Lermoos,2020,19,0,0,0,0,0
-Reutte,Lermoos,2020,20,0,0,0,0,0
-Reutte,Lermoos,2020,21,0,0,0,0,0
-Reutte,Lermoos,2020,22,0,0,0,0,0
-Reutte,Lermoos,2020,23,0,0,0,0,0
-Reutte,Lermoos,2020,24,0,0,0,0,0
-Reutte,Tannheim,2020,1,0,0,0,0,0
-Reutte,Tannheim,2020,2,1,0,0.0184911243,0.3333333333,1
-Reutte,Tannheim,2020,3,0,0,0,0,0
-Reutte,Tannheim,2020,4,0,0,0,0,0
-Reutte,Tannheim,2020,5,0,0,0,0,0
-Reutte,Tannheim,2020,6,0,0,0,0,0
-Reutte,Tannheim,2020,7,0,0,0,0,0
-Reutte,Tannheim,2020,8,0,0,0,0,0
-Reutte,Tannheim,2020,9,0,0,0,0,0
-Reutte,Tannheim,2020,10,0,0,0,0,0
-Reutte,Tannheim,2020,11,0,0,0,0,0
-Reutte,Tannheim,2020,12,0,0,0,0,0
-Reutte,Tannheim,2020,13,0,0,0,0,0
-Reutte,Tannheim,2020,14,0,0,0,0,0
-Reutte,Tannheim,2020,15,0,0,0,0,0
-Reutte,Tannheim,2020,16,0,0,0,0,0
-Reutte,Tannheim,2020,17,0,0,0,0,0
-Reutte,Tannheim,2020,18,0,0,0,0,0
-Reutte,Tannheim,2020,19,0,0,0,0,0
-Reutte,Tannheim,2020,20,0,0,0,0,0
-Reutte,Tannheim,2020,21,0,0,0,0,0
-Reutte,Tannheim,2020,22,0,0,0,0,0
-Reutte,Tannheim,2020,23,0,0,0,0,0
-Reutte,Tannheim,2020,24,0,0,0,0,0
-Reutte,Musau,2020,1,0,0,0,0,0
-Reutte,Musau,2020,2,0,0,0,0,0
-Reutte,Musau,2020,3,0,0,0,0,0
-Reutte,Musau,2020,4,0,0,0,0,0
-Reutte,Musau,2020,5,0,0,0,0,0
-Reutte,Musau,2020,6,0,0,0,0,0
-Reutte,Musau,2020,7,0,0,0,0,0
-Reutte,Musau,2020,8,0,0,0,0,0
-Reutte,Musau,2020,9,0,0,0,0,0
-Reutte,Musau,2020,10,0,0,0,0,0
-Reutte,Musau,2020,11,0,0,0,0,0
-Reutte,Musau,2020,12,0,0,0,0,0
-Reutte,Musau,2020,13,0,0,0,0,0
-Reutte,Musau,2020,14,0,0,0,0,0
-Reutte,Musau,2020,15,0,0,0,0,0
-Reutte,Musau,2020,16,0,0,0,0,0
-Reutte,Musau,2020,17,0,0,0,0,0
-Reutte,Musau,2020,18,0,0,0,0,0
-Reutte,Musau,2020,19,0,0,0,0,0
-Reutte,Musau,2020,20,0,0,0,0,0
-Reutte,Musau,2020,21,0,0,0,0,0
-Reutte,Musau,2020,22,0,0,0,0,0
-Reutte,Musau,2020,23,0,0,0,0,0
-Reutte,Musau,2020,24,0,0,0,0,0
-Reutte,Elmen,2020,1,0,0,0,0,0
-Reutte,Elmen,2020,2,0,0,0,0,0
-Reutte,Elmen,2020,3,0,0,0,0,0
-Reutte,Elmen,2020,4,0,0,0,0,0
-Reutte,Elmen,2020,5,0,0,0,0,0
-Reutte,Elmen,2020,6,0,0,0,0,0
-Reutte,Elmen,2020,7,0,0,0,0,0
-Reutte,Elmen,2020,8,0,0,0,0,0
-Reutte,Elmen,2020,9,0,0,0,0,0
-Reutte,Elmen,2020,10,0,0,0,0,0
-Reutte,Elmen,2020,11,0,0,0,0,0
-Reutte,Elmen,2020,12,0,0,0,0,0
-Reutte,Elmen,2020,13,0,0,0,0,0
-Reutte,Elmen,2020,14,0,0,0,0,0
-Reutte,Elmen,2020,15,0,0,0,0,0
-Reutte,Elmen,2020,16,0,0,0,0,0
-Reutte,Elmen,2020,17,0,0,0,0,0
-Reutte,Elmen,2020,18,0,0,0,0,0
-Reutte,Elmen,2020,19,0,0,0,0,0
-Reutte,Elmen,2020,20,0,0,0,0,0
-Reutte,Elmen,2020,21,0,0,0,0,0
-Reutte,Elmen,2020,22,0,0,0,0,0
-Reutte,Elmen,2020,23,0,0,0,0,0
-Reutte,Elmen,2020,24,0,0,0,0,0
-Reutte,Forchach,2020,1,0,0,0,0,0
-Reutte,Forchach,2020,2,0,0,0,0,0
-Reutte,Forchach,2020,3,0,0,0,0,0
-Reutte,Forchach,2020,4,0,0,0,0,0
-Reutte,Forchach,2020,5,0,0,0,0,0
-Reutte,Forchach,2020,6,0,0,0,0,0
-Reutte,Forchach,2020,7,0,0,0,0,0
-Reutte,Forchach,2020,8,0,0,0,0,0
-Reutte,Forchach,2020,9,0,0,0,0,0
-Reutte,Forchach,2020,10,0,0,0,0,0
-Reutte,Forchach,2020,11,0,0,0,0,0
-Reutte,Forchach,2020,12,0,0,0,0,0
-Reutte,Forchach,2020,13,0,0,0,0,0
-Reutte,Forchach,2020,14,0,0,0,0,0
-Reutte,Forchach,2020,15,0,0,0,0,0
-Reutte,Forchach,2020,16,0,0,0,0,0
-Reutte,Forchach,2020,17,0,0,0,0,0
-Reutte,Forchach,2020,18,0,0,0,0,0
-Reutte,Forchach,2020,19,0,0,0,0,0
-Reutte,Forchach,2020,20,0,0,0,0,0
-Reutte,Forchach,2020,21,0,0,0,0,0
-Reutte,Forchach,2020,22,0,0,0,0,0
-Reutte,Forchach,2020,23,0,0,0,0,0
-Reutte,Forchach,2020,24,0,0,0,0,0
-Reutte,Zöblen,2020,1,0,0,0,0,0
-Reutte,Zöblen,2020,2,0,0,0,0,0
-Reutte,Zöblen,2020,3,0,0,0,0,0
-Reutte,Zöblen,2020,4,0,0,0,0,0
-Reutte,Zöblen,2020,5,0,0,0,0,0
-Reutte,Zöblen,2020,6,0,0,0,0,0
-Reutte,Zöblen,2020,7,0,0,0,0,0
-Reutte,Zöblen,2020,8,0,0,0,0,0
-Reutte,Zöblen,2020,9,0,0,0,0,0
-Reutte,Zöblen,2020,10,0,0,0,0,0
-Reutte,Zöblen,2020,11,0,0,0,0,0
-Reutte,Zöblen,2020,12,0,0,0,0,0
-Reutte,Zöblen,2020,13,0,0,0,0,0
-Reutte,Zöblen,2020,14,0,0,0,0,0
-Reutte,Zöblen,2020,15,0,0,0,0,0
-Reutte,Zöblen,2020,16,0,0,0,0,0
-Reutte,Zöblen,2020,17,0,0,0,0,0
-Reutte,Zöblen,2020,18,0,0,0,0,0
-Reutte,Zöblen,2020,19,0,0,0,0,0
-Reutte,Zöblen,2020,20,0,0,0,0,0
-Reutte,Zöblen,2020,21,0,0,0,0,0
-Reutte,Zöblen,2020,22,0,0,0,0,0
-Reutte,Zöblen,2020,23,0,0,0,0,0
-Reutte,Zöblen,2020,24,0,0,0,0,0
-Reutte,Bach,2020,1,0,0,0,0,0
-Reutte,Bach,2020,2,0,0,0,0,0
-Reutte,Bach,2020,3,0,0,0,0,0
-Reutte,Bach,2020,4,0,0,0,0,0
-Reutte,Bach,2020,5,0,0,0,0,0
-Reutte,Bach,2020,6,0,0,0,0,0
-Reutte,Bach,2020,7,0,0,0,0,0
-Reutte,Bach,2020,8,0,0,0,0,0
-Reutte,Bach,2020,9,0,0,0,0,0
-Reutte,Bach,2020,10,0,0,0,0,0
-Reutte,Bach,2020,11,0,0,0,0,0
-Reutte,Bach,2020,12,0,0,0,0,0
-Reutte,Bach,2020,13,0,0,0,0,0
-Reutte,Bach,2020,14,0,0,0,0,0
-Reutte,Bach,2020,15,0,0,0,0,0
-Reutte,Bach,2020,16,0,0,0,0,0
-Reutte,Bach,2020,17,0,0,0,0,0
-Reutte,Bach,2020,18,0,0,0,0,0
-Reutte,Bach,2020,19,0,0,0,0,0
-Reutte,Bach,2020,20,0,0,0,0,0
-Reutte,Bach,2020,21,0,0,0,0,0
-Reutte,Bach,2020,22,0,0,0,0,0
-Reutte,Bach,2020,23,0,0,0,0,0
-Reutte,Bach,2020,24,0,0,0,0,0
-Reutte,Kaisers,2020,1,0,0,0,0,0
-Reutte,Kaisers,2020,2,0,0,0,0,0
-Reutte,Kaisers,2020,3,0,0,0,0,0
-Reutte,Kaisers,2020,4,0,0,0,0,0
-Reutte,Kaisers,2020,5,0,0,0,0,0
-Reutte,Kaisers,2020,6,0,0,0,0,0
-Reutte,Kaisers,2020,7,0,0,0,0,0
-Reutte,Kaisers,2020,8,0,0,0,0,0
-Reutte,Kaisers,2020,9,0,0,0,0,0
-Reutte,Kaisers,2020,10,0,0,0,0,0
-Reutte,Kaisers,2020,11,0,0,0,0,0
-Reutte,Kaisers,2020,12,0,0,0,0,0
-Reutte,Kaisers,2020,13,0,0,0,0,0
-Reutte,Kaisers,2020,14,0,0,0,0,0
-Reutte,Kaisers,2020,15,0,0,0,0,0
-Reutte,Kaisers,2020,16,0,0,0,0,0
-Reutte,Kaisers,2020,17,0,0,0,0,0
-Reutte,Kaisers,2020,18,0,0,0,0,0
-Reutte,Kaisers,2020,19,0,0,0,0,0
-Reutte,Kaisers,2020,20,0,0,0,0,0
-Reutte,Kaisers,2020,21,0,0,0,0,0
-Reutte,Kaisers,2020,22,0,0,0,0,0
-Reutte,Kaisers,2020,23,0,0,0,0,0
-Reutte,Kaisers,2020,24,0,0,0,0,0
-Reutte,Namlos,2020,1,0,0,0,0,0
-Reutte,Namlos,2020,2,0,0,0,0,0
-Reutte,Namlos,2020,3,0,0,0,0,0
-Reutte,Namlos,2020,4,0,0,0,0,0
-Reutte,Namlos,2020,5,0,0,0,0,0
-Reutte,Namlos,2020,6,0,0,0,0,0
-Reutte,Namlos,2020,7,0,0,0,0,0
-Reutte,Namlos,2020,8,0,0,0,0,0
-Reutte,Namlos,2020,9,0,0,0,0,0
-Reutte,Namlos,2020,10,0,0,0,0,0
-Reutte,Namlos,2020,11,0,0,0,0,0
-Reutte,Namlos,2020,12,0,0,0,0,0
-Reutte,Namlos,2020,13,0,0,0,0,0
-Reutte,Namlos,2020,14,0,0,0,0,0
-Reutte,Namlos,2020,15,0,0,0,0,0
-Reutte,Namlos,2020,16,0,0,0,0,0
-Reutte,Namlos,2020,17,0,0,0,0,0
-Reutte,Namlos,2020,18,0,0,0,0,0
-Reutte,Namlos,2020,19,0,0,0,0,0
-Reutte,Namlos,2020,20,0,0,0,0,0
-Reutte,Namlos,2020,21,0,0,0,0,0
-Reutte,Namlos,2020,22,0,0,0,0,0
-Reutte,Namlos,2020,23,0,0,0,0,0
-Reutte,Namlos,2020,24,0,0,0,0,0
-Reutte,Pfafflar,2020,1,0,0,0,0,0
-Reutte,Pfafflar,2020,2,0,0,0,0,0
-Reutte,Pfafflar,2020,3,0,0,0,0,0
-Reutte,Pfafflar,2020,4,0,0,0,0,0
-Reutte,Pfafflar,2020,5,0,0,0,0,0
-Reutte,Pfafflar,2020,6,0,0,0,0,0
-Reutte,Pfafflar,2020,7,0,0,0,0,0
-Reutte,Pfafflar,2020,8,0,0,0,0,0
-Reutte,Pfafflar,2020,9,0,0,0,0,0
-Reutte,Pfafflar,2020,10,0,0,0,0,0
-Reutte,Pfafflar,2020,11,0,0,0,0,0
-Reutte,Pfafflar,2020,12,0,0,0,0,0
-Reutte,Pfafflar,2020,13,0,0,0,0,0
-Reutte,Pfafflar,2020,14,0,0,0,0,0
-Reutte,Pfafflar,2020,15,0,0,0,0,0
-Reutte,Pfafflar,2020,16,0,0,0,0,0
-Reutte,Pfafflar,2020,17,0,0,0,0,0
-Reutte,Pfafflar,2020,18,0,0,0,0,0
-Reutte,Pfafflar,2020,19,0,0,0,0,0
-Reutte,Pfafflar,2020,20,0,0,0,0,0
-Reutte,Pfafflar,2020,21,0,0,0,0,0
-Reutte,Pfafflar,2020,22,0,0,0,0,0
-Reutte,Pfafflar,2020,23,0,0,0,0,0
-Reutte,Pfafflar,2020,24,0,0,0,0,0
-Reutte,Gramais,2020,1,0,0,0,0,0
-Reutte,Gramais,2020,2,0,0,0,0,0
-Reutte,Gramais,2020,3,0,0,0,0,0
-Reutte,Gramais,2020,4,0,0,0,0,0
-Reutte,Gramais,2020,5,0,0,0,0,0
-Reutte,Gramais,2020,6,0,0,0,0,0
-Reutte,Gramais,2020,7,0,0,0,0,0
-Reutte,Gramais,2020,8,0,0,0,0,0
-Reutte,Gramais,2020,9,0,0,0,0,0
-Reutte,Gramais,2020,10,0,0,0,0,0
-Reutte,Gramais,2020,11,0,0,0,0,0
-Reutte,Gramais,2020,12,0,0,0,0,0
-Reutte,Gramais,2020,13,0,0,0,0,0
-Reutte,Gramais,2020,14,0,0,0,0,0
-Reutte,Gramais,2020,15,0,0,0,0,0
-Reutte,Gramais,2020,16,0,0,0,0,0
-Reutte,Gramais,2020,17,0,0,0,0,0
-Reutte,Gramais,2020,18,0,0,0,0,0
-Reutte,Gramais,2020,19,0,0,0,0,0
-Reutte,Gramais,2020,20,0,0,0,0,0
-Reutte,Gramais,2020,21,0,0,0,0,0
-Reutte,Gramais,2020,22,0,0,0,0,0
-Reutte,Gramais,2020,23,0,0,0,0,0
-Reutte,Gramais,2020,24,0,0,0,0,0
-Reutte,Hinterhornbach,2020,1,0,0,0,0,0
-Reutte,Hinterhornbach,2020,2,0,0,0,0,0
-Reutte,Hinterhornbach,2020,3,0,0,0,0,0
-Reutte,Hinterhornbach,2020,4,0,0,0,0,0
-Reutte,Hinterhornbach,2020,5,0,0,0,0,0
-Reutte,Hinterhornbach,2020,6,0,0,0,0,0
-Reutte,Hinterhornbach,2020,7,0,0,0,0,0
-Reutte,Hinterhornbach,2020,8,0,0,0,0,0
-Reutte,Hinterhornbach,2020,9,0,0,0,0,0
-Reutte,Hinterhornbach,2020,10,0,0,0,0,0
-Reutte,Hinterhornbach,2020,11,0,0,0,0,0
-Reutte,Hinterhornbach,2020,12,0,0,0,0,0
-Reutte,Hinterhornbach,2020,13,0,0,0,0,0
-Reutte,Hinterhornbach,2020,14,0,0,0,0,0
-Reutte,Hinterhornbach,2020,15,0,0,0,0,0
-Reutte,Hinterhornbach,2020,16,0,0,0,0,0
-Reutte,Hinterhornbach,2020,17,0,0,0,0,0
-Reutte,Hinterhornbach,2020,18,0,0,0,0,0
-Reutte,Hinterhornbach,2020,19,0,0,0,0,0
-Reutte,Hinterhornbach,2020,20,0,0,0,0,0
-Reutte,Hinterhornbach,2020,21,0,0,0,0,0
-Reutte,Hinterhornbach,2020,22,0,0,0,0,0
-Reutte,Hinterhornbach,2020,23,0,0,0,0,0
-Reutte,Hinterhornbach,2020,24,0,0,0,0,0
 Landeck,Flirsch,2020,1,0,0,0,0,0
 Landeck,Flirsch,2020,2,0,0,0,0,0
 Landeck,Flirsch,2020,3,0,0,0,0,0

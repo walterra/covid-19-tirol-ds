@@ -1,7 +1,10 @@
 date,year,week,municipaly,district,hash
+12.06.2020,2020,24,Söll,Kufstein,500773315
+12.06.2020,2020,24,Alpbach,Kufstein,1068084225
 11.06.2020,2020,24,Imst,Imst,1684612758
 11.06.2020,2020,24,Jenbach,Schwaz,-890490689
 11.06.2020,2020,24,Kolsass,Innsbruck-Land,-1124570664
+11.06.2020,2020,24,Ainet,Lienz,111853728
 10.06.2020,2020,24,Wörgl,Kufstein,-173094833
 10.06.2020,2020,24,Zirl,Innsbruck-Land,1952434021
 10.06.2020,2020,24,Uderns,Schwaz,-1458066246
@@ -10,6 +13,8 @@ date,year,week,municipaly,district,hash
 10.06.2020,2020,24,Hatting,Innsbruck-Land,-77905042
 10.06.2020,2020,24,Silz,Imst,1323339307
 10.06.2020,2020,24,Obernberg am Brenner,Innsbruck-Land,691578872
+10.06.2020,2020,24,Haiming,Imst,-846451223
+10.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,-1868276944
 09.06.2020,2020,24,Götzens,Innsbruck-Land,1214601101
 09.06.2020,2020,24,Innsbruck,Innsbruck-Stadt,-1141377805
 09.06.2020,2020,24,Mutters,Innsbruck-Land,-476918432
@@ -35,6 +40,8 @@ date,year,week,municipaly,district,hash
 08.06.2020,2020,24,Matrei in Osttirol,Lienz,-1941587196
 08.06.2020,2020,24,Breitenwang,Reutte,1829145893
 08.06.2020,2020,24,Kirchdorf in Tirol,Kitzbühel,46890734
+08.06.2020,2020,24,Waidring,Kitzbühel,-783956031
+08.06.2020,2020,24,Jochberg,Kitzbühel,-1453366729
 07.06.2020,2020,23,Ellmau,Kufstein,-740758
 07.06.2020,2020,23,Lienz,Lienz,834249387
 07.06.2020,2020,23,Längenfeld,Imst,1632642347
@@ -137,6 +144,7 @@ date,year,week,municipaly,district,hash
 29.05.2020,2020,22,Fließ,Landeck,-1305608428
 29.05.2020,2020,22,Mayrhofen,Schwaz,-1885796935
 29.05.2020,2020,22,Kaltenbach,Schwaz,-1752258130
+29.05.2020,2020,22,Hatting,Innsbruck-Land,1414704980
 28.05.2020,2020,22,Brixlegg,Kufstein,494985551
 28.05.2020,2020,22,Völs,Innsbruck-Land,-361704383
 28.05.2020,2020,22,Dölsach,Lienz,-1098714148

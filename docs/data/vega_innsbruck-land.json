@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-d03b94e65bee2aa6f6bdd1e8fd72fbfb"
+        "name": "data-d1a182b9756708b6ce7879d274edc920"
     },
     "datasets": {
-        "data-d03b94e65bee2aa6f6bdd1e8fd72fbfb": [
+        "data-d1a182b9756708b6ce7879d274edc920": [
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Natters",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 2,
                 "district": "Innsbruck-Land",
@@ -27688,1462 +29144,6 @@
                 "count": 0,
                 "district": "Innsbruck-Land",
                 "municipaly": "Neustift im Stubaital",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Natters",
                 "week": 52,
                 "year": 2020
             },

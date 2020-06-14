@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-a5a2d216e8422a6863c9dc1c9d23fb2e"
+        "name": "data-6d5c3ab8bef3c59a72df52070eb4f078"
     },
     "datasets": {
-        "data-a5a2d216e8422a6863c9dc1c9d23fb2e": [
+        "data-6d5c3ab8bef3c59a72df52070eb4f078": [
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Breitenwang",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Reutte",
@@ -4392,1462 +5848,6 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Stanzach",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Breitenwang",
                 "week": 52,
                 "year": 2020
             },

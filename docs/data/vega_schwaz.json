@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-30c107aa3b606858d2d499dae947e1a4"
+        "name": "data-7230f33c1f1010e6613518912473eeb7"
     },
     "datasets": {
-        "data-30c107aa3b606858d2d499dae947e1a4": [
+        "data-7230f33c1f1010e6613518912473eeb7": [
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Tux",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 1,
                 "district": "Schwaz",
@@ -1281,7 +2737,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 4,
                 "district": "Schwaz",
                 "municipaly": "Jenbach",
                 "week": 24,
@@ -1480,6 +2936,1462 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Jenbach",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlos",
                 "week": 52,
                 "year": 2020
             },
@@ -5852,1462 +8764,6 @@
                 "year": 2020
             },
             {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Tux",
-                "week": 52,
-                "year": 2020
-            },
-            {
                 "count": 3,
                 "district": "Schwaz",
                 "municipaly": "Mayrhofen",
@@ -27688,1462 +29144,6 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Stummerberg",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlos",
                 "week": 52,
                 "year": 2020
             },

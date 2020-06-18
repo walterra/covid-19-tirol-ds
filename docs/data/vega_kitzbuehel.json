@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-9e7897cb22b00dd5cf154406eddc2adf"
+        "name": "data-2afeb519cd5d7155dfcb2308d213092f"
     },
     "datasets": {
-        "data-9e7897cb22b00dd5cf154406eddc2adf": [
+        "data-2afeb519cd5d7155dfcb2308d213092f": [
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kitzb\u00fchel",
+                "municipaly": "Brixen im Thale",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Kitzb\u00fchel",
@@ -16040,1462 +17496,6 @@
                 "count": 0,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Kitzb\u00fchel",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kitzb\u00fchel",
-                "municipaly": "Brixen im Thale",
                 "week": 52,
                 "year": 2020
             },

@@ -1,4 +1,1579 @@
 district,municipaly,year,week,count,yearly_max_diff,yearly_mean_diff,weekly_max_diff,weekly_mean_diff
+Landeck,Zams,2020,1,0,0,0,0,0
+Landeck,Zams,2020,2,1,0,0.0012943787,0,0.6666666667
+Landeck,Zams,2020,3,0,0,0,0,0
+Landeck,Zams,2020,4,0,0,0,0,0
+Landeck,Zams,2020,5,1,0,0.0012943787,0,0
+Landeck,Zams,2020,6,0,0,0,0,0
+Landeck,Zams,2020,7,0,0,0,0,0
+Landeck,Zams,2020,8,1,0,0.0012943787,0,0
+Landeck,Zams,2020,9,3,0,0.0109097633,1,1.1666666667
+Landeck,Zams,2020,10,1,0,0.0012943787,0,0
+Landeck,Zams,2020,11,0,0,0,0,0
+Landeck,Zams,2020,12,1,0,0.0012943787,0,0
+Landeck,Zams,2020,13,1,0,0.0012943787,0,0.6666666667
+Landeck,Zams,2020,14,1,0,0.0012943787,0,0.6666666667
+Landeck,Zams,2020,15,2,0,0.006102071,0.6666666667,2
+Landeck,Zams,2020,16,0,0,0,0,0
+Landeck,Zams,2020,17,0,0,0,0,0
+Landeck,Zams,2020,18,1,0,0.0012943787,0,0
+Landeck,Zams,2020,19,0,0,0,0,0
+Landeck,Zams,2020,20,3,0,0.0109097633,1,0.8333333333
+Landeck,Zams,2020,21,0,0,0,0,0
+Landeck,Zams,2020,22,0,0,0,0,0
+Landeck,Zams,2020,23,0,0,0,0,0
+Landeck,Zams,2020,24,0,0,0,0,0
+Landeck,Zams,2020,25,1,0,0.0012943787,0.3333333333,1
+Landeck,Pfunds,2020,1,0,0,0,0,0
+Landeck,Pfunds,2020,2,0,0,0,0,0
+Landeck,Pfunds,2020,3,0,0,0,0,0
+Landeck,Pfunds,2020,4,0,0,0,0,0
+Landeck,Pfunds,2020,5,0,0,0,0,0
+Landeck,Pfunds,2020,6,0,0,0,0,0
+Landeck,Pfunds,2020,7,1,0,0.003081854,0,0.3333333333
+Landeck,Pfunds,2020,8,2,0,0.0094921105,1,1.6666666667
+Landeck,Pfunds,2020,9,0,0,0,0,0
+Landeck,Pfunds,2020,10,2,0,0.0094921105,1,1.6666666667
+Landeck,Pfunds,2020,11,0,0,0,0,0
+Landeck,Pfunds,2020,12,0,0,0,0,0
+Landeck,Pfunds,2020,13,1,0,0.003081854,0.3333333333,1
+Landeck,Pfunds,2020,14,0,0,0,0,0
+Landeck,Pfunds,2020,15,0,0,0,0,0
+Landeck,Pfunds,2020,16,0,0,0,0,0
+Landeck,Pfunds,2020,17,0,0,0,0,0
+Landeck,Pfunds,2020,18,0,0,0,0,0
+Landeck,Pfunds,2020,19,0,0,0,0,0
+Landeck,Pfunds,2020,20,0,0,0,0,0
+Landeck,Pfunds,2020,21,0,0,0,0,0
+Landeck,Pfunds,2020,22,1,0,0.003081854,0.3333333333,1
+Landeck,Pfunds,2020,23,0,0,0,0,0
+Landeck,Pfunds,2020,24,0,0,0,0,0
+Landeck,Pfunds,2020,25,1,0,0.003081854,0,0.6666666667
+Landeck,Strengen,2020,1,0,0,0,0,0
+Landeck,Strengen,2020,2,0,0,0,0,0
+Landeck,Strengen,2020,3,1,0,0.0066568047,0,0.3333333333
+Landeck,Strengen,2020,4,0,0,0,0,0
+Landeck,Strengen,2020,5,0,0,0,0,0
+Landeck,Strengen,2020,6,0,0,0,0,0
+Landeck,Strengen,2020,7,0,0,0,0,0
+Landeck,Strengen,2020,8,0,0,0,0,0
+Landeck,Strengen,2020,9,0,0,0,0,0
+Landeck,Strengen,2020,10,0,0,0,0,0
+Landeck,Strengen,2020,11,0,0,0,0,0
+Landeck,Strengen,2020,12,1,0,0.0066568047,0,0.6666666667
+Landeck,Strengen,2020,13,0,0,0,0,0
+Landeck,Strengen,2020,14,0,0,0,0,0
+Landeck,Strengen,2020,15,0,0,0,0,0
+Landeck,Strengen,2020,16,1,0,0.0066568047,0,0
+Landeck,Strengen,2020,17,0,0,0,0,0
+Landeck,Strengen,2020,18,0,0,0,0,0
+Landeck,Strengen,2020,19,0,0,0,0,0
+Landeck,Strengen,2020,20,0,0,0,0,0
+Landeck,Strengen,2020,21,0,0,0,0,0
+Landeck,Strengen,2020,22,0,0,0,0,0
+Landeck,Strengen,2020,23,0,0,0,0,0
+Landeck,Strengen,2020,24,1,0,0.0066568047,0.3333333333,1
+Landeck,Strengen,2020,25,0,0,0,0,0
+Landeck,Fendels,2020,1,0,0,0,0,0
+Landeck,Fendels,2020,2,0,0,0,0,0
+Landeck,Fendels,2020,3,0,0,0,0,0
+Landeck,Fendels,2020,4,0,0,0,0,0
+Landeck,Fendels,2020,5,0,0,0,0,0
+Landeck,Fendels,2020,6,0,0,0,0,0
+Landeck,Fendels,2020,7,0,0,0,0,0
+Landeck,Fendels,2020,8,0,0,0,0,0
+Landeck,Fendels,2020,9,0,0,0,0,0
+Landeck,Fendels,2020,10,0,0,0,0,0
+Landeck,Fendels,2020,11,0,0,0,0,0
+Landeck,Fendels,2020,12,1,0,0.0173816568,0,0.6666666667
+Landeck,Fendels,2020,13,0,0,0,0,0
+Landeck,Fendels,2020,14,0,0,0,0,0
+Landeck,Fendels,2020,15,0,0,0,0,0
+Landeck,Fendels,2020,16,0,0,0,0,0
+Landeck,Fendels,2020,17,0,0,0,0,0
+Landeck,Fendels,2020,18,0,0,0,0,0
+Landeck,Fendels,2020,19,0,0,0,0,0
+Landeck,Fendels,2020,20,0,0,0,0,0
+Landeck,Fendels,2020,21,0,0,0,0,0
+Landeck,Fendels,2020,22,0,0,0,0,0
+Landeck,Fendels,2020,23,0,0,0,0,0
+Landeck,Fendels,2020,24,1,0,0.0173816568,0.3333333333,1
+Landeck,Fendels,2020,25,0,0,0,0,0
+Landeck,Fließ,2020,1,0,0,0,0,0
+Landeck,Fließ,2020,2,0,0,0,0,0
+Landeck,Fließ,2020,3,0,0,0,0,0
+Landeck,Fließ,2020,4,0,0,0,0,0
+Landeck,Fließ,2020,5,0,0,0,0,0
+Landeck,Fließ,2020,6,0,0,0,0,0
+Landeck,Fließ,2020,7,2,0,0.0099852071,0.3333333333,1
+Landeck,Fließ,2020,8,3,0,0.0163954635,1,3
+Landeck,Fließ,2020,9,0,0,0,0,0
+Landeck,Fließ,2020,10,0,0,0,0,0
+Landeck,Fließ,2020,11,1,0,0.0035749507,0.3333333333,1
+Landeck,Fließ,2020,12,2,0,0.0099852071,1,1.6666666667
+Landeck,Fließ,2020,13,2,0,0.0099852071,1,1.6666666667
+Landeck,Fließ,2020,14,1,0,0.0035749507,0.3333333333,1
+Landeck,Fließ,2020,15,0,0,0,0,0
+Landeck,Fließ,2020,16,0,0,0,0,0
+Landeck,Fließ,2020,17,2,0,0.0099852071,1,1.6666666667
+Landeck,Fließ,2020,18,3,0,0.0163954635,2,2.6666666667
+Landeck,Fließ,2020,19,1,0,0.0035749507,0,0.1666666667
+Landeck,Fließ,2020,20,0,0,0,0,0
+Landeck,Fließ,2020,21,0,0,0,0,0
+Landeck,Fließ,2020,22,1,0,0.0035749507,0.3333333333,1
+Landeck,Fließ,2020,23,0,0,0,0,0
+Landeck,Fließ,2020,24,1,0,0.0035749507,0.3333333333,1
+Landeck,Fließ,2020,25,0,0,0,0,0
+Landeck,Flirsch,2020,1,0,0,0,0,0
+Landeck,Flirsch,2020,2,0,0,0,0,0
+Landeck,Flirsch,2020,3,0,0,0,0,0
+Landeck,Flirsch,2020,4,0,0,0,0,0
+Landeck,Flirsch,2020,5,0,0,0,0,0
+Landeck,Flirsch,2020,6,0,0,0,0,0
+Landeck,Flirsch,2020,7,0,0,0,0,0
+Landeck,Flirsch,2020,8,0,0,0,0,0
+Landeck,Flirsch,2020,9,0,0,0,0,0
+Landeck,Flirsch,2020,10,1,0,0.0173816568,0.3333333333,1
+Landeck,Flirsch,2020,11,0,0,0,0,0
+Landeck,Flirsch,2020,12,0,0,0,0,0
+Landeck,Flirsch,2020,13,1,0,0.0173816568,0.3333333333,1
+Landeck,Flirsch,2020,14,0,0,0,0,0
+Landeck,Flirsch,2020,15,0,0,0,0,0
+Landeck,Flirsch,2020,16,0,0,0,0,0
+Landeck,Flirsch,2020,17,0,0,0,0,0
+Landeck,Flirsch,2020,18,1,0,0.0173816568,0.3333333333,1
+Landeck,Flirsch,2020,19,0,0,0,0,0
+Landeck,Flirsch,2020,20,0,0,0,0,0
+Landeck,Flirsch,2020,21,0,0,0,0,0
+Landeck,Flirsch,2020,22,0,0,0,0,0
+Landeck,Flirsch,2020,23,1,0,0.0173816568,0.3333333333,1
+Landeck,Flirsch,2020,24,0,0,0,0,0
+Landeck,Flirsch,2020,25,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,1,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,2,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,3,1,0,0.004561144,0,0.3333333333
+Landeck,Pettneu am Arlberg,2020,4,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,5,1,0,0.004561144,0.3333333333,1
+Landeck,Pettneu am Arlberg,2020,6,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,7,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,8,2,0,0.0109714004,1,1.6666666667
+Landeck,Pettneu am Arlberg,2020,9,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,10,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,11,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,12,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,13,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,14,2,0,0.0109714004,0.6666666667,2
+Landeck,Pettneu am Arlberg,2020,15,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,16,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,17,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,18,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,19,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,20,1,0,0.004561144,0,0.6666666667
+Landeck,Pettneu am Arlberg,2020,21,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,22,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,23,1,0,0.004561144,0,0.6666666667
+Landeck,Pettneu am Arlberg,2020,24,0,0,0,0,0
+Landeck,Pettneu am Arlberg,2020,25,0,0,0,0,0
+Landeck,Nauders,2020,1,1,0,0.0083210059,0,0.6666666667
+Landeck,Nauders,2020,2,0,0,0,0,0
+Landeck,Nauders,2020,3,0,0,0,0,0
+Landeck,Nauders,2020,4,0,0,0,0,0
+Landeck,Nauders,2020,5,0,0,0,0,0
+Landeck,Nauders,2020,6,0,0,0,0,0
+Landeck,Nauders,2020,7,0,0,0,0,0
+Landeck,Nauders,2020,8,0,0,0,0,0
+Landeck,Nauders,2020,9,0,0,0,0,0
+Landeck,Nauders,2020,10,0,0,0,0,0
+Landeck,Nauders,2020,11,1,0,0.0083210059,0,0.1666666667
+Landeck,Nauders,2020,12,0,0,0,0,0
+Landeck,Nauders,2020,13,0,0,0,0,0
+Landeck,Nauders,2020,14,0,0,0,0,0
+Landeck,Nauders,2020,15,0,0,0,0,0
+Landeck,Nauders,2020,16,0,0,0,0,0
+Landeck,Nauders,2020,17,1,0,0.0083210059,0.3333333333,1
+Landeck,Nauders,2020,18,0,0,0,0,0
+Landeck,Nauders,2020,19,0,0,0,0,0
+Landeck,Nauders,2020,20,0,0,0,0,0
+Landeck,Nauders,2020,21,0,0,0,0,0
+Landeck,Nauders,2020,22,0,0,0,0,0
+Landeck,Nauders,2020,23,1,0,0.0083210059,0,0.6666666667
+Landeck,Nauders,2020,24,0,0,0,0,0
+Landeck,Nauders,2020,25,0,0,0,0,0
+Landeck,Landeck,2020,1,3,0,0.0047460552,0,0.5555555556
+Landeck,Landeck,2020,2,2,0,0.001540927,0,0
+Landeck,Landeck,2020,3,2,0,0.001540927,0,0.1111111111
+Landeck,Landeck,2020,4,1,0,0,0,0
+Landeck,Landeck,2020,5,3,0,0.0047460552,0.5,0.6666666667
+Landeck,Landeck,2020,6,2,0,0.001540927,0,0.3333333333
+Landeck,Landeck,2020,7,2,0,0.001540927,0,0
+Landeck,Landeck,2020,8,1,0,0,0,0
+Landeck,Landeck,2020,9,3,0,0.0047460552,0,0
+Landeck,Landeck,2020,10,3,0,0.0047460552,0,0.4166666667
+Landeck,Landeck,2020,11,1,0,0,0,0.1666666667
+Landeck,Landeck,2020,12,3,0,0.0047460552,1,1
+Landeck,Landeck,2020,13,7,0.0192307692,0.017566568,5,2.8333333333
+Landeck,Landeck,2020,14,1,0,0,0,0.6666666667
+Landeck,Landeck,2020,15,5,0,0.0111563116,1,0.75
+Landeck,Landeck,2020,16,1,0,0,0,0
+Landeck,Landeck,2020,17,1,0,0,0,0
+Landeck,Landeck,2020,18,1,0,0,0,0
+Landeck,Landeck,2020,19,1,0,0,0,0.3333333333
+Landeck,Landeck,2020,20,1,0,0,0,0
+Landeck,Landeck,2020,21,0,0,0,0,0
+Landeck,Landeck,2020,22,2,0,0.001540927,0,0.1111111111
+Landeck,Landeck,2020,23,0,0,0,0,0
+Landeck,Landeck,2020,24,0,0,0,0,0
+Landeck,Landeck,2020,25,0,0,0,0,0
+Landeck,Tösens,2020,1,0,0,0,0,0
+Landeck,Tösens,2020,2,0,0,0,0,0
+Landeck,Tösens,2020,3,0,0,0,0,0
+Landeck,Tösens,2020,4,0,0,0,0,0
+Landeck,Tösens,2020,5,0,0,0,0,0
+Landeck,Tösens,2020,6,0,0,0,0,0
+Landeck,Tösens,2020,7,0,0,0,0,0
+Landeck,Tösens,2020,8,0,0,0,0,0
+Landeck,Tösens,2020,9,0,0,0,0,0
+Landeck,Tösens,2020,10,0,0,0,0,0
+Landeck,Tösens,2020,11,1,0,0.0166420118,0.3333333333,1
+Landeck,Tösens,2020,12,0,0,0,0,0
+Landeck,Tösens,2020,13,0,0,0,0,0
+Landeck,Tösens,2020,14,0,0,0,0,0
+Landeck,Tösens,2020,15,0,0,0,0,0
+Landeck,Tösens,2020,16,0,0,0,0,0
+Landeck,Tösens,2020,17,0,0,0,0,0
+Landeck,Tösens,2020,18,0,0,0,0,0
+Landeck,Tösens,2020,19,0,0,0,0,0
+Landeck,Tösens,2020,20,0,0,0,0,0
+Landeck,Tösens,2020,21,2,0.0027472527,0.0358727811,0.6666666667,2
+Landeck,Tösens,2020,22,1,0,0.0166420118,0,0.6666666667
+Landeck,Tösens,2020,23,0,0,0,0,0
+Landeck,Tösens,2020,24,0,0,0,0,0
+Landeck,Tösens,2020,25,0,0,0,0,0
+Landeck,See,2020,1,0,0,0,0,0
+Landeck,See,2020,2,0,0,0,0,0
+Landeck,See,2020,3,0,0,0,0,0
+Landeck,See,2020,4,1,0,0.0170118343,0,0.6666666667
+Landeck,See,2020,5,0,0,0,0,0
+Landeck,See,2020,6,1,0,0.0170118343,0.3333333333,1
+Landeck,See,2020,7,0,0,0,0,0
+Landeck,See,2020,8,0,0,0,0,0
+Landeck,See,2020,9,0,0,0,0,0
+Landeck,See,2020,10,0,0,0,0,0
+Landeck,See,2020,11,0,0,0,0,0
+Landeck,See,2020,12,0,0,0,0,0
+Landeck,See,2020,13,0,0,0,0,0
+Landeck,See,2020,14,1,0,0.0170118343,0.3333333333,1
+Landeck,See,2020,15,0,0,0,0,0
+Landeck,See,2020,16,0,0,0,0,0
+Landeck,See,2020,17,0,0,0,0,0
+Landeck,See,2020,18,0,0,0,0,0
+Landeck,See,2020,19,0,0,0,0,0
+Landeck,See,2020,20,0,0,0,0,0
+Landeck,See,2020,21,0,0,0,0,0
+Landeck,See,2020,22,2,0.0032051282,0.0362426036,0.6666666667,2
+Landeck,See,2020,23,0,0,0,0,0
+Landeck,See,2020,24,0,0,0,0,0
+Landeck,See,2020,25,0,0,0,0,0
+Landeck,Serfaus,2020,1,0,0,0,0,0
+Landeck,Serfaus,2020,2,0,0,0,0,0
+Landeck,Serfaus,2020,3,0,0,0,0,0
+Landeck,Serfaus,2020,4,0,0,0,0,0
+Landeck,Serfaus,2020,5,0,0,0,0,0
+Landeck,Serfaus,2020,6,0,0,0,0,0
+Landeck,Serfaus,2020,7,0,0,0,0,0
+Landeck,Serfaus,2020,8,0,0,0,0,0
+Landeck,Serfaus,2020,9,0,0,0,0,0
+Landeck,Serfaus,2020,10,0,0,0,0,0
+Landeck,Serfaus,2020,11,1,0,0.0181213018,0.3333333333,1
+Landeck,Serfaus,2020,12,1,0,0.0181213018,0.3333333333,1
+Landeck,Serfaus,2020,13,0,0,0,0,0
+Landeck,Serfaus,2020,14,0,0,0,0,0
+Landeck,Serfaus,2020,15,0,0,0,0,0
+Landeck,Serfaus,2020,16,0,0,0,0,0
+Landeck,Serfaus,2020,17,0,0,0,0,0
+Landeck,Serfaus,2020,18,0,0,0,0,0
+Landeck,Serfaus,2020,19,0,0,0,0,0
+Landeck,Serfaus,2020,20,0,0,0,0,0
+Landeck,Serfaus,2020,21,0,0,0,0,0
+Landeck,Serfaus,2020,22,1,0,0.0181213018,0.3333333333,1
+Landeck,Serfaus,2020,23,0,0,0,0,0
+Landeck,Serfaus,2020,24,0,0,0,0,0
+Landeck,Serfaus,2020,25,0,0,0,0,0
+Landeck,Schönwies,2020,1,0,0,0,0,0
+Landeck,Schönwies,2020,2,0,0,0,0,0
+Landeck,Schönwies,2020,3,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,4,0,0,0,0,0
+Landeck,Schönwies,2020,5,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,6,0,0,0,0,0
+Landeck,Schönwies,2020,7,0,0,0,0,0
+Landeck,Schönwies,2020,8,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,9,1,0,0.0073964497,0,0.3333333333
+Landeck,Schönwies,2020,10,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,11,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,12,0,0,0,0,0
+Landeck,Schönwies,2020,13,0,0,0,0,0
+Landeck,Schönwies,2020,14,1,0,0.0073964497,0,0
+Landeck,Schönwies,2020,15,0,0,0,0,0
+Landeck,Schönwies,2020,16,1,0,0.0073964497,0,0.6666666667
+Landeck,Schönwies,2020,17,0,0,0,0,0
+Landeck,Schönwies,2020,18,0,0,0,0,0
+Landeck,Schönwies,2020,19,0,0,0,0,0
+Landeck,Schönwies,2020,20,1,0,0.0073964497,0.3333333333,1
+Landeck,Schönwies,2020,21,0,0,0,0,0
+Landeck,Schönwies,2020,22,1,0,0.0073964497,0,0
+Landeck,Schönwies,2020,23,0,0,0,0,0
+Landeck,Schönwies,2020,24,0,0,0,0,0
+Landeck,Schönwies,2020,25,0,0,0,0,0
+Landeck,Grins,2020,1,0,0,0,0,0
+Landeck,Grins,2020,2,0,0,0,0,0
+Landeck,Grins,2020,3,0,0,0,0,0
+Landeck,Grins,2020,4,0,0,0,0,0
+Landeck,Grins,2020,5,0,0,0,0,0
+Landeck,Grins,2020,6,2,0,0.0170118343,0.6666666667,2
+Landeck,Grins,2020,7,0,0,0,0,0
+Landeck,Grins,2020,8,1,0,0.0073964497,0.3333333333,1
+Landeck,Grins,2020,9,0,0,0,0,0
+Landeck,Grins,2020,10,0,0,0,0,0
+Landeck,Grins,2020,11,0,0,0,0,0
+Landeck,Grins,2020,12,0,0,0,0,0
+Landeck,Grins,2020,13,0,0,0,0,0
+Landeck,Grins,2020,14,0,0,0,0,0
+Landeck,Grins,2020,15,1,0,0.0073964497,0,0.6666666667
+Landeck,Grins,2020,16,0,0,0,0,0
+Landeck,Grins,2020,17,0,0,0,0,0
+Landeck,Grins,2020,18,0,0,0,0,0
+Landeck,Grins,2020,19,0,0,0,0,0
+Landeck,Grins,2020,20,0,0,0,0,0
+Landeck,Grins,2020,21,2,0,0.0170118343,1,1.6666666667
+Landeck,Grins,2020,22,0,0,0,0,0
+Landeck,Grins,2020,23,0,0,0,0,0
+Landeck,Grins,2020,24,0,0,0,0,0
+Landeck,Grins,2020,25,0,0,0,0,0
+Landeck,Ladis,2020,1,0,0,0,0,0
+Landeck,Ladis,2020,2,0,0,0,0,0
+Landeck,Ladis,2020,3,0,0,0,0,0
+Landeck,Ladis,2020,4,0,0,0,0,0
+Landeck,Ladis,2020,5,0,0,0,0,0
+Landeck,Ladis,2020,6,0,0,0,0,0
+Landeck,Ladis,2020,7,0,0,0,0,0
+Landeck,Ladis,2020,8,0,0,0,0,0
+Landeck,Ladis,2020,9,0,0,0,0,0
+Landeck,Ladis,2020,10,0,0,0,0,0
+Landeck,Ladis,2020,11,1,0,0.0177514793,0.3333333333,1
+Landeck,Ladis,2020,12,0,0,0,0,0
+Landeck,Ladis,2020,13,1,0,0.0177514793,0,0.6666666667
+Landeck,Ladis,2020,14,0,0,0,0,0
+Landeck,Ladis,2020,15,0,0,0,0,0
+Landeck,Ladis,2020,16,0,0,0,0,0
+Landeck,Ladis,2020,17,0,0,0,0,0
+Landeck,Ladis,2020,18,0,0,0,0,0
+Landeck,Ladis,2020,19,1,0,0.0177514793,0.3333333333,1
+Landeck,Ladis,2020,20,0,0,0,0,0
+Landeck,Ladis,2020,21,0,0,0,0,0
+Landeck,Ladis,2020,22,0,0,0,0,0
+Landeck,Ladis,2020,23,0,0,0,0,0
+Landeck,Ladis,2020,24,0,0,0,0,0
+Landeck,Ladis,2020,25,0,0,0,0,0
+Landeck,Prutz,2020,1,0,0,0,0,0
+Landeck,Prutz,2020,2,1,0,0.0070266272,0.3333333333,1
+Landeck,Prutz,2020,3,0,0,0,0,0
+Landeck,Prutz,2020,4,0,0,0,0,0
+Landeck,Prutz,2020,5,0,0,0,0,0
+Landeck,Prutz,2020,6,0,0,0,0,0
+Landeck,Prutz,2020,7,0,0,0,0,0
+Landeck,Prutz,2020,8,0,0,0,0,0
+Landeck,Prutz,2020,9,0,0,0,0,0
+Landeck,Prutz,2020,10,0,0,0,0,0
+Landeck,Prutz,2020,11,0,0,0,0,0
+Landeck,Prutz,2020,12,0,0,0,0,0
+Landeck,Prutz,2020,13,0,0,0,0,0
+Landeck,Prutz,2020,14,0,0,0,0,0
+Landeck,Prutz,2020,15,0,0,0,0,0
+Landeck,Prutz,2020,16,0,0,0,0,0
+Landeck,Prutz,2020,17,1,0,0.0070266272,0,0.6666666667
+Landeck,Prutz,2020,18,0,0,0,0,0
+Landeck,Prutz,2020,19,1,0,0.0070266272,0.3333333333,1
+Landeck,Prutz,2020,20,0,0,0,0,0
+Landeck,Prutz,2020,21,0,0,0,0,0
+Landeck,Prutz,2020,22,0,0,0,0,0
+Landeck,Prutz,2020,23,0,0,0,0,0
+Landeck,Prutz,2020,24,0,0,0,0,0
+Landeck,Prutz,2020,25,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,1,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,2,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,3,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,4,1,0,0.0140532544,0,0.3333333333
+Landeck,St. Anton am Arlberg,2020,5,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,6,1,0,0.0140532544,0.3333333333,1
+Landeck,St. Anton am Arlberg,2020,7,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,8,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,9,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,10,1,0,0.0140532544,0.3333333333,1
+Landeck,St. Anton am Arlberg,2020,11,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,12,2,0.0013736264,0.0332840237,1,1.6666666667
+Landeck,St. Anton am Arlberg,2020,13,1,0,0.0140532544,0.3333333333,1
+Landeck,St. Anton am Arlberg,2020,14,3,0.0027472527,0.0525147929,1,3
+Landeck,St. Anton am Arlberg,2020,15,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,16,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,17,1,0,0.0140532544,0.3333333333,1
+Landeck,St. Anton am Arlberg,2020,18,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,19,2,0.0013736264,0.0332840237,1,1.6666666667
+Landeck,St. Anton am Arlberg,2020,20,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,21,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,22,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,23,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,24,0,0,0,0,0
+Landeck,St. Anton am Arlberg,2020,25,0,0,0,0,0
+Landeck,Ischgl,2020,1,0,0,0,0,0
+Landeck,Ischgl,2020,2,1,0,0.0073964497,0.3333333333,1
+Landeck,Ischgl,2020,3,1,0,0.0073964497,0,0.3333333333
+Landeck,Ischgl,2020,4,0,0,0,0,0
+Landeck,Ischgl,2020,5,1,0,0.0073964497,0.3333333333,1
+Landeck,Ischgl,2020,6,0,0,0,0,0
+Landeck,Ischgl,2020,7,0,0,0,0,0
+Landeck,Ischgl,2020,8,0,0,0,0,0
+Landeck,Ischgl,2020,9,0,0,0,0,0
+Landeck,Ischgl,2020,10,0,0,0,0,0
+Landeck,Ischgl,2020,11,1,0,0.0073964497,0,0.6666666667
+Landeck,Ischgl,2020,12,2,0,0.0170118343,1,1.6666666667
+Landeck,Ischgl,2020,13,1,0,0.0073964497,0,0.1666666667
+Landeck,Ischgl,2020,14,2,0,0.0170118343,0.6666666667,2
+Landeck,Ischgl,2020,15,3,0.0192307692,0.0266272189,1,3
+Landeck,Ischgl,2020,16,0,0,0,0,0
+Landeck,Ischgl,2020,17,0,0,0,0,0
+Landeck,Ischgl,2020,18,1,0,0.0073964497,0.3333333333,1
+Landeck,Ischgl,2020,19,0,0,0,0,0
+Landeck,Ischgl,2020,20,0,0,0,0,0
+Landeck,Ischgl,2020,21,0,0,0,0,0
+Landeck,Ischgl,2020,22,0,0,0,0,0
+Landeck,Ischgl,2020,23,0,0,0,0,0
+Landeck,Ischgl,2020,24,0,0,0,0,0
+Landeck,Ischgl,2020,25,0,0,0,0,0
+Landeck,Fiss,2020,1,0,0,0,0,0
+Landeck,Fiss,2020,2,0,0,0,0,0
+Landeck,Fiss,2020,3,0,0,0,0,0
+Landeck,Fiss,2020,4,0,0,0,0,0
+Landeck,Fiss,2020,5,1,0,0.0159023669,0,0.3333333333
+Landeck,Fiss,2020,6,0,0,0,0,0
+Landeck,Fiss,2020,7,0,0,0,0,0
+Landeck,Fiss,2020,8,0,0,0,0,0
+Landeck,Fiss,2020,9,0,0,0,0,0
+Landeck,Fiss,2020,10,0,0,0,0,0
+Landeck,Fiss,2020,11,0,0,0,0,0
+Landeck,Fiss,2020,12,0,0,0,0,0
+Landeck,Fiss,2020,13,0,0,0,0,0
+Landeck,Fiss,2020,14,1,0,0.0159023669,0,0.3333333333
+Landeck,Fiss,2020,15,0,0,0,0,0
+Landeck,Fiss,2020,16,0,0,0,0,0
+Landeck,Fiss,2020,17,0,0,0,0,0
+Landeck,Fiss,2020,18,0,0,0,0,0
+Landeck,Fiss,2020,19,0,0,0,0,0
+Landeck,Fiss,2020,20,0,0,0,0,0
+Landeck,Fiss,2020,21,0,0,0,0,0
+Landeck,Fiss,2020,22,0,0,0,0,0
+Landeck,Fiss,2020,23,0,0,0,0,0
+Landeck,Fiss,2020,24,0,0,0,0,0
+Landeck,Fiss,2020,25,0,0,0,0,0
+Landeck,Kauns,2020,1,0,0,0,0,0
+Landeck,Kauns,2020,2,1,0,0.0184911243,0.3333333333,1
+Landeck,Kauns,2020,3,0,0,0,0,0
+Landeck,Kauns,2020,4,0,0,0,0,0
+Landeck,Kauns,2020,5,0,0,0,0,0
+Landeck,Kauns,2020,6,0,0,0,0,0
+Landeck,Kauns,2020,7,0,0,0,0,0
+Landeck,Kauns,2020,8,0,0,0,0,0
+Landeck,Kauns,2020,9,0,0,0,0,0
+Landeck,Kauns,2020,10,0,0,0,0,0
+Landeck,Kauns,2020,11,0,0,0,0,0
+Landeck,Kauns,2020,12,0,0,0,0,0
+Landeck,Kauns,2020,13,0,0,0,0,0
+Landeck,Kauns,2020,14,1,0,0.0184911243,0.3333333333,1
+Landeck,Kauns,2020,15,0,0,0,0,0
+Landeck,Kauns,2020,16,0,0,0,0,0
+Landeck,Kauns,2020,17,0,0,0,0,0
+Landeck,Kauns,2020,18,0,0,0,0,0
+Landeck,Kauns,2020,19,0,0,0,0,0
+Landeck,Kauns,2020,20,0,0,0,0,0
+Landeck,Kauns,2020,21,0,0,0,0,0
+Landeck,Kauns,2020,22,0,0,0,0,0
+Landeck,Kauns,2020,23,0,0,0,0,0
+Landeck,Kauns,2020,24,0,0,0,0,0
+Landeck,Kauns,2020,25,0,0,0,0,0
+Landeck,Kappl,2020,1,1,0,0.003821499,0,0.1666666667
+Landeck,Kappl,2020,2,0,0,0,0,0
+Landeck,Kappl,2020,3,0,0,0,0,0
+Landeck,Kappl,2020,4,0,0,0,0,0
+Landeck,Kappl,2020,5,0,0,0,0,0
+Landeck,Kappl,2020,6,0,0,0,0,0
+Landeck,Kappl,2020,7,0,0,0,0,0
+Landeck,Kappl,2020,8,1,0,0.003821499,0.3333333333,1
+Landeck,Kappl,2020,9,0,0,0,0,0
+Landeck,Kappl,2020,10,0,0,0,0,0
+Landeck,Kappl,2020,11,1,0,0.003821499,0,0.6666666667
+Landeck,Kappl,2020,12,0,0,0,0,0
+Landeck,Kappl,2020,13,1,0,0.003821499,0,0.6666666667
+Landeck,Kappl,2020,14,0,0,0,0,0
+Landeck,Kappl,2020,15,0,0,0,0,0
+Landeck,Kappl,2020,16,0,0,0,0,0
+Landeck,Kappl,2020,17,0,0,0,0,0
+Landeck,Kappl,2020,18,0,0,0,0,0
+Landeck,Kappl,2020,19,0,0,0,0,0
+Landeck,Kappl,2020,20,0,0,0,0,0
+Landeck,Kappl,2020,21,0,0,0,0,0
+Landeck,Kappl,2020,22,0,0,0,0,0
+Landeck,Kappl,2020,23,0,0,0,0,0
+Landeck,Kappl,2020,24,0,0,0,0,0
+Landeck,Kappl,2020,25,0,0,0,0,0
+Landeck,Tobadill,2020,1,0,0,0,0,0
+Landeck,Tobadill,2020,2,1,0,0.0173816568,0.3333333333,1
+Landeck,Tobadill,2020,3,0,0,0,0,0
+Landeck,Tobadill,2020,4,0,0,0,0,0
+Landeck,Tobadill,2020,5,0,0,0,0,0
+Landeck,Tobadill,2020,6,0,0,0,0,0
+Landeck,Tobadill,2020,7,0,0,0,0,0
+Landeck,Tobadill,2020,8,0,0,0,0,0
+Landeck,Tobadill,2020,9,1,0,0.0173816568,0.3333333333,1
+Landeck,Tobadill,2020,10,0,0,0,0,0
+Landeck,Tobadill,2020,11,0,0,0,0,0
+Landeck,Tobadill,2020,12,0,0,0,0,0
+Landeck,Tobadill,2020,13,0,0,0,0,0
+Landeck,Tobadill,2020,14,0,0,0,0,0
+Landeck,Tobadill,2020,15,0,0,0,0,0
+Landeck,Tobadill,2020,16,0,0,0,0,0
+Landeck,Tobadill,2020,17,0,0,0,0,0
+Landeck,Tobadill,2020,18,0,0,0,0,0
+Landeck,Tobadill,2020,19,0,0,0,0,0
+Landeck,Tobadill,2020,20,0,0,0,0,0
+Landeck,Tobadill,2020,21,0,0,0,0,0
+Landeck,Tobadill,2020,22,0,0,0,0,0
+Landeck,Tobadill,2020,23,0,0,0,0,0
+Landeck,Tobadill,2020,24,0,0,0,0,0
+Landeck,Tobadill,2020,25,0,0,0,0,0
+Landeck,Pians,2020,1,0,0,0,0,0
+Landeck,Pians,2020,2,0,0,0,0,0
+Landeck,Pians,2020,3,0,0,0,0,0
+Landeck,Pians,2020,4,0,0,0,0,0
+Landeck,Pians,2020,5,1,0,0.0049309665,0.3333333333,1
+Landeck,Pians,2020,6,0,0,0,0,0
+Landeck,Pians,2020,7,0,0,0,0,0
+Landeck,Pians,2020,8,0,0,0,0,0
+Landeck,Pians,2020,9,2,0,0.0113412229,0.6666666667,2
+Landeck,Pians,2020,10,0,0,0,0,0
+Landeck,Pians,2020,11,0,0,0,0,0
+Landeck,Pians,2020,12,0,0,0,0,0
+Landeck,Pians,2020,13,0,0,0,0,0
+Landeck,Pians,2020,14,0,0,0,0,0
+Landeck,Pians,2020,15,0,0,0,0,0
+Landeck,Pians,2020,16,0,0,0,0,0
+Landeck,Pians,2020,17,0,0,0,0,0
+Landeck,Pians,2020,18,0,0,0,0,0
+Landeck,Pians,2020,19,0,0,0,0,0
+Landeck,Pians,2020,20,0,0,0,0,0
+Landeck,Pians,2020,21,0,0,0,0,0
+Landeck,Pians,2020,22,0,0,0,0,0
+Landeck,Pians,2020,23,0,0,0,0,0
+Landeck,Pians,2020,24,0,0,0,0,0
+Landeck,Pians,2020,25,0,0,0,0,0
+Landeck,Kaunertal,2020,1,0,0,0,0,0
+Landeck,Kaunertal,2020,2,0,0,0,0,0
+Landeck,Kaunertal,2020,3,0,0,0,0,0
+Landeck,Kaunertal,2020,4,1,0,0.0079511834,0.3333333333,1
+Landeck,Kaunertal,2020,5,0,0,0,0,0
+Landeck,Kaunertal,2020,6,0,0,0,0,0
+Landeck,Kaunertal,2020,7,2,0,0.017566568,0.6666666667,2
+Landeck,Kaunertal,2020,8,0,0,0,0,0
+Landeck,Kaunertal,2020,9,0,0,0,0,0
+Landeck,Kaunertal,2020,10,0,0,0,0,0
+Landeck,Kaunertal,2020,11,0,0,0,0,0
+Landeck,Kaunertal,2020,12,0,0,0,0,0
+Landeck,Kaunertal,2020,13,0,0,0,0,0
+Landeck,Kaunertal,2020,14,0,0,0,0,0
+Landeck,Kaunertal,2020,15,0,0,0,0,0
+Landeck,Kaunertal,2020,16,0,0,0,0,0
+Landeck,Kaunertal,2020,17,0,0,0,0,0
+Landeck,Kaunertal,2020,18,0,0,0,0,0
+Landeck,Kaunertal,2020,19,0,0,0,0,0
+Landeck,Kaunertal,2020,20,0,0,0,0,0
+Landeck,Kaunertal,2020,21,0,0,0,0,0
+Landeck,Kaunertal,2020,22,0,0,0,0,0
+Landeck,Kaunertal,2020,23,0,0,0,0,0
+Landeck,Kaunertal,2020,24,0,0,0,0,0
+Landeck,Kaunertal,2020,25,0,0,0,0,0
+Landeck,Faggen,2020,1,0,0,0,0,0
+Landeck,Faggen,2020,2,0,0,0,0,0
+Landeck,Faggen,2020,3,0,0,0,0,0
+Landeck,Faggen,2020,4,1,0,0.0188609467,0.3333333333,1
+Landeck,Faggen,2020,5,2,0.0192307692,0.038091716,0.6666666667,2
+Landeck,Faggen,2020,6,0,0,0,0,0
+Landeck,Faggen,2020,7,0,0,0,0,0
+Landeck,Faggen,2020,8,0,0,0,0,0
+Landeck,Faggen,2020,9,0,0,0,0,0
+Landeck,Faggen,2020,10,0,0,0,0,0
+Landeck,Faggen,2020,11,0,0,0,0,0
+Landeck,Faggen,2020,12,0,0,0,0,0
+Landeck,Faggen,2020,13,0,0,0,0,0
+Landeck,Faggen,2020,14,0,0,0,0,0
+Landeck,Faggen,2020,15,0,0,0,0,0
+Landeck,Faggen,2020,16,0,0,0,0,0
+Landeck,Faggen,2020,17,0,0,0,0,0
+Landeck,Faggen,2020,18,0,0,0,0,0
+Landeck,Faggen,2020,19,0,0,0,0,0
+Landeck,Faggen,2020,20,0,0,0,0,0
+Landeck,Faggen,2020,21,0,0,0,0,0
+Landeck,Faggen,2020,22,0,0,0,0,0
+Landeck,Faggen,2020,23,0,0,0,0,0
+Landeck,Faggen,2020,24,0,0,0,0,0
+Landeck,Faggen,2020,25,0,0,0,0,0
+Landeck,Galtür,2020,1,0,0,0,0,0
+Landeck,Galtür,2020,2,0,0,0,0,0
+Landeck,Galtür,2020,3,0,0,0,0,0
+Landeck,Galtür,2020,4,1,0,0.0086908284,0.3333333333,1
+Landeck,Galtür,2020,5,0,0,0,0,0
+Landeck,Galtür,2020,6,0,0,0,0,0
+Landeck,Galtür,2020,7,0,0,0,0,0
+Landeck,Galtür,2020,8,0,0,0,0,0
+Landeck,Galtür,2020,9,0,0,0,0,0
+Landeck,Galtür,2020,10,0,0,0,0,0
+Landeck,Galtür,2020,11,0,0,0,0,0
+Landeck,Galtür,2020,12,0,0,0,0,0
+Landeck,Galtür,2020,13,0,0,0,0,0
+Landeck,Galtür,2020,14,0,0,0,0,0
+Landeck,Galtür,2020,15,0,0,0,0,0
+Landeck,Galtür,2020,16,0,0,0,0,0
+Landeck,Galtür,2020,17,0,0,0,0,0
+Landeck,Galtür,2020,18,0,0,0,0,0
+Landeck,Galtür,2020,19,0,0,0,0,0
+Landeck,Galtür,2020,20,0,0,0,0,0
+Landeck,Galtür,2020,21,0,0,0,0,0
+Landeck,Galtür,2020,22,0,0,0,0,0
+Landeck,Galtür,2020,23,0,0,0,0,0
+Landeck,Galtür,2020,24,0,0,0,0,0
+Landeck,Galtür,2020,25,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,1,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,2,1,0,0.0166420118,0.3333333333,1
+Landeck,Stanz bei Landeck,2020,3,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,4,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,5,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,6,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,7,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,8,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,9,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,10,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,11,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,12,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,13,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,14,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,15,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,16,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,17,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,18,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,19,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,20,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,21,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,22,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,23,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,24,0,0,0,0,0
+Landeck,Stanz bei Landeck,2020,25,0,0,0,0,0
+Landeck,Spiss,2020,1,0,0,0,0,0
+Landeck,Spiss,2020,2,1,0,0.0085059172,0.3333333333,1
+Landeck,Spiss,2020,3,0,0,0,0,0
+Landeck,Spiss,2020,4,0,0,0,0,0
+Landeck,Spiss,2020,5,0,0,0,0,0
+Landeck,Spiss,2020,6,0,0,0,0,0
+Landeck,Spiss,2020,7,0,0,0,0,0
+Landeck,Spiss,2020,8,0,0,0,0,0
+Landeck,Spiss,2020,9,0,0,0,0,0
+Landeck,Spiss,2020,10,0,0,0,0,0
+Landeck,Spiss,2020,11,0,0,0,0,0
+Landeck,Spiss,2020,12,0,0,0,0,0
+Landeck,Spiss,2020,13,0,0,0,0,0
+Landeck,Spiss,2020,14,0,0,0,0,0
+Landeck,Spiss,2020,15,0,0,0,0,0
+Landeck,Spiss,2020,16,0,0,0,0,0
+Landeck,Spiss,2020,17,0,0,0,0,0
+Landeck,Spiss,2020,18,0,0,0,0,0
+Landeck,Spiss,2020,19,0,0,0,0,0
+Landeck,Spiss,2020,20,0,0,0,0,0
+Landeck,Spiss,2020,21,0,0,0,0,0
+Landeck,Spiss,2020,22,0,0,0,0,0
+Landeck,Spiss,2020,23,0,0,0,0,0
+Landeck,Spiss,2020,24,0,0,0,0,0
+Landeck,Spiss,2020,25,0,0,0,0,0
+Landeck,Kaunerberg,2020,1,0,0,0,0,0
+Landeck,Kaunerberg,2020,2,0,0,0,0,0
+Landeck,Kaunerberg,2020,3,0,0,0,0,0
+Landeck,Kaunerberg,2020,4,0,0,0,0,0
+Landeck,Kaunerberg,2020,5,0,0,0,0,0
+Landeck,Kaunerberg,2020,6,0,0,0,0,0
+Landeck,Kaunerberg,2020,7,0,0,0,0,0
+Landeck,Kaunerberg,2020,8,0,0,0,0,0
+Landeck,Kaunerberg,2020,9,0,0,0,0,0
+Landeck,Kaunerberg,2020,10,0,0,0,0,0
+Landeck,Kaunerberg,2020,11,0,0,0,0,0
+Landeck,Kaunerberg,2020,12,0,0,0,0,0
+Landeck,Kaunerberg,2020,13,0,0,0,0,0
+Landeck,Kaunerberg,2020,14,0,0,0,0,0
+Landeck,Kaunerberg,2020,15,0,0,0,0,0
+Landeck,Kaunerberg,2020,16,0,0,0,0,0
+Landeck,Kaunerberg,2020,17,0,0,0,0,0
+Landeck,Kaunerberg,2020,18,0,0,0,0,0
+Landeck,Kaunerberg,2020,19,0,0,0,0,0
+Landeck,Kaunerberg,2020,20,0,0,0,0,0
+Landeck,Kaunerberg,2020,21,0,0,0,0,0
+Landeck,Kaunerberg,2020,22,0,0,0,0,0
+Landeck,Kaunerberg,2020,23,0,0,0,0,0
+Landeck,Kaunerberg,2020,24,0,0,0,0,0
+Landeck,Kaunerberg,2020,25,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,1,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,2,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,3,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,4,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,5,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,6,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,7,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,8,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,9,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,10,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,11,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,12,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,13,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,14,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,15,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,16,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,17,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,18,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,19,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,20,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,21,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,22,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,23,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,24,0,0,0,0,0
+Landeck,Ried im Oberinntal,2020,25,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,1,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,2,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,3,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,4,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,5,1,0,0.0014792899,0,0.6666666667
+Lienz,Matrei in Osttirol,2020,6,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,7,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,8,1,0,0.0014792899,0,0.1666666667
+Lienz,Matrei in Osttirol,2020,9,1,0,0.0014792899,0,0
+Lienz,Matrei in Osttirol,2020,10,1,0,0.0014792899,0,0
+Lienz,Matrei in Osttirol,2020,11,1,0,0.0014792899,0,0
+Lienz,Matrei in Osttirol,2020,12,3,0,0.0110946746,2,2.6666666667
+Lienz,Matrei in Osttirol,2020,13,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,14,1,0,0.0014792899,0,0.1666666667
+Lienz,Matrei in Osttirol,2020,15,1,0,0.0014792899,0,0.6666666667
+Lienz,Matrei in Osttirol,2020,16,1,0,0.0014792899,0,0
+Lienz,Matrei in Osttirol,2020,17,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,18,1,0,0.0014792899,0.3333333333,1
+Lienz,Matrei in Osttirol,2020,19,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,20,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,21,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,22,0,0,0,0,0
+Lienz,Matrei in Osttirol,2020,23,1,0,0.0014792899,0,0.6666666667
+Lienz,Matrei in Osttirol,2020,24,1,0,0.0014792899,0,0.3333333333
+Lienz,Matrei in Osttirol,2020,25,1,0,0.0014792899,0,0
+Lienz,Dölsach,2020,1,1,0,0.0072115385,0.3333333333,1
+Lienz,Dölsach,2020,2,0,0,0,0,0
+Lienz,Dölsach,2020,3,0,0,0,0,0
+Lienz,Dölsach,2020,4,0,0,0,0,0
+Lienz,Dölsach,2020,5,0,0,0,0,0
+Lienz,Dölsach,2020,6,1,0,0.0072115385,0,0
+Lienz,Dölsach,2020,7,0,0,0,0,0
+Lienz,Dölsach,2020,8,0,0,0,0,0
+Lienz,Dölsach,2020,9,0,0,0,0,0
+Lienz,Dölsach,2020,10,2,0,0.0168269231,0.5,1.3333333333
+Lienz,Dölsach,2020,11,0,0,0,0,0
+Lienz,Dölsach,2020,12,1,0,0.0072115385,0,0.3333333333
+Lienz,Dölsach,2020,13,0,0,0,0,0
+Lienz,Dölsach,2020,14,0,0,0,0,0
+Lienz,Dölsach,2020,15,0,0,0,0,0
+Lienz,Dölsach,2020,16,0,0,0,0,0
+Lienz,Dölsach,2020,17,0,0,0,0,0
+Lienz,Dölsach,2020,18,0,0,0,0,0
+Lienz,Dölsach,2020,19,0,0,0,0,0
+Lienz,Dölsach,2020,20,0,0,0,0,0
+Lienz,Dölsach,2020,21,0,0,0,0,0
+Lienz,Dölsach,2020,22,1,0,0.0072115385,0,0.6666666667
+Lienz,Dölsach,2020,23,0,0,0,0,0
+Lienz,Dölsach,2020,24,0,0,0,0,0
+Lienz,Dölsach,2020,25,1,0,0.0072115385,0.3333333333,1
+Lienz,Lienz,2020,1,1,0,0,0,0
+Lienz,Lienz,2020,2,2,0,0,0,0
+Lienz,Lienz,2020,3,3,0,0,0,0
+Lienz,Lienz,2020,4,3,0,0,0,0.0833333333
+Lienz,Lienz,2020,5,5,0,0.0051775148,0,0.4
+Lienz,Lienz,2020,6,2,0,0,0,0
+Lienz,Lienz,2020,7,2,0,0,0,0
+Lienz,Lienz,2020,8,3,0,0,0,0
+Lienz,Lienz,2020,9,3,0,0,0,0.3333333333
+Lienz,Lienz,2020,10,5,0,0.0051775148,1,0.5833333333
+Lienz,Lienz,2020,11,3,0,0,0,0
+Lienz,Lienz,2020,12,2,0,0,0,0
+Lienz,Lienz,2020,13,3,0,0,0,0
+Lienz,Lienz,2020,14,2,0,0,0,0
+Lienz,Lienz,2020,15,5,0,0.0051775148,0,0
+Lienz,Lienz,2020,16,2,0,0,0,0
+Lienz,Lienz,2020,17,2,0,0,0,0
+Lienz,Lienz,2020,18,1,0,0,0,0
+Lienz,Lienz,2020,19,0,0,0,0,0
+Lienz,Lienz,2020,20,0,0,0,0,0
+Lienz,Lienz,2020,21,0,0,0,0,0
+Lienz,Lienz,2020,22,0,0,0,0,0
+Lienz,Lienz,2020,23,2,0,0,0,0
+Lienz,Lienz,2020,24,0,0,0,0,0
+Lienz,Lienz,2020,25,1,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,1,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,2,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,3,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,4,1,0,0.0170118343,0.3333333333,1
+Lienz,St. Veit in Defereggen,2020,5,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,6,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,7,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,8,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,9,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,10,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,11,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,12,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,13,1,0,0.0170118343,0,0.6666666667
+Lienz,St. Veit in Defereggen,2020,14,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,15,1,0,0.0170118343,0,0.6666666667
+Lienz,St. Veit in Defereggen,2020,16,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,17,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,18,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,19,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,20,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,21,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,22,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,23,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,24,0,0,0,0,0
+Lienz,St. Veit in Defereggen,2020,25,1,0,0.0170118343,0,0.6666666667
+Lienz,Ainet,2020,1,0,0,0,0,0
+Lienz,Ainet,2020,2,0,0,0,0,0
+Lienz,Ainet,2020,3,0,0,0,0,0
+Lienz,Ainet,2020,4,2,0.0024038462,0.0355029586,0.5,1.3333333333
+Lienz,Ainet,2020,5,0,0,0,0,0
+Lienz,Ainet,2020,6,0,0,0,0,0
+Lienz,Ainet,2020,7,0,0,0,0,0
+Lienz,Ainet,2020,8,0,0,0,0,0
+Lienz,Ainet,2020,9,0,0,0,0,0
+Lienz,Ainet,2020,10,0,0,0,0,0
+Lienz,Ainet,2020,11,0,0,0,0,0
+Lienz,Ainet,2020,12,0,0,0,0,0
+Lienz,Ainet,2020,13,0,0,0,0,0
+Lienz,Ainet,2020,14,0,0,0,0,0
+Lienz,Ainet,2020,15,0,0,0,0,0
+Lienz,Ainet,2020,16,0,0,0,0,0
+Lienz,Ainet,2020,17,1,0,0.0162721893,0.3333333333,1
+Lienz,Ainet,2020,18,0,0,0,0,0
+Lienz,Ainet,2020,19,0,0,0,0,0
+Lienz,Ainet,2020,20,0,0,0,0,0
+Lienz,Ainet,2020,21,0,0,0,0,0
+Lienz,Ainet,2020,22,0,0,0,0,0
+Lienz,Ainet,2020,23,2,0.0024038462,0.0355029586,1,1.6666666667
+Lienz,Ainet,2020,24,1,0,0.0162721893,0.3333333333,1
+Lienz,Ainet,2020,25,0,0,0,0,0
+Lienz,Tristach,2020,1,0,0,0,0,0
+Lienz,Tristach,2020,2,1,0,0.0166420118,0.3333333333,1
+Lienz,Tristach,2020,3,0,0,0,0,0
+Lienz,Tristach,2020,4,1,0,0.0166420118,0,0.6666666667
+Lienz,Tristach,2020,5,0,0,0,0,0
+Lienz,Tristach,2020,6,0,0,0,0,0
+Lienz,Tristach,2020,7,0,0,0,0,0
+Lienz,Tristach,2020,8,1,0,0.0166420118,0.3333333333,1
+Lienz,Tristach,2020,9,0,0,0,0,0
+Lienz,Tristach,2020,10,0,0,0,0,0
+Lienz,Tristach,2020,11,1,0,0.0166420118,0,0.6666666667
+Lienz,Tristach,2020,12,1,0,0.0166420118,0,0.6666666667
+Lienz,Tristach,2020,13,0,0,0,0,0
+Lienz,Tristach,2020,14,0,0,0,0,0
+Lienz,Tristach,2020,15,0,0,0,0,0
+Lienz,Tristach,2020,16,0,0,0,0,0
+Lienz,Tristach,2020,17,1,0,0.0166420118,0.3333333333,1
+Lienz,Tristach,2020,18,0,0,0,0,0
+Lienz,Tristach,2020,19,0,0,0,0,0
+Lienz,Tristach,2020,20,0,0,0,0,0
+Lienz,Tristach,2020,21,0,0,0,0,0
+Lienz,Tristach,2020,22,0,0,0,0,0
+Lienz,Tristach,2020,23,2,0.0027472527,0.0358727811,1,1.6666666667
+Lienz,Tristach,2020,24,0,0,0,0,0
+Lienz,Tristach,2020,25,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,1,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,2,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,3,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,4,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,5,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,6,2,0,0.0094921105,1,1.6666666667
+Lienz,Nußdorf-Debant,2020,7,2,0,0.0094921105,0.5,1.3333333333
+Lienz,Nußdorf-Debant,2020,8,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,9,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,10,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,11,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,12,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,13,1,0,0.003081854,0.3333333333,1
+Lienz,Nußdorf-Debant,2020,14,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,15,1,0,0.003081854,0,0
+Lienz,Nußdorf-Debant,2020,16,1,0,0.003081854,0,0
+Lienz,Nußdorf-Debant,2020,17,1,0,0.003081854,0.3333333333,1
+Lienz,Nußdorf-Debant,2020,18,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,19,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,20,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,21,1,0,0.003081854,0,0.6666666667
+Lienz,Nußdorf-Debant,2020,22,2,0,0.0094921105,1,1.6666666667
+Lienz,Nußdorf-Debant,2020,23,1,0,0.003081854,0,0.3333333333
+Lienz,Nußdorf-Debant,2020,24,0,0,0,0,0
+Lienz,Nußdorf-Debant,2020,25,0,0,0,0,0
+Lienz,Oberlienz,2020,1,0,0,0,0,0
+Lienz,Oberlienz,2020,2,0,0,0,0,0
+Lienz,Oberlienz,2020,3,0,0,0,0,0
+Lienz,Oberlienz,2020,4,0,0,0,0,0
+Lienz,Oberlienz,2020,5,3,0.0034965035,0.0536242604,1,3
+Lienz,Oberlienz,2020,6,0,0,0,0,0
+Lienz,Oberlienz,2020,7,0,0,0,0,0
+Lienz,Oberlienz,2020,8,0,0,0,0,0
+Lienz,Oberlienz,2020,9,0,0,0,0,0
+Lienz,Oberlienz,2020,10,0,0,0,0,0
+Lienz,Oberlienz,2020,11,0,0,0,0,0
+Lienz,Oberlienz,2020,12,0,0,0,0,0
+Lienz,Oberlienz,2020,13,1,0,0.0151627219,0,0.6666666667
+Lienz,Oberlienz,2020,14,0,0,0,0,0
+Lienz,Oberlienz,2020,15,0,0,0,0,0
+Lienz,Oberlienz,2020,16,0,0,0,0,0
+Lienz,Oberlienz,2020,17,1,0,0.0151627219,0,0.3333333333
+Lienz,Oberlienz,2020,18,0,0,0,0,0
+Lienz,Oberlienz,2020,19,0,0,0,0,0
+Lienz,Oberlienz,2020,20,0,0,0,0,0
+Lienz,Oberlienz,2020,21,0,0,0,0,0
+Lienz,Oberlienz,2020,22,0,0,0,0,0
+Lienz,Oberlienz,2020,23,1,0,0.0151627219,0.3333333333,1
+Lienz,Oberlienz,2020,24,0,0,0,0,0
+Lienz,Oberlienz,2020,25,0,0,0,0,0
+Lienz,Anras,2020,1,0,0,0,0,0
+Lienz,Anras,2020,2,0,0,0,0,0
+Lienz,Anras,2020,3,1,0,0.0086908284,0.3333333333,1
+Lienz,Anras,2020,4,0,0,0,0,0
+Lienz,Anras,2020,5,1,0,0.0086908284,0.3333333333,1
+Lienz,Anras,2020,6,2,0,0.018306213,0.6666666667,2
+Lienz,Anras,2020,7,0,0,0,0,0
+Lienz,Anras,2020,8,0,0,0,0,0
+Lienz,Anras,2020,9,1,0,0.0086908284,0.3333333333,1
+Lienz,Anras,2020,10,0,0,0,0,0
+Lienz,Anras,2020,11,0,0,0,0,0
+Lienz,Anras,2020,12,0,0,0,0,0
+Lienz,Anras,2020,13,0,0,0,0,0
+Lienz,Anras,2020,14,0,0,0,0,0
+Lienz,Anras,2020,15,0,0,0,0,0
+Lienz,Anras,2020,16,0,0,0,0,0
+Lienz,Anras,2020,17,0,0,0,0,0
+Lienz,Anras,2020,18,0,0,0,0,0
+Lienz,Anras,2020,19,0,0,0,0,0
+Lienz,Anras,2020,20,0,0,0,0,0
+Lienz,Anras,2020,21,0,0,0,0,0
+Lienz,Anras,2020,22,0,0,0,0,0
+Lienz,Anras,2020,23,1,0,0.0086908284,0.3333333333,1
+Lienz,Anras,2020,24,0,0,0,0,0
+Lienz,Anras,2020,25,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,1,1,0,0.0151627219,0,0.3333333333
+Lienz,St. Jakob in Defereggen,2020,2,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,3,1,0,0.0151627219,0.3333333333,1
+Lienz,St. Jakob in Defereggen,2020,4,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,5,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,6,1,0,0.0151627219,0,0.6666666667
+Lienz,St. Jakob in Defereggen,2020,7,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,8,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,9,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,10,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,11,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,12,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,13,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,14,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,15,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,16,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,17,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,18,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,19,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,20,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,21,1,0,0.0151627219,0,0.6666666667
+Lienz,St. Jakob in Defereggen,2020,22,2,0.0017482517,0.0343934911,0.6666666667,2
+Lienz,St. Jakob in Defereggen,2020,23,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,24,0,0,0,0,0
+Lienz,St. Jakob in Defereggen,2020,25,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,1,1,0,0.0159023669,0.3333333333,1
+Lienz,Prägraten am Großvenediger,2020,2,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,3,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,4,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,5,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,6,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,7,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,8,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,9,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,10,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,11,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,12,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,13,1,0,0.0159023669,0.3333333333,1
+Lienz,Prägraten am Großvenediger,2020,14,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,15,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,16,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,17,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,18,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,19,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,20,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,21,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,22,1,0,0.0159023669,0,0.6666666667
+Lienz,Prägraten am Großvenediger,2020,23,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,24,0,0,0,0,0
+Lienz,Prägraten am Großvenediger,2020,25,0,0,0,0,0
+Lienz,Außervillgraten,2020,1,0,0,0,0,0
+Lienz,Außervillgraten,2020,2,0,0,0,0,0
+Lienz,Außervillgraten,2020,3,0,0,0,0,0
+Lienz,Außervillgraten,2020,4,0,0,0,0,0
+Lienz,Außervillgraten,2020,5,0,0,0,0,0
+Lienz,Außervillgraten,2020,6,0,0,0,0,0
+Lienz,Außervillgraten,2020,7,0,0,0,0,0
+Lienz,Außervillgraten,2020,8,0,0,0,0,0
+Lienz,Außervillgraten,2020,9,0,0,0,0,0
+Lienz,Außervillgraten,2020,10,0,0,0,0,0
+Lienz,Außervillgraten,2020,11,0,0,0,0,0
+Lienz,Außervillgraten,2020,12,1,0,0.0072115385,0.3333333333,1
+Lienz,Außervillgraten,2020,13,1,0,0.0072115385,0,0.6666666667
+Lienz,Außervillgraten,2020,14,0,0,0,0,0
+Lienz,Außervillgraten,2020,15,0,0,0,0,0
+Lienz,Außervillgraten,2020,16,0,0,0,0,0
+Lienz,Außervillgraten,2020,17,0,0,0,0,0
+Lienz,Außervillgraten,2020,18,0,0,0,0,0
+Lienz,Außervillgraten,2020,19,0,0,0,0,0
+Lienz,Außervillgraten,2020,20,0,0,0,0,0
+Lienz,Außervillgraten,2020,21,1,0,0.0072115385,0.3333333333,1
+Lienz,Außervillgraten,2020,22,0,0,0,0,0
+Lienz,Außervillgraten,2020,23,0,0,0,0,0
+Lienz,Außervillgraten,2020,24,0,0,0,0,0
+Lienz,Außervillgraten,2020,25,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,1,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,2,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,3,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,4,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,5,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,6,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,7,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,8,1,0,0.0073964497,0,0.6666666667
+Lienz,Kals am Großglockner,2020,9,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,10,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,11,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,12,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,13,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,14,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,15,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,16,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,17,1,0,0.0073964497,0,0.1666666667
+Lienz,Kals am Großglockner,2020,18,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,19,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,20,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,21,1,0,0.0073964497,0.3333333333,1
+Lienz,Kals am Großglockner,2020,22,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,23,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,24,0,0,0,0,0
+Lienz,Kals am Großglockner,2020,25,0,0,0,0,0
+Lienz,Heinfels,2020,1,0,0,0,0,0
+Lienz,Heinfels,2020,2,1,0,0.0151627219,0,0.6666666667
+Lienz,Heinfels,2020,3,0,0,0,0,0
+Lienz,Heinfels,2020,4,0,0,0,0,0
+Lienz,Heinfels,2020,5,0,0,0,0,0
+Lienz,Heinfels,2020,6,1,0,0.0151627219,0,0.6666666667
+Lienz,Heinfels,2020,7,1,0,0.0151627219,0.3333333333,1
+Lienz,Heinfels,2020,8,0,0,0,0,0
+Lienz,Heinfels,2020,9,0,0,0,0,0
+Lienz,Heinfels,2020,10,0,0,0,0,0
+Lienz,Heinfels,2020,11,0,0,0,0,0
+Lienz,Heinfels,2020,12,0,0,0,0,0
+Lienz,Heinfels,2020,13,0,0,0,0,0
+Lienz,Heinfels,2020,14,1,0,0.0151627219,0,0.6666666667
+Lienz,Heinfels,2020,15,0,0,0,0,0
+Lienz,Heinfels,2020,16,0,0,0,0,0
+Lienz,Heinfels,2020,17,0,0,0,0,0
+Lienz,Heinfels,2020,18,0,0,0,0,0
+Lienz,Heinfels,2020,19,0,0,0,0,0
+Lienz,Heinfels,2020,20,0,0,0,0,0
+Lienz,Heinfels,2020,21,1,0,0.0151627219,0,0.6666666667
+Lienz,Heinfels,2020,22,0,0,0,0,0
+Lienz,Heinfels,2020,23,0,0,0,0,0
+Lienz,Heinfels,2020,24,0,0,0,0,0
+Lienz,Heinfels,2020,25,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,1,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,2,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,3,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,4,1,0,0.0181213018,0.3333333333,1
+Lienz,Iselsberg-Stronach,2020,5,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,6,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,7,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,8,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,9,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,10,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,11,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,12,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,13,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,14,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,15,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,16,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,17,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,18,1,0,0.0181213018,0.3333333333,1
+Lienz,Iselsberg-Stronach,2020,19,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,20,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,21,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,22,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,23,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,24,0,0,0,0,0
+Lienz,Iselsberg-Stronach,2020,25,0,0,0,0,0
+Lienz,Abfaltersbach,2020,1,0,0,0,0,0
+Lienz,Abfaltersbach,2020,2,0,0,0,0,0
+Lienz,Abfaltersbach,2020,3,0,0,0,0,0
+Lienz,Abfaltersbach,2020,4,1,0,0.0177514793,0.3333333333,1
+Lienz,Abfaltersbach,2020,5,0,0,0,0,0
+Lienz,Abfaltersbach,2020,6,0,0,0,0,0
+Lienz,Abfaltersbach,2020,7,0,0,0,0,0
+Lienz,Abfaltersbach,2020,8,0,0,0,0,0
+Lienz,Abfaltersbach,2020,9,0,0,0,0,0
+Lienz,Abfaltersbach,2020,10,0,0,0,0,0
+Lienz,Abfaltersbach,2020,11,0,0,0,0,0
+Lienz,Abfaltersbach,2020,12,1,0,0.0177514793,0,0.6666666667
+Lienz,Abfaltersbach,2020,13,0,0,0,0,0
+Lienz,Abfaltersbach,2020,14,0,0,0,0,0
+Lienz,Abfaltersbach,2020,15,0,0,0,0,0
+Lienz,Abfaltersbach,2020,16,0,0,0,0,0
+Lienz,Abfaltersbach,2020,17,1,0,0.0177514793,0.3333333333,1
+Lienz,Abfaltersbach,2020,18,0,0,0,0,0
+Lienz,Abfaltersbach,2020,19,0,0,0,0,0
+Lienz,Abfaltersbach,2020,20,0,0,0,0,0
+Lienz,Abfaltersbach,2020,21,0,0,0,0,0
+Lienz,Abfaltersbach,2020,22,0,0,0,0,0
+Lienz,Abfaltersbach,2020,23,0,0,0,0,0
+Lienz,Abfaltersbach,2020,24,0,0,0,0,0
+Lienz,Abfaltersbach,2020,25,0,0,0,0,0
+Lienz,Strassen,2020,1,0,0,0,0,0
+Lienz,Strassen,2020,2,0,0,0,0,0
+Lienz,Strassen,2020,3,0,0,0,0,0
+Lienz,Strassen,2020,4,0,0,0,0,0
+Lienz,Strassen,2020,5,0,0,0,0,0
+Lienz,Strassen,2020,6,1,0,0.0181213018,0,0.6666666667
+Lienz,Strassen,2020,7,0,0,0,0,0
+Lienz,Strassen,2020,8,0,0,0,0,0
+Lienz,Strassen,2020,9,1,0,0.0181213018,0.3333333333,1
+Lienz,Strassen,2020,10,0,0,0,0,0
+Lienz,Strassen,2020,11,0,0,0,0,0
+Lienz,Strassen,2020,12,0,0,0,0,0
+Lienz,Strassen,2020,13,0,0,0,0,0
+Lienz,Strassen,2020,14,0,0,0,0,0
+Lienz,Strassen,2020,15,0,0,0,0,0
+Lienz,Strassen,2020,16,0,0,0,0,0
+Lienz,Strassen,2020,17,1,0,0.0181213018,0.3333333333,1
+Lienz,Strassen,2020,18,0,0,0,0,0
+Lienz,Strassen,2020,19,0,0,0,0,0
+Lienz,Strassen,2020,20,0,0,0,0,0
+Lienz,Strassen,2020,21,0,0,0,0,0
+Lienz,Strassen,2020,22,0,0,0,0,0
+Lienz,Strassen,2020,23,0,0,0,0,0
+Lienz,Strassen,2020,24,0,0,0,0,0
+Lienz,Strassen,2020,25,0,0,0,0,0
+Lienz,Assling,2020,1,1,0,0.0162721893,0,0.1666666667
+Lienz,Assling,2020,2,0,0,0,0,0
+Lienz,Assling,2020,3,0,0,0,0,0
+Lienz,Assling,2020,4,0,0,0,0,0
+Lienz,Assling,2020,5,1,0,0.0162721893,0,0.6666666667
+Lienz,Assling,2020,6,0,0,0,0,0
+Lienz,Assling,2020,7,0,0,0,0,0
+Lienz,Assling,2020,8,2,0.0024038462,0.0355029586,0.6666666667,2
+Lienz,Assling,2020,9,0,0,0,0,0
+Lienz,Assling,2020,10,0,0,0,0,0
+Lienz,Assling,2020,11,0,0,0,0,0
+Lienz,Assling,2020,12,0,0,0,0,0
+Lienz,Assling,2020,13,0,0,0,0,0
+Lienz,Assling,2020,14,0,0,0,0,0
+Lienz,Assling,2020,15,0,0,0,0,0
+Lienz,Assling,2020,16,1,0,0.0162721893,0,0.6666666667
+Lienz,Assling,2020,17,0,0,0,0,0
+Lienz,Assling,2020,18,0,0,0,0,0
+Lienz,Assling,2020,19,0,0,0,0,0
+Lienz,Assling,2020,20,0,0,0,0,0
+Lienz,Assling,2020,21,0,0,0,0,0
+Lienz,Assling,2020,22,0,0,0,0,0
+Lienz,Assling,2020,23,0,0,0,0,0
+Lienz,Assling,2020,24,0,0,0,0,0
+Lienz,Assling,2020,25,0,0,0,0,0
+Lienz,Obertilliach,2020,1,0,0,0,0,0
+Lienz,Obertilliach,2020,2,0,0,0,0,0
+Lienz,Obertilliach,2020,3,0,0,0,0,0
+Lienz,Obertilliach,2020,4,0,0,0,0,0
+Lienz,Obertilliach,2020,5,1,0,0.0170118343,0.3333333333,1
+Lienz,Obertilliach,2020,6,0,0,0,0,0
+Lienz,Obertilliach,2020,7,0,0,0,0,0
+Lienz,Obertilliach,2020,8,0,0,0,0,0
+Lienz,Obertilliach,2020,9,0,0,0,0,0
+Lienz,Obertilliach,2020,10,0,0,0,0,0
+Lienz,Obertilliach,2020,11,1,0,0.0170118343,0,0.6666666667
+Lienz,Obertilliach,2020,12,0,0,0,0,0
+Lienz,Obertilliach,2020,13,0,0,0,0,0
+Lienz,Obertilliach,2020,14,1,0,0.0170118343,0,0.6666666667
+Lienz,Obertilliach,2020,15,0,0,0,0,0
+Lienz,Obertilliach,2020,16,1,0,0.0170118343,0,0.6666666667
+Lienz,Obertilliach,2020,17,0,0,0,0,0
+Lienz,Obertilliach,2020,18,0,0,0,0,0
+Lienz,Obertilliach,2020,19,0,0,0,0,0
+Lienz,Obertilliach,2020,20,0,0,0,0,0
+Lienz,Obertilliach,2020,21,0,0,0,0,0
+Lienz,Obertilliach,2020,22,0,0,0,0,0
+Lienz,Obertilliach,2020,23,0,0,0,0,0
+Lienz,Obertilliach,2020,24,0,0,0,0,0
+Lienz,Obertilliach,2020,25,0,0,0,0,0
+Lienz,Thurn,2020,1,0,0,0,0,0
+Lienz,Thurn,2020,2,0,0,0,0,0
+Lienz,Thurn,2020,3,0,0,0,0,0
+Lienz,Thurn,2020,4,0,0,0,0,0
+Lienz,Thurn,2020,5,0,0,0,0,0
+Lienz,Thurn,2020,6,0,0,0,0,0
+Lienz,Thurn,2020,7,0,0,0,0,0
+Lienz,Thurn,2020,8,0,0,0,0,0
+Lienz,Thurn,2020,9,0,0,0,0,0
+Lienz,Thurn,2020,10,0,0,0,0,0
+Lienz,Thurn,2020,11,0,0,0,0,0
+Lienz,Thurn,2020,12,0,0,0,0,0
+Lienz,Thurn,2020,13,0,0,0,0,0
+Lienz,Thurn,2020,14,0,0,0,0,0
+Lienz,Thurn,2020,15,0,0,0,0,0
+Lienz,Thurn,2020,16,1,0,0.0166420118,0.3333333333,1
+Lienz,Thurn,2020,17,0,0,0,0,0
+Lienz,Thurn,2020,18,0,0,0,0,0
+Lienz,Thurn,2020,19,0,0,0,0,0
+Lienz,Thurn,2020,20,0,0,0,0,0
+Lienz,Thurn,2020,21,0,0,0,0,0
+Lienz,Thurn,2020,22,0,0,0,0,0
+Lienz,Thurn,2020,23,0,0,0,0,0
+Lienz,Thurn,2020,24,0,0,0,0,0
+Lienz,Thurn,2020,25,0,0,0,0,0
+Lienz,Sillian,2020,1,0,0,0,0,0
+Lienz,Sillian,2020,2,0,0,0,0,0
+Lienz,Sillian,2020,3,1,0,0.006102071,0,0.3333333333
+Lienz,Sillian,2020,4,0,0,0,0,0
+Lienz,Sillian,2020,5,0,0,0,0,0
+Lienz,Sillian,2020,6,0,0,0,0,0
+Lienz,Sillian,2020,7,0,0,0,0,0
+Lienz,Sillian,2020,8,1,0,0.006102071,0,0.6666666667
+Lienz,Sillian,2020,9,0,0,0,0,0
+Lienz,Sillian,2020,10,0,0,0,0,0
+Lienz,Sillian,2020,11,0,0,0,0,0
+Lienz,Sillian,2020,12,1,0,0.006102071,0.3333333333,1
+Lienz,Sillian,2020,13,1,0,0.006102071,0,0.1666666667
+Lienz,Sillian,2020,14,0,0,0,0,0
+Lienz,Sillian,2020,15,1,0,0.006102071,0.3333333333,1
+Lienz,Sillian,2020,16,0,0,0,0,0
+Lienz,Sillian,2020,17,0,0,0,0,0
+Lienz,Sillian,2020,18,0,0,0,0,0
+Lienz,Sillian,2020,19,0,0,0,0,0
+Lienz,Sillian,2020,20,0,0,0,0,0
+Lienz,Sillian,2020,21,0,0,0,0,0
+Lienz,Sillian,2020,22,0,0,0,0,0
+Lienz,Sillian,2020,23,0,0,0,0,0
+Lienz,Sillian,2020,24,0,0,0,0,0
+Lienz,Sillian,2020,25,0,0,0,0,0
+Lienz,Virgen,2020,1,1,0,0.0041913215,0,0
+Lienz,Virgen,2020,2,1,0,0.0041913215,0,0
+Lienz,Virgen,2020,3,0,0,0,0,0
+Lienz,Virgen,2020,4,0,0,0,0,0
+Lienz,Virgen,2020,5,0,0,0,0,0
+Lienz,Virgen,2020,6,0,0,0,0,0
+Lienz,Virgen,2020,7,0,0,0,0,0
+Lienz,Virgen,2020,8,1,0,0.0041913215,0.3333333333,1
+Lienz,Virgen,2020,9,0,0,0,0,0
+Lienz,Virgen,2020,10,0,0,0,0,0
+Lienz,Virgen,2020,11,0,0,0,0,0
+Lienz,Virgen,2020,12,0,0,0,0,0
+Lienz,Virgen,2020,13,1,0,0.0041913215,0,0.1666666667
+Lienz,Virgen,2020,14,0,0,0,0,0
+Lienz,Virgen,2020,15,1,0,0.0041913215,0,0
+Lienz,Virgen,2020,16,0,0,0,0,0
+Lienz,Virgen,2020,17,0,0,0,0,0
+Lienz,Virgen,2020,18,0,0,0,0,0
+Lienz,Virgen,2020,19,0,0,0,0,0
+Lienz,Virgen,2020,20,0,0,0,0,0
+Lienz,Virgen,2020,21,0,0,0,0,0
+Lienz,Virgen,2020,22,0,0,0,0,0
+Lienz,Virgen,2020,23,0,0,0,0,0
+Lienz,Virgen,2020,24,0,0,0,0,0
+Lienz,Virgen,2020,25,0,0,0,0,0
+Lienz,Leisach,2020,1,0,0,0,0,0
+Lienz,Leisach,2020,2,0,0,0,0,0
+Lienz,Leisach,2020,3,1,0,0.0181213018,0,0.6666666667
+Lienz,Leisach,2020,4,0,0,0,0,0
+Lienz,Leisach,2020,5,1,0,0.0181213018,0.3333333333,1
+Lienz,Leisach,2020,6,0,0,0,0,0
+Lienz,Leisach,2020,7,0,0,0,0,0
+Lienz,Leisach,2020,8,0,0,0,0,0
+Lienz,Leisach,2020,9,0,0,0,0,0
+Lienz,Leisach,2020,10,0,0,0,0,0
+Lienz,Leisach,2020,11,1,0,0.0181213018,0.3333333333,1
+Lienz,Leisach,2020,12,0,0,0,0,0
+Lienz,Leisach,2020,13,0,0,0,0,0
+Lienz,Leisach,2020,14,0,0,0,0,0
+Lienz,Leisach,2020,15,1,0,0.0181213018,0.3333333333,1
+Lienz,Leisach,2020,16,0,0,0,0,0
+Lienz,Leisach,2020,17,0,0,0,0,0
+Lienz,Leisach,2020,18,0,0,0,0,0
+Lienz,Leisach,2020,19,0,0,0,0,0
+Lienz,Leisach,2020,20,0,0,0,0,0
+Lienz,Leisach,2020,21,0,0,0,0,0
+Lienz,Leisach,2020,22,0,0,0,0,0
+Lienz,Leisach,2020,23,0,0,0,0,0
+Lienz,Leisach,2020,24,0,0,0,0,0
+Lienz,Leisach,2020,25,0,0,0,0,0
+Lienz,Nikolsdorf,2020,1,0,0,0,0,0
+Lienz,Nikolsdorf,2020,2,1,0,0.0173816568,0,0.6666666667
+Lienz,Nikolsdorf,2020,3,0,0,0,0,0
+Lienz,Nikolsdorf,2020,4,0,0,0,0,0
+Lienz,Nikolsdorf,2020,5,2,0.0038461538,0.036612426,1,1.6666666667
+Lienz,Nikolsdorf,2020,6,0,0,0,0,0
+Lienz,Nikolsdorf,2020,7,0,0,0,0,0
+Lienz,Nikolsdorf,2020,8,0,0,0,0,0
+Lienz,Nikolsdorf,2020,9,0,0,0,0,0
+Lienz,Nikolsdorf,2020,10,1,0,0.0173816568,0,0.6666666667
+Lienz,Nikolsdorf,2020,11,1,0,0.0173816568,0.3333333333,1
+Lienz,Nikolsdorf,2020,12,0,0,0,0,0
+Lienz,Nikolsdorf,2020,13,0,0,0,0,0
+Lienz,Nikolsdorf,2020,14,1,0,0.0173816568,0,0.6666666667
+Lienz,Nikolsdorf,2020,15,0,0,0,0,0
+Lienz,Nikolsdorf,2020,16,0,0,0,0,0
+Lienz,Nikolsdorf,2020,17,0,0,0,0,0
+Lienz,Nikolsdorf,2020,18,0,0,0,0,0
+Lienz,Nikolsdorf,2020,19,0,0,0,0,0
+Lienz,Nikolsdorf,2020,20,0,0,0,0,0
+Lienz,Nikolsdorf,2020,21,0,0,0,0,0
+Lienz,Nikolsdorf,2020,22,0,0,0,0,0
+Lienz,Nikolsdorf,2020,23,0,0,0,0,0
+Lienz,Nikolsdorf,2020,24,0,0,0,0,0
+Lienz,Nikolsdorf,2020,25,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,1,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,2,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,3,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,4,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,5,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,6,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,7,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,8,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,9,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,10,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,11,1,0,0.0181213018,0.3333333333,1
+Lienz,St. Johann im Walde,2020,12,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,13,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,14,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,15,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,16,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,17,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,18,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,19,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,20,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,21,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,22,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,23,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,24,0,0,0,0,0
+Lienz,St. Johann im Walde,2020,25,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,1,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,2,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,3,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,4,1,0,0.0077662722,0.3333333333,1
+Lienz,Hopfgarten in Defereggen,2020,5,1,0,0.0077662722,0.3333333333,1
+Lienz,Hopfgarten in Defereggen,2020,6,1,0,0.0077662722,0.3333333333,1
+Lienz,Hopfgarten in Defereggen,2020,7,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,8,2,0,0.0173816568,1,1.6666666667
+Lienz,Hopfgarten in Defereggen,2020,9,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,10,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,11,1,0,0.0077662722,0,0.3333333333
+Lienz,Hopfgarten in Defereggen,2020,12,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,13,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,14,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,15,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,16,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,17,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,18,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,19,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,20,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,21,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,22,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,23,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,24,0,0,0,0,0
+Lienz,Hopfgarten in Defereggen,2020,25,0,0,0,0,0
+Lienz,Lavant,2020,1,0,0,0,0,0
+Lienz,Lavant,2020,2,0,0,0,0,0
+Lienz,Lavant,2020,3,0,0,0,0,0
+Lienz,Lavant,2020,4,0,0,0,0,0
+Lienz,Lavant,2020,5,0,0,0,0,0
+Lienz,Lavant,2020,6,0,0,0,0,0
+Lienz,Lavant,2020,7,0,0,0,0,0
+Lienz,Lavant,2020,8,0,0,0,0,0
+Lienz,Lavant,2020,9,0,0,0,0,0
+Lienz,Lavant,2020,10,0,0,0,0,0
+Lienz,Lavant,2020,11,1,0,0.0173816568,0.3333333333,1
+Lienz,Lavant,2020,12,0,0,0,0,0
+Lienz,Lavant,2020,13,0,0,0,0,0
+Lienz,Lavant,2020,14,0,0,0,0,0
+Lienz,Lavant,2020,15,0,0,0,0,0
+Lienz,Lavant,2020,16,0,0,0,0,0
+Lienz,Lavant,2020,17,0,0,0,0,0
+Lienz,Lavant,2020,18,0,0,0,0,0
+Lienz,Lavant,2020,19,0,0,0,0,0
+Lienz,Lavant,2020,20,0,0,0,0,0
+Lienz,Lavant,2020,21,0,0,0,0,0
+Lienz,Lavant,2020,22,0,0,0,0,0
+Lienz,Lavant,2020,23,0,0,0,0,0
+Lienz,Lavant,2020,24,0,0,0,0,0
+Lienz,Lavant,2020,25,0,0,0,0,0
+Lienz,Innervillgraten,2020,1,0,0,0,0,0
+Lienz,Innervillgraten,2020,2,0,0,0,0,0
+Lienz,Innervillgraten,2020,3,0,0,0,0,0
+Lienz,Innervillgraten,2020,4,0,0,0,0,0
+Lienz,Innervillgraten,2020,5,0,0,0,0,0
+Lienz,Innervillgraten,2020,6,0,0,0,0,0
+Lienz,Innervillgraten,2020,7,1,0,0.0046844181,0.3333333333,1
+Lienz,Innervillgraten,2020,8,0,0,0,0,0
+Lienz,Innervillgraten,2020,9,0,0,0,0,0
+Lienz,Innervillgraten,2020,10,1,0,0.0046844181,0,0.1666666667
+Lienz,Innervillgraten,2020,11,0,0,0,0,0
+Lienz,Innervillgraten,2020,12,0,0,0,0,0
+Lienz,Innervillgraten,2020,13,0,0,0,0,0
+Lienz,Innervillgraten,2020,14,0,0,0,0,0
+Lienz,Innervillgraten,2020,15,0,0,0,0,0
+Lienz,Innervillgraten,2020,16,0,0,0,0,0
+Lienz,Innervillgraten,2020,17,0,0,0,0,0
+Lienz,Innervillgraten,2020,18,0,0,0,0,0
+Lienz,Innervillgraten,2020,19,0,0,0,0,0
+Lienz,Innervillgraten,2020,20,0,0,0,0,0
+Lienz,Innervillgraten,2020,21,0,0,0,0,0
+Lienz,Innervillgraten,2020,22,0,0,0,0,0
+Lienz,Innervillgraten,2020,23,0,0,0,0,0
+Lienz,Innervillgraten,2020,24,0,0,0,0,0
+Lienz,Innervillgraten,2020,25,0,0,0,0,0
+Lienz,Kartitsch,2020,1,0,0,0,0,0
+Lienz,Kartitsch,2020,2,0,0,0,0,0
+Lienz,Kartitsch,2020,3,0,0,0,0,0
+Lienz,Kartitsch,2020,4,0,0,0,0,0
+Lienz,Kartitsch,2020,5,0,0,0,0,0
+Lienz,Kartitsch,2020,6,0,0,0,0,0
+Lienz,Kartitsch,2020,7,1,0,0.0159023669,0,0.6666666667
+Lienz,Kartitsch,2020,8,0,0,0,0,0
+Lienz,Kartitsch,2020,9,1,0,0.0159023669,0.3333333333,1
+Lienz,Kartitsch,2020,10,0,0,0,0,0
+Lienz,Kartitsch,2020,11,0,0,0,0,0
+Lienz,Kartitsch,2020,12,0,0,0,0,0
+Lienz,Kartitsch,2020,13,0,0,0,0,0
+Lienz,Kartitsch,2020,14,0,0,0,0,0
+Lienz,Kartitsch,2020,15,0,0,0,0,0
+Lienz,Kartitsch,2020,16,0,0,0,0,0
+Lienz,Kartitsch,2020,17,0,0,0,0,0
+Lienz,Kartitsch,2020,18,0,0,0,0,0
+Lienz,Kartitsch,2020,19,0,0,0,0,0
+Lienz,Kartitsch,2020,20,0,0,0,0,0
+Lienz,Kartitsch,2020,21,0,0,0,0,0
+Lienz,Kartitsch,2020,22,0,0,0,0,0
+Lienz,Kartitsch,2020,23,0,0,0,0,0
+Lienz,Kartitsch,2020,24,0,0,0,0,0
+Lienz,Kartitsch,2020,25,0,0,0,0,0
+Lienz,Gaimberg,2020,1,0,0,0,0,0
+Lienz,Gaimberg,2020,2,0,0,0,0,0
+Lienz,Gaimberg,2020,3,0,0,0,0,0
+Lienz,Gaimberg,2020,4,0,0,0,0,0
+Lienz,Gaimberg,2020,5,0,0,0,0,0
+Lienz,Gaimberg,2020,6,0,0,0,0,0
+Lienz,Gaimberg,2020,7,0,0,0,0,0
+Lienz,Gaimberg,2020,8,1,0,0.0151627219,0,0.6666666667
+Lienz,Gaimberg,2020,9,0,0,0,0,0
+Lienz,Gaimberg,2020,10,0,0,0,0,0
+Lienz,Gaimberg,2020,11,0,0,0,0,0
+Lienz,Gaimberg,2020,12,0,0,0,0,0
+Lienz,Gaimberg,2020,13,0,0,0,0,0
+Lienz,Gaimberg,2020,14,0,0,0,0,0
+Lienz,Gaimberg,2020,15,0,0,0,0,0
+Lienz,Gaimberg,2020,16,0,0,0,0,0
+Lienz,Gaimberg,2020,17,0,0,0,0,0
+Lienz,Gaimberg,2020,18,0,0,0,0,0
+Lienz,Gaimberg,2020,19,0,0,0,0,0
+Lienz,Gaimberg,2020,20,0,0,0,0,0
+Lienz,Gaimberg,2020,21,0,0,0,0,0
+Lienz,Gaimberg,2020,22,0,0,0,0,0
+Lienz,Gaimberg,2020,23,0,0,0,0,0
+Lienz,Gaimberg,2020,24,0,0,0,0,0
+Lienz,Gaimberg,2020,25,0,0,0,0,0
+Lienz,Schlaiten,2020,1,0,0,0,0,0
+Lienz,Schlaiten,2020,2,0,0,0,0,0
+Lienz,Schlaiten,2020,3,0,0,0,0,0
+Lienz,Schlaiten,2020,4,0,0,0,0,0
+Lienz,Schlaiten,2020,5,0,0,0,0,0
+Lienz,Schlaiten,2020,6,0,0,0,0,0
+Lienz,Schlaiten,2020,7,0,0,0,0,0
+Lienz,Schlaiten,2020,8,0,0,0,0,0
+Lienz,Schlaiten,2020,9,0,0,0,0,0
+Lienz,Schlaiten,2020,10,0,0,0,0,0
+Lienz,Schlaiten,2020,11,0,0,0,0,0
+Lienz,Schlaiten,2020,12,0,0,0,0,0
+Lienz,Schlaiten,2020,13,0,0,0,0,0
+Lienz,Schlaiten,2020,14,0,0,0,0,0
+Lienz,Schlaiten,2020,15,0,0,0,0,0
+Lienz,Schlaiten,2020,16,0,0,0,0,0
+Lienz,Schlaiten,2020,17,0,0,0,0,0
+Lienz,Schlaiten,2020,18,0,0,0,0,0
+Lienz,Schlaiten,2020,19,0,0,0,0,0
+Lienz,Schlaiten,2020,20,0,0,0,0,0
+Lienz,Schlaiten,2020,21,0,0,0,0,0
+Lienz,Schlaiten,2020,22,0,0,0,0,0
+Lienz,Schlaiten,2020,23,0,0,0,0,0
+Lienz,Schlaiten,2020,24,0,0,0,0,0
+Lienz,Schlaiten,2020,25,0,0,0,0,0
+Lienz,Untertilliach,2020,1,0,0,0,0,0
+Lienz,Untertilliach,2020,2,0,0,0,0,0
+Lienz,Untertilliach,2020,3,0,0,0,0,0
+Lienz,Untertilliach,2020,4,0,0,0,0,0
+Lienz,Untertilliach,2020,5,0,0,0,0,0
+Lienz,Untertilliach,2020,6,0,0,0,0,0
+Lienz,Untertilliach,2020,7,0,0,0,0,0
+Lienz,Untertilliach,2020,8,0,0,0,0,0
+Lienz,Untertilliach,2020,9,0,0,0,0,0
+Lienz,Untertilliach,2020,10,0,0,0,0,0
+Lienz,Untertilliach,2020,11,0,0,0,0,0
+Lienz,Untertilliach,2020,12,0,0,0,0,0
+Lienz,Untertilliach,2020,13,0,0,0,0,0
+Lienz,Untertilliach,2020,14,0,0,0,0,0
+Lienz,Untertilliach,2020,15,0,0,0,0,0
+Lienz,Untertilliach,2020,16,0,0,0,0,0
+Lienz,Untertilliach,2020,17,0,0,0,0,0
+Lienz,Untertilliach,2020,18,0,0,0,0,0
+Lienz,Untertilliach,2020,19,0,0,0,0,0
+Lienz,Untertilliach,2020,20,0,0,0,0,0
+Lienz,Untertilliach,2020,21,0,0,0,0,0
+Lienz,Untertilliach,2020,22,0,0,0,0,0
+Lienz,Untertilliach,2020,23,0,0,0,0,0
+Lienz,Untertilliach,2020,24,0,0,0,0,0
+Lienz,Untertilliach,2020,25,0,0,0,0,0
+Lienz,Amlach,2020,1,0,0,0,0,0
+Lienz,Amlach,2020,2,0,0,0,0,0
+Lienz,Amlach,2020,3,0,0,0,0,0
+Lienz,Amlach,2020,4,0,0,0,0,0
+Lienz,Amlach,2020,5,0,0,0,0,0
+Lienz,Amlach,2020,6,0,0,0,0,0
+Lienz,Amlach,2020,7,0,0,0,0,0
+Lienz,Amlach,2020,8,0,0,0,0,0
+Lienz,Amlach,2020,9,0,0,0,0,0
+Lienz,Amlach,2020,10,0,0,0,0,0
+Lienz,Amlach,2020,11,0,0,0,0,0
+Lienz,Amlach,2020,12,0,0,0,0,0
+Lienz,Amlach,2020,13,0,0,0,0,0
+Lienz,Amlach,2020,14,0,0,0,0,0
+Lienz,Amlach,2020,15,0,0,0,0,0
+Lienz,Amlach,2020,16,0,0,0,0,0
+Lienz,Amlach,2020,17,0,0,0,0,0
+Lienz,Amlach,2020,18,0,0,0,0,0
+Lienz,Amlach,2020,19,0,0,0,0,0
+Lienz,Amlach,2020,20,0,0,0,0,0
+Lienz,Amlach,2020,21,0,0,0,0,0
+Lienz,Amlach,2020,22,0,0,0,0,0
+Lienz,Amlach,2020,23,0,0,0,0,0
+Lienz,Amlach,2020,24,0,0,0,0,0
+Lienz,Amlach,2020,25,0,0,0,0,0
 Kufstein,Kufstein,2020,1,5,0,0.0038369083,0,0.1111111111
 Kufstein,Kufstein,2020,2,6,0,0.0062407544,0.5,0.4
 Kufstein,Kufstein,2020,3,5,0,0.0038369083,0,0
@@ -824,6 +2399,31 @@ Innsbruck-Land,Fulpmes,2020,22,0,0,0,0,0
 Innsbruck-Land,Fulpmes,2020,23,0,0,0,0,0
 Innsbruck-Land,Fulpmes,2020,24,0,0,0,0,0
 Innsbruck-Land,Fulpmes,2020,25,1,0,0.0038831361,0,0.3333333333
+Innsbruck-Land,Hall in Tirol,2020,1,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,2,2,0,0.0016642012,0,0
+Innsbruck-Land,Hall in Tirol,2020,3,5,0.0096153846,0.0160872781,1,0.6666666667
+Innsbruck-Land,Hall in Tirol,2020,4,2,0,0.0016642012,0,0
+Innsbruck-Land,Hall in Tirol,2020,5,2,0,0.0016642012,1,1.6666666667
+Innsbruck-Land,Hall in Tirol,2020,6,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,7,1,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,8,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,9,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,10,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,11,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,12,2,0,0.0016642012,0,0.2222222222
+Innsbruck-Land,Hall in Tirol,2020,13,5,0.0096153846,0.0160872781,0,0.2777777778
+Innsbruck-Land,Hall in Tirol,2020,14,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,15,1,0,0,0,0.6666666667
+Innsbruck-Land,Hall in Tirol,2020,16,2,0,0.0016642012,0,0.0833333333
+Innsbruck-Land,Hall in Tirol,2020,17,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,18,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,19,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,20,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,21,2,0,0.0016642012,0,0.1666666667
+Innsbruck-Land,Hall in Tirol,2020,22,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,23,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,24,0,0,0,0,0
+Innsbruck-Land,Hall in Tirol,2020,25,1,0,0,0,0
 Innsbruck-Land,Inzing,2020,1,0,0,0,0,0
 Innsbruck-Land,Inzing,2020,2,2,0,0.0146079882,1,1.6666666667
 Innsbruck-Land,Inzing,2020,3,1,0,0.0049926036,0,0.3333333333
@@ -1374,31 +2974,6 @@ Innsbruck-Land,Rinn,2020,22,0,0,0,0,0
 Innsbruck-Land,Rinn,2020,23,0,0,0,0,0
 Innsbruck-Land,Rinn,2020,24,0,0,0,0,0
 Innsbruck-Land,Rinn,2020,25,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,1,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,2,2,0,0.0016642012,0,0
-Innsbruck-Land,Hall in Tirol,2020,3,5,0.0096153846,0.0160872781,1,0.6666666667
-Innsbruck-Land,Hall in Tirol,2020,4,2,0,0.0016642012,0,0
-Innsbruck-Land,Hall in Tirol,2020,5,2,0,0.0016642012,1,1.6666666667
-Innsbruck-Land,Hall in Tirol,2020,6,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,7,1,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,8,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,9,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,10,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,11,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,12,2,0,0.0016642012,0,0.2222222222
-Innsbruck-Land,Hall in Tirol,2020,13,5,0.0096153846,0.0160872781,0,0.2777777778
-Innsbruck-Land,Hall in Tirol,2020,14,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,15,1,0,0,0,0.6666666667
-Innsbruck-Land,Hall in Tirol,2020,16,2,0,0.0016642012,0,0.0833333333
-Innsbruck-Land,Hall in Tirol,2020,17,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,18,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,19,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,20,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,21,2,0,0.0016642012,0,0.1666666667
-Innsbruck-Land,Hall in Tirol,2020,22,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,23,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,24,0,0,0,0,0
-Innsbruck-Land,Hall in Tirol,2020,25,0,0,0,0,0
 Innsbruck-Land,Mieders,2020,1,0,0,0,0,0
 Innsbruck-Land,Mieders,2020,2,0,0,0,0,0
 Innsbruck-Land,Mieders,2020,3,0,0,0,0,0
@@ -2349,1581 +3924,6 @@ Innsbruck-Land,Unterperfuss,2020,22,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,23,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,24,0,0,0,0,0
 Innsbruck-Land,Unterperfuss,2020,25,0,0,0,0,0
-Landeck,Pfunds,2020,1,0,0,0,0,0
-Landeck,Pfunds,2020,2,0,0,0,0,0
-Landeck,Pfunds,2020,3,0,0,0,0,0
-Landeck,Pfunds,2020,4,0,0,0,0,0
-Landeck,Pfunds,2020,5,0,0,0,0,0
-Landeck,Pfunds,2020,6,0,0,0,0,0
-Landeck,Pfunds,2020,7,1,0,0.003081854,0,0.3333333333
-Landeck,Pfunds,2020,8,2,0,0.0094921105,1,1.6666666667
-Landeck,Pfunds,2020,9,0,0,0,0,0
-Landeck,Pfunds,2020,10,2,0,0.0094921105,1,1.6666666667
-Landeck,Pfunds,2020,11,0,0,0,0,0
-Landeck,Pfunds,2020,12,0,0,0,0,0
-Landeck,Pfunds,2020,13,1,0,0.003081854,0.3333333333,1
-Landeck,Pfunds,2020,14,0,0,0,0,0
-Landeck,Pfunds,2020,15,0,0,0,0,0
-Landeck,Pfunds,2020,16,0,0,0,0,0
-Landeck,Pfunds,2020,17,0,0,0,0,0
-Landeck,Pfunds,2020,18,0,0,0,0,0
-Landeck,Pfunds,2020,19,0,0,0,0,0
-Landeck,Pfunds,2020,20,0,0,0,0,0
-Landeck,Pfunds,2020,21,0,0,0,0,0
-Landeck,Pfunds,2020,22,1,0,0.003081854,0.3333333333,1
-Landeck,Pfunds,2020,23,0,0,0,0,0
-Landeck,Pfunds,2020,24,0,0,0,0,0
-Landeck,Pfunds,2020,25,1,0,0.003081854,0,0.6666666667
-Landeck,Strengen,2020,1,0,0,0,0,0
-Landeck,Strengen,2020,2,0,0,0,0,0
-Landeck,Strengen,2020,3,1,0,0.0066568047,0,0.3333333333
-Landeck,Strengen,2020,4,0,0,0,0,0
-Landeck,Strengen,2020,5,0,0,0,0,0
-Landeck,Strengen,2020,6,0,0,0,0,0
-Landeck,Strengen,2020,7,0,0,0,0,0
-Landeck,Strengen,2020,8,0,0,0,0,0
-Landeck,Strengen,2020,9,0,0,0,0,0
-Landeck,Strengen,2020,10,0,0,0,0,0
-Landeck,Strengen,2020,11,0,0,0,0,0
-Landeck,Strengen,2020,12,1,0,0.0066568047,0,0.6666666667
-Landeck,Strengen,2020,13,0,0,0,0,0
-Landeck,Strengen,2020,14,0,0,0,0,0
-Landeck,Strengen,2020,15,0,0,0,0,0
-Landeck,Strengen,2020,16,1,0,0.0066568047,0,0
-Landeck,Strengen,2020,17,0,0,0,0,0
-Landeck,Strengen,2020,18,0,0,0,0,0
-Landeck,Strengen,2020,19,0,0,0,0,0
-Landeck,Strengen,2020,20,0,0,0,0,0
-Landeck,Strengen,2020,21,0,0,0,0,0
-Landeck,Strengen,2020,22,0,0,0,0,0
-Landeck,Strengen,2020,23,0,0,0,0,0
-Landeck,Strengen,2020,24,1,0,0.0066568047,0.3333333333,1
-Landeck,Strengen,2020,25,0,0,0,0,0
-Landeck,Fendels,2020,1,0,0,0,0,0
-Landeck,Fendels,2020,2,0,0,0,0,0
-Landeck,Fendels,2020,3,0,0,0,0,0
-Landeck,Fendels,2020,4,0,0,0,0,0
-Landeck,Fendels,2020,5,0,0,0,0,0
-Landeck,Fendels,2020,6,0,0,0,0,0
-Landeck,Fendels,2020,7,0,0,0,0,0
-Landeck,Fendels,2020,8,0,0,0,0,0
-Landeck,Fendels,2020,9,0,0,0,0,0
-Landeck,Fendels,2020,10,0,0,0,0,0
-Landeck,Fendels,2020,11,0,0,0,0,0
-Landeck,Fendels,2020,12,1,0,0.0173816568,0,0.6666666667
-Landeck,Fendels,2020,13,0,0,0,0,0
-Landeck,Fendels,2020,14,0,0,0,0,0
-Landeck,Fendels,2020,15,0,0,0,0,0
-Landeck,Fendels,2020,16,0,0,0,0,0
-Landeck,Fendels,2020,17,0,0,0,0,0
-Landeck,Fendels,2020,18,0,0,0,0,0
-Landeck,Fendels,2020,19,0,0,0,0,0
-Landeck,Fendels,2020,20,0,0,0,0,0
-Landeck,Fendels,2020,21,0,0,0,0,0
-Landeck,Fendels,2020,22,0,0,0,0,0
-Landeck,Fendels,2020,23,0,0,0,0,0
-Landeck,Fendels,2020,24,1,0,0.0173816568,0.3333333333,1
-Landeck,Fendels,2020,25,0,0,0,0,0
-Landeck,Fließ,2020,1,0,0,0,0,0
-Landeck,Fließ,2020,2,0,0,0,0,0
-Landeck,Fließ,2020,3,0,0,0,0,0
-Landeck,Fließ,2020,4,0,0,0,0,0
-Landeck,Fließ,2020,5,0,0,0,0,0
-Landeck,Fließ,2020,6,0,0,0,0,0
-Landeck,Fließ,2020,7,2,0,0.0099852071,0.3333333333,1
-Landeck,Fließ,2020,8,3,0,0.0163954635,1,3
-Landeck,Fließ,2020,9,0,0,0,0,0
-Landeck,Fließ,2020,10,0,0,0,0,0
-Landeck,Fließ,2020,11,1,0,0.0035749507,0.3333333333,1
-Landeck,Fließ,2020,12,2,0,0.0099852071,1,1.6666666667
-Landeck,Fließ,2020,13,2,0,0.0099852071,1,1.6666666667
-Landeck,Fließ,2020,14,1,0,0.0035749507,0.3333333333,1
-Landeck,Fließ,2020,15,0,0,0,0,0
-Landeck,Fließ,2020,16,0,0,0,0,0
-Landeck,Fließ,2020,17,2,0,0.0099852071,1,1.6666666667
-Landeck,Fließ,2020,18,3,0,0.0163954635,2,2.6666666667
-Landeck,Fließ,2020,19,1,0,0.0035749507,0,0.1666666667
-Landeck,Fließ,2020,20,0,0,0,0,0
-Landeck,Fließ,2020,21,0,0,0,0,0
-Landeck,Fließ,2020,22,1,0,0.0035749507,0.3333333333,1
-Landeck,Fließ,2020,23,0,0,0,0,0
-Landeck,Fließ,2020,24,1,0,0.0035749507,0.3333333333,1
-Landeck,Fließ,2020,25,0,0,0,0,0
-Landeck,Flirsch,2020,1,0,0,0,0,0
-Landeck,Flirsch,2020,2,0,0,0,0,0
-Landeck,Flirsch,2020,3,0,0,0,0,0
-Landeck,Flirsch,2020,4,0,0,0,0,0
-Landeck,Flirsch,2020,5,0,0,0,0,0
-Landeck,Flirsch,2020,6,0,0,0,0,0
-Landeck,Flirsch,2020,7,0,0,0,0,0
-Landeck,Flirsch,2020,8,0,0,0,0,0
-Landeck,Flirsch,2020,9,0,0,0,0,0
-Landeck,Flirsch,2020,10,1,0,0.0173816568,0.3333333333,1
-Landeck,Flirsch,2020,11,0,0,0,0,0
-Landeck,Flirsch,2020,12,0,0,0,0,0
-Landeck,Flirsch,2020,13,1,0,0.0173816568,0.3333333333,1
-Landeck,Flirsch,2020,14,0,0,0,0,0
-Landeck,Flirsch,2020,15,0,0,0,0,0
-Landeck,Flirsch,2020,16,0,0,0,0,0
-Landeck,Flirsch,2020,17,0,0,0,0,0
-Landeck,Flirsch,2020,18,1,0,0.0173816568,0.3333333333,1
-Landeck,Flirsch,2020,19,0,0,0,0,0
-Landeck,Flirsch,2020,20,0,0,0,0,0
-Landeck,Flirsch,2020,21,0,0,0,0,0
-Landeck,Flirsch,2020,22,0,0,0,0,0
-Landeck,Flirsch,2020,23,1,0,0.0173816568,0.3333333333,1
-Landeck,Flirsch,2020,24,0,0,0,0,0
-Landeck,Flirsch,2020,25,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,1,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,2,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,3,1,0,0.004561144,0,0.3333333333
-Landeck,Pettneu am Arlberg,2020,4,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,5,1,0,0.004561144,0.3333333333,1
-Landeck,Pettneu am Arlberg,2020,6,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,7,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,8,2,0,0.0109714004,1,1.6666666667
-Landeck,Pettneu am Arlberg,2020,9,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,10,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,11,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,12,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,13,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,14,2,0,0.0109714004,0.6666666667,2
-Landeck,Pettneu am Arlberg,2020,15,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,16,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,17,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,18,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,19,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,20,1,0,0.004561144,0,0.6666666667
-Landeck,Pettneu am Arlberg,2020,21,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,22,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,23,1,0,0.004561144,0,0.6666666667
-Landeck,Pettneu am Arlberg,2020,24,0,0,0,0,0
-Landeck,Pettneu am Arlberg,2020,25,0,0,0,0,0
-Landeck,Nauders,2020,1,1,0,0.0083210059,0,0.6666666667
-Landeck,Nauders,2020,2,0,0,0,0,0
-Landeck,Nauders,2020,3,0,0,0,0,0
-Landeck,Nauders,2020,4,0,0,0,0,0
-Landeck,Nauders,2020,5,0,0,0,0,0
-Landeck,Nauders,2020,6,0,0,0,0,0
-Landeck,Nauders,2020,7,0,0,0,0,0
-Landeck,Nauders,2020,8,0,0,0,0,0
-Landeck,Nauders,2020,9,0,0,0,0,0
-Landeck,Nauders,2020,10,0,0,0,0,0
-Landeck,Nauders,2020,11,1,0,0.0083210059,0,0.1666666667
-Landeck,Nauders,2020,12,0,0,0,0,0
-Landeck,Nauders,2020,13,0,0,0,0,0
-Landeck,Nauders,2020,14,0,0,0,0,0
-Landeck,Nauders,2020,15,0,0,0,0,0
-Landeck,Nauders,2020,16,0,0,0,0,0
-Landeck,Nauders,2020,17,1,0,0.0083210059,0.3333333333,1
-Landeck,Nauders,2020,18,0,0,0,0,0
-Landeck,Nauders,2020,19,0,0,0,0,0
-Landeck,Nauders,2020,20,0,0,0,0,0
-Landeck,Nauders,2020,21,0,0,0,0,0
-Landeck,Nauders,2020,22,0,0,0,0,0
-Landeck,Nauders,2020,23,1,0,0.0083210059,0,0.6666666667
-Landeck,Nauders,2020,24,0,0,0,0,0
-Landeck,Nauders,2020,25,0,0,0,0,0
-Landeck,Landeck,2020,1,3,0,0.0047460552,0,0.5555555556
-Landeck,Landeck,2020,2,2,0,0.001540927,0,0
-Landeck,Landeck,2020,3,2,0,0.001540927,0,0.1111111111
-Landeck,Landeck,2020,4,1,0,0,0,0
-Landeck,Landeck,2020,5,3,0,0.0047460552,0.5,0.6666666667
-Landeck,Landeck,2020,6,2,0,0.001540927,0,0.3333333333
-Landeck,Landeck,2020,7,2,0,0.001540927,0,0
-Landeck,Landeck,2020,8,1,0,0,0,0
-Landeck,Landeck,2020,9,3,0,0.0047460552,0,0
-Landeck,Landeck,2020,10,3,0,0.0047460552,0,0.4166666667
-Landeck,Landeck,2020,11,1,0,0,0,0.1666666667
-Landeck,Landeck,2020,12,3,0,0.0047460552,1,1
-Landeck,Landeck,2020,13,7,0.0192307692,0.017566568,5,2.8333333333
-Landeck,Landeck,2020,14,1,0,0,0,0.6666666667
-Landeck,Landeck,2020,15,5,0,0.0111563116,1,0.75
-Landeck,Landeck,2020,16,1,0,0,0,0
-Landeck,Landeck,2020,17,1,0,0,0,0
-Landeck,Landeck,2020,18,1,0,0,0,0
-Landeck,Landeck,2020,19,1,0,0,0,0.3333333333
-Landeck,Landeck,2020,20,1,0,0,0,0
-Landeck,Landeck,2020,21,0,0,0,0,0
-Landeck,Landeck,2020,22,2,0,0.001540927,0,0.1111111111
-Landeck,Landeck,2020,23,0,0,0,0,0
-Landeck,Landeck,2020,24,0,0,0,0,0
-Landeck,Landeck,2020,25,0,0,0,0,0
-Landeck,Tösens,2020,1,0,0,0,0,0
-Landeck,Tösens,2020,2,0,0,0,0,0
-Landeck,Tösens,2020,3,0,0,0,0,0
-Landeck,Tösens,2020,4,0,0,0,0,0
-Landeck,Tösens,2020,5,0,0,0,0,0
-Landeck,Tösens,2020,6,0,0,0,0,0
-Landeck,Tösens,2020,7,0,0,0,0,0
-Landeck,Tösens,2020,8,0,0,0,0,0
-Landeck,Tösens,2020,9,0,0,0,0,0
-Landeck,Tösens,2020,10,0,0,0,0,0
-Landeck,Tösens,2020,11,1,0,0.0166420118,0.3333333333,1
-Landeck,Tösens,2020,12,0,0,0,0,0
-Landeck,Tösens,2020,13,0,0,0,0,0
-Landeck,Tösens,2020,14,0,0,0,0,0
-Landeck,Tösens,2020,15,0,0,0,0,0
-Landeck,Tösens,2020,16,0,0,0,0,0
-Landeck,Tösens,2020,17,0,0,0,0,0
-Landeck,Tösens,2020,18,0,0,0,0,0
-Landeck,Tösens,2020,19,0,0,0,0,0
-Landeck,Tösens,2020,20,0,0,0,0,0
-Landeck,Tösens,2020,21,2,0.0027472527,0.0358727811,0.6666666667,2
-Landeck,Tösens,2020,22,1,0,0.0166420118,0,0.6666666667
-Landeck,Tösens,2020,23,0,0,0,0,0
-Landeck,Tösens,2020,24,0,0,0,0,0
-Landeck,Tösens,2020,25,0,0,0,0,0
-Landeck,See,2020,1,0,0,0,0,0
-Landeck,See,2020,2,0,0,0,0,0
-Landeck,See,2020,3,0,0,0,0,0
-Landeck,See,2020,4,1,0,0.0170118343,0,0.6666666667
-Landeck,See,2020,5,0,0,0,0,0
-Landeck,See,2020,6,1,0,0.0170118343,0.3333333333,1
-Landeck,See,2020,7,0,0,0,0,0
-Landeck,See,2020,8,0,0,0,0,0
-Landeck,See,2020,9,0,0,0,0,0
-Landeck,See,2020,10,0,0,0,0,0
-Landeck,See,2020,11,0,0,0,0,0
-Landeck,See,2020,12,0,0,0,0,0
-Landeck,See,2020,13,0,0,0,0,0
-Landeck,See,2020,14,1,0,0.0170118343,0.3333333333,1
-Landeck,See,2020,15,0,0,0,0,0
-Landeck,See,2020,16,0,0,0,0,0
-Landeck,See,2020,17,0,0,0,0,0
-Landeck,See,2020,18,0,0,0,0,0
-Landeck,See,2020,19,0,0,0,0,0
-Landeck,See,2020,20,0,0,0,0,0
-Landeck,See,2020,21,0,0,0,0,0
-Landeck,See,2020,22,2,0.0032051282,0.0362426036,0.6666666667,2
-Landeck,See,2020,23,0,0,0,0,0
-Landeck,See,2020,24,0,0,0,0,0
-Landeck,See,2020,25,0,0,0,0,0
-Landeck,Serfaus,2020,1,0,0,0,0,0
-Landeck,Serfaus,2020,2,0,0,0,0,0
-Landeck,Serfaus,2020,3,0,0,0,0,0
-Landeck,Serfaus,2020,4,0,0,0,0,0
-Landeck,Serfaus,2020,5,0,0,0,0,0
-Landeck,Serfaus,2020,6,0,0,0,0,0
-Landeck,Serfaus,2020,7,0,0,0,0,0
-Landeck,Serfaus,2020,8,0,0,0,0,0
-Landeck,Serfaus,2020,9,0,0,0,0,0
-Landeck,Serfaus,2020,10,0,0,0,0,0
-Landeck,Serfaus,2020,11,1,0,0.0181213018,0.3333333333,1
-Landeck,Serfaus,2020,12,1,0,0.0181213018,0.3333333333,1
-Landeck,Serfaus,2020,13,0,0,0,0,0
-Landeck,Serfaus,2020,14,0,0,0,0,0
-Landeck,Serfaus,2020,15,0,0,0,0,0
-Landeck,Serfaus,2020,16,0,0,0,0,0
-Landeck,Serfaus,2020,17,0,0,0,0,0
-Landeck,Serfaus,2020,18,0,0,0,0,0
-Landeck,Serfaus,2020,19,0,0,0,0,0
-Landeck,Serfaus,2020,20,0,0,0,0,0
-Landeck,Serfaus,2020,21,0,0,0,0,0
-Landeck,Serfaus,2020,22,1,0,0.0181213018,0.3333333333,1
-Landeck,Serfaus,2020,23,0,0,0,0,0
-Landeck,Serfaus,2020,24,0,0,0,0,0
-Landeck,Serfaus,2020,25,0,0,0,0,0
-Landeck,Schönwies,2020,1,0,0,0,0,0
-Landeck,Schönwies,2020,2,0,0,0,0,0
-Landeck,Schönwies,2020,3,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,4,0,0,0,0,0
-Landeck,Schönwies,2020,5,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,6,0,0,0,0,0
-Landeck,Schönwies,2020,7,0,0,0,0,0
-Landeck,Schönwies,2020,8,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,9,1,0,0.0073964497,0,0.3333333333
-Landeck,Schönwies,2020,10,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,11,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,12,0,0,0,0,0
-Landeck,Schönwies,2020,13,0,0,0,0,0
-Landeck,Schönwies,2020,14,1,0,0.0073964497,0,0
-Landeck,Schönwies,2020,15,0,0,0,0,0
-Landeck,Schönwies,2020,16,1,0,0.0073964497,0,0.6666666667
-Landeck,Schönwies,2020,17,0,0,0,0,0
-Landeck,Schönwies,2020,18,0,0,0,0,0
-Landeck,Schönwies,2020,19,0,0,0,0,0
-Landeck,Schönwies,2020,20,1,0,0.0073964497,0.3333333333,1
-Landeck,Schönwies,2020,21,0,0,0,0,0
-Landeck,Schönwies,2020,22,1,0,0.0073964497,0,0
-Landeck,Schönwies,2020,23,0,0,0,0,0
-Landeck,Schönwies,2020,24,0,0,0,0,0
-Landeck,Schönwies,2020,25,0,0,0,0,0
-Landeck,Grins,2020,1,0,0,0,0,0
-Landeck,Grins,2020,2,0,0,0,0,0
-Landeck,Grins,2020,3,0,0,0,0,0
-Landeck,Grins,2020,4,0,0,0,0,0
-Landeck,Grins,2020,5,0,0,0,0,0
-Landeck,Grins,2020,6,2,0,0.0170118343,0.6666666667,2
-Landeck,Grins,2020,7,0,0,0,0,0
-Landeck,Grins,2020,8,1,0,0.0073964497,0.3333333333,1
-Landeck,Grins,2020,9,0,0,0,0,0
-Landeck,Grins,2020,10,0,0,0,0,0
-Landeck,Grins,2020,11,0,0,0,0,0
-Landeck,Grins,2020,12,0,0,0,0,0
-Landeck,Grins,2020,13,0,0,0,0,0
-Landeck,Grins,2020,14,0,0,0,0,0
-Landeck,Grins,2020,15,1,0,0.0073964497,0,0.6666666667
-Landeck,Grins,2020,16,0,0,0,0,0
-Landeck,Grins,2020,17,0,0,0,0,0
-Landeck,Grins,2020,18,0,0,0,0,0
-Landeck,Grins,2020,19,0,0,0,0,0
-Landeck,Grins,2020,20,0,0,0,0,0
-Landeck,Grins,2020,21,2,0,0.0170118343,1,1.6666666667
-Landeck,Grins,2020,22,0,0,0,0,0
-Landeck,Grins,2020,23,0,0,0,0,0
-Landeck,Grins,2020,24,0,0,0,0,0
-Landeck,Grins,2020,25,0,0,0,0,0
-Landeck,Zams,2020,1,0,0,0,0,0
-Landeck,Zams,2020,2,1,0,0.0012943787,0,0.6666666667
-Landeck,Zams,2020,3,0,0,0,0,0
-Landeck,Zams,2020,4,0,0,0,0,0
-Landeck,Zams,2020,5,1,0,0.0012943787,0,0
-Landeck,Zams,2020,6,0,0,0,0,0
-Landeck,Zams,2020,7,0,0,0,0,0
-Landeck,Zams,2020,8,1,0,0.0012943787,0,0
-Landeck,Zams,2020,9,3,0,0.0109097633,1,1.1666666667
-Landeck,Zams,2020,10,1,0,0.0012943787,0,0
-Landeck,Zams,2020,11,0,0,0,0,0
-Landeck,Zams,2020,12,1,0,0.0012943787,0,0
-Landeck,Zams,2020,13,1,0,0.0012943787,0,0.6666666667
-Landeck,Zams,2020,14,1,0,0.0012943787,0,0.6666666667
-Landeck,Zams,2020,15,2,0,0.006102071,0.6666666667,2
-Landeck,Zams,2020,16,0,0,0,0,0
-Landeck,Zams,2020,17,0,0,0,0,0
-Landeck,Zams,2020,18,1,0,0.0012943787,0,0
-Landeck,Zams,2020,19,0,0,0,0,0
-Landeck,Zams,2020,20,3,0,0.0109097633,1,0.8333333333
-Landeck,Zams,2020,21,0,0,0,0,0
-Landeck,Zams,2020,22,0,0,0,0,0
-Landeck,Zams,2020,23,0,0,0,0,0
-Landeck,Zams,2020,24,0,0,0,0,0
-Landeck,Zams,2020,25,0,0,0,0,0
-Landeck,Ladis,2020,1,0,0,0,0,0
-Landeck,Ladis,2020,2,0,0,0,0,0
-Landeck,Ladis,2020,3,0,0,0,0,0
-Landeck,Ladis,2020,4,0,0,0,0,0
-Landeck,Ladis,2020,5,0,0,0,0,0
-Landeck,Ladis,2020,6,0,0,0,0,0
-Landeck,Ladis,2020,7,0,0,0,0,0
-Landeck,Ladis,2020,8,0,0,0,0,0
-Landeck,Ladis,2020,9,0,0,0,0,0
-Landeck,Ladis,2020,10,0,0,0,0,0
-Landeck,Ladis,2020,11,1,0,0.0177514793,0.3333333333,1
-Landeck,Ladis,2020,12,0,0,0,0,0
-Landeck,Ladis,2020,13,1,0,0.0177514793,0,0.6666666667
-Landeck,Ladis,2020,14,0,0,0,0,0
-Landeck,Ladis,2020,15,0,0,0,0,0
-Landeck,Ladis,2020,16,0,0,0,0,0
-Landeck,Ladis,2020,17,0,0,0,0,0
-Landeck,Ladis,2020,18,0,0,0,0,0
-Landeck,Ladis,2020,19,1,0,0.0177514793,0.3333333333,1
-Landeck,Ladis,2020,20,0,0,0,0,0
-Landeck,Ladis,2020,21,0,0,0,0,0
-Landeck,Ladis,2020,22,0,0,0,0,0
-Landeck,Ladis,2020,23,0,0,0,0,0
-Landeck,Ladis,2020,24,0,0,0,0,0
-Landeck,Ladis,2020,25,0,0,0,0,0
-Landeck,Prutz,2020,1,0,0,0,0,0
-Landeck,Prutz,2020,2,1,0,0.0070266272,0.3333333333,1
-Landeck,Prutz,2020,3,0,0,0,0,0
-Landeck,Prutz,2020,4,0,0,0,0,0
-Landeck,Prutz,2020,5,0,0,0,0,0
-Landeck,Prutz,2020,6,0,0,0,0,0
-Landeck,Prutz,2020,7,0,0,0,0,0
-Landeck,Prutz,2020,8,0,0,0,0,0
-Landeck,Prutz,2020,9,0,0,0,0,0
-Landeck,Prutz,2020,10,0,0,0,0,0
-Landeck,Prutz,2020,11,0,0,0,0,0
-Landeck,Prutz,2020,12,0,0,0,0,0
-Landeck,Prutz,2020,13,0,0,0,0,0
-Landeck,Prutz,2020,14,0,0,0,0,0
-Landeck,Prutz,2020,15,0,0,0,0,0
-Landeck,Prutz,2020,16,0,0,0,0,0
-Landeck,Prutz,2020,17,1,0,0.0070266272,0,0.6666666667
-Landeck,Prutz,2020,18,0,0,0,0,0
-Landeck,Prutz,2020,19,1,0,0.0070266272,0.3333333333,1
-Landeck,Prutz,2020,20,0,0,0,0,0
-Landeck,Prutz,2020,21,0,0,0,0,0
-Landeck,Prutz,2020,22,0,0,0,0,0
-Landeck,Prutz,2020,23,0,0,0,0,0
-Landeck,Prutz,2020,24,0,0,0,0,0
-Landeck,Prutz,2020,25,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,1,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,2,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,3,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,4,1,0,0.0140532544,0,0.3333333333
-Landeck,St. Anton am Arlberg,2020,5,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,6,1,0,0.0140532544,0.3333333333,1
-Landeck,St. Anton am Arlberg,2020,7,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,8,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,9,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,10,1,0,0.0140532544,0.3333333333,1
-Landeck,St. Anton am Arlberg,2020,11,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,12,2,0.0013736264,0.0332840237,1,1.6666666667
-Landeck,St. Anton am Arlberg,2020,13,1,0,0.0140532544,0.3333333333,1
-Landeck,St. Anton am Arlberg,2020,14,3,0.0027472527,0.0525147929,1,3
-Landeck,St. Anton am Arlberg,2020,15,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,16,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,17,1,0,0.0140532544,0.3333333333,1
-Landeck,St. Anton am Arlberg,2020,18,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,19,2,0.0013736264,0.0332840237,1,1.6666666667
-Landeck,St. Anton am Arlberg,2020,20,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,21,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,22,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,23,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,24,0,0,0,0,0
-Landeck,St. Anton am Arlberg,2020,25,0,0,0,0,0
-Landeck,Ischgl,2020,1,0,0,0,0,0
-Landeck,Ischgl,2020,2,1,0,0.0073964497,0.3333333333,1
-Landeck,Ischgl,2020,3,1,0,0.0073964497,0,0.3333333333
-Landeck,Ischgl,2020,4,0,0,0,0,0
-Landeck,Ischgl,2020,5,1,0,0.0073964497,0.3333333333,1
-Landeck,Ischgl,2020,6,0,0,0,0,0
-Landeck,Ischgl,2020,7,0,0,0,0,0
-Landeck,Ischgl,2020,8,0,0,0,0,0
-Landeck,Ischgl,2020,9,0,0,0,0,0
-Landeck,Ischgl,2020,10,0,0,0,0,0
-Landeck,Ischgl,2020,11,1,0,0.0073964497,0,0.6666666667
-Landeck,Ischgl,2020,12,2,0,0.0170118343,1,1.6666666667
-Landeck,Ischgl,2020,13,1,0,0.0073964497,0,0.1666666667
-Landeck,Ischgl,2020,14,2,0,0.0170118343,0.6666666667,2
-Landeck,Ischgl,2020,15,3,0.0192307692,0.0266272189,1,3
-Landeck,Ischgl,2020,16,0,0,0,0,0
-Landeck,Ischgl,2020,17,0,0,0,0,0
-Landeck,Ischgl,2020,18,1,0,0.0073964497,0.3333333333,1
-Landeck,Ischgl,2020,19,0,0,0,0,0
-Landeck,Ischgl,2020,20,0,0,0,0,0
-Landeck,Ischgl,2020,21,0,0,0,0,0
-Landeck,Ischgl,2020,22,0,0,0,0,0
-Landeck,Ischgl,2020,23,0,0,0,0,0
-Landeck,Ischgl,2020,24,0,0,0,0,0
-Landeck,Ischgl,2020,25,0,0,0,0,0
-Landeck,Fiss,2020,1,0,0,0,0,0
-Landeck,Fiss,2020,2,0,0,0,0,0
-Landeck,Fiss,2020,3,0,0,0,0,0
-Landeck,Fiss,2020,4,0,0,0,0,0
-Landeck,Fiss,2020,5,1,0,0.0159023669,0,0.3333333333
-Landeck,Fiss,2020,6,0,0,0,0,0
-Landeck,Fiss,2020,7,0,0,0,0,0
-Landeck,Fiss,2020,8,0,0,0,0,0
-Landeck,Fiss,2020,9,0,0,0,0,0
-Landeck,Fiss,2020,10,0,0,0,0,0
-Landeck,Fiss,2020,11,0,0,0,0,0
-Landeck,Fiss,2020,12,0,0,0,0,0
-Landeck,Fiss,2020,13,0,0,0,0,0
-Landeck,Fiss,2020,14,1,0,0.0159023669,0,0.3333333333
-Landeck,Fiss,2020,15,0,0,0,0,0
-Landeck,Fiss,2020,16,0,0,0,0,0
-Landeck,Fiss,2020,17,0,0,0,0,0
-Landeck,Fiss,2020,18,0,0,0,0,0
-Landeck,Fiss,2020,19,0,0,0,0,0
-Landeck,Fiss,2020,20,0,0,0,0,0
-Landeck,Fiss,2020,21,0,0,0,0,0
-Landeck,Fiss,2020,22,0,0,0,0,0
-Landeck,Fiss,2020,23,0,0,0,0,0
-Landeck,Fiss,2020,24,0,0,0,0,0
-Landeck,Fiss,2020,25,0,0,0,0,0
-Landeck,Kauns,2020,1,0,0,0,0,0
-Landeck,Kauns,2020,2,1,0,0.0184911243,0.3333333333,1
-Landeck,Kauns,2020,3,0,0,0,0,0
-Landeck,Kauns,2020,4,0,0,0,0,0
-Landeck,Kauns,2020,5,0,0,0,0,0
-Landeck,Kauns,2020,6,0,0,0,0,0
-Landeck,Kauns,2020,7,0,0,0,0,0
-Landeck,Kauns,2020,8,0,0,0,0,0
-Landeck,Kauns,2020,9,0,0,0,0,0
-Landeck,Kauns,2020,10,0,0,0,0,0
-Landeck,Kauns,2020,11,0,0,0,0,0
-Landeck,Kauns,2020,12,0,0,0,0,0
-Landeck,Kauns,2020,13,0,0,0,0,0
-Landeck,Kauns,2020,14,1,0,0.0184911243,0.3333333333,1
-Landeck,Kauns,2020,15,0,0,0,0,0
-Landeck,Kauns,2020,16,0,0,0,0,0
-Landeck,Kauns,2020,17,0,0,0,0,0
-Landeck,Kauns,2020,18,0,0,0,0,0
-Landeck,Kauns,2020,19,0,0,0,0,0
-Landeck,Kauns,2020,20,0,0,0,0,0
-Landeck,Kauns,2020,21,0,0,0,0,0
-Landeck,Kauns,2020,22,0,0,0,0,0
-Landeck,Kauns,2020,23,0,0,0,0,0
-Landeck,Kauns,2020,24,0,0,0,0,0
-Landeck,Kauns,2020,25,0,0,0,0,0
-Landeck,Kappl,2020,1,1,0,0.003821499,0,0.1666666667
-Landeck,Kappl,2020,2,0,0,0,0,0
-Landeck,Kappl,2020,3,0,0,0,0,0
-Landeck,Kappl,2020,4,0,0,0,0,0
-Landeck,Kappl,2020,5,0,0,0,0,0
-Landeck,Kappl,2020,6,0,0,0,0,0
-Landeck,Kappl,2020,7,0,0,0,0,0
-Landeck,Kappl,2020,8,1,0,0.003821499,0.3333333333,1
-Landeck,Kappl,2020,9,0,0,0,0,0
-Landeck,Kappl,2020,10,0,0,0,0,0
-Landeck,Kappl,2020,11,1,0,0.003821499,0,0.6666666667
-Landeck,Kappl,2020,12,0,0,0,0,0
-Landeck,Kappl,2020,13,1,0,0.003821499,0,0.6666666667
-Landeck,Kappl,2020,14,0,0,0,0,0
-Landeck,Kappl,2020,15,0,0,0,0,0
-Landeck,Kappl,2020,16,0,0,0,0,0
-Landeck,Kappl,2020,17,0,0,0,0,0
-Landeck,Kappl,2020,18,0,0,0,0,0
-Landeck,Kappl,2020,19,0,0,0,0,0
-Landeck,Kappl,2020,20,0,0,0,0,0
-Landeck,Kappl,2020,21,0,0,0,0,0
-Landeck,Kappl,2020,22,0,0,0,0,0
-Landeck,Kappl,2020,23,0,0,0,0,0
-Landeck,Kappl,2020,24,0,0,0,0,0
-Landeck,Kappl,2020,25,0,0,0,0,0
-Landeck,Tobadill,2020,1,0,0,0,0,0
-Landeck,Tobadill,2020,2,1,0,0.0173816568,0.3333333333,1
-Landeck,Tobadill,2020,3,0,0,0,0,0
-Landeck,Tobadill,2020,4,0,0,0,0,0
-Landeck,Tobadill,2020,5,0,0,0,0,0
-Landeck,Tobadill,2020,6,0,0,0,0,0
-Landeck,Tobadill,2020,7,0,0,0,0,0
-Landeck,Tobadill,2020,8,0,0,0,0,0
-Landeck,Tobadill,2020,9,1,0,0.0173816568,0.3333333333,1
-Landeck,Tobadill,2020,10,0,0,0,0,0
-Landeck,Tobadill,2020,11,0,0,0,0,0
-Landeck,Tobadill,2020,12,0,0,0,0,0
-Landeck,Tobadill,2020,13,0,0,0,0,0
-Landeck,Tobadill,2020,14,0,0,0,0,0
-Landeck,Tobadill,2020,15,0,0,0,0,0
-Landeck,Tobadill,2020,16,0,0,0,0,0
-Landeck,Tobadill,2020,17,0,0,0,0,0
-Landeck,Tobadill,2020,18,0,0,0,0,0
-Landeck,Tobadill,2020,19,0,0,0,0,0
-Landeck,Tobadill,2020,20,0,0,0,0,0
-Landeck,Tobadill,2020,21,0,0,0,0,0
-Landeck,Tobadill,2020,22,0,0,0,0,0
-Landeck,Tobadill,2020,23,0,0,0,0,0
-Landeck,Tobadill,2020,24,0,0,0,0,0
-Landeck,Tobadill,2020,25,0,0,0,0,0
-Landeck,Pians,2020,1,0,0,0,0,0
-Landeck,Pians,2020,2,0,0,0,0,0
-Landeck,Pians,2020,3,0,0,0,0,0
-Landeck,Pians,2020,4,0,0,0,0,0
-Landeck,Pians,2020,5,1,0,0.0049309665,0.3333333333,1
-Landeck,Pians,2020,6,0,0,0,0,0
-Landeck,Pians,2020,7,0,0,0,0,0
-Landeck,Pians,2020,8,0,0,0,0,0
-Landeck,Pians,2020,9,2,0,0.0113412229,0.6666666667,2
-Landeck,Pians,2020,10,0,0,0,0,0
-Landeck,Pians,2020,11,0,0,0,0,0
-Landeck,Pians,2020,12,0,0,0,0,0
-Landeck,Pians,2020,13,0,0,0,0,0
-Landeck,Pians,2020,14,0,0,0,0,0
-Landeck,Pians,2020,15,0,0,0,0,0
-Landeck,Pians,2020,16,0,0,0,0,0
-Landeck,Pians,2020,17,0,0,0,0,0
-Landeck,Pians,2020,18,0,0,0,0,0
-Landeck,Pians,2020,19,0,0,0,0,0
-Landeck,Pians,2020,20,0,0,0,0,0
-Landeck,Pians,2020,21,0,0,0,0,0
-Landeck,Pians,2020,22,0,0,0,0,0
-Landeck,Pians,2020,23,0,0,0,0,0
-Landeck,Pians,2020,24,0,0,0,0,0
-Landeck,Pians,2020,25,0,0,0,0,0
-Landeck,Kaunertal,2020,1,0,0,0,0,0
-Landeck,Kaunertal,2020,2,0,0,0,0,0
-Landeck,Kaunertal,2020,3,0,0,0,0,0
-Landeck,Kaunertal,2020,4,1,0,0.0079511834,0.3333333333,1
-Landeck,Kaunertal,2020,5,0,0,0,0,0
-Landeck,Kaunertal,2020,6,0,0,0,0,0
-Landeck,Kaunertal,2020,7,2,0,0.017566568,0.6666666667,2
-Landeck,Kaunertal,2020,8,0,0,0,0,0
-Landeck,Kaunertal,2020,9,0,0,0,0,0
-Landeck,Kaunertal,2020,10,0,0,0,0,0
-Landeck,Kaunertal,2020,11,0,0,0,0,0
-Landeck,Kaunertal,2020,12,0,0,0,0,0
-Landeck,Kaunertal,2020,13,0,0,0,0,0
-Landeck,Kaunertal,2020,14,0,0,0,0,0
-Landeck,Kaunertal,2020,15,0,0,0,0,0
-Landeck,Kaunertal,2020,16,0,0,0,0,0
-Landeck,Kaunertal,2020,17,0,0,0,0,0
-Landeck,Kaunertal,2020,18,0,0,0,0,0
-Landeck,Kaunertal,2020,19,0,0,0,0,0
-Landeck,Kaunertal,2020,20,0,0,0,0,0
-Landeck,Kaunertal,2020,21,0,0,0,0,0
-Landeck,Kaunertal,2020,22,0,0,0,0,0
-Landeck,Kaunertal,2020,23,0,0,0,0,0
-Landeck,Kaunertal,2020,24,0,0,0,0,0
-Landeck,Kaunertal,2020,25,0,0,0,0,0
-Landeck,Faggen,2020,1,0,0,0,0,0
-Landeck,Faggen,2020,2,0,0,0,0,0
-Landeck,Faggen,2020,3,0,0,0,0,0
-Landeck,Faggen,2020,4,1,0,0.0188609467,0.3333333333,1
-Landeck,Faggen,2020,5,2,0.0192307692,0.038091716,0.6666666667,2
-Landeck,Faggen,2020,6,0,0,0,0,0
-Landeck,Faggen,2020,7,0,0,0,0,0
-Landeck,Faggen,2020,8,0,0,0,0,0
-Landeck,Faggen,2020,9,0,0,0,0,0
-Landeck,Faggen,2020,10,0,0,0,0,0
-Landeck,Faggen,2020,11,0,0,0,0,0
-Landeck,Faggen,2020,12,0,0,0,0,0
-Landeck,Faggen,2020,13,0,0,0,0,0
-Landeck,Faggen,2020,14,0,0,0,0,0
-Landeck,Faggen,2020,15,0,0,0,0,0
-Landeck,Faggen,2020,16,0,0,0,0,0
-Landeck,Faggen,2020,17,0,0,0,0,0
-Landeck,Faggen,2020,18,0,0,0,0,0
-Landeck,Faggen,2020,19,0,0,0,0,0
-Landeck,Faggen,2020,20,0,0,0,0,0
-Landeck,Faggen,2020,21,0,0,0,0,0
-Landeck,Faggen,2020,22,0,0,0,0,0
-Landeck,Faggen,2020,23,0,0,0,0,0
-Landeck,Faggen,2020,24,0,0,0,0,0
-Landeck,Faggen,2020,25,0,0,0,0,0
-Landeck,Galtür,2020,1,0,0,0,0,0
-Landeck,Galtür,2020,2,0,0,0,0,0
-Landeck,Galtür,2020,3,0,0,0,0,0
-Landeck,Galtür,2020,4,1,0,0.0086908284,0.3333333333,1
-Landeck,Galtür,2020,5,0,0,0,0,0
-Landeck,Galtür,2020,6,0,0,0,0,0
-Landeck,Galtür,2020,7,0,0,0,0,0
-Landeck,Galtür,2020,8,0,0,0,0,0
-Landeck,Galtür,2020,9,0,0,0,0,0
-Landeck,Galtür,2020,10,0,0,0,0,0
-Landeck,Galtür,2020,11,0,0,0,0,0
-Landeck,Galtür,2020,12,0,0,0,0,0
-Landeck,Galtür,2020,13,0,0,0,0,0
-Landeck,Galtür,2020,14,0,0,0,0,0
-Landeck,Galtür,2020,15,0,0,0,0,0
-Landeck,Galtür,2020,16,0,0,0,0,0
-Landeck,Galtür,2020,17,0,0,0,0,0
-Landeck,Galtür,2020,18,0,0,0,0,0
-Landeck,Galtür,2020,19,0,0,0,0,0
-Landeck,Galtür,2020,20,0,0,0,0,0
-Landeck,Galtür,2020,21,0,0,0,0,0
-Landeck,Galtür,2020,22,0,0,0,0,0
-Landeck,Galtür,2020,23,0,0,0,0,0
-Landeck,Galtür,2020,24,0,0,0,0,0
-Landeck,Galtür,2020,25,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,1,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,2,1,0,0.0166420118,0.3333333333,1
-Landeck,Stanz bei Landeck,2020,3,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,4,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,5,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,6,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,7,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,8,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,9,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,10,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,11,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,12,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,13,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,14,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,15,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,16,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,17,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,18,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,19,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,20,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,21,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,22,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,23,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,24,0,0,0,0,0
-Landeck,Stanz bei Landeck,2020,25,0,0,0,0,0
-Landeck,Spiss,2020,1,0,0,0,0,0
-Landeck,Spiss,2020,2,1,0,0.0085059172,0.3333333333,1
-Landeck,Spiss,2020,3,0,0,0,0,0
-Landeck,Spiss,2020,4,0,0,0,0,0
-Landeck,Spiss,2020,5,0,0,0,0,0
-Landeck,Spiss,2020,6,0,0,0,0,0
-Landeck,Spiss,2020,7,0,0,0,0,0
-Landeck,Spiss,2020,8,0,0,0,0,0
-Landeck,Spiss,2020,9,0,0,0,0,0
-Landeck,Spiss,2020,10,0,0,0,0,0
-Landeck,Spiss,2020,11,0,0,0,0,0
-Landeck,Spiss,2020,12,0,0,0,0,0
-Landeck,Spiss,2020,13,0,0,0,0,0
-Landeck,Spiss,2020,14,0,0,0,0,0
-Landeck,Spiss,2020,15,0,0,0,0,0
-Landeck,Spiss,2020,16,0,0,0,0,0
-Landeck,Spiss,2020,17,0,0,0,0,0
-Landeck,Spiss,2020,18,0,0,0,0,0
-Landeck,Spiss,2020,19,0,0,0,0,0
-Landeck,Spiss,2020,20,0,0,0,0,0
-Landeck,Spiss,2020,21,0,0,0,0,0
-Landeck,Spiss,2020,22,0,0,0,0,0
-Landeck,Spiss,2020,23,0,0,0,0,0
-Landeck,Spiss,2020,24,0,0,0,0,0
-Landeck,Spiss,2020,25,0,0,0,0,0
-Landeck,Kaunerberg,2020,1,0,0,0,0,0
-Landeck,Kaunerberg,2020,2,0,0,0,0,0
-Landeck,Kaunerberg,2020,3,0,0,0,0,0
-Landeck,Kaunerberg,2020,4,0,0,0,0,0
-Landeck,Kaunerberg,2020,5,0,0,0,0,0
-Landeck,Kaunerberg,2020,6,0,0,0,0,0
-Landeck,Kaunerberg,2020,7,0,0,0,0,0
-Landeck,Kaunerberg,2020,8,0,0,0,0,0
-Landeck,Kaunerberg,2020,9,0,0,0,0,0
-Landeck,Kaunerberg,2020,10,0,0,0,0,0
-Landeck,Kaunerberg,2020,11,0,0,0,0,0
-Landeck,Kaunerberg,2020,12,0,0,0,0,0
-Landeck,Kaunerberg,2020,13,0,0,0,0,0
-Landeck,Kaunerberg,2020,14,0,0,0,0,0
-Landeck,Kaunerberg,2020,15,0,0,0,0,0
-Landeck,Kaunerberg,2020,16,0,0,0,0,0
-Landeck,Kaunerberg,2020,17,0,0,0,0,0
-Landeck,Kaunerberg,2020,18,0,0,0,0,0
-Landeck,Kaunerberg,2020,19,0,0,0,0,0
-Landeck,Kaunerberg,2020,20,0,0,0,0,0
-Landeck,Kaunerberg,2020,21,0,0,0,0,0
-Landeck,Kaunerberg,2020,22,0,0,0,0,0
-Landeck,Kaunerberg,2020,23,0,0,0,0,0
-Landeck,Kaunerberg,2020,24,0,0,0,0,0
-Landeck,Kaunerberg,2020,25,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,1,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,2,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,3,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,4,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,5,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,6,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,7,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,8,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,9,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,10,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,11,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,12,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,13,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,14,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,15,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,16,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,17,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,18,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,19,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,20,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,21,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,22,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,23,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,24,0,0,0,0,0
-Landeck,Ried im Oberinntal,2020,25,0,0,0,0,0
-Lienz,Dölsach,2020,1,1,0,0.0072115385,0.3333333333,1
-Lienz,Dölsach,2020,2,0,0,0,0,0
-Lienz,Dölsach,2020,3,0,0,0,0,0
-Lienz,Dölsach,2020,4,0,0,0,0,0
-Lienz,Dölsach,2020,5,0,0,0,0,0
-Lienz,Dölsach,2020,6,1,0,0.0072115385,0,0
-Lienz,Dölsach,2020,7,0,0,0,0,0
-Lienz,Dölsach,2020,8,0,0,0,0,0
-Lienz,Dölsach,2020,9,0,0,0,0,0
-Lienz,Dölsach,2020,10,2,0,0.0168269231,0.5,1.3333333333
-Lienz,Dölsach,2020,11,0,0,0,0,0
-Lienz,Dölsach,2020,12,1,0,0.0072115385,0,0.3333333333
-Lienz,Dölsach,2020,13,0,0,0,0,0
-Lienz,Dölsach,2020,14,0,0,0,0,0
-Lienz,Dölsach,2020,15,0,0,0,0,0
-Lienz,Dölsach,2020,16,0,0,0,0,0
-Lienz,Dölsach,2020,17,0,0,0,0,0
-Lienz,Dölsach,2020,18,0,0,0,0,0
-Lienz,Dölsach,2020,19,0,0,0,0,0
-Lienz,Dölsach,2020,20,0,0,0,0,0
-Lienz,Dölsach,2020,21,0,0,0,0,0
-Lienz,Dölsach,2020,22,1,0,0.0072115385,0,0.6666666667
-Lienz,Dölsach,2020,23,0,0,0,0,0
-Lienz,Dölsach,2020,24,0,0,0,0,0
-Lienz,Dölsach,2020,25,1,0,0.0072115385,0.3333333333,1
-Lienz,Lienz,2020,1,1,0,0,0,0
-Lienz,Lienz,2020,2,2,0,0,0,0
-Lienz,Lienz,2020,3,3,0,0,0,0
-Lienz,Lienz,2020,4,3,0,0,0,0.0833333333
-Lienz,Lienz,2020,5,5,0,0.0051775148,0,0.4
-Lienz,Lienz,2020,6,2,0,0,0,0
-Lienz,Lienz,2020,7,2,0,0,0,0
-Lienz,Lienz,2020,8,3,0,0,0,0
-Lienz,Lienz,2020,9,3,0,0,0,0.3333333333
-Lienz,Lienz,2020,10,5,0,0.0051775148,1,0.5833333333
-Lienz,Lienz,2020,11,3,0,0,0,0
-Lienz,Lienz,2020,12,2,0,0,0,0
-Lienz,Lienz,2020,13,3,0,0,0,0
-Lienz,Lienz,2020,14,2,0,0,0,0
-Lienz,Lienz,2020,15,5,0,0.0051775148,0,0
-Lienz,Lienz,2020,16,2,0,0,0,0
-Lienz,Lienz,2020,17,2,0,0,0,0
-Lienz,Lienz,2020,18,1,0,0,0,0
-Lienz,Lienz,2020,19,0,0,0,0,0
-Lienz,Lienz,2020,20,0,0,0,0,0
-Lienz,Lienz,2020,21,0,0,0,0,0
-Lienz,Lienz,2020,22,0,0,0,0,0
-Lienz,Lienz,2020,23,2,0,0,0,0
-Lienz,Lienz,2020,24,0,0,0,0,0
-Lienz,Lienz,2020,25,1,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,1,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,2,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,3,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,4,1,0,0.0170118343,0.3333333333,1
-Lienz,St. Veit in Defereggen,2020,5,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,6,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,7,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,8,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,9,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,10,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,11,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,12,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,13,1,0,0.0170118343,0,0.6666666667
-Lienz,St. Veit in Defereggen,2020,14,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,15,1,0,0.0170118343,0,0.6666666667
-Lienz,St. Veit in Defereggen,2020,16,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,17,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,18,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,19,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,20,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,21,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,22,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,23,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,24,0,0,0,0,0
-Lienz,St. Veit in Defereggen,2020,25,1,0,0.0170118343,0,0.6666666667
-Lienz,Ainet,2020,1,0,0,0,0,0
-Lienz,Ainet,2020,2,0,0,0,0,0
-Lienz,Ainet,2020,3,0,0,0,0,0
-Lienz,Ainet,2020,4,2,0.0024038462,0.0355029586,0.5,1.3333333333
-Lienz,Ainet,2020,5,0,0,0,0,0
-Lienz,Ainet,2020,6,0,0,0,0,0
-Lienz,Ainet,2020,7,0,0,0,0,0
-Lienz,Ainet,2020,8,0,0,0,0,0
-Lienz,Ainet,2020,9,0,0,0,0,0
-Lienz,Ainet,2020,10,0,0,0,0,0
-Lienz,Ainet,2020,11,0,0,0,0,0
-Lienz,Ainet,2020,12,0,0,0,0,0
-Lienz,Ainet,2020,13,0,0,0,0,0
-Lienz,Ainet,2020,14,0,0,0,0,0
-Lienz,Ainet,2020,15,0,0,0,0,0
-Lienz,Ainet,2020,16,0,0,0,0,0
-Lienz,Ainet,2020,17,1,0,0.0162721893,0.3333333333,1
-Lienz,Ainet,2020,18,0,0,0,0,0
-Lienz,Ainet,2020,19,0,0,0,0,0
-Lienz,Ainet,2020,20,0,0,0,0,0
-Lienz,Ainet,2020,21,0,0,0,0,0
-Lienz,Ainet,2020,22,0,0,0,0,0
-Lienz,Ainet,2020,23,2,0.0024038462,0.0355029586,1,1.6666666667
-Lienz,Ainet,2020,24,1,0,0.0162721893,0.3333333333,1
-Lienz,Ainet,2020,25,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,1,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,2,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,3,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,4,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,5,1,0,0.0014792899,0,0.6666666667
-Lienz,Matrei in Osttirol,2020,6,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,7,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,8,1,0,0.0014792899,0,0.1666666667
-Lienz,Matrei in Osttirol,2020,9,1,0,0.0014792899,0,0
-Lienz,Matrei in Osttirol,2020,10,1,0,0.0014792899,0,0
-Lienz,Matrei in Osttirol,2020,11,1,0,0.0014792899,0,0
-Lienz,Matrei in Osttirol,2020,12,3,0,0.0110946746,2,2.6666666667
-Lienz,Matrei in Osttirol,2020,13,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,14,1,0,0.0014792899,0,0.1666666667
-Lienz,Matrei in Osttirol,2020,15,1,0,0.0014792899,0,0.6666666667
-Lienz,Matrei in Osttirol,2020,16,1,0,0.0014792899,0,0
-Lienz,Matrei in Osttirol,2020,17,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,18,1,0,0.0014792899,0.3333333333,1
-Lienz,Matrei in Osttirol,2020,19,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,20,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,21,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,22,0,0,0,0,0
-Lienz,Matrei in Osttirol,2020,23,1,0,0.0014792899,0,0.6666666667
-Lienz,Matrei in Osttirol,2020,24,1,0,0.0014792899,0,0.3333333333
-Lienz,Matrei in Osttirol,2020,25,0,0,0,0,0
-Lienz,Tristach,2020,1,0,0,0,0,0
-Lienz,Tristach,2020,2,1,0,0.0166420118,0.3333333333,1
-Lienz,Tristach,2020,3,0,0,0,0,0
-Lienz,Tristach,2020,4,1,0,0.0166420118,0,0.6666666667
-Lienz,Tristach,2020,5,0,0,0,0,0
-Lienz,Tristach,2020,6,0,0,0,0,0
-Lienz,Tristach,2020,7,0,0,0,0,0
-Lienz,Tristach,2020,8,1,0,0.0166420118,0.3333333333,1
-Lienz,Tristach,2020,9,0,0,0,0,0
-Lienz,Tristach,2020,10,0,0,0,0,0
-Lienz,Tristach,2020,11,1,0,0.0166420118,0,0.6666666667
-Lienz,Tristach,2020,12,1,0,0.0166420118,0,0.6666666667
-Lienz,Tristach,2020,13,0,0,0,0,0
-Lienz,Tristach,2020,14,0,0,0,0,0
-Lienz,Tristach,2020,15,0,0,0,0,0
-Lienz,Tristach,2020,16,0,0,0,0,0
-Lienz,Tristach,2020,17,1,0,0.0166420118,0.3333333333,1
-Lienz,Tristach,2020,18,0,0,0,0,0
-Lienz,Tristach,2020,19,0,0,0,0,0
-Lienz,Tristach,2020,20,0,0,0,0,0
-Lienz,Tristach,2020,21,0,0,0,0,0
-Lienz,Tristach,2020,22,0,0,0,0,0
-Lienz,Tristach,2020,23,2,0.0027472527,0.0358727811,1,1.6666666667
-Lienz,Tristach,2020,24,0,0,0,0,0
-Lienz,Tristach,2020,25,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,1,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,2,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,3,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,4,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,5,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,6,2,0,0.0094921105,1,1.6666666667
-Lienz,Nußdorf-Debant,2020,7,2,0,0.0094921105,0.5,1.3333333333
-Lienz,Nußdorf-Debant,2020,8,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,9,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,10,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,11,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,12,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,13,1,0,0.003081854,0.3333333333,1
-Lienz,Nußdorf-Debant,2020,14,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,15,1,0,0.003081854,0,0
-Lienz,Nußdorf-Debant,2020,16,1,0,0.003081854,0,0
-Lienz,Nußdorf-Debant,2020,17,1,0,0.003081854,0.3333333333,1
-Lienz,Nußdorf-Debant,2020,18,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,19,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,20,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,21,1,0,0.003081854,0,0.6666666667
-Lienz,Nußdorf-Debant,2020,22,2,0,0.0094921105,1,1.6666666667
-Lienz,Nußdorf-Debant,2020,23,1,0,0.003081854,0,0.3333333333
-Lienz,Nußdorf-Debant,2020,24,0,0,0,0,0
-Lienz,Nußdorf-Debant,2020,25,0,0,0,0,0
-Lienz,Oberlienz,2020,1,0,0,0,0,0
-Lienz,Oberlienz,2020,2,0,0,0,0,0
-Lienz,Oberlienz,2020,3,0,0,0,0,0
-Lienz,Oberlienz,2020,4,0,0,0,0,0
-Lienz,Oberlienz,2020,5,3,0.0034965035,0.0536242604,1,3
-Lienz,Oberlienz,2020,6,0,0,0,0,0
-Lienz,Oberlienz,2020,7,0,0,0,0,0
-Lienz,Oberlienz,2020,8,0,0,0,0,0
-Lienz,Oberlienz,2020,9,0,0,0,0,0
-Lienz,Oberlienz,2020,10,0,0,0,0,0
-Lienz,Oberlienz,2020,11,0,0,0,0,0
-Lienz,Oberlienz,2020,12,0,0,0,0,0
-Lienz,Oberlienz,2020,13,1,0,0.0151627219,0,0.6666666667
-Lienz,Oberlienz,2020,14,0,0,0,0,0
-Lienz,Oberlienz,2020,15,0,0,0,0,0
-Lienz,Oberlienz,2020,16,0,0,0,0,0
-Lienz,Oberlienz,2020,17,1,0,0.0151627219,0,0.3333333333
-Lienz,Oberlienz,2020,18,0,0,0,0,0
-Lienz,Oberlienz,2020,19,0,0,0,0,0
-Lienz,Oberlienz,2020,20,0,0,0,0,0
-Lienz,Oberlienz,2020,21,0,0,0,0,0
-Lienz,Oberlienz,2020,22,0,0,0,0,0
-Lienz,Oberlienz,2020,23,1,0,0.0151627219,0.3333333333,1
-Lienz,Oberlienz,2020,24,0,0,0,0,0
-Lienz,Oberlienz,2020,25,0,0,0,0,0
-Lienz,Anras,2020,1,0,0,0,0,0
-Lienz,Anras,2020,2,0,0,0,0,0
-Lienz,Anras,2020,3,1,0,0.0086908284,0.3333333333,1
-Lienz,Anras,2020,4,0,0,0,0,0
-Lienz,Anras,2020,5,1,0,0.0086908284,0.3333333333,1
-Lienz,Anras,2020,6,2,0,0.018306213,0.6666666667,2
-Lienz,Anras,2020,7,0,0,0,0,0
-Lienz,Anras,2020,8,0,0,0,0,0
-Lienz,Anras,2020,9,1,0,0.0086908284,0.3333333333,1
-Lienz,Anras,2020,10,0,0,0,0,0
-Lienz,Anras,2020,11,0,0,0,0,0
-Lienz,Anras,2020,12,0,0,0,0,0
-Lienz,Anras,2020,13,0,0,0,0,0
-Lienz,Anras,2020,14,0,0,0,0,0
-Lienz,Anras,2020,15,0,0,0,0,0
-Lienz,Anras,2020,16,0,0,0,0,0
-Lienz,Anras,2020,17,0,0,0,0,0
-Lienz,Anras,2020,18,0,0,0,0,0
-Lienz,Anras,2020,19,0,0,0,0,0
-Lienz,Anras,2020,20,0,0,0,0,0
-Lienz,Anras,2020,21,0,0,0,0,0
-Lienz,Anras,2020,22,0,0,0,0,0
-Lienz,Anras,2020,23,1,0,0.0086908284,0.3333333333,1
-Lienz,Anras,2020,24,0,0,0,0,0
-Lienz,Anras,2020,25,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,1,1,0,0.0151627219,0,0.3333333333
-Lienz,St. Jakob in Defereggen,2020,2,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,3,1,0,0.0151627219,0.3333333333,1
-Lienz,St. Jakob in Defereggen,2020,4,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,5,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,6,1,0,0.0151627219,0,0.6666666667
-Lienz,St. Jakob in Defereggen,2020,7,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,8,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,9,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,10,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,11,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,12,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,13,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,14,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,15,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,16,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,17,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,18,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,19,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,20,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,21,1,0,0.0151627219,0,0.6666666667
-Lienz,St. Jakob in Defereggen,2020,22,2,0.0017482517,0.0343934911,0.6666666667,2
-Lienz,St. Jakob in Defereggen,2020,23,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,24,0,0,0,0,0
-Lienz,St. Jakob in Defereggen,2020,25,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,1,1,0,0.0159023669,0.3333333333,1
-Lienz,Prägraten am Großvenediger,2020,2,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,3,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,4,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,5,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,6,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,7,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,8,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,9,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,10,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,11,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,12,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,13,1,0,0.0159023669,0.3333333333,1
-Lienz,Prägraten am Großvenediger,2020,14,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,15,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,16,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,17,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,18,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,19,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,20,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,21,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,22,1,0,0.0159023669,0,0.6666666667
-Lienz,Prägraten am Großvenediger,2020,23,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,24,0,0,0,0,0
-Lienz,Prägraten am Großvenediger,2020,25,0,0,0,0,0
-Lienz,Außervillgraten,2020,1,0,0,0,0,0
-Lienz,Außervillgraten,2020,2,0,0,0,0,0
-Lienz,Außervillgraten,2020,3,0,0,0,0,0
-Lienz,Außervillgraten,2020,4,0,0,0,0,0
-Lienz,Außervillgraten,2020,5,0,0,0,0,0
-Lienz,Außervillgraten,2020,6,0,0,0,0,0
-Lienz,Außervillgraten,2020,7,0,0,0,0,0
-Lienz,Außervillgraten,2020,8,0,0,0,0,0
-Lienz,Außervillgraten,2020,9,0,0,0,0,0
-Lienz,Außervillgraten,2020,10,0,0,0,0,0
-Lienz,Außervillgraten,2020,11,0,0,0,0,0
-Lienz,Außervillgraten,2020,12,1,0,0.0072115385,0.3333333333,1
-Lienz,Außervillgraten,2020,13,1,0,0.0072115385,0,0.6666666667
-Lienz,Außervillgraten,2020,14,0,0,0,0,0
-Lienz,Außervillgraten,2020,15,0,0,0,0,0
-Lienz,Außervillgraten,2020,16,0,0,0,0,0
-Lienz,Außervillgraten,2020,17,0,0,0,0,0
-Lienz,Außervillgraten,2020,18,0,0,0,0,0
-Lienz,Außervillgraten,2020,19,0,0,0,0,0
-Lienz,Außervillgraten,2020,20,0,0,0,0,0
-Lienz,Außervillgraten,2020,21,1,0,0.0072115385,0.3333333333,1
-Lienz,Außervillgraten,2020,22,0,0,0,0,0
-Lienz,Außervillgraten,2020,23,0,0,0,0,0
-Lienz,Außervillgraten,2020,24,0,0,0,0,0
-Lienz,Außervillgraten,2020,25,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,1,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,2,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,3,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,4,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,5,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,6,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,7,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,8,1,0,0.0073964497,0,0.6666666667
-Lienz,Kals am Großglockner,2020,9,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,10,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,11,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,12,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,13,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,14,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,15,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,16,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,17,1,0,0.0073964497,0,0.1666666667
-Lienz,Kals am Großglockner,2020,18,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,19,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,20,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,21,1,0,0.0073964497,0.3333333333,1
-Lienz,Kals am Großglockner,2020,22,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,23,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,24,0,0,0,0,0
-Lienz,Kals am Großglockner,2020,25,0,0,0,0,0
-Lienz,Heinfels,2020,1,0,0,0,0,0
-Lienz,Heinfels,2020,2,1,0,0.0151627219,0,0.6666666667
-Lienz,Heinfels,2020,3,0,0,0,0,0
-Lienz,Heinfels,2020,4,0,0,0,0,0
-Lienz,Heinfels,2020,5,0,0,0,0,0
-Lienz,Heinfels,2020,6,1,0,0.0151627219,0,0.6666666667
-Lienz,Heinfels,2020,7,1,0,0.0151627219,0.3333333333,1
-Lienz,Heinfels,2020,8,0,0,0,0,0
-Lienz,Heinfels,2020,9,0,0,0,0,0
-Lienz,Heinfels,2020,10,0,0,0,0,0
-Lienz,Heinfels,2020,11,0,0,0,0,0
-Lienz,Heinfels,2020,12,0,0,0,0,0
-Lienz,Heinfels,2020,13,0,0,0,0,0
-Lienz,Heinfels,2020,14,1,0,0.0151627219,0,0.6666666667
-Lienz,Heinfels,2020,15,0,0,0,0,0
-Lienz,Heinfels,2020,16,0,0,0,0,0
-Lienz,Heinfels,2020,17,0,0,0,0,0
-Lienz,Heinfels,2020,18,0,0,0,0,0
-Lienz,Heinfels,2020,19,0,0,0,0,0
-Lienz,Heinfels,2020,20,0,0,0,0,0
-Lienz,Heinfels,2020,21,1,0,0.0151627219,0,0.6666666667
-Lienz,Heinfels,2020,22,0,0,0,0,0
-Lienz,Heinfels,2020,23,0,0,0,0,0
-Lienz,Heinfels,2020,24,0,0,0,0,0
-Lienz,Heinfels,2020,25,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,1,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,2,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,3,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,4,1,0,0.0181213018,0.3333333333,1
-Lienz,Iselsberg-Stronach,2020,5,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,6,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,7,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,8,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,9,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,10,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,11,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,12,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,13,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,14,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,15,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,16,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,17,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,18,1,0,0.0181213018,0.3333333333,1
-Lienz,Iselsberg-Stronach,2020,19,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,20,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,21,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,22,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,23,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,24,0,0,0,0,0
-Lienz,Iselsberg-Stronach,2020,25,0,0,0,0,0
-Lienz,Abfaltersbach,2020,1,0,0,0,0,0
-Lienz,Abfaltersbach,2020,2,0,0,0,0,0
-Lienz,Abfaltersbach,2020,3,0,0,0,0,0
-Lienz,Abfaltersbach,2020,4,1,0,0.0177514793,0.3333333333,1
-Lienz,Abfaltersbach,2020,5,0,0,0,0,0
-Lienz,Abfaltersbach,2020,6,0,0,0,0,0
-Lienz,Abfaltersbach,2020,7,0,0,0,0,0
-Lienz,Abfaltersbach,2020,8,0,0,0,0,0
-Lienz,Abfaltersbach,2020,9,0,0,0,0,0
-Lienz,Abfaltersbach,2020,10,0,0,0,0,0
-Lienz,Abfaltersbach,2020,11,0,0,0,0,0
-Lienz,Abfaltersbach,2020,12,1,0,0.0177514793,0,0.6666666667
-Lienz,Abfaltersbach,2020,13,0,0,0,0,0
-Lienz,Abfaltersbach,2020,14,0,0,0,0,0
-Lienz,Abfaltersbach,2020,15,0,0,0,0,0
-Lienz,Abfaltersbach,2020,16,0,0,0,0,0
-Lienz,Abfaltersbach,2020,17,1,0,0.0177514793,0.3333333333,1
-Lienz,Abfaltersbach,2020,18,0,0,0,0,0
-Lienz,Abfaltersbach,2020,19,0,0,0,0,0
-Lienz,Abfaltersbach,2020,20,0,0,0,0,0
-Lienz,Abfaltersbach,2020,21,0,0,0,0,0
-Lienz,Abfaltersbach,2020,22,0,0,0,0,0
-Lienz,Abfaltersbach,2020,23,0,0,0,0,0
-Lienz,Abfaltersbach,2020,24,0,0,0,0,0
-Lienz,Abfaltersbach,2020,25,0,0,0,0,0
-Lienz,Strassen,2020,1,0,0,0,0,0
-Lienz,Strassen,2020,2,0,0,0,0,0
-Lienz,Strassen,2020,3,0,0,0,0,0
-Lienz,Strassen,2020,4,0,0,0,0,0
-Lienz,Strassen,2020,5,0,0,0,0,0
-Lienz,Strassen,2020,6,1,0,0.0181213018,0,0.6666666667
-Lienz,Strassen,2020,7,0,0,0,0,0
-Lienz,Strassen,2020,8,0,0,0,0,0
-Lienz,Strassen,2020,9,1,0,0.0181213018,0.3333333333,1
-Lienz,Strassen,2020,10,0,0,0,0,0
-Lienz,Strassen,2020,11,0,0,0,0,0
-Lienz,Strassen,2020,12,0,0,0,0,0
-Lienz,Strassen,2020,13,0,0,0,0,0
-Lienz,Strassen,2020,14,0,0,0,0,0
-Lienz,Strassen,2020,15,0,0,0,0,0
-Lienz,Strassen,2020,16,0,0,0,0,0
-Lienz,Strassen,2020,17,1,0,0.0181213018,0.3333333333,1
-Lienz,Strassen,2020,18,0,0,0,0,0
-Lienz,Strassen,2020,19,0,0,0,0,0
-Lienz,Strassen,2020,20,0,0,0,0,0
-Lienz,Strassen,2020,21,0,0,0,0,0
-Lienz,Strassen,2020,22,0,0,0,0,0
-Lienz,Strassen,2020,23,0,0,0,0,0
-Lienz,Strassen,2020,24,0,0,0,0,0
-Lienz,Strassen,2020,25,0,0,0,0,0
-Lienz,Assling,2020,1,1,0,0.0162721893,0,0.1666666667
-Lienz,Assling,2020,2,0,0,0,0,0
-Lienz,Assling,2020,3,0,0,0,0,0
-Lienz,Assling,2020,4,0,0,0,0,0
-Lienz,Assling,2020,5,1,0,0.0162721893,0,0.6666666667
-Lienz,Assling,2020,6,0,0,0,0,0
-Lienz,Assling,2020,7,0,0,0,0,0
-Lienz,Assling,2020,8,2,0.0024038462,0.0355029586,0.6666666667,2
-Lienz,Assling,2020,9,0,0,0,0,0
-Lienz,Assling,2020,10,0,0,0,0,0
-Lienz,Assling,2020,11,0,0,0,0,0
-Lienz,Assling,2020,12,0,0,0,0,0
-Lienz,Assling,2020,13,0,0,0,0,0
-Lienz,Assling,2020,14,0,0,0,0,0
-Lienz,Assling,2020,15,0,0,0,0,0
-Lienz,Assling,2020,16,1,0,0.0162721893,0,0.6666666667
-Lienz,Assling,2020,17,0,0,0,0,0
-Lienz,Assling,2020,18,0,0,0,0,0
-Lienz,Assling,2020,19,0,0,0,0,0
-Lienz,Assling,2020,20,0,0,0,0,0
-Lienz,Assling,2020,21,0,0,0,0,0
-Lienz,Assling,2020,22,0,0,0,0,0
-Lienz,Assling,2020,23,0,0,0,0,0
-Lienz,Assling,2020,24,0,0,0,0,0
-Lienz,Assling,2020,25,0,0,0,0,0
-Lienz,Obertilliach,2020,1,0,0,0,0,0
-Lienz,Obertilliach,2020,2,0,0,0,0,0
-Lienz,Obertilliach,2020,3,0,0,0,0,0
-Lienz,Obertilliach,2020,4,0,0,0,0,0
-Lienz,Obertilliach,2020,5,1,0,0.0170118343,0.3333333333,1
-Lienz,Obertilliach,2020,6,0,0,0,0,0
-Lienz,Obertilliach,2020,7,0,0,0,0,0
-Lienz,Obertilliach,2020,8,0,0,0,0,0
-Lienz,Obertilliach,2020,9,0,0,0,0,0
-Lienz,Obertilliach,2020,10,0,0,0,0,0
-Lienz,Obertilliach,2020,11,1,0,0.0170118343,0,0.6666666667
-Lienz,Obertilliach,2020,12,0,0,0,0,0
-Lienz,Obertilliach,2020,13,0,0,0,0,0
-Lienz,Obertilliach,2020,14,1,0,0.0170118343,0,0.6666666667
-Lienz,Obertilliach,2020,15,0,0,0,0,0
-Lienz,Obertilliach,2020,16,1,0,0.0170118343,0,0.6666666667
-Lienz,Obertilliach,2020,17,0,0,0,0,0
-Lienz,Obertilliach,2020,18,0,0,0,0,0
-Lienz,Obertilliach,2020,19,0,0,0,0,0
-Lienz,Obertilliach,2020,20,0,0,0,0,0
-Lienz,Obertilliach,2020,21,0,0,0,0,0
-Lienz,Obertilliach,2020,22,0,0,0,0,0
-Lienz,Obertilliach,2020,23,0,0,0,0,0
-Lienz,Obertilliach,2020,24,0,0,0,0,0
-Lienz,Obertilliach,2020,25,0,0,0,0,0
-Lienz,Thurn,2020,1,0,0,0,0,0
-Lienz,Thurn,2020,2,0,0,0,0,0
-Lienz,Thurn,2020,3,0,0,0,0,0
-Lienz,Thurn,2020,4,0,0,0,0,0
-Lienz,Thurn,2020,5,0,0,0,0,0
-Lienz,Thurn,2020,6,0,0,0,0,0
-Lienz,Thurn,2020,7,0,0,0,0,0
-Lienz,Thurn,2020,8,0,0,0,0,0
-Lienz,Thurn,2020,9,0,0,0,0,0
-Lienz,Thurn,2020,10,0,0,0,0,0
-Lienz,Thurn,2020,11,0,0,0,0,0
-Lienz,Thurn,2020,12,0,0,0,0,0
-Lienz,Thurn,2020,13,0,0,0,0,0
-Lienz,Thurn,2020,14,0,0,0,0,0
-Lienz,Thurn,2020,15,0,0,0,0,0
-Lienz,Thurn,2020,16,1,0,0.0166420118,0.3333333333,1
-Lienz,Thurn,2020,17,0,0,0,0,0
-Lienz,Thurn,2020,18,0,0,0,0,0
-Lienz,Thurn,2020,19,0,0,0,0,0
-Lienz,Thurn,2020,20,0,0,0,0,0
-Lienz,Thurn,2020,21,0,0,0,0,0
-Lienz,Thurn,2020,22,0,0,0,0,0
-Lienz,Thurn,2020,23,0,0,0,0,0
-Lienz,Thurn,2020,24,0,0,0,0,0
-Lienz,Thurn,2020,25,0,0,0,0,0
-Lienz,Sillian,2020,1,0,0,0,0,0
-Lienz,Sillian,2020,2,0,0,0,0,0
-Lienz,Sillian,2020,3,1,0,0.006102071,0,0.3333333333
-Lienz,Sillian,2020,4,0,0,0,0,0
-Lienz,Sillian,2020,5,0,0,0,0,0
-Lienz,Sillian,2020,6,0,0,0,0,0
-Lienz,Sillian,2020,7,0,0,0,0,0
-Lienz,Sillian,2020,8,1,0,0.006102071,0,0.6666666667
-Lienz,Sillian,2020,9,0,0,0,0,0
-Lienz,Sillian,2020,10,0,0,0,0,0
-Lienz,Sillian,2020,11,0,0,0,0,0
-Lienz,Sillian,2020,12,1,0,0.006102071,0.3333333333,1
-Lienz,Sillian,2020,13,1,0,0.006102071,0,0.1666666667
-Lienz,Sillian,2020,14,0,0,0,0,0
-Lienz,Sillian,2020,15,1,0,0.006102071,0.3333333333,1
-Lienz,Sillian,2020,16,0,0,0,0,0
-Lienz,Sillian,2020,17,0,0,0,0,0
-Lienz,Sillian,2020,18,0,0,0,0,0
-Lienz,Sillian,2020,19,0,0,0,0,0
-Lienz,Sillian,2020,20,0,0,0,0,0
-Lienz,Sillian,2020,21,0,0,0,0,0
-Lienz,Sillian,2020,22,0,0,0,0,0
-Lienz,Sillian,2020,23,0,0,0,0,0
-Lienz,Sillian,2020,24,0,0,0,0,0
-Lienz,Sillian,2020,25,0,0,0,0,0
-Lienz,Virgen,2020,1,1,0,0.0041913215,0,0
-Lienz,Virgen,2020,2,1,0,0.0041913215,0,0
-Lienz,Virgen,2020,3,0,0,0,0,0
-Lienz,Virgen,2020,4,0,0,0,0,0
-Lienz,Virgen,2020,5,0,0,0,0,0
-Lienz,Virgen,2020,6,0,0,0,0,0
-Lienz,Virgen,2020,7,0,0,0,0,0
-Lienz,Virgen,2020,8,1,0,0.0041913215,0.3333333333,1
-Lienz,Virgen,2020,9,0,0,0,0,0
-Lienz,Virgen,2020,10,0,0,0,0,0
-Lienz,Virgen,2020,11,0,0,0,0,0
-Lienz,Virgen,2020,12,0,0,0,0,0
-Lienz,Virgen,2020,13,1,0,0.0041913215,0,0.1666666667
-Lienz,Virgen,2020,14,0,0,0,0,0
-Lienz,Virgen,2020,15,1,0,0.0041913215,0,0
-Lienz,Virgen,2020,16,0,0,0,0,0
-Lienz,Virgen,2020,17,0,0,0,0,0
-Lienz,Virgen,2020,18,0,0,0,0,0
-Lienz,Virgen,2020,19,0,0,0,0,0
-Lienz,Virgen,2020,20,0,0,0,0,0
-Lienz,Virgen,2020,21,0,0,0,0,0
-Lienz,Virgen,2020,22,0,0,0,0,0
-Lienz,Virgen,2020,23,0,0,0,0,0
-Lienz,Virgen,2020,24,0,0,0,0,0
-Lienz,Virgen,2020,25,0,0,0,0,0
-Lienz,Leisach,2020,1,0,0,0,0,0
-Lienz,Leisach,2020,2,0,0,0,0,0
-Lienz,Leisach,2020,3,1,0,0.0181213018,0,0.6666666667
-Lienz,Leisach,2020,4,0,0,0,0,0
-Lienz,Leisach,2020,5,1,0,0.0181213018,0.3333333333,1
-Lienz,Leisach,2020,6,0,0,0,0,0
-Lienz,Leisach,2020,7,0,0,0,0,0
-Lienz,Leisach,2020,8,0,0,0,0,0
-Lienz,Leisach,2020,9,0,0,0,0,0
-Lienz,Leisach,2020,10,0,0,0,0,0
-Lienz,Leisach,2020,11,1,0,0.0181213018,0.3333333333,1
-Lienz,Leisach,2020,12,0,0,0,0,0
-Lienz,Leisach,2020,13,0,0,0,0,0
-Lienz,Leisach,2020,14,0,0,0,0,0
-Lienz,Leisach,2020,15,1,0,0.0181213018,0.3333333333,1
-Lienz,Leisach,2020,16,0,0,0,0,0
-Lienz,Leisach,2020,17,0,0,0,0,0
-Lienz,Leisach,2020,18,0,0,0,0,0
-Lienz,Leisach,2020,19,0,0,0,0,0
-Lienz,Leisach,2020,20,0,0,0,0,0
-Lienz,Leisach,2020,21,0,0,0,0,0
-Lienz,Leisach,2020,22,0,0,0,0,0
-Lienz,Leisach,2020,23,0,0,0,0,0
-Lienz,Leisach,2020,24,0,0,0,0,0
-Lienz,Leisach,2020,25,0,0,0,0,0
-Lienz,Nikolsdorf,2020,1,0,0,0,0,0
-Lienz,Nikolsdorf,2020,2,1,0,0.0173816568,0,0.6666666667
-Lienz,Nikolsdorf,2020,3,0,0,0,0,0
-Lienz,Nikolsdorf,2020,4,0,0,0,0,0
-Lienz,Nikolsdorf,2020,5,2,0.0038461538,0.036612426,1,1.6666666667
-Lienz,Nikolsdorf,2020,6,0,0,0,0,0
-Lienz,Nikolsdorf,2020,7,0,0,0,0,0
-Lienz,Nikolsdorf,2020,8,0,0,0,0,0
-Lienz,Nikolsdorf,2020,9,0,0,0,0,0
-Lienz,Nikolsdorf,2020,10,1,0,0.0173816568,0,0.6666666667
-Lienz,Nikolsdorf,2020,11,1,0,0.0173816568,0.3333333333,1
-Lienz,Nikolsdorf,2020,12,0,0,0,0,0
-Lienz,Nikolsdorf,2020,13,0,0,0,0,0
-Lienz,Nikolsdorf,2020,14,1,0,0.0173816568,0,0.6666666667
-Lienz,Nikolsdorf,2020,15,0,0,0,0,0
-Lienz,Nikolsdorf,2020,16,0,0,0,0,0
-Lienz,Nikolsdorf,2020,17,0,0,0,0,0
-Lienz,Nikolsdorf,2020,18,0,0,0,0,0
-Lienz,Nikolsdorf,2020,19,0,0,0,0,0
-Lienz,Nikolsdorf,2020,20,0,0,0,0,0
-Lienz,Nikolsdorf,2020,21,0,0,0,0,0
-Lienz,Nikolsdorf,2020,22,0,0,0,0,0
-Lienz,Nikolsdorf,2020,23,0,0,0,0,0
-Lienz,Nikolsdorf,2020,24,0,0,0,0,0
-Lienz,Nikolsdorf,2020,25,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,1,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,2,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,3,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,4,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,5,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,6,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,7,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,8,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,9,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,10,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,11,1,0,0.0181213018,0.3333333333,1
-Lienz,St. Johann im Walde,2020,12,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,13,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,14,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,15,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,16,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,17,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,18,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,19,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,20,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,21,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,22,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,23,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,24,0,0,0,0,0
-Lienz,St. Johann im Walde,2020,25,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,1,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,2,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,3,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,4,1,0,0.0077662722,0.3333333333,1
-Lienz,Hopfgarten in Defereggen,2020,5,1,0,0.0077662722,0.3333333333,1
-Lienz,Hopfgarten in Defereggen,2020,6,1,0,0.0077662722,0.3333333333,1
-Lienz,Hopfgarten in Defereggen,2020,7,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,8,2,0,0.0173816568,1,1.6666666667
-Lienz,Hopfgarten in Defereggen,2020,9,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,10,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,11,1,0,0.0077662722,0,0.3333333333
-Lienz,Hopfgarten in Defereggen,2020,12,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,13,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,14,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,15,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,16,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,17,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,18,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,19,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,20,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,21,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,22,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,23,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,24,0,0,0,0,0
-Lienz,Hopfgarten in Defereggen,2020,25,0,0,0,0,0
-Lienz,Lavant,2020,1,0,0,0,0,0
-Lienz,Lavant,2020,2,0,0,0,0,0
-Lienz,Lavant,2020,3,0,0,0,0,0
-Lienz,Lavant,2020,4,0,0,0,0,0
-Lienz,Lavant,2020,5,0,0,0,0,0
-Lienz,Lavant,2020,6,0,0,0,0,0
-Lienz,Lavant,2020,7,0,0,0,0,0
-Lienz,Lavant,2020,8,0,0,0,0,0
-Lienz,Lavant,2020,9,0,0,0,0,0
-Lienz,Lavant,2020,10,0,0,0,0,0
-Lienz,Lavant,2020,11,1,0,0.0173816568,0.3333333333,1
-Lienz,Lavant,2020,12,0,0,0,0,0
-Lienz,Lavant,2020,13,0,0,0,0,0
-Lienz,Lavant,2020,14,0,0,0,0,0
-Lienz,Lavant,2020,15,0,0,0,0,0
-Lienz,Lavant,2020,16,0,0,0,0,0
-Lienz,Lavant,2020,17,0,0,0,0,0
-Lienz,Lavant,2020,18,0,0,0,0,0
-Lienz,Lavant,2020,19,0,0,0,0,0
-Lienz,Lavant,2020,20,0,0,0,0,0
-Lienz,Lavant,2020,21,0,0,0,0,0
-Lienz,Lavant,2020,22,0,0,0,0,0
-Lienz,Lavant,2020,23,0,0,0,0,0
-Lienz,Lavant,2020,24,0,0,0,0,0
-Lienz,Lavant,2020,25,0,0,0,0,0
-Lienz,Innervillgraten,2020,1,0,0,0,0,0
-Lienz,Innervillgraten,2020,2,0,0,0,0,0
-Lienz,Innervillgraten,2020,3,0,0,0,0,0
-Lienz,Innervillgraten,2020,4,0,0,0,0,0
-Lienz,Innervillgraten,2020,5,0,0,0,0,0
-Lienz,Innervillgraten,2020,6,0,0,0,0,0
-Lienz,Innervillgraten,2020,7,1,0,0.0046844181,0.3333333333,1
-Lienz,Innervillgraten,2020,8,0,0,0,0,0
-Lienz,Innervillgraten,2020,9,0,0,0,0,0
-Lienz,Innervillgraten,2020,10,1,0,0.0046844181,0,0.1666666667
-Lienz,Innervillgraten,2020,11,0,0,0,0,0
-Lienz,Innervillgraten,2020,12,0,0,0,0,0
-Lienz,Innervillgraten,2020,13,0,0,0,0,0
-Lienz,Innervillgraten,2020,14,0,0,0,0,0
-Lienz,Innervillgraten,2020,15,0,0,0,0,0
-Lienz,Innervillgraten,2020,16,0,0,0,0,0
-Lienz,Innervillgraten,2020,17,0,0,0,0,0
-Lienz,Innervillgraten,2020,18,0,0,0,0,0
-Lienz,Innervillgraten,2020,19,0,0,0,0,0
-Lienz,Innervillgraten,2020,20,0,0,0,0,0
-Lienz,Innervillgraten,2020,21,0,0,0,0,0
-Lienz,Innervillgraten,2020,22,0,0,0,0,0
-Lienz,Innervillgraten,2020,23,0,0,0,0,0
-Lienz,Innervillgraten,2020,24,0,0,0,0,0
-Lienz,Innervillgraten,2020,25,0,0,0,0,0
-Lienz,Kartitsch,2020,1,0,0,0,0,0
-Lienz,Kartitsch,2020,2,0,0,0,0,0
-Lienz,Kartitsch,2020,3,0,0,0,0,0
-Lienz,Kartitsch,2020,4,0,0,0,0,0
-Lienz,Kartitsch,2020,5,0,0,0,0,0
-Lienz,Kartitsch,2020,6,0,0,0,0,0
-Lienz,Kartitsch,2020,7,1,0,0.0159023669,0,0.6666666667
-Lienz,Kartitsch,2020,8,0,0,0,0,0
-Lienz,Kartitsch,2020,9,1,0,0.0159023669,0.3333333333,1
-Lienz,Kartitsch,2020,10,0,0,0,0,0
-Lienz,Kartitsch,2020,11,0,0,0,0,0
-Lienz,Kartitsch,2020,12,0,0,0,0,0
-Lienz,Kartitsch,2020,13,0,0,0,0,0
-Lienz,Kartitsch,2020,14,0,0,0,0,0
-Lienz,Kartitsch,2020,15,0,0,0,0,0
-Lienz,Kartitsch,2020,16,0,0,0,0,0
-Lienz,Kartitsch,2020,17,0,0,0,0,0
-Lienz,Kartitsch,2020,18,0,0,0,0,0
-Lienz,Kartitsch,2020,19,0,0,0,0,0
-Lienz,Kartitsch,2020,20,0,0,0,0,0
-Lienz,Kartitsch,2020,21,0,0,0,0,0
-Lienz,Kartitsch,2020,22,0,0,0,0,0
-Lienz,Kartitsch,2020,23,0,0,0,0,0
-Lienz,Kartitsch,2020,24,0,0,0,0,0
-Lienz,Kartitsch,2020,25,0,0,0,0,0
-Lienz,Gaimberg,2020,1,0,0,0,0,0
-Lienz,Gaimberg,2020,2,0,0,0,0,0
-Lienz,Gaimberg,2020,3,0,0,0,0,0
-Lienz,Gaimberg,2020,4,0,0,0,0,0
-Lienz,Gaimberg,2020,5,0,0,0,0,0
-Lienz,Gaimberg,2020,6,0,0,0,0,0
-Lienz,Gaimberg,2020,7,0,0,0,0,0
-Lienz,Gaimberg,2020,8,1,0,0.0151627219,0,0.6666666667
-Lienz,Gaimberg,2020,9,0,0,0,0,0
-Lienz,Gaimberg,2020,10,0,0,0,0,0
-Lienz,Gaimberg,2020,11,0,0,0,0,0
-Lienz,Gaimberg,2020,12,0,0,0,0,0
-Lienz,Gaimberg,2020,13,0,0,0,0,0
-Lienz,Gaimberg,2020,14,0,0,0,0,0
-Lienz,Gaimberg,2020,15,0,0,0,0,0
-Lienz,Gaimberg,2020,16,0,0,0,0,0
-Lienz,Gaimberg,2020,17,0,0,0,0,0
-Lienz,Gaimberg,2020,18,0,0,0,0,0
-Lienz,Gaimberg,2020,19,0,0,0,0,0
-Lienz,Gaimberg,2020,20,0,0,0,0,0
-Lienz,Gaimberg,2020,21,0,0,0,0,0
-Lienz,Gaimberg,2020,22,0,0,0,0,0
-Lienz,Gaimberg,2020,23,0,0,0,0,0
-Lienz,Gaimberg,2020,24,0,0,0,0,0
-Lienz,Gaimberg,2020,25,0,0,0,0,0
-Lienz,Schlaiten,2020,1,0,0,0,0,0
-Lienz,Schlaiten,2020,2,0,0,0,0,0
-Lienz,Schlaiten,2020,3,0,0,0,0,0
-Lienz,Schlaiten,2020,4,0,0,0,0,0
-Lienz,Schlaiten,2020,5,0,0,0,0,0
-Lienz,Schlaiten,2020,6,0,0,0,0,0
-Lienz,Schlaiten,2020,7,0,0,0,0,0
-Lienz,Schlaiten,2020,8,0,0,0,0,0
-Lienz,Schlaiten,2020,9,0,0,0,0,0
-Lienz,Schlaiten,2020,10,0,0,0,0,0
-Lienz,Schlaiten,2020,11,0,0,0,0,0
-Lienz,Schlaiten,2020,12,0,0,0,0,0
-Lienz,Schlaiten,2020,13,0,0,0,0,0
-Lienz,Schlaiten,2020,14,0,0,0,0,0
-Lienz,Schlaiten,2020,15,0,0,0,0,0
-Lienz,Schlaiten,2020,16,0,0,0,0,0
-Lienz,Schlaiten,2020,17,0,0,0,0,0
-Lienz,Schlaiten,2020,18,0,0,0,0,0
-Lienz,Schlaiten,2020,19,0,0,0,0,0
-Lienz,Schlaiten,2020,20,0,0,0,0,0
-Lienz,Schlaiten,2020,21,0,0,0,0,0
-Lienz,Schlaiten,2020,22,0,0,0,0,0
-Lienz,Schlaiten,2020,23,0,0,0,0,0
-Lienz,Schlaiten,2020,24,0,0,0,0,0
-Lienz,Schlaiten,2020,25,0,0,0,0,0
-Lienz,Untertilliach,2020,1,0,0,0,0,0
-Lienz,Untertilliach,2020,2,0,0,0,0,0
-Lienz,Untertilliach,2020,3,0,0,0,0,0
-Lienz,Untertilliach,2020,4,0,0,0,0,0
-Lienz,Untertilliach,2020,5,0,0,0,0,0
-Lienz,Untertilliach,2020,6,0,0,0,0,0
-Lienz,Untertilliach,2020,7,0,0,0,0,0
-Lienz,Untertilliach,2020,8,0,0,0,0,0
-Lienz,Untertilliach,2020,9,0,0,0,0,0
-Lienz,Untertilliach,2020,10,0,0,0,0,0
-Lienz,Untertilliach,2020,11,0,0,0,0,0
-Lienz,Untertilliach,2020,12,0,0,0,0,0
-Lienz,Untertilliach,2020,13,0,0,0,0,0
-Lienz,Untertilliach,2020,14,0,0,0,0,0
-Lienz,Untertilliach,2020,15,0,0,0,0,0
-Lienz,Untertilliach,2020,16,0,0,0,0,0
-Lienz,Untertilliach,2020,17,0,0,0,0,0
-Lienz,Untertilliach,2020,18,0,0,0,0,0
-Lienz,Untertilliach,2020,19,0,0,0,0,0
-Lienz,Untertilliach,2020,20,0,0,0,0,0
-Lienz,Untertilliach,2020,21,0,0,0,0,0
-Lienz,Untertilliach,2020,22,0,0,0,0,0
-Lienz,Untertilliach,2020,23,0,0,0,0,0
-Lienz,Untertilliach,2020,24,0,0,0,0,0
-Lienz,Untertilliach,2020,25,0,0,0,0,0
-Lienz,Amlach,2020,1,0,0,0,0,0
-Lienz,Amlach,2020,2,0,0,0,0,0
-Lienz,Amlach,2020,3,0,0,0,0,0
-Lienz,Amlach,2020,4,0,0,0,0,0
-Lienz,Amlach,2020,5,0,0,0,0,0
-Lienz,Amlach,2020,6,0,0,0,0,0
-Lienz,Amlach,2020,7,0,0,0,0,0
-Lienz,Amlach,2020,8,0,0,0,0,0
-Lienz,Amlach,2020,9,0,0,0,0,0
-Lienz,Amlach,2020,10,0,0,0,0,0
-Lienz,Amlach,2020,11,0,0,0,0,0
-Lienz,Amlach,2020,12,0,0,0,0,0
-Lienz,Amlach,2020,13,0,0,0,0,0
-Lienz,Amlach,2020,14,0,0,0,0,0
-Lienz,Amlach,2020,15,0,0,0,0,0
-Lienz,Amlach,2020,16,0,0,0,0,0
-Lienz,Amlach,2020,17,0,0,0,0,0
-Lienz,Amlach,2020,18,0,0,0,0,0
-Lienz,Amlach,2020,19,0,0,0,0,0
-Lienz,Amlach,2020,20,0,0,0,0,0
-Lienz,Amlach,2020,21,0,0,0,0,0
-Lienz,Amlach,2020,22,0,0,0,0,0
-Lienz,Amlach,2020,23,0,0,0,0,0
-Lienz,Amlach,2020,24,0,0,0,0,0
-Lienz,Amlach,2020,25,0,0,0,0,0
 Imst,Längenfeld,2020,1,1,0,0.0039447732,0,0
 Imst,Längenfeld,2020,2,0,0,0,0,0
 Imst,Längenfeld,2020,3,0,0,0,0,0
@@ -4524,6 +4524,31 @@ Imst,Mils bei Imst,2020,22,0,0,0,0,0
 Imst,Mils bei Imst,2020,23,0,0,0,0,0
 Imst,Mils bei Imst,2020,24,0,0,0,0,0
 Imst,Mils bei Imst,2020,25,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,1,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,2,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,3,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,4,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,5,1,0,0.0040680473,0,0.6666666667
+Kitzbühel,Brixen im Thale,2020,6,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,7,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,8,1,0,0.0040680473,0,0
+Kitzbühel,Brixen im Thale,2020,9,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,10,1,0,0.0040680473,0,0.3333333333
+Kitzbühel,Brixen im Thale,2020,11,1,0,0.0040680473,0,0
+Kitzbühel,Brixen im Thale,2020,12,1,0,0.0040680473,0,0.6666666667
+Kitzbühel,Brixen im Thale,2020,13,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,14,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,15,2,0,0.0104783037,0.6666666667,2
+Kitzbühel,Brixen im Thale,2020,16,1,0,0.0040680473,0.3333333333,1
+Kitzbühel,Brixen im Thale,2020,17,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,18,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,19,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,20,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,21,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,22,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,23,1,0,0.0040680473,0,0.3333333333
+Kitzbühel,Brixen im Thale,2020,24,0,0,0,0,0
+Kitzbühel,Brixen im Thale,2020,25,1,0,0.0040680473,0.3333333333,1
 Kitzbühel,Jochberg,2020,1,0,0,0,0,0
 Kitzbühel,Jochberg,2020,2,2,0,0.0153476331,0.6666666667,2
 Kitzbühel,Jochberg,2020,3,1,0,0.0057322485,0,0.6666666667
@@ -4799,31 +4824,6 @@ Kitzbühel,Kitzbühel,2020,22,0,0,0,0,0
 Kitzbühel,Kitzbühel,2020,23,3,0,0.0036982249,0,0.1333333333
 Kitzbühel,Kitzbühel,2020,24,0,0,0,0,0
 Kitzbühel,Kitzbühel,2020,25,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,1,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,2,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,3,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,4,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,5,1,0,0.0040680473,0,0.6666666667
-Kitzbühel,Brixen im Thale,2020,6,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,7,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,8,1,0,0.0040680473,0,0
-Kitzbühel,Brixen im Thale,2020,9,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,10,1,0,0.0040680473,0,0.3333333333
-Kitzbühel,Brixen im Thale,2020,11,1,0,0.0040680473,0,0
-Kitzbühel,Brixen im Thale,2020,12,1,0,0.0040680473,0,0.6666666667
-Kitzbühel,Brixen im Thale,2020,13,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,14,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,15,2,0,0.0104783037,0.6666666667,2
-Kitzbühel,Brixen im Thale,2020,16,1,0,0.0040680473,0.3333333333,1
-Kitzbühel,Brixen im Thale,2020,17,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,18,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,19,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,20,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,21,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,22,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,23,1,0,0.0040680473,0,0.3333333333
-Kitzbühel,Brixen im Thale,2020,24,0,0,0,0,0
-Kitzbühel,Brixen im Thale,2020,25,0,0,0,0,0
 Kitzbühel,Schwendt,2020,1,0,0,0,0,0
 Kitzbühel,Schwendt,2020,2,0,0,0,0,0
 Kitzbühel,Schwendt,2020,3,0,0,0,0,0
@@ -6024,6 +6024,31 @@ Innsbruck-Stadt,Innsbruck,2020,22,2,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,23,7,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,24,9,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,25,1,0,0,0,0
+Reutte,Steeg,2020,1,0,0,0,0,0
+Reutte,Steeg,2020,2,0,0,0,0,0
+Reutte,Steeg,2020,3,0,0,0,0,0
+Reutte,Steeg,2020,4,0,0,0,0,0
+Reutte,Steeg,2020,5,0,0,0,0,0
+Reutte,Steeg,2020,6,0,0,0,0,0
+Reutte,Steeg,2020,7,0,0,0,0,0
+Reutte,Steeg,2020,8,0,0,0,0,0
+Reutte,Steeg,2020,9,0,0,0,0,0
+Reutte,Steeg,2020,10,0,0,0,0,0
+Reutte,Steeg,2020,11,0,0,0,0,0
+Reutte,Steeg,2020,12,1,0,0.0170118343,0,0.3333333333
+Reutte,Steeg,2020,13,0,0,0,0,0
+Reutte,Steeg,2020,14,0,0,0,0,0
+Reutte,Steeg,2020,15,0,0,0,0,0
+Reutte,Steeg,2020,16,1,0,0.0170118343,0.3333333333,1
+Reutte,Steeg,2020,17,1,0,0.0170118343,0.3333333333,1
+Reutte,Steeg,2020,18,0,0,0,0,0
+Reutte,Steeg,2020,19,0,0,0,0,0
+Reutte,Steeg,2020,20,0,0,0,0,0
+Reutte,Steeg,2020,21,0,0,0,0,0
+Reutte,Steeg,2020,22,0,0,0,0,0
+Reutte,Steeg,2020,23,0,0,0,0,0
+Reutte,Steeg,2020,24,0,0,0,0,0
+Reutte,Steeg,2020,25,1,0,0.0170118343,0.3333333333,1
 Reutte,Breitenwang,2020,1,0,0,0,0,0
 Reutte,Breitenwang,2020,2,0,0,0,0,0
 Reutte,Breitenwang,2020,3,1,0,0.0177514793,0.3333333333,1
@@ -6274,31 +6299,6 @@ Reutte,Grän,2020,22,0,0,0,0,0
 Reutte,Grän,2020,23,0,0,0,0,0
 Reutte,Grän,2020,24,0,0,0,0,0
 Reutte,Grän,2020,25,0,0,0,0,0
-Reutte,Steeg,2020,1,0,0,0,0,0
-Reutte,Steeg,2020,2,0,0,0,0,0
-Reutte,Steeg,2020,3,0,0,0,0,0
-Reutte,Steeg,2020,4,0,0,0,0,0
-Reutte,Steeg,2020,5,0,0,0,0,0
-Reutte,Steeg,2020,6,0,0,0,0,0
-Reutte,Steeg,2020,7,0,0,0,0,0
-Reutte,Steeg,2020,8,0,0,0,0,0
-Reutte,Steeg,2020,9,0,0,0,0,0
-Reutte,Steeg,2020,10,0,0,0,0,0
-Reutte,Steeg,2020,11,0,0,0,0,0
-Reutte,Steeg,2020,12,1,0,0.0170118343,0,0.3333333333
-Reutte,Steeg,2020,13,0,0,0,0,0
-Reutte,Steeg,2020,14,0,0,0,0,0
-Reutte,Steeg,2020,15,0,0,0,0,0
-Reutte,Steeg,2020,16,1,0,0.0170118343,0.3333333333,1
-Reutte,Steeg,2020,17,1,0,0.0170118343,0.3333333333,1
-Reutte,Steeg,2020,18,0,0,0,0,0
-Reutte,Steeg,2020,19,0,0,0,0,0
-Reutte,Steeg,2020,20,0,0,0,0,0
-Reutte,Steeg,2020,21,0,0,0,0,0
-Reutte,Steeg,2020,22,0,0,0,0,0
-Reutte,Steeg,2020,23,0,0,0,0,0
-Reutte,Steeg,2020,24,0,0,0,0,0
-Reutte,Steeg,2020,25,0,0,0,0,0
 Reutte,Wängle,2020,1,0,0,0,0,0
 Reutte,Wängle,2020,2,0,0,0,0,0
 Reutte,Wängle,2020,3,0,0,0,0,0

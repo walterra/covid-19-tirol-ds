@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-81ea30f37cc0e161a73dd238e269137f"
+        "name": "data-6acadfc06895b64c49d6d4f964b95d98"
     },
     "datasets": {
-        "data-81ea30f37cc0e161a73dd238e269137f": [
+        "data-6acadfc06895b64c49d6d4f964b95d98": [
             {
                 "count": 2,
                 "district": "Landeck",
@@ -1288,7 +1288,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Landeck",
                 "municipaly": "Zams",
                 "week": 25,

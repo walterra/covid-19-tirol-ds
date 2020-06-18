@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-b8e99c19d4a78ce3d5dcd940f64962c5"
+        "name": "data-7b75e6bb072847c2227c8fadd793792a"
     },
     "datasets": {
-        "data-b8e99c19d4a78ce3d5dcd940f64962c5": [
+        "data-7b75e6bb072847c2227c8fadd793792a": [
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 7,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 6,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 4,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "W\u00f6rgl",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Kufstein",
@@ -7304,1462 +8760,6 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Scheffau am Wilden Kaiser",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 7,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 6,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 4,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "W\u00f6rgl",
                 "week": 52,
                 "year": 2020
             },

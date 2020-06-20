@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-ee3e1584bab90cb5376d3f036171d363"
+        "name": "data-f24aa2291a2e4f06b3bca915291f1ecf"
     },
     "datasets": {
-        "data-ee3e1584bab90cb5376d3f036171d363": [
+        "data-f24aa2291a2e4f06b3bca915291f1ecf": [
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Trins",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 2,
                 "district": "Innsbruck-Land",
@@ -72824,1462 +74280,6 @@
                 "count": 0,
                 "district": "Innsbruck-Land",
                 "municipaly": "Wildermieming",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Trins",
                 "week": 52,
                 "year": 2020
             },

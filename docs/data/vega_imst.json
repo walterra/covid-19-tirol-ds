@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-ce66e0bd8ab95f5b99f6bfd3d3ce7caa"
+        "name": "data-c9d0aa68044299a220d222c9552f49e9"
     },
     "datasets": {
-        "data-ce66e0bd8ab95f5b99f6bfd3d3ce7caa": [
+        "data-c9d0aa68044299a220d222c9552f49e9": [
             {
                 "count": 0,
                 "district": "Imst",
@@ -2744,7 +2744,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Imst",
                 "municipaly": "Umhausen",
                 "week": 25,

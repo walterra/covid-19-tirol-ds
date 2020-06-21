@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-c9d0aa68044299a220d222c9552f49e9"
+        "name": "data-a41bb209fd4efb897a1a3c262f8f7693"
     },
     "datasets": {
-        "data-c9d0aa68044299a220d222c9552f49e9": [
+        "data-a41bb209fd4efb897a1a3c262f8f7693": [
+            {
+                "count": 3,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Sautens",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Imst",
@@ -18952,1462 +20408,6 @@
                 "count": 0,
                 "district": "Imst",
                 "municipaly": "Mieming",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Sautens",
                 "week": 52,
                 "year": 2020
             },

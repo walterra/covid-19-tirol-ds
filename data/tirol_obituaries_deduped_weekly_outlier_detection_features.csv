@@ -1,4 +1,604 @@
 district,municipaly,year,week,count,yearly_max_diff,yearly_mean_diff,weekly_max_diff,weekly_mean_diff
+Imst,Sautens,2020,1,0,0,0,0,0
+Imst,Sautens,2020,2,0,0,0,0,0
+Imst,Sautens,2020,3,1,0,0.0155325444,0,0.3333333333
+Imst,Sautens,2020,4,0,0,0,0,0
+Imst,Sautens,2020,5,0,0,0,0,0
+Imst,Sautens,2020,6,1,0,0.0155325444,0.3333333333,1
+Imst,Sautens,2020,7,0,0,0,0,0
+Imst,Sautens,2020,8,0,0,0,0,0
+Imst,Sautens,2020,9,0,0,0,0,0
+Imst,Sautens,2020,10,0,0,0,0,0
+Imst,Sautens,2020,11,0,0,0,0,0
+Imst,Sautens,2020,12,1,0,0.0155325444,0,0.6666666667
+Imst,Sautens,2020,13,0,0,0,0,0
+Imst,Sautens,2020,14,0,0,0,0,0
+Imst,Sautens,2020,15,0,0,0,0,0
+Imst,Sautens,2020,16,0,0,0,0,0
+Imst,Sautens,2020,17,0,0,0,0,0
+Imst,Sautens,2020,18,1,0,0.0155325444,0.3333333333,1
+Imst,Sautens,2020,19,0,0,0,0,0
+Imst,Sautens,2020,20,0,0,0,0,0
+Imst,Sautens,2020,21,0,0,0,0,0
+Imst,Sautens,2020,22,0,0,0,0,0
+Imst,Sautens,2020,23,0,0,0,0,0
+Imst,Sautens,2020,24,0,0,0,0,0
+Imst,Sautens,2020,25,1,0,0.0155325444,0.3333333333,1
+Imst,Oetz,2020,1,1,0,0.003420858,0,0.6666666667
+Imst,Oetz,2020,2,1,0,0.003420858,0,0.6666666667
+Imst,Oetz,2020,3,0,0,0,0,0
+Imst,Oetz,2020,4,0,0,0,0,0
+Imst,Oetz,2020,5,1,0,0.003420858,0,0.6666666667
+Imst,Oetz,2020,6,0,0,0,0,0
+Imst,Oetz,2020,7,0,0,0,0,0
+Imst,Oetz,2020,8,0,0,0,0,0
+Imst,Oetz,2020,9,1,0,0.003420858,0,0.3333333333
+Imst,Oetz,2020,10,0,0,0,0,0
+Imst,Oetz,2020,11,1,0,0.003420858,0.3333333333,1
+Imst,Oetz,2020,12,0,0,0,0,0
+Imst,Oetz,2020,13,0,0,0,0,0
+Imst,Oetz,2020,14,0,0,0,0,0
+Imst,Oetz,2020,15,1,0,0.003420858,0,0.6666666667
+Imst,Oetz,2020,16,0,0,0,0,0
+Imst,Oetz,2020,17,1,0,0.003420858,0.3333333333,1
+Imst,Oetz,2020,18,0,0,0,0,0
+Imst,Oetz,2020,19,0,0,0,0,0
+Imst,Oetz,2020,20,0,0,0,0,0
+Imst,Oetz,2020,21,0,0,0,0,0
+Imst,Oetz,2020,22,0,0,0,0,0
+Imst,Oetz,2020,23,0,0,0,0,0
+Imst,Oetz,2020,24,0,0,0,0,0
+Imst,Oetz,2020,25,1,0,0.003420858,0.3333333333,1
+Imst,Umhausen,2020,1,1,0,0.0064718935,0,0.3333333333
+Imst,Umhausen,2020,2,1,0,0.0064718935,0,0.6666666667
+Imst,Umhausen,2020,3,1,0,0.0064718935,0,0.6666666667
+Imst,Umhausen,2020,4,0,0,0,0,0
+Imst,Umhausen,2020,5,1,0,0.0064718935,0,0.3333333333
+Imst,Umhausen,2020,6,1,0,0.0064718935,0,0.6666666667
+Imst,Umhausen,2020,7,0,0,0,0,0
+Imst,Umhausen,2020,8,0,0,0,0,0
+Imst,Umhausen,2020,9,0,0,0,0,0
+Imst,Umhausen,2020,10,0,0,0,0,0
+Imst,Umhausen,2020,11,0,0,0,0,0
+Imst,Umhausen,2020,12,1,0,0.0064718935,0,0.6666666667
+Imst,Umhausen,2020,13,1,0,0.0064718935,0.3333333333,1
+Imst,Umhausen,2020,14,0,0,0,0,0
+Imst,Umhausen,2020,15,0,0,0,0,0
+Imst,Umhausen,2020,16,0,0,0,0,0
+Imst,Umhausen,2020,17,0,0,0,0,0
+Imst,Umhausen,2020,18,0,0,0,0,0
+Imst,Umhausen,2020,19,0,0,0,0,0
+Imst,Umhausen,2020,20,0,0,0,0,0
+Imst,Umhausen,2020,21,0,0,0,0,0
+Imst,Umhausen,2020,22,0,0,0,0,0
+Imst,Umhausen,2020,23,0,0,0,0,0
+Imst,Umhausen,2020,24,0,0,0,0,0
+Imst,Umhausen,2020,25,2,0,0.0160872781,0,0.6666666667
+Imst,St. Leonhard im Pitztal,2020,1,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,2,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,3,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,4,1,0,0.006841716,0.3333333333,1
+Imst,St. Leonhard im Pitztal,2020,5,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,6,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,7,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,8,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,9,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,10,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,11,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,12,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,13,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,14,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,15,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,16,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,17,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,18,1,0,0.006841716,0.3333333333,1
+Imst,St. Leonhard im Pitztal,2020,19,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,20,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,21,2,0,0.0164571006,0.6666666667,2
+Imst,St. Leonhard im Pitztal,2020,22,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,23,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,24,0,0,0,0,0
+Imst,St. Leonhard im Pitztal,2020,25,1,0,0.006841716,0,0.6666666667
+Imst,Längenfeld,2020,1,1,0,0.0039447732,0,0
+Imst,Längenfeld,2020,2,0,0,0,0,0
+Imst,Längenfeld,2020,3,0,0,0,0,0
+Imst,Längenfeld,2020,4,2,0,0.0103550296,0,0.5
+Imst,Längenfeld,2020,5,0,0,0,0,0
+Imst,Längenfeld,2020,6,1,0,0.0039447732,0,0
+Imst,Längenfeld,2020,7,0,0,0,0,0
+Imst,Längenfeld,2020,8,0,0,0,0,0
+Imst,Längenfeld,2020,9,0,0,0,0,0
+Imst,Längenfeld,2020,10,0,0,0,0,0
+Imst,Längenfeld,2020,11,0,0,0,0,0
+Imst,Längenfeld,2020,12,0,0,0,0,0
+Imst,Längenfeld,2020,13,0,0,0,0,0
+Imst,Längenfeld,2020,14,2,0,0.0103550296,1,1.6666666667
+Imst,Längenfeld,2020,15,0,0,0,0,0
+Imst,Längenfeld,2020,16,0,0,0,0,0
+Imst,Längenfeld,2020,17,1,0,0.0039447732,0.3333333333,1
+Imst,Längenfeld,2020,18,0,0,0,0,0
+Imst,Längenfeld,2020,19,0,0,0,0,0
+Imst,Längenfeld,2020,20,0,0,0,0,0
+Imst,Längenfeld,2020,21,0,0,0,0,0
+Imst,Längenfeld,2020,22,0,0,0,0,0
+Imst,Längenfeld,2020,23,1,0,0.0039447732,0.3333333333,1
+Imst,Längenfeld,2020,24,2,0,0.0103550296,0,0.6666666667
+Imst,Längenfeld,2020,25,1,0,0.0039447732,0,0
+Imst,Silz,2020,1,0,0,0,0,0
+Imst,Silz,2020,2,0,0,0,0,0
+Imst,Silz,2020,3,0,0,0,0,0
+Imst,Silz,2020,4,1,0,0.006102071,0,0.3333333333
+Imst,Silz,2020,5,0,0,0,0,0
+Imst,Silz,2020,6,0,0,0,0,0
+Imst,Silz,2020,7,0,0,0,0,0
+Imst,Silz,2020,8,2,0,0.0157174556,1,1.6666666667
+Imst,Silz,2020,9,1,0,0.006102071,0,0.3333333333
+Imst,Silz,2020,10,0,0,0,0,0
+Imst,Silz,2020,11,1,0,0.006102071,0.3333333333,1
+Imst,Silz,2020,12,2,0,0.0157174556,0.3333333333,1
+Imst,Silz,2020,13,0,0,0,0,0
+Imst,Silz,2020,14,0,0,0,0,0
+Imst,Silz,2020,15,0,0,0,0,0
+Imst,Silz,2020,16,0,0,0,0,0
+Imst,Silz,2020,17,1,0,0.006102071,0,0.3333333333
+Imst,Silz,2020,18,0,0,0,0,0
+Imst,Silz,2020,19,0,0,0,0,0
+Imst,Silz,2020,20,0,0,0,0,0
+Imst,Silz,2020,21,0,0,0,0,0
+Imst,Silz,2020,22,0,0,0,0,0
+Imst,Silz,2020,23,0,0,0,0,0
+Imst,Silz,2020,24,2,0,0.0157174556,0.6666666667,2
+Imst,Silz,2020,25,0,0,0,0,0
+Imst,Imst,2020,1,1,0,0,0,0
+Imst,Imst,2020,2,1,0,0,0,0
+Imst,Imst,2020,3,2,0,0.0032359467,0,0.1666666667
+Imst,Imst,2020,4,2,0,0.0032359467,0,0
+Imst,Imst,2020,5,2,0,0.0032359467,0,0.1111111111
+Imst,Imst,2020,6,2,0,0.0032359467,0.3333333333,1
+Imst,Imst,2020,7,1,0,0,0,0.3333333333
+Imst,Imst,2020,8,0,0,0,0,0
+Imst,Imst,2020,9,2,0,0.0032359467,0.6666666667,2
+Imst,Imst,2020,10,6,0.0076923077,0.022466716,3,1.3333333333
+Imst,Imst,2020,11,2,0,0.0032359467,0,0.5
+Imst,Imst,2020,12,1,0,0,0,0.3333333333
+Imst,Imst,2020,13,3,0,0.0080436391,1,1.1666666667
+Imst,Imst,2020,14,1,0,0,0,0
+Imst,Imst,2020,15,2,0,0.0032359467,0,0.3333333333
+Imst,Imst,2020,16,2,0,0.0032359467,0,0.1666666667
+Imst,Imst,2020,17,1,0,0,0,0.6666666667
+Imst,Imst,2020,18,0,0,0,0,0
+Imst,Imst,2020,19,0,0,0,0,0
+Imst,Imst,2020,20,0,0,0,0,0
+Imst,Imst,2020,21,1,0,0,0,0.3333333333
+Imst,Imst,2020,22,0,0,0,0,0
+Imst,Imst,2020,23,1,0,0,0,0
+Imst,Imst,2020,24,1,0,0,0,0
+Imst,Imst,2020,25,0,0,0,0,0
+Imst,Haiming,2020,1,0,0,0,0,0
+Imst,Haiming,2020,2,1,0,0.0062869822,0,0.6666666667
+Imst,Haiming,2020,3,0,0,0,0,0
+Imst,Haiming,2020,4,0,0,0,0,0
+Imst,Haiming,2020,5,0,0,0,0,0
+Imst,Haiming,2020,6,1,0,0.0062869822,0.3333333333,1
+Imst,Haiming,2020,7,0,0,0,0,0
+Imst,Haiming,2020,8,0,0,0,0,0
+Imst,Haiming,2020,9,1,0,0.0062869822,0,0.3333333333
+Imst,Haiming,2020,10,0,0,0,0,0
+Imst,Haiming,2020,11,0,0,0,0,0
+Imst,Haiming,2020,12,0,0,0,0,0
+Imst,Haiming,2020,13,0,0,0,0,0
+Imst,Haiming,2020,14,0,0,0,0,0
+Imst,Haiming,2020,15,0,0,0,0,0
+Imst,Haiming,2020,16,2,0,0.0159023669,1,1.6666666667
+Imst,Haiming,2020,17,0,0,0,0,0
+Imst,Haiming,2020,18,0,0,0,0,0
+Imst,Haiming,2020,19,0,0,0,0,0
+Imst,Haiming,2020,20,0,0,0,0,0
+Imst,Haiming,2020,21,0,0,0,0,0
+Imst,Haiming,2020,22,0,0,0,0,0
+Imst,Haiming,2020,23,0,0,0,0,0
+Imst,Haiming,2020,24,1,0,0.0062869822,0.3333333333,1
+Imst,Haiming,2020,25,0,0,0,0,0
+Imst,Wenns,2020,1,0,0,0,0,0
+Imst,Wenns,2020,2,0,0,0,0,0
+Imst,Wenns,2020,3,0,0,0,0,0
+Imst,Wenns,2020,4,0,0,0,0,0
+Imst,Wenns,2020,5,0,0,0,0,0
+Imst,Wenns,2020,6,0,0,0,0,0
+Imst,Wenns,2020,7,0,0,0,0,0
+Imst,Wenns,2020,8,0,0,0,0,0
+Imst,Wenns,2020,9,0,0,0,0,0
+Imst,Wenns,2020,10,0,0,0,0,0
+Imst,Wenns,2020,11,1,0,0.0064718935,0,0.6666666667
+Imst,Wenns,2020,12,1,0,0.0064718935,0.3333333333,1
+Imst,Wenns,2020,13,0,0,0,0,0
+Imst,Wenns,2020,14,0,0,0,0,0
+Imst,Wenns,2020,15,1,0,0.0064718935,0,0.6666666667
+Imst,Wenns,2020,16,1,0,0.0064718935,0,0.6666666667
+Imst,Wenns,2020,17,0,0,0,0,0
+Imst,Wenns,2020,18,0,0,0,0,0
+Imst,Wenns,2020,19,0,0,0,0,0
+Imst,Wenns,2020,20,0,0,0,0,0
+Imst,Wenns,2020,21,1,0,0.0064718935,0.3333333333,1
+Imst,Wenns,2020,22,0,0,0,0,0
+Imst,Wenns,2020,23,2,0,0.0160872781,1,1.6666666667
+Imst,Wenns,2020,24,0,0,0,0,0
+Imst,Wenns,2020,25,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,1,1,0,0.0064718935,0,0.6666666667
+Imst,Arzl im Pitztal,2020,2,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,3,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,4,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,5,1,0,0.0064718935,0,0.6666666667
+Imst,Arzl im Pitztal,2020,6,1,0,0.0064718935,0,0.6666666667
+Imst,Arzl im Pitztal,2020,7,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,8,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,9,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,10,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,11,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,12,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,13,1,0,0.0064718935,0.3333333333,1
+Imst,Arzl im Pitztal,2020,14,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,15,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,16,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,17,1,0,0.0064718935,0,0.6666666667
+Imst,Arzl im Pitztal,2020,18,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,19,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,20,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,21,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,22,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,23,1,0,0.0064718935,0,0.6666666667
+Imst,Arzl im Pitztal,2020,24,0,0,0,0,0
+Imst,Arzl im Pitztal,2020,25,0,0,0,0,0
+Imst,Roppen,2020,1,0,0,0,0,0
+Imst,Roppen,2020,2,0,0,0,0,0
+Imst,Roppen,2020,3,0,0,0,0,0
+Imst,Roppen,2020,4,0,0,0,0,0
+Imst,Roppen,2020,5,0,0,0,0,0
+Imst,Roppen,2020,6,0,0,0,0,0
+Imst,Roppen,2020,7,0,0,0,0,0
+Imst,Roppen,2020,8,0,0,0,0,0
+Imst,Roppen,2020,9,0,0,0,0,0
+Imst,Roppen,2020,10,0,0,0,0,0
+Imst,Roppen,2020,11,0,0,0,0,0
+Imst,Roppen,2020,12,0,0,0,0,0
+Imst,Roppen,2020,13,1,0,0.0075813609,0,0.6666666667
+Imst,Roppen,2020,14,0,0,0,0,0
+Imst,Roppen,2020,15,0,0,0,0,0
+Imst,Roppen,2020,16,0,0,0,0,0
+Imst,Roppen,2020,17,0,0,0,0,0
+Imst,Roppen,2020,18,0,0,0,0,0
+Imst,Roppen,2020,19,0,0,0,0,0
+Imst,Roppen,2020,20,0,0,0,0,0
+Imst,Roppen,2020,21,0,0,0,0,0
+Imst,Roppen,2020,22,0,0,0,0,0
+Imst,Roppen,2020,23,1,0,0.0075813609,0.3333333333,1
+Imst,Roppen,2020,24,0,0,0,0,0
+Imst,Roppen,2020,25,0,0,0,0,0
+Imst,Karrösten,2020,1,0,0,0,0,0
+Imst,Karrösten,2020,2,0,0,0,0,0
+Imst,Karrösten,2020,3,0,0,0,0,0
+Imst,Karrösten,2020,4,0,0,0,0,0
+Imst,Karrösten,2020,5,0,0,0,0,0
+Imst,Karrösten,2020,6,0,0,0,0,0
+Imst,Karrösten,2020,7,0,0,0,0,0
+Imst,Karrösten,2020,8,1,0,0.0083210059,0.3333333333,1
+Imst,Karrösten,2020,9,0,0,0,0,0
+Imst,Karrösten,2020,10,0,0,0,0,0
+Imst,Karrösten,2020,11,0,0,0,0,0
+Imst,Karrösten,2020,12,0,0,0,0,0
+Imst,Karrösten,2020,13,1,0,0.0083210059,0.3333333333,1
+Imst,Karrösten,2020,14,0,0,0,0,0
+Imst,Karrösten,2020,15,0,0,0,0,0
+Imst,Karrösten,2020,16,0,0,0,0,0
+Imst,Karrösten,2020,17,0,0,0,0,0
+Imst,Karrösten,2020,18,0,0,0,0,0
+Imst,Karrösten,2020,19,0,0,0,0,0
+Imst,Karrösten,2020,20,0,0,0,0,0
+Imst,Karrösten,2020,21,1,0,0.0083210059,0.3333333333,1
+Imst,Karrösten,2020,22,0,0,0,0,0
+Imst,Karrösten,2020,23,0,0,0,0,0
+Imst,Karrösten,2020,24,0,0,0,0,0
+Imst,Karrösten,2020,25,0,0,0,0,0
+Imst,Karres,2020,1,0,0,0,0,0
+Imst,Karres,2020,2,0,0,0,0,0
+Imst,Karres,2020,3,0,0,0,0,0
+Imst,Karres,2020,4,0,0,0,0,0
+Imst,Karres,2020,5,0,0,0,0,0
+Imst,Karres,2020,6,0,0,0,0,0
+Imst,Karres,2020,7,0,0,0,0,0
+Imst,Karres,2020,8,0,0,0,0,0
+Imst,Karres,2020,9,0,0,0,0,0
+Imst,Karres,2020,10,0,0,0,0,0
+Imst,Karres,2020,11,0,0,0,0,0
+Imst,Karres,2020,12,0,0,0,0,0
+Imst,Karres,2020,13,0,0,0,0,0
+Imst,Karres,2020,14,0,0,0,0,0
+Imst,Karres,2020,15,0,0,0,0,0
+Imst,Karres,2020,16,0,0,0,0,0
+Imst,Karres,2020,17,0,0,0,0,0
+Imst,Karres,2020,18,0,0,0,0,0
+Imst,Karres,2020,19,0,0,0,0,0
+Imst,Karres,2020,20,0,0,0,0,0
+Imst,Karres,2020,21,1,0,0.0177514793,0.3333333333,1
+Imst,Karres,2020,22,0,0,0,0,0
+Imst,Karres,2020,23,0,0,0,0,0
+Imst,Karres,2020,24,0,0,0,0,0
+Imst,Karres,2020,25,0,0,0,0,0
+Imst,Mieming,2020,1,0,0,0,0,0
+Imst,Mieming,2020,2,0,0,0,0,0
+Imst,Mieming,2020,3,0,0,0,0,0
+Imst,Mieming,2020,4,1,0,0.0059171598,0.3333333333,1
+Imst,Mieming,2020,5,0,0,0,0,0
+Imst,Mieming,2020,6,0,0,0,0,0
+Imst,Mieming,2020,7,0,0,0,0,0
+Imst,Mieming,2020,8,1,0,0.0059171598,0,0
+Imst,Mieming,2020,9,0,0,0,0,0
+Imst,Mieming,2020,10,0,0,0,0,0
+Imst,Mieming,2020,11,0,0,0,0,0
+Imst,Mieming,2020,12,3,0.0096153846,0.025147929,1,3
+Imst,Mieming,2020,13,0,0,0,0,0
+Imst,Mieming,2020,14,0,0,0,0,0
+Imst,Mieming,2020,15,0,0,0,0,0
+Imst,Mieming,2020,16,2,0,0.0155325444,0.6666666667,2
+Imst,Mieming,2020,17,0,0,0,0,0
+Imst,Mieming,2020,18,0,0,0,0,0
+Imst,Mieming,2020,19,1,0,0.0059171598,0,0.6666666667
+Imst,Mieming,2020,20,1,0,0.0059171598,0,0.3333333333
+Imst,Mieming,2020,21,0,0,0,0,0
+Imst,Mieming,2020,22,0,0,0,0,0
+Imst,Mieming,2020,23,0,0,0,0,0
+Imst,Mieming,2020,24,0,0,0,0,0
+Imst,Mieming,2020,25,0,0,0,0,0
+Imst,Obsteig,2020,1,0,0,0,0,0
+Imst,Obsteig,2020,2,0,0,0,0,0
+Imst,Obsteig,2020,3,1,0,0.0077662722,0.3333333333,1
+Imst,Obsteig,2020,4,0,0,0,0,0
+Imst,Obsteig,2020,5,0,0,0,0,0
+Imst,Obsteig,2020,6,0,0,0,0,0
+Imst,Obsteig,2020,7,0,0,0,0,0
+Imst,Obsteig,2020,8,1,0,0.0077662722,0.3333333333,1
+Imst,Obsteig,2020,9,1,0,0.0077662722,0,0.6666666667
+Imst,Obsteig,2020,10,0,0,0,0,0
+Imst,Obsteig,2020,11,0,0,0,0,0
+Imst,Obsteig,2020,12,0,0,0,0,0
+Imst,Obsteig,2020,13,1,0,0.0077662722,0.3333333333,1
+Imst,Obsteig,2020,14,1,0,0.0077662722,0,0.6666666667
+Imst,Obsteig,2020,15,0,0,0,0,0
+Imst,Obsteig,2020,16,0,0,0,0,0
+Imst,Obsteig,2020,17,1,0,0.0077662722,0,0.6666666667
+Imst,Obsteig,2020,18,0,0,0,0,0
+Imst,Obsteig,2020,19,0,0,0,0,0
+Imst,Obsteig,2020,20,0,0,0,0,0
+Imst,Obsteig,2020,21,0,0,0,0,0
+Imst,Obsteig,2020,22,0,0,0,0,0
+Imst,Obsteig,2020,23,0,0,0,0,0
+Imst,Obsteig,2020,24,0,0,0,0,0
+Imst,Obsteig,2020,25,0,0,0,0,0
+Imst,Tarrenz,2020,1,0,0,0,0,0
+Imst,Tarrenz,2020,2,0,0,0,0,0
+Imst,Tarrenz,2020,3,1,0,0.0072115385,0,0.6666666667
+Imst,Tarrenz,2020,4,0,0,0,0,0
+Imst,Tarrenz,2020,5,0,0,0,0,0
+Imst,Tarrenz,2020,6,0,0,0,0,0
+Imst,Tarrenz,2020,7,1,0,0.0072115385,0,0
+Imst,Tarrenz,2020,8,0,0,0,0,0
+Imst,Tarrenz,2020,9,0,0,0,0,0
+Imst,Tarrenz,2020,10,0,0,0,0,0
+Imst,Tarrenz,2020,11,0,0,0,0,0
+Imst,Tarrenz,2020,12,0,0,0,0,0
+Imst,Tarrenz,2020,13,0,0,0,0,0
+Imst,Tarrenz,2020,14,1,0,0.0072115385,0.3333333333,1
+Imst,Tarrenz,2020,15,0,0,0,0,0
+Imst,Tarrenz,2020,16,1,0,0.0072115385,0.3333333333,1
+Imst,Tarrenz,2020,17,0,0,0,0,0
+Imst,Tarrenz,2020,18,0,0,0,0,0
+Imst,Tarrenz,2020,19,0,0,0,0,0
+Imst,Tarrenz,2020,20,0,0,0,0,0
+Imst,Tarrenz,2020,21,0,0,0,0,0
+Imst,Tarrenz,2020,22,0,0,0,0,0
+Imst,Tarrenz,2020,23,0,0,0,0,0
+Imst,Tarrenz,2020,24,0,0,0,0,0
+Imst,Tarrenz,2020,25,0,0,0,0,0
+Imst,Imsterberg,2020,1,0,0,0,0,0
+Imst,Imsterberg,2020,2,0,0,0,0,0
+Imst,Imsterberg,2020,3,0,0,0,0,0
+Imst,Imsterberg,2020,4,0,0,0,0,0
+Imst,Imsterberg,2020,5,0,0,0,0,0
+Imst,Imsterberg,2020,6,0,0,0,0,0
+Imst,Imsterberg,2020,7,0,0,0,0,0
+Imst,Imsterberg,2020,8,0,0,0,0,0
+Imst,Imsterberg,2020,9,0,0,0,0,0
+Imst,Imsterberg,2020,10,0,0,0,0,0
+Imst,Imsterberg,2020,11,0,0,0,0,0
+Imst,Imsterberg,2020,12,1,0,0.0085059172,0.3333333333,1
+Imst,Imsterberg,2020,13,0,0,0,0,0
+Imst,Imsterberg,2020,14,0,0,0,0,0
+Imst,Imsterberg,2020,15,1,0,0.0085059172,0.3333333333,1
+Imst,Imsterberg,2020,16,0,0,0,0,0
+Imst,Imsterberg,2020,17,0,0,0,0,0
+Imst,Imsterberg,2020,18,0,0,0,0,0
+Imst,Imsterberg,2020,19,0,0,0,0,0
+Imst,Imsterberg,2020,20,0,0,0,0,0
+Imst,Imsterberg,2020,21,0,0,0,0,0
+Imst,Imsterberg,2020,22,0,0,0,0,0
+Imst,Imsterberg,2020,23,0,0,0,0,0
+Imst,Imsterberg,2020,24,0,0,0,0,0
+Imst,Imsterberg,2020,25,0,0,0,0,0
+Imst,Sölden,2020,1,0,0,0,0,0
+Imst,Sölden,2020,2,0,0,0,0,0
+Imst,Sölden,2020,3,0,0,0,0,0
+Imst,Sölden,2020,4,1,0,0.0043145957,0,0.6666666667
+Imst,Sölden,2020,5,0,0,0,0,0
+Imst,Sölden,2020,6,0,0,0,0,0
+Imst,Sölden,2020,7,0,0,0,0,0
+Imst,Sölden,2020,8,0,0,0,0,0
+Imst,Sölden,2020,9,2,0,0.0107248521,0.6666666667,2
+Imst,Sölden,2020,10,0,0,0,0,0
+Imst,Sölden,2020,11,1,0,0.0043145957,0,0.6666666667
+Imst,Sölden,2020,12,0,0,0,0,0
+Imst,Sölden,2020,13,0,0,0,0,0
+Imst,Sölden,2020,14,1,0,0.0043145957,0,0.6666666667
+Imst,Sölden,2020,15,1,0,0.0043145957,0.3333333333,1
+Imst,Sölden,2020,16,0,0,0,0,0
+Imst,Sölden,2020,17,0,0,0,0,0
+Imst,Sölden,2020,18,0,0,0,0,0
+Imst,Sölden,2020,19,0,0,0,0,0
+Imst,Sölden,2020,20,0,0,0,0,0
+Imst,Sölden,2020,21,0,0,0,0,0
+Imst,Sölden,2020,22,0,0,0,0,0
+Imst,Sölden,2020,23,0,0,0,0,0
+Imst,Sölden,2020,24,0,0,0,0,0
+Imst,Sölden,2020,25,0,0,0,0,0
+Imst,Rietz,2020,1,1,0,0.0066568047,0,0.3333333333
+Imst,Rietz,2020,2,1,0,0.0066568047,0,0.3333333333
+Imst,Rietz,2020,3,0,0,0,0,0
+Imst,Rietz,2020,4,0,0,0,0,0
+Imst,Rietz,2020,5,0,0,0,0,0
+Imst,Rietz,2020,6,1,0,0.0066568047,0,0.6666666667
+Imst,Rietz,2020,7,0,0,0,0,0
+Imst,Rietz,2020,8,0,0,0,0,0
+Imst,Rietz,2020,9,0,0,0,0,0
+Imst,Rietz,2020,10,0,0,0,0,0
+Imst,Rietz,2020,11,0,0,0,0,0
+Imst,Rietz,2020,12,0,0,0,0,0
+Imst,Rietz,2020,13,1,0,0.0066568047,0.3333333333,1
+Imst,Rietz,2020,14,0,0,0,0,0
+Imst,Rietz,2020,15,0,0,0,0,0
+Imst,Rietz,2020,16,0,0,0,0,0
+Imst,Rietz,2020,17,0,0,0,0,0
+Imst,Rietz,2020,18,0,0,0,0,0
+Imst,Rietz,2020,19,0,0,0,0,0
+Imst,Rietz,2020,20,0,0,0,0,0
+Imst,Rietz,2020,21,0,0,0,0,0
+Imst,Rietz,2020,22,0,0,0,0,0
+Imst,Rietz,2020,23,0,0,0,0,0
+Imst,Rietz,2020,24,0,0,0,0,0
+Imst,Rietz,2020,25,0,0,0,0,0
+Imst,Mötz,2020,1,0,0,0,0,0
+Imst,Mötz,2020,2,0,0,0,0,0
+Imst,Mötz,2020,3,0,0,0,0,0
+Imst,Mötz,2020,4,0,0,0,0,0
+Imst,Mötz,2020,5,1,0,0.0173816568,0.3333333333,1
+Imst,Mötz,2020,6,0,0,0,0,0
+Imst,Mötz,2020,7,1,0,0.0173816568,0,0.6666666667
+Imst,Mötz,2020,8,0,0,0,0,0
+Imst,Mötz,2020,9,0,0,0,0,0
+Imst,Mötz,2020,10,0,0,0,0,0
+Imst,Mötz,2020,11,0,0,0,0,0
+Imst,Mötz,2020,12,1,0,0.0173816568,0.3333333333,1
+Imst,Mötz,2020,13,0,0,0,0,0
+Imst,Mötz,2020,14,0,0,0,0,0
+Imst,Mötz,2020,15,0,0,0,0,0
+Imst,Mötz,2020,16,0,0,0,0,0
+Imst,Mötz,2020,17,0,0,0,0,0
+Imst,Mötz,2020,18,0,0,0,0,0
+Imst,Mötz,2020,19,0,0,0,0,0
+Imst,Mötz,2020,20,0,0,0,0,0
+Imst,Mötz,2020,21,0,0,0,0,0
+Imst,Mötz,2020,22,0,0,0,0,0
+Imst,Mötz,2020,23,0,0,0,0,0
+Imst,Mötz,2020,24,0,0,0,0,0
+Imst,Mötz,2020,25,0,0,0,0,0
+Imst,Stams,2020,1,0,0,0,0,0
+Imst,Stams,2020,2,1,0,0.0159023669,0.3333333333,1
+Imst,Stams,2020,3,1,0,0.0159023669,0,0.6666666667
+Imst,Stams,2020,4,0,0,0,0,0
+Imst,Stams,2020,5,0,0,0,0,0
+Imst,Stams,2020,6,1,0,0.0159023669,0.3333333333,1
+Imst,Stams,2020,7,0,0,0,0,0
+Imst,Stams,2020,8,0,0,0,0,0
+Imst,Stams,2020,9,1,0,0.0159023669,0.3333333333,1
+Imst,Stams,2020,10,0,0,0,0,0
+Imst,Stams,2020,11,0,0,0,0,0
+Imst,Stams,2020,12,1,0,0.0159023669,0.3333333333,1
+Imst,Stams,2020,13,0,0,0,0,0
+Imst,Stams,2020,14,0,0,0,0,0
+Imst,Stams,2020,15,0,0,0,0,0
+Imst,Stams,2020,16,0,0,0,0,0
+Imst,Stams,2020,17,0,0,0,0,0
+Imst,Stams,2020,18,0,0,0,0,0
+Imst,Stams,2020,19,0,0,0,0,0
+Imst,Stams,2020,20,0,0,0,0,0
+Imst,Stams,2020,21,0,0,0,0,0
+Imst,Stams,2020,22,0,0,0,0,0
+Imst,Stams,2020,23,0,0,0,0,0
+Imst,Stams,2020,24,0,0,0,0,0
+Imst,Stams,2020,25,0,0,0,0,0
+Imst,Jerzens,2020,1,0,0,0,0,0
+Imst,Jerzens,2020,2,0,0,0,0,0
+Imst,Jerzens,2020,3,0,0,0,0,0
+Imst,Jerzens,2020,4,0,0,0,0,0
+Imst,Jerzens,2020,5,0,0,0,0,0
+Imst,Jerzens,2020,6,1,0,0.0173816568,0,0.3333333333
+Imst,Jerzens,2020,7,0,0,0,0,0
+Imst,Jerzens,2020,8,0,0,0,0,0
+Imst,Jerzens,2020,9,0,0,0,0,0
+Imst,Jerzens,2020,10,0,0,0,0,0
+Imst,Jerzens,2020,11,0,0,0,0,0
+Imst,Jerzens,2020,12,0,0,0,0,0
+Imst,Jerzens,2020,13,0,0,0,0,0
+Imst,Jerzens,2020,14,0,0,0,0,0
+Imst,Jerzens,2020,15,0,0,0,0,0
+Imst,Jerzens,2020,16,0,0,0,0,0
+Imst,Jerzens,2020,17,0,0,0,0,0
+Imst,Jerzens,2020,18,0,0,0,0,0
+Imst,Jerzens,2020,19,0,0,0,0,0
+Imst,Jerzens,2020,20,0,0,0,0,0
+Imst,Jerzens,2020,21,0,0,0,0,0
+Imst,Jerzens,2020,22,0,0,0,0,0
+Imst,Jerzens,2020,23,0,0,0,0,0
+Imst,Jerzens,2020,24,0,0,0,0,0
+Imst,Jerzens,2020,25,0,0,0,0,0
+Imst,Nassereith,2020,1,2,0.0048076923,0.0369822485,1,1.6666666667
+Imst,Nassereith,2020,2,0,0,0,0,0
+Imst,Nassereith,2020,3,0,0,0,0,0
+Imst,Nassereith,2020,4,0,0,0,0,0
+Imst,Nassereith,2020,5,0,0,0,0,0
+Imst,Nassereith,2020,6,0,0,0,0,0
+Imst,Nassereith,2020,7,0,0,0,0,0
+Imst,Nassereith,2020,8,0,0,0,0,0
+Imst,Nassereith,2020,9,0,0,0,0,0
+Imst,Nassereith,2020,10,0,0,0,0,0
+Imst,Nassereith,2020,11,0,0,0,0,0
+Imst,Nassereith,2020,12,0,0,0,0,0
+Imst,Nassereith,2020,13,0,0,0,0,0
+Imst,Nassereith,2020,14,0,0,0,0,0
+Imst,Nassereith,2020,15,0,0,0,0,0
+Imst,Nassereith,2020,16,0,0,0,0,0
+Imst,Nassereith,2020,17,0,0,0,0,0
+Imst,Nassereith,2020,18,0,0,0,0,0
+Imst,Nassereith,2020,19,0,0,0,0,0
+Imst,Nassereith,2020,20,0,0,0,0,0
+Imst,Nassereith,2020,21,0,0,0,0,0
+Imst,Nassereith,2020,22,0,0,0,0,0
+Imst,Nassereith,2020,23,0,0,0,0,0
+Imst,Nassereith,2020,24,0,0,0,0,0
+Imst,Nassereith,2020,25,0,0,0,0,0
+Imst,Mils bei Imst,2020,1,0,0,0,0,0
+Imst,Mils bei Imst,2020,2,0,0,0,0,0
+Imst,Mils bei Imst,2020,3,0,0,0,0,0
+Imst,Mils bei Imst,2020,4,0,0,0,0,0
+Imst,Mils bei Imst,2020,5,0,0,0,0,0
+Imst,Mils bei Imst,2020,6,0,0,0,0,0
+Imst,Mils bei Imst,2020,7,0,0,0,0,0
+Imst,Mils bei Imst,2020,8,0,0,0,0,0
+Imst,Mils bei Imst,2020,9,0,0,0,0,0
+Imst,Mils bei Imst,2020,10,0,0,0,0,0
+Imst,Mils bei Imst,2020,11,0,0,0,0,0
+Imst,Mils bei Imst,2020,12,0,0,0,0,0
+Imst,Mils bei Imst,2020,13,0,0,0,0,0
+Imst,Mils bei Imst,2020,14,0,0,0,0,0
+Imst,Mils bei Imst,2020,15,0,0,0,0,0
+Imst,Mils bei Imst,2020,16,0,0,0,0,0
+Imst,Mils bei Imst,2020,17,0,0,0,0,0
+Imst,Mils bei Imst,2020,18,0,0,0,0,0
+Imst,Mils bei Imst,2020,19,0,0,0,0,0
+Imst,Mils bei Imst,2020,20,0,0,0,0,0
+Imst,Mils bei Imst,2020,21,0,0,0,0,0
+Imst,Mils bei Imst,2020,22,0,0,0,0,0
+Imst,Mils bei Imst,2020,23,0,0,0,0,0
+Imst,Mils bei Imst,2020,24,0,0,0,0,0
+Imst,Mils bei Imst,2020,25,0,0,0,0,0
 Innsbruck-Land,Grinzens,2020,1,0,0,0,0,0
 Innsbruck-Land,Grinzens,2020,2,0,0,0,0,0
 Innsbruck-Land,Grinzens,2020,3,0,0,0,0,0
@@ -2599,6 +3199,31 @@ Kitzbühel,Kirchberg in Tirol,2020,22,2,0,0.0078895464,0.3333333333,1
 Kitzbühel,Kirchberg in Tirol,2020,23,1,0,0.0014792899,0,0
 Kitzbühel,Kirchberg in Tirol,2020,24,1,0,0.0014792899,0,0
 Kitzbühel,Kirchberg in Tirol,2020,25,3,0,0.0142998028,1,1.1666666667
+Kitzbühel,Hochfilzen,2020,1,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,2,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,3,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,4,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,5,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,6,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,7,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,8,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,9,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,10,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,11,1,0,0.0077662722,0,0.6666666667
+Kitzbühel,Hochfilzen,2020,12,1,0,0.0077662722,0.3333333333,1
+Kitzbühel,Hochfilzen,2020,13,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,14,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,15,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,16,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,17,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,18,1,0,0.0077662722,0,0.6666666667
+Kitzbühel,Hochfilzen,2020,19,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,20,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,21,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,22,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,23,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,24,0,0,0,0,0
+Kitzbühel,Hochfilzen,2020,25,1,0,0.0077662722,0.3333333333,1
 Kitzbühel,St. Johann in Tirol,2020,1,2,0,0.0028661243,0,0
 Kitzbühel,St. Johann in Tirol,2020,2,1,0,0,0,0
 Kitzbühel,St. Johann in Tirol,2020,3,1,0,0,0,0.6666666667
@@ -2949,31 +3574,6 @@ Kitzbühel,Itter,2020,22,0,0,0,0,0
 Kitzbühel,Itter,2020,23,0,0,0,0,0
 Kitzbühel,Itter,2020,24,0,0,0,0,0
 Kitzbühel,Itter,2020,25,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,1,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,2,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,3,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,4,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,5,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,6,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,7,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,8,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,9,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,10,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,11,1,0,0.0077662722,0,0.6666666667
-Kitzbühel,Hochfilzen,2020,12,1,0,0.0077662722,0.3333333333,1
-Kitzbühel,Hochfilzen,2020,13,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,14,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,15,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,16,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,17,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,18,1,0,0.0077662722,0,0.6666666667
-Kitzbühel,Hochfilzen,2020,19,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,20,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,21,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,22,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,23,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,24,0,0,0,0,0
-Kitzbühel,Hochfilzen,2020,25,0,0,0,0,0
 Kitzbühel,Oberndorf in Tirol,2020,1,0,0,0,0,0
 Kitzbühel,Oberndorf in Tirol,2020,2,2,0,0.0109714004,0.5,1.3333333333
 Kitzbühel,Oberndorf in Tirol,2020,3,0,0,0,0,0
@@ -5399,606 +5999,6 @@ Kufstein,Rettenschöss,2020,22,0,0,0,0,0
 Kufstein,Rettenschöss,2020,23,0,0,0,0,0
 Kufstein,Rettenschöss,2020,24,0,0,0,0,0
 Kufstein,Rettenschöss,2020,25,0,0,0,0,0
-Imst,Oetz,2020,1,1,0,0.003420858,0,0.6666666667
-Imst,Oetz,2020,2,1,0,0.003420858,0,0.6666666667
-Imst,Oetz,2020,3,0,0,0,0,0
-Imst,Oetz,2020,4,0,0,0,0,0
-Imst,Oetz,2020,5,1,0,0.003420858,0,0.6666666667
-Imst,Oetz,2020,6,0,0,0,0,0
-Imst,Oetz,2020,7,0,0,0,0,0
-Imst,Oetz,2020,8,0,0,0,0,0
-Imst,Oetz,2020,9,1,0,0.003420858,0,0.3333333333
-Imst,Oetz,2020,10,0,0,0,0,0
-Imst,Oetz,2020,11,1,0,0.003420858,0.3333333333,1
-Imst,Oetz,2020,12,0,0,0,0,0
-Imst,Oetz,2020,13,0,0,0,0,0
-Imst,Oetz,2020,14,0,0,0,0,0
-Imst,Oetz,2020,15,1,0,0.003420858,0,0.6666666667
-Imst,Oetz,2020,16,0,0,0,0,0
-Imst,Oetz,2020,17,1,0,0.003420858,0.3333333333,1
-Imst,Oetz,2020,18,0,0,0,0,0
-Imst,Oetz,2020,19,0,0,0,0,0
-Imst,Oetz,2020,20,0,0,0,0,0
-Imst,Oetz,2020,21,0,0,0,0,0
-Imst,Oetz,2020,22,0,0,0,0,0
-Imst,Oetz,2020,23,0,0,0,0,0
-Imst,Oetz,2020,24,0,0,0,0,0
-Imst,Oetz,2020,25,1,0,0.003420858,0.3333333333,1
-Imst,Umhausen,2020,1,1,0,0.0064718935,0,0.3333333333
-Imst,Umhausen,2020,2,1,0,0.0064718935,0,0.6666666667
-Imst,Umhausen,2020,3,1,0,0.0064718935,0,0.6666666667
-Imst,Umhausen,2020,4,0,0,0,0,0
-Imst,Umhausen,2020,5,1,0,0.0064718935,0,0.3333333333
-Imst,Umhausen,2020,6,1,0,0.0064718935,0,0.6666666667
-Imst,Umhausen,2020,7,0,0,0,0,0
-Imst,Umhausen,2020,8,0,0,0,0,0
-Imst,Umhausen,2020,9,0,0,0,0,0
-Imst,Umhausen,2020,10,0,0,0,0,0
-Imst,Umhausen,2020,11,0,0,0,0,0
-Imst,Umhausen,2020,12,1,0,0.0064718935,0,0.6666666667
-Imst,Umhausen,2020,13,1,0,0.0064718935,0.3333333333,1
-Imst,Umhausen,2020,14,0,0,0,0,0
-Imst,Umhausen,2020,15,0,0,0,0,0
-Imst,Umhausen,2020,16,0,0,0,0,0
-Imst,Umhausen,2020,17,0,0,0,0,0
-Imst,Umhausen,2020,18,0,0,0,0,0
-Imst,Umhausen,2020,19,0,0,0,0,0
-Imst,Umhausen,2020,20,0,0,0,0,0
-Imst,Umhausen,2020,21,0,0,0,0,0
-Imst,Umhausen,2020,22,0,0,0,0,0
-Imst,Umhausen,2020,23,0,0,0,0,0
-Imst,Umhausen,2020,24,0,0,0,0,0
-Imst,Umhausen,2020,25,2,0,0.0160872781,0,0.6666666667
-Imst,St. Leonhard im Pitztal,2020,1,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,2,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,3,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,4,1,0,0.006841716,0.3333333333,1
-Imst,St. Leonhard im Pitztal,2020,5,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,6,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,7,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,8,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,9,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,10,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,11,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,12,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,13,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,14,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,15,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,16,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,17,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,18,1,0,0.006841716,0.3333333333,1
-Imst,St. Leonhard im Pitztal,2020,19,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,20,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,21,2,0,0.0164571006,0.6666666667,2
-Imst,St. Leonhard im Pitztal,2020,22,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,23,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,24,0,0,0,0,0
-Imst,St. Leonhard im Pitztal,2020,25,1,0,0.006841716,0,0.6666666667
-Imst,Längenfeld,2020,1,1,0,0.0039447732,0,0
-Imst,Längenfeld,2020,2,0,0,0,0,0
-Imst,Längenfeld,2020,3,0,0,0,0,0
-Imst,Längenfeld,2020,4,2,0,0.0103550296,0,0.5
-Imst,Längenfeld,2020,5,0,0,0,0,0
-Imst,Längenfeld,2020,6,1,0,0.0039447732,0,0
-Imst,Längenfeld,2020,7,0,0,0,0,0
-Imst,Längenfeld,2020,8,0,0,0,0,0
-Imst,Längenfeld,2020,9,0,0,0,0,0
-Imst,Längenfeld,2020,10,0,0,0,0,0
-Imst,Längenfeld,2020,11,0,0,0,0,0
-Imst,Längenfeld,2020,12,0,0,0,0,0
-Imst,Längenfeld,2020,13,0,0,0,0,0
-Imst,Längenfeld,2020,14,2,0,0.0103550296,1,1.6666666667
-Imst,Längenfeld,2020,15,0,0,0,0,0
-Imst,Längenfeld,2020,16,0,0,0,0,0
-Imst,Längenfeld,2020,17,1,0,0.0039447732,0.3333333333,1
-Imst,Längenfeld,2020,18,0,0,0,0,0
-Imst,Längenfeld,2020,19,0,0,0,0,0
-Imst,Längenfeld,2020,20,0,0,0,0,0
-Imst,Längenfeld,2020,21,0,0,0,0,0
-Imst,Längenfeld,2020,22,0,0,0,0,0
-Imst,Längenfeld,2020,23,1,0,0.0039447732,0.3333333333,1
-Imst,Längenfeld,2020,24,2,0,0.0103550296,0,0.6666666667
-Imst,Längenfeld,2020,25,1,0,0.0039447732,0,0
-Imst,Silz,2020,1,0,0,0,0,0
-Imst,Silz,2020,2,0,0,0,0,0
-Imst,Silz,2020,3,0,0,0,0,0
-Imst,Silz,2020,4,1,0,0.006102071,0,0.3333333333
-Imst,Silz,2020,5,0,0,0,0,0
-Imst,Silz,2020,6,0,0,0,0,0
-Imst,Silz,2020,7,0,0,0,0,0
-Imst,Silz,2020,8,2,0,0.0157174556,1,1.6666666667
-Imst,Silz,2020,9,1,0,0.006102071,0,0.3333333333
-Imst,Silz,2020,10,0,0,0,0,0
-Imst,Silz,2020,11,1,0,0.006102071,0.3333333333,1
-Imst,Silz,2020,12,2,0,0.0157174556,0.3333333333,1
-Imst,Silz,2020,13,0,0,0,0,0
-Imst,Silz,2020,14,0,0,0,0,0
-Imst,Silz,2020,15,0,0,0,0,0
-Imst,Silz,2020,16,0,0,0,0,0
-Imst,Silz,2020,17,1,0,0.006102071,0,0.3333333333
-Imst,Silz,2020,18,0,0,0,0,0
-Imst,Silz,2020,19,0,0,0,0,0
-Imst,Silz,2020,20,0,0,0,0,0
-Imst,Silz,2020,21,0,0,0,0,0
-Imst,Silz,2020,22,0,0,0,0,0
-Imst,Silz,2020,23,0,0,0,0,0
-Imst,Silz,2020,24,2,0,0.0157174556,0.6666666667,2
-Imst,Silz,2020,25,0,0,0,0,0
-Imst,Imst,2020,1,1,0,0,0,0
-Imst,Imst,2020,2,1,0,0,0,0
-Imst,Imst,2020,3,2,0,0.0032359467,0,0.1666666667
-Imst,Imst,2020,4,2,0,0.0032359467,0,0
-Imst,Imst,2020,5,2,0,0.0032359467,0,0.1111111111
-Imst,Imst,2020,6,2,0,0.0032359467,0.3333333333,1
-Imst,Imst,2020,7,1,0,0,0,0.3333333333
-Imst,Imst,2020,8,0,0,0,0,0
-Imst,Imst,2020,9,2,0,0.0032359467,0.6666666667,2
-Imst,Imst,2020,10,6,0.0076923077,0.022466716,3,1.3333333333
-Imst,Imst,2020,11,2,0,0.0032359467,0,0.5
-Imst,Imst,2020,12,1,0,0,0,0.3333333333
-Imst,Imst,2020,13,3,0,0.0080436391,1,1.1666666667
-Imst,Imst,2020,14,1,0,0,0,0
-Imst,Imst,2020,15,2,0,0.0032359467,0,0.3333333333
-Imst,Imst,2020,16,2,0,0.0032359467,0,0.1666666667
-Imst,Imst,2020,17,1,0,0,0,0.6666666667
-Imst,Imst,2020,18,0,0,0,0,0
-Imst,Imst,2020,19,0,0,0,0,0
-Imst,Imst,2020,20,0,0,0,0,0
-Imst,Imst,2020,21,1,0,0,0,0.3333333333
-Imst,Imst,2020,22,0,0,0,0,0
-Imst,Imst,2020,23,1,0,0,0,0
-Imst,Imst,2020,24,1,0,0,0,0
-Imst,Imst,2020,25,0,0,0,0,0
-Imst,Haiming,2020,1,0,0,0,0,0
-Imst,Haiming,2020,2,1,0,0.0062869822,0,0.6666666667
-Imst,Haiming,2020,3,0,0,0,0,0
-Imst,Haiming,2020,4,0,0,0,0,0
-Imst,Haiming,2020,5,0,0,0,0,0
-Imst,Haiming,2020,6,1,0,0.0062869822,0.3333333333,1
-Imst,Haiming,2020,7,0,0,0,0,0
-Imst,Haiming,2020,8,0,0,0,0,0
-Imst,Haiming,2020,9,1,0,0.0062869822,0,0.3333333333
-Imst,Haiming,2020,10,0,0,0,0,0
-Imst,Haiming,2020,11,0,0,0,0,0
-Imst,Haiming,2020,12,0,0,0,0,0
-Imst,Haiming,2020,13,0,0,0,0,0
-Imst,Haiming,2020,14,0,0,0,0,0
-Imst,Haiming,2020,15,0,0,0,0,0
-Imst,Haiming,2020,16,2,0,0.0159023669,1,1.6666666667
-Imst,Haiming,2020,17,0,0,0,0,0
-Imst,Haiming,2020,18,0,0,0,0,0
-Imst,Haiming,2020,19,0,0,0,0,0
-Imst,Haiming,2020,20,0,0,0,0,0
-Imst,Haiming,2020,21,0,0,0,0,0
-Imst,Haiming,2020,22,0,0,0,0,0
-Imst,Haiming,2020,23,0,0,0,0,0
-Imst,Haiming,2020,24,1,0,0.0062869822,0.3333333333,1
-Imst,Haiming,2020,25,0,0,0,0,0
-Imst,Wenns,2020,1,0,0,0,0,0
-Imst,Wenns,2020,2,0,0,0,0,0
-Imst,Wenns,2020,3,0,0,0,0,0
-Imst,Wenns,2020,4,0,0,0,0,0
-Imst,Wenns,2020,5,0,0,0,0,0
-Imst,Wenns,2020,6,0,0,0,0,0
-Imst,Wenns,2020,7,0,0,0,0,0
-Imst,Wenns,2020,8,0,0,0,0,0
-Imst,Wenns,2020,9,0,0,0,0,0
-Imst,Wenns,2020,10,0,0,0,0,0
-Imst,Wenns,2020,11,1,0,0.0064718935,0,0.6666666667
-Imst,Wenns,2020,12,1,0,0.0064718935,0.3333333333,1
-Imst,Wenns,2020,13,0,0,0,0,0
-Imst,Wenns,2020,14,0,0,0,0,0
-Imst,Wenns,2020,15,1,0,0.0064718935,0,0.6666666667
-Imst,Wenns,2020,16,1,0,0.0064718935,0,0.6666666667
-Imst,Wenns,2020,17,0,0,0,0,0
-Imst,Wenns,2020,18,0,0,0,0,0
-Imst,Wenns,2020,19,0,0,0,0,0
-Imst,Wenns,2020,20,0,0,0,0,0
-Imst,Wenns,2020,21,1,0,0.0064718935,0.3333333333,1
-Imst,Wenns,2020,22,0,0,0,0,0
-Imst,Wenns,2020,23,2,0,0.0160872781,1,1.6666666667
-Imst,Wenns,2020,24,0,0,0,0,0
-Imst,Wenns,2020,25,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,1,1,0,0.0064718935,0,0.6666666667
-Imst,Arzl im Pitztal,2020,2,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,3,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,4,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,5,1,0,0.0064718935,0,0.6666666667
-Imst,Arzl im Pitztal,2020,6,1,0,0.0064718935,0,0.6666666667
-Imst,Arzl im Pitztal,2020,7,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,8,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,9,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,10,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,11,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,12,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,13,1,0,0.0064718935,0.3333333333,1
-Imst,Arzl im Pitztal,2020,14,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,15,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,16,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,17,1,0,0.0064718935,0,0.6666666667
-Imst,Arzl im Pitztal,2020,18,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,19,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,20,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,21,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,22,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,23,1,0,0.0064718935,0,0.6666666667
-Imst,Arzl im Pitztal,2020,24,0,0,0,0,0
-Imst,Arzl im Pitztal,2020,25,0,0,0,0,0
-Imst,Roppen,2020,1,0,0,0,0,0
-Imst,Roppen,2020,2,0,0,0,0,0
-Imst,Roppen,2020,3,0,0,0,0,0
-Imst,Roppen,2020,4,0,0,0,0,0
-Imst,Roppen,2020,5,0,0,0,0,0
-Imst,Roppen,2020,6,0,0,0,0,0
-Imst,Roppen,2020,7,0,0,0,0,0
-Imst,Roppen,2020,8,0,0,0,0,0
-Imst,Roppen,2020,9,0,0,0,0,0
-Imst,Roppen,2020,10,0,0,0,0,0
-Imst,Roppen,2020,11,0,0,0,0,0
-Imst,Roppen,2020,12,0,0,0,0,0
-Imst,Roppen,2020,13,1,0,0.0075813609,0,0.6666666667
-Imst,Roppen,2020,14,0,0,0,0,0
-Imst,Roppen,2020,15,0,0,0,0,0
-Imst,Roppen,2020,16,0,0,0,0,0
-Imst,Roppen,2020,17,0,0,0,0,0
-Imst,Roppen,2020,18,0,0,0,0,0
-Imst,Roppen,2020,19,0,0,0,0,0
-Imst,Roppen,2020,20,0,0,0,0,0
-Imst,Roppen,2020,21,0,0,0,0,0
-Imst,Roppen,2020,22,0,0,0,0,0
-Imst,Roppen,2020,23,1,0,0.0075813609,0.3333333333,1
-Imst,Roppen,2020,24,0,0,0,0,0
-Imst,Roppen,2020,25,0,0,0,0,0
-Imst,Karrösten,2020,1,0,0,0,0,0
-Imst,Karrösten,2020,2,0,0,0,0,0
-Imst,Karrösten,2020,3,0,0,0,0,0
-Imst,Karrösten,2020,4,0,0,0,0,0
-Imst,Karrösten,2020,5,0,0,0,0,0
-Imst,Karrösten,2020,6,0,0,0,0,0
-Imst,Karrösten,2020,7,0,0,0,0,0
-Imst,Karrösten,2020,8,1,0,0.0083210059,0.3333333333,1
-Imst,Karrösten,2020,9,0,0,0,0,0
-Imst,Karrösten,2020,10,0,0,0,0,0
-Imst,Karrösten,2020,11,0,0,0,0,0
-Imst,Karrösten,2020,12,0,0,0,0,0
-Imst,Karrösten,2020,13,1,0,0.0083210059,0.3333333333,1
-Imst,Karrösten,2020,14,0,0,0,0,0
-Imst,Karrösten,2020,15,0,0,0,0,0
-Imst,Karrösten,2020,16,0,0,0,0,0
-Imst,Karrösten,2020,17,0,0,0,0,0
-Imst,Karrösten,2020,18,0,0,0,0,0
-Imst,Karrösten,2020,19,0,0,0,0,0
-Imst,Karrösten,2020,20,0,0,0,0,0
-Imst,Karrösten,2020,21,1,0,0.0083210059,0.3333333333,1
-Imst,Karrösten,2020,22,0,0,0,0,0
-Imst,Karrösten,2020,23,0,0,0,0,0
-Imst,Karrösten,2020,24,0,0,0,0,0
-Imst,Karrösten,2020,25,0,0,0,0,0
-Imst,Karres,2020,1,0,0,0,0,0
-Imst,Karres,2020,2,0,0,0,0,0
-Imst,Karres,2020,3,0,0,0,0,0
-Imst,Karres,2020,4,0,0,0,0,0
-Imst,Karres,2020,5,0,0,0,0,0
-Imst,Karres,2020,6,0,0,0,0,0
-Imst,Karres,2020,7,0,0,0,0,0
-Imst,Karres,2020,8,0,0,0,0,0
-Imst,Karres,2020,9,0,0,0,0,0
-Imst,Karres,2020,10,0,0,0,0,0
-Imst,Karres,2020,11,0,0,0,0,0
-Imst,Karres,2020,12,0,0,0,0,0
-Imst,Karres,2020,13,0,0,0,0,0
-Imst,Karres,2020,14,0,0,0,0,0
-Imst,Karres,2020,15,0,0,0,0,0
-Imst,Karres,2020,16,0,0,0,0,0
-Imst,Karres,2020,17,0,0,0,0,0
-Imst,Karres,2020,18,0,0,0,0,0
-Imst,Karres,2020,19,0,0,0,0,0
-Imst,Karres,2020,20,0,0,0,0,0
-Imst,Karres,2020,21,1,0,0.0177514793,0.3333333333,1
-Imst,Karres,2020,22,0,0,0,0,0
-Imst,Karres,2020,23,0,0,0,0,0
-Imst,Karres,2020,24,0,0,0,0,0
-Imst,Karres,2020,25,0,0,0,0,0
-Imst,Mieming,2020,1,0,0,0,0,0
-Imst,Mieming,2020,2,0,0,0,0,0
-Imst,Mieming,2020,3,0,0,0,0,0
-Imst,Mieming,2020,4,1,0,0.0059171598,0.3333333333,1
-Imst,Mieming,2020,5,0,0,0,0,0
-Imst,Mieming,2020,6,0,0,0,0,0
-Imst,Mieming,2020,7,0,0,0,0,0
-Imst,Mieming,2020,8,1,0,0.0059171598,0,0
-Imst,Mieming,2020,9,0,0,0,0,0
-Imst,Mieming,2020,10,0,0,0,0,0
-Imst,Mieming,2020,11,0,0,0,0,0
-Imst,Mieming,2020,12,3,0.0096153846,0.025147929,1,3
-Imst,Mieming,2020,13,0,0,0,0,0
-Imst,Mieming,2020,14,0,0,0,0,0
-Imst,Mieming,2020,15,0,0,0,0,0
-Imst,Mieming,2020,16,2,0,0.0155325444,0.6666666667,2
-Imst,Mieming,2020,17,0,0,0,0,0
-Imst,Mieming,2020,18,0,0,0,0,0
-Imst,Mieming,2020,19,1,0,0.0059171598,0,0.6666666667
-Imst,Mieming,2020,20,1,0,0.0059171598,0,0.3333333333
-Imst,Mieming,2020,21,0,0,0,0,0
-Imst,Mieming,2020,22,0,0,0,0,0
-Imst,Mieming,2020,23,0,0,0,0,0
-Imst,Mieming,2020,24,0,0,0,0,0
-Imst,Mieming,2020,25,0,0,0,0,0
-Imst,Sautens,2020,1,0,0,0,0,0
-Imst,Sautens,2020,2,0,0,0,0,0
-Imst,Sautens,2020,3,1,0,0.0155325444,0,0.3333333333
-Imst,Sautens,2020,4,0,0,0,0,0
-Imst,Sautens,2020,5,0,0,0,0,0
-Imst,Sautens,2020,6,1,0,0.0155325444,0.3333333333,1
-Imst,Sautens,2020,7,0,0,0,0,0
-Imst,Sautens,2020,8,0,0,0,0,0
-Imst,Sautens,2020,9,0,0,0,0,0
-Imst,Sautens,2020,10,0,0,0,0,0
-Imst,Sautens,2020,11,0,0,0,0,0
-Imst,Sautens,2020,12,1,0,0.0155325444,0,0.6666666667
-Imst,Sautens,2020,13,0,0,0,0,0
-Imst,Sautens,2020,14,0,0,0,0,0
-Imst,Sautens,2020,15,0,0,0,0,0
-Imst,Sautens,2020,16,0,0,0,0,0
-Imst,Sautens,2020,17,0,0,0,0,0
-Imst,Sautens,2020,18,1,0,0.0155325444,0.3333333333,1
-Imst,Sautens,2020,19,0,0,0,0,0
-Imst,Sautens,2020,20,0,0,0,0,0
-Imst,Sautens,2020,21,0,0,0,0,0
-Imst,Sautens,2020,22,0,0,0,0,0
-Imst,Sautens,2020,23,0,0,0,0,0
-Imst,Sautens,2020,24,0,0,0,0,0
-Imst,Sautens,2020,25,0,0,0,0,0
-Imst,Obsteig,2020,1,0,0,0,0,0
-Imst,Obsteig,2020,2,0,0,0,0,0
-Imst,Obsteig,2020,3,1,0,0.0077662722,0.3333333333,1
-Imst,Obsteig,2020,4,0,0,0,0,0
-Imst,Obsteig,2020,5,0,0,0,0,0
-Imst,Obsteig,2020,6,0,0,0,0,0
-Imst,Obsteig,2020,7,0,0,0,0,0
-Imst,Obsteig,2020,8,1,0,0.0077662722,0.3333333333,1
-Imst,Obsteig,2020,9,1,0,0.0077662722,0,0.6666666667
-Imst,Obsteig,2020,10,0,0,0,0,0
-Imst,Obsteig,2020,11,0,0,0,0,0
-Imst,Obsteig,2020,12,0,0,0,0,0
-Imst,Obsteig,2020,13,1,0,0.0077662722,0.3333333333,1
-Imst,Obsteig,2020,14,1,0,0.0077662722,0,0.6666666667
-Imst,Obsteig,2020,15,0,0,0,0,0
-Imst,Obsteig,2020,16,0,0,0,0,0
-Imst,Obsteig,2020,17,1,0,0.0077662722,0,0.6666666667
-Imst,Obsteig,2020,18,0,0,0,0,0
-Imst,Obsteig,2020,19,0,0,0,0,0
-Imst,Obsteig,2020,20,0,0,0,0,0
-Imst,Obsteig,2020,21,0,0,0,0,0
-Imst,Obsteig,2020,22,0,0,0,0,0
-Imst,Obsteig,2020,23,0,0,0,0,0
-Imst,Obsteig,2020,24,0,0,0,0,0
-Imst,Obsteig,2020,25,0,0,0,0,0
-Imst,Tarrenz,2020,1,0,0,0,0,0
-Imst,Tarrenz,2020,2,0,0,0,0,0
-Imst,Tarrenz,2020,3,1,0,0.0072115385,0,0.6666666667
-Imst,Tarrenz,2020,4,0,0,0,0,0
-Imst,Tarrenz,2020,5,0,0,0,0,0
-Imst,Tarrenz,2020,6,0,0,0,0,0
-Imst,Tarrenz,2020,7,1,0,0.0072115385,0,0
-Imst,Tarrenz,2020,8,0,0,0,0,0
-Imst,Tarrenz,2020,9,0,0,0,0,0
-Imst,Tarrenz,2020,10,0,0,0,0,0
-Imst,Tarrenz,2020,11,0,0,0,0,0
-Imst,Tarrenz,2020,12,0,0,0,0,0
-Imst,Tarrenz,2020,13,0,0,0,0,0
-Imst,Tarrenz,2020,14,1,0,0.0072115385,0.3333333333,1
-Imst,Tarrenz,2020,15,0,0,0,0,0
-Imst,Tarrenz,2020,16,1,0,0.0072115385,0.3333333333,1
-Imst,Tarrenz,2020,17,0,0,0,0,0
-Imst,Tarrenz,2020,18,0,0,0,0,0
-Imst,Tarrenz,2020,19,0,0,0,0,0
-Imst,Tarrenz,2020,20,0,0,0,0,0
-Imst,Tarrenz,2020,21,0,0,0,0,0
-Imst,Tarrenz,2020,22,0,0,0,0,0
-Imst,Tarrenz,2020,23,0,0,0,0,0
-Imst,Tarrenz,2020,24,0,0,0,0,0
-Imst,Tarrenz,2020,25,0,0,0,0,0
-Imst,Imsterberg,2020,1,0,0,0,0,0
-Imst,Imsterberg,2020,2,0,0,0,0,0
-Imst,Imsterberg,2020,3,0,0,0,0,0
-Imst,Imsterberg,2020,4,0,0,0,0,0
-Imst,Imsterberg,2020,5,0,0,0,0,0
-Imst,Imsterberg,2020,6,0,0,0,0,0
-Imst,Imsterberg,2020,7,0,0,0,0,0
-Imst,Imsterberg,2020,8,0,0,0,0,0
-Imst,Imsterberg,2020,9,0,0,0,0,0
-Imst,Imsterberg,2020,10,0,0,0,0,0
-Imst,Imsterberg,2020,11,0,0,0,0,0
-Imst,Imsterberg,2020,12,1,0,0.0085059172,0.3333333333,1
-Imst,Imsterberg,2020,13,0,0,0,0,0
-Imst,Imsterberg,2020,14,0,0,0,0,0
-Imst,Imsterberg,2020,15,1,0,0.0085059172,0.3333333333,1
-Imst,Imsterberg,2020,16,0,0,0,0,0
-Imst,Imsterberg,2020,17,0,0,0,0,0
-Imst,Imsterberg,2020,18,0,0,0,0,0
-Imst,Imsterberg,2020,19,0,0,0,0,0
-Imst,Imsterberg,2020,20,0,0,0,0,0
-Imst,Imsterberg,2020,21,0,0,0,0,0
-Imst,Imsterberg,2020,22,0,0,0,0,0
-Imst,Imsterberg,2020,23,0,0,0,0,0
-Imst,Imsterberg,2020,24,0,0,0,0,0
-Imst,Imsterberg,2020,25,0,0,0,0,0
-Imst,Sölden,2020,1,0,0,0,0,0
-Imst,Sölden,2020,2,0,0,0,0,0
-Imst,Sölden,2020,3,0,0,0,0,0
-Imst,Sölden,2020,4,1,0,0.0043145957,0,0.6666666667
-Imst,Sölden,2020,5,0,0,0,0,0
-Imst,Sölden,2020,6,0,0,0,0,0
-Imst,Sölden,2020,7,0,0,0,0,0
-Imst,Sölden,2020,8,0,0,0,0,0
-Imst,Sölden,2020,9,2,0,0.0107248521,0.6666666667,2
-Imst,Sölden,2020,10,0,0,0,0,0
-Imst,Sölden,2020,11,1,0,0.0043145957,0,0.6666666667
-Imst,Sölden,2020,12,0,0,0,0,0
-Imst,Sölden,2020,13,0,0,0,0,0
-Imst,Sölden,2020,14,1,0,0.0043145957,0,0.6666666667
-Imst,Sölden,2020,15,1,0,0.0043145957,0.3333333333,1
-Imst,Sölden,2020,16,0,0,0,0,0
-Imst,Sölden,2020,17,0,0,0,0,0
-Imst,Sölden,2020,18,0,0,0,0,0
-Imst,Sölden,2020,19,0,0,0,0,0
-Imst,Sölden,2020,20,0,0,0,0,0
-Imst,Sölden,2020,21,0,0,0,0,0
-Imst,Sölden,2020,22,0,0,0,0,0
-Imst,Sölden,2020,23,0,0,0,0,0
-Imst,Sölden,2020,24,0,0,0,0,0
-Imst,Sölden,2020,25,0,0,0,0,0
-Imst,Rietz,2020,1,1,0,0.0066568047,0,0.3333333333
-Imst,Rietz,2020,2,1,0,0.0066568047,0,0.3333333333
-Imst,Rietz,2020,3,0,0,0,0,0
-Imst,Rietz,2020,4,0,0,0,0,0
-Imst,Rietz,2020,5,0,0,0,0,0
-Imst,Rietz,2020,6,1,0,0.0066568047,0,0.6666666667
-Imst,Rietz,2020,7,0,0,0,0,0
-Imst,Rietz,2020,8,0,0,0,0,0
-Imst,Rietz,2020,9,0,0,0,0,0
-Imst,Rietz,2020,10,0,0,0,0,0
-Imst,Rietz,2020,11,0,0,0,0,0
-Imst,Rietz,2020,12,0,0,0,0,0
-Imst,Rietz,2020,13,1,0,0.0066568047,0.3333333333,1
-Imst,Rietz,2020,14,0,0,0,0,0
-Imst,Rietz,2020,15,0,0,0,0,0
-Imst,Rietz,2020,16,0,0,0,0,0
-Imst,Rietz,2020,17,0,0,0,0,0
-Imst,Rietz,2020,18,0,0,0,0,0
-Imst,Rietz,2020,19,0,0,0,0,0
-Imst,Rietz,2020,20,0,0,0,0,0
-Imst,Rietz,2020,21,0,0,0,0,0
-Imst,Rietz,2020,22,0,0,0,0,0
-Imst,Rietz,2020,23,0,0,0,0,0
-Imst,Rietz,2020,24,0,0,0,0,0
-Imst,Rietz,2020,25,0,0,0,0,0
-Imst,Mötz,2020,1,0,0,0,0,0
-Imst,Mötz,2020,2,0,0,0,0,0
-Imst,Mötz,2020,3,0,0,0,0,0
-Imst,Mötz,2020,4,0,0,0,0,0
-Imst,Mötz,2020,5,1,0,0.0173816568,0.3333333333,1
-Imst,Mötz,2020,6,0,0,0,0,0
-Imst,Mötz,2020,7,1,0,0.0173816568,0,0.6666666667
-Imst,Mötz,2020,8,0,0,0,0,0
-Imst,Mötz,2020,9,0,0,0,0,0
-Imst,Mötz,2020,10,0,0,0,0,0
-Imst,Mötz,2020,11,0,0,0,0,0
-Imst,Mötz,2020,12,1,0,0.0173816568,0.3333333333,1
-Imst,Mötz,2020,13,0,0,0,0,0
-Imst,Mötz,2020,14,0,0,0,0,0
-Imst,Mötz,2020,15,0,0,0,0,0
-Imst,Mötz,2020,16,0,0,0,0,0
-Imst,Mötz,2020,17,0,0,0,0,0
-Imst,Mötz,2020,18,0,0,0,0,0
-Imst,Mötz,2020,19,0,0,0,0,0
-Imst,Mötz,2020,20,0,0,0,0,0
-Imst,Mötz,2020,21,0,0,0,0,0
-Imst,Mötz,2020,22,0,0,0,0,0
-Imst,Mötz,2020,23,0,0,0,0,0
-Imst,Mötz,2020,24,0,0,0,0,0
-Imst,Mötz,2020,25,0,0,0,0,0
-Imst,Stams,2020,1,0,0,0,0,0
-Imst,Stams,2020,2,1,0,0.0159023669,0.3333333333,1
-Imst,Stams,2020,3,1,0,0.0159023669,0,0.6666666667
-Imst,Stams,2020,4,0,0,0,0,0
-Imst,Stams,2020,5,0,0,0,0,0
-Imst,Stams,2020,6,1,0,0.0159023669,0.3333333333,1
-Imst,Stams,2020,7,0,0,0,0,0
-Imst,Stams,2020,8,0,0,0,0,0
-Imst,Stams,2020,9,1,0,0.0159023669,0.3333333333,1
-Imst,Stams,2020,10,0,0,0,0,0
-Imst,Stams,2020,11,0,0,0,0,0
-Imst,Stams,2020,12,1,0,0.0159023669,0.3333333333,1
-Imst,Stams,2020,13,0,0,0,0,0
-Imst,Stams,2020,14,0,0,0,0,0
-Imst,Stams,2020,15,0,0,0,0,0
-Imst,Stams,2020,16,0,0,0,0,0
-Imst,Stams,2020,17,0,0,0,0,0
-Imst,Stams,2020,18,0,0,0,0,0
-Imst,Stams,2020,19,0,0,0,0,0
-Imst,Stams,2020,20,0,0,0,0,0
-Imst,Stams,2020,21,0,0,0,0,0
-Imst,Stams,2020,22,0,0,0,0,0
-Imst,Stams,2020,23,0,0,0,0,0
-Imst,Stams,2020,24,0,0,0,0,0
-Imst,Stams,2020,25,0,0,0,0,0
-Imst,Jerzens,2020,1,0,0,0,0,0
-Imst,Jerzens,2020,2,0,0,0,0,0
-Imst,Jerzens,2020,3,0,0,0,0,0
-Imst,Jerzens,2020,4,0,0,0,0,0
-Imst,Jerzens,2020,5,0,0,0,0,0
-Imst,Jerzens,2020,6,1,0,0.0173816568,0,0.3333333333
-Imst,Jerzens,2020,7,0,0,0,0,0
-Imst,Jerzens,2020,8,0,0,0,0,0
-Imst,Jerzens,2020,9,0,0,0,0,0
-Imst,Jerzens,2020,10,0,0,0,0,0
-Imst,Jerzens,2020,11,0,0,0,0,0
-Imst,Jerzens,2020,12,0,0,0,0,0
-Imst,Jerzens,2020,13,0,0,0,0,0
-Imst,Jerzens,2020,14,0,0,0,0,0
-Imst,Jerzens,2020,15,0,0,0,0,0
-Imst,Jerzens,2020,16,0,0,0,0,0
-Imst,Jerzens,2020,17,0,0,0,0,0
-Imst,Jerzens,2020,18,0,0,0,0,0
-Imst,Jerzens,2020,19,0,0,0,0,0
-Imst,Jerzens,2020,20,0,0,0,0,0
-Imst,Jerzens,2020,21,0,0,0,0,0
-Imst,Jerzens,2020,22,0,0,0,0,0
-Imst,Jerzens,2020,23,0,0,0,0,0
-Imst,Jerzens,2020,24,0,0,0,0,0
-Imst,Jerzens,2020,25,0,0,0,0,0
-Imst,Nassereith,2020,1,2,0.0048076923,0.0369822485,1,1.6666666667
-Imst,Nassereith,2020,2,0,0,0,0,0
-Imst,Nassereith,2020,3,0,0,0,0,0
-Imst,Nassereith,2020,4,0,0,0,0,0
-Imst,Nassereith,2020,5,0,0,0,0,0
-Imst,Nassereith,2020,6,0,0,0,0,0
-Imst,Nassereith,2020,7,0,0,0,0,0
-Imst,Nassereith,2020,8,0,0,0,0,0
-Imst,Nassereith,2020,9,0,0,0,0,0
-Imst,Nassereith,2020,10,0,0,0,0,0
-Imst,Nassereith,2020,11,0,0,0,0,0
-Imst,Nassereith,2020,12,0,0,0,0,0
-Imst,Nassereith,2020,13,0,0,0,0,0
-Imst,Nassereith,2020,14,0,0,0,0,0
-Imst,Nassereith,2020,15,0,0,0,0,0
-Imst,Nassereith,2020,16,0,0,0,0,0
-Imst,Nassereith,2020,17,0,0,0,0,0
-Imst,Nassereith,2020,18,0,0,0,0,0
-Imst,Nassereith,2020,19,0,0,0,0,0
-Imst,Nassereith,2020,20,0,0,0,0,0
-Imst,Nassereith,2020,21,0,0,0,0,0
-Imst,Nassereith,2020,22,0,0,0,0,0
-Imst,Nassereith,2020,23,0,0,0,0,0
-Imst,Nassereith,2020,24,0,0,0,0,0
-Imst,Nassereith,2020,25,0,0,0,0,0
-Imst,Mils bei Imst,2020,1,0,0,0,0,0
-Imst,Mils bei Imst,2020,2,0,0,0,0,0
-Imst,Mils bei Imst,2020,3,0,0,0,0,0
-Imst,Mils bei Imst,2020,4,0,0,0,0,0
-Imst,Mils bei Imst,2020,5,0,0,0,0,0
-Imst,Mils bei Imst,2020,6,0,0,0,0,0
-Imst,Mils bei Imst,2020,7,0,0,0,0,0
-Imst,Mils bei Imst,2020,8,0,0,0,0,0
-Imst,Mils bei Imst,2020,9,0,0,0,0,0
-Imst,Mils bei Imst,2020,10,0,0,0,0,0
-Imst,Mils bei Imst,2020,11,0,0,0,0,0
-Imst,Mils bei Imst,2020,12,0,0,0,0,0
-Imst,Mils bei Imst,2020,13,0,0,0,0,0
-Imst,Mils bei Imst,2020,14,0,0,0,0,0
-Imst,Mils bei Imst,2020,15,0,0,0,0,0
-Imst,Mils bei Imst,2020,16,0,0,0,0,0
-Imst,Mils bei Imst,2020,17,0,0,0,0,0
-Imst,Mils bei Imst,2020,18,0,0,0,0,0
-Imst,Mils bei Imst,2020,19,0,0,0,0,0
-Imst,Mils bei Imst,2020,20,0,0,0,0,0
-Imst,Mils bei Imst,2020,21,0,0,0,0,0
-Imst,Mils bei Imst,2020,22,0,0,0,0,0
-Imst,Mils bei Imst,2020,23,0,0,0,0,0
-Imst,Mils bei Imst,2020,24,0,0,0,0,0
-Imst,Mils bei Imst,2020,25,0,0,0,0,0
 Innsbruck-Stadt,Innsbruck,2020,1,20,0,0.0038546882,0,0.1060606061
 Innsbruck-Stadt,Innsbruck,2020,2,23,0,0.0060736231,2,0.3174603175
 Innsbruck-Stadt,Innsbruck,2020,3,30,0.0384615385,0.0112511379,4,0.5303030303

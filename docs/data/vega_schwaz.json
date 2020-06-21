@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-c075d175f577913114b8cd2d4bef8510"
+        "name": "data-9c7dd00018a7c9428f031f95db21273e"
     },
     "datasets": {
-        "data-c075d175f577913114b8cd2d4bef8510": [
+        "data-9c7dd00018a7c9428f031f95db21273e": [
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "Gerlosberg",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 1,
                 "district": "Schwaz",
@@ -24776,1462 +26232,6 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Kaltenbach",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "Gerlosberg",
                 "week": 52,
                 "year": 2020
             },

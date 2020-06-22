@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-f1f9840c324122267627a36ccd52c47e"
+        "name": "data-df7c0d32daf3858cfc0826dd1e6b73d1"
     },
     "datasets": {
-        "data-f1f9840c324122267627a36ccd52c47e": [
+        "data-df7c0d32daf3858cfc0826dd1e6b73d1": [
             {
                 "count": 3,
                 "district": "Kufstein",
@@ -1288,14 +1288,14 @@
                 "year": 2020
             },
             {
-                "count": 4,
+                "count": 6,
                 "district": "Kufstein",
                 "municipaly": "Kufstein",
                 "week": 25,
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Kufstein",
                 "municipaly": "Kufstein",
                 "week": 26,

@@ -25,6 +25,32 @@ Kufstein,Kufstein,2020,23,2,0,0,0,0
 Kufstein,Kufstein,2020,24,1,0,0,0,0
 Kufstein,Kufstein,2020,25,6,0,0.0062407544,1,0.5833333333
 Kufstein,Kufstein,2020,26,1,0,0,0,0
+Kufstein,Kundl,2020,1,0,0,0,0,0
+Kufstein,Kundl,2020,2,1,0,0.0022189349,0,0
+Kufstein,Kundl,2020,3,0,0,0,0,0
+Kufstein,Kundl,2020,4,2,0,0.0086291913,0,0.5
+Kufstein,Kundl,2020,5,1,0,0.0022189349,0,0
+Kufstein,Kundl,2020,6,0,0,0,0,0
+Kufstein,Kundl,2020,7,1,0,0.0022189349,0,0
+Kufstein,Kundl,2020,8,0,0,0,0,0
+Kufstein,Kundl,2020,9,1,0,0.0022189349,0,0.1666666667
+Kufstein,Kundl,2020,10,0,0,0,0,0
+Kufstein,Kundl,2020,11,1,0,0.0022189349,0,0.1666666667
+Kufstein,Kundl,2020,12,0,0,0,0,0
+Kufstein,Kundl,2020,13,2,0,0.0086291913,0,0.6666666667
+Kufstein,Kundl,2020,14,1,0,0.0022189349,0,0.1666666667
+Kufstein,Kundl,2020,15,2,0,0.0086291913,0,0.3333333333
+Kufstein,Kundl,2020,16,0,0,0,0,0
+Kufstein,Kundl,2020,17,2,0,0.0086291913,1,1.6666666667
+Kufstein,Kundl,2020,18,0,0,0,0,0
+Kufstein,Kundl,2020,19,0,0,0,0,0
+Kufstein,Kundl,2020,20,0,0,0,0,0
+Kufstein,Kundl,2020,21,0,0,0,0,0
+Kufstein,Kundl,2020,22,1,0,0.0022189349,0,0.6666666667
+Kufstein,Kundl,2020,23,1,0,0.0022189349,0,0.3333333333
+Kufstein,Kundl,2020,24,1,0,0.0022189349,0,0
+Kufstein,Kundl,2020,25,1,0,0.0022189349,0,0.6666666667
+Kufstein,Kundl,2020,26,1,0,0.0022189349,0,0
 Kufstein,Wörgl,2020,1,0,0,0,0,0
 Kufstein,Wörgl,2020,2,2,0,0.000443787,0,0
 Kufstein,Wörgl,2020,3,2,0,0.000443787,0,0
@@ -259,32 +285,6 @@ Kufstein,Kramsach,2020,23,1,0,0.0019723866,0,0
 Kufstein,Kramsach,2020,24,1,0,0.0019723866,0.3333333333,1
 Kufstein,Kramsach,2020,25,0,0,0,0,0
 Kufstein,Kramsach,2020,26,0,0,0,0,0
-Kufstein,Kundl,2020,1,0,0,0,0,0
-Kufstein,Kundl,2020,2,1,0,0.0022189349,0,0
-Kufstein,Kundl,2020,3,0,0,0,0,0
-Kufstein,Kundl,2020,4,2,0,0.0086291913,0,0.5
-Kufstein,Kundl,2020,5,1,0,0.0022189349,0,0
-Kufstein,Kundl,2020,6,0,0,0,0,0
-Kufstein,Kundl,2020,7,1,0,0.0022189349,0,0
-Kufstein,Kundl,2020,8,0,0,0,0,0
-Kufstein,Kundl,2020,9,1,0,0.0022189349,0,0.1666666667
-Kufstein,Kundl,2020,10,0,0,0,0,0
-Kufstein,Kundl,2020,11,1,0,0.0022189349,0,0.1666666667
-Kufstein,Kundl,2020,12,0,0,0,0,0
-Kufstein,Kundl,2020,13,2,0,0.0086291913,0,0.6666666667
-Kufstein,Kundl,2020,14,1,0,0.0022189349,0,0.1666666667
-Kufstein,Kundl,2020,15,2,0,0.0086291913,0,0.3333333333
-Kufstein,Kundl,2020,16,0,0,0,0,0
-Kufstein,Kundl,2020,17,2,0,0.0086291913,1,1.6666666667
-Kufstein,Kundl,2020,18,0,0,0,0,0
-Kufstein,Kundl,2020,19,0,0,0,0,0
-Kufstein,Kundl,2020,20,0,0,0,0,0
-Kufstein,Kundl,2020,21,0,0,0,0,0
-Kufstein,Kundl,2020,22,1,0,0.0022189349,0,0.6666666667
-Kufstein,Kundl,2020,23,1,0,0.0022189349,0,0.3333333333
-Kufstein,Kundl,2020,24,1,0,0.0022189349,0,0
-Kufstein,Kundl,2020,25,0,0,0,0,0
-Kufstein,Kundl,2020,26,0,0,0,0,0
 Kufstein,Ellmau,2020,1,0,0,0,0,0
 Kufstein,Ellmau,2020,2,0,0,0,0,0
 Kufstein,Ellmau,2020,3,0,0,0,0,0
@@ -2313,6 +2313,32 @@ Schwaz,Jenbach,2020,23,0,0,0,0,0
 Schwaz,Jenbach,2020,24,4,0,0.0105029586,2,1.5
 Schwaz,Jenbach,2020,25,2,0,0.0028106509,0.5,1.3333333333
 Schwaz,Jenbach,2020,26,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,1,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,2,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,3,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,4,2,0,0.0067492604,0.6666666667,2
+Schwaz,Zell am Ziller,2020,5,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,6,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,7,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,8,1,0,0.001941568,0,0
+Schwaz,Zell am Ziller,2020,9,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,10,1,0,0.001941568,0,0
+Schwaz,Zell am Ziller,2020,11,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,12,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,13,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,14,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,15,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,16,3,0,0.0115569527,1,1.1666666667
+Schwaz,Zell am Ziller,2020,17,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,18,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,19,1,0,0.001941568,0,0.3333333333
+Schwaz,Zell am Ziller,2020,20,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,21,1,0,0.001941568,0.3333333333,1
+Schwaz,Zell am Ziller,2020,22,1,0,0.001941568,0,0.6666666667
+Schwaz,Zell am Ziller,2020,23,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,24,0,0,0,0,0
+Schwaz,Zell am Ziller,2020,25,2,0,0.0067492604,0,0.5
+Schwaz,Zell am Ziller,2020,26,0,0,0,0,0
 Schwaz,Gerlosberg,2020,1,0,0,0,0,0
 Schwaz,Gerlosberg,2020,2,0,0,0,0,0
 Schwaz,Gerlosberg,2020,3,0,0,0,0,0
@@ -2339,32 +2365,6 @@ Schwaz,Gerlosberg,2020,23,0,0,0,0,0
 Schwaz,Gerlosberg,2020,24,0,0,0,0,0
 Schwaz,Gerlosberg,2020,25,1,0,0.0181213018,0,0.6666666667
 Schwaz,Gerlosberg,2020,26,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,1,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,2,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,3,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,4,2,0,0.0067492604,0.6666666667,2
-Schwaz,Zell am Ziller,2020,5,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,6,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,7,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,8,1,0,0.001941568,0,0
-Schwaz,Zell am Ziller,2020,9,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,10,1,0,0.001941568,0,0
-Schwaz,Zell am Ziller,2020,11,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,12,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,13,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,14,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,15,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,16,3,0,0.0115569527,1,1.1666666667
-Schwaz,Zell am Ziller,2020,17,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,18,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,19,1,0,0.001941568,0,0.3333333333
-Schwaz,Zell am Ziller,2020,20,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,21,1,0,0.001941568,0.3333333333,1
-Schwaz,Zell am Ziller,2020,22,1,0,0.001941568,0,0.6666666667
-Schwaz,Zell am Ziller,2020,23,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,24,0,0,0,0,0
-Schwaz,Zell am Ziller,2020,25,1,0,0.001941568,0,0
-Schwaz,Zell am Ziller,2020,26,0,0,0,0,0
 Schwaz,Vomp,2020,1,0,0,0,0,0
 Schwaz,Vomp,2020,2,2,0,0.0140532544,0.3333333333,1
 Schwaz,Vomp,2020,3,0,0,0,0,0

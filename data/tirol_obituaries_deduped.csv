@@ -1,12 +1,19 @@
 date,year,week,municipaly,district,hash
+23.06.2020,2020,26,Scharnitz,Innsbruck-Land,125967305
 22.06.2020,2020,26,Kufstein,Kufstein,1522290608
 22.06.2020,2020,26,Sillian,Lienz,-1451219103
 22.06.2020,2020,26,Kundl,Kufstein,-293907685
+22.06.2020,2020,26,Längenfeld,Imst,-89751724
+22.06.2020,2020,26,Kitzbühel,Kitzbühel,-599668631
+22.06.2020,2020,26,Nußdorf-Debant,Lienz,2072521912
+22.06.2020,2020,26,Ellmau,Kufstein,1159703033
+22.06.2020,2020,26,Kappl,Landeck,-698518601
 21.06.2020,2020,25,Sautens,Imst,151156749
 21.06.2020,2020,25,Kufstein,Kufstein,1450912558
 21.06.2020,2020,25,Achenkirch,Schwaz,1054794637
 21.06.2020,2020,25,Jenbach,Schwaz,-1699592724
 21.06.2020,2020,25,Zell am Ziller,Schwaz,791630319
+21.06.2020,2020,25,Innsbruck,Innsbruck-Stadt,258255923
 20.06.2020,2020,25,Grinzens,Innsbruck-Land,104868220
 20.06.2020,2020,25,Gerlosberg,Schwaz,-366539184
 20.06.2020,2020,25,Kirchberg in Tirol,Kitzbühel,375365021
@@ -17,6 +24,7 @@ date,year,week,municipaly,district,hash
 20.06.2020,2020,25,Wattens,Innsbruck-Land,1406120300
 20.06.2020,2020,25,Schönberg im Stubaital,Innsbruck-Land,1922572957
 20.06.2020,2020,25,Kufstein,Kufstein,2081330907
+20.06.2020,2020,25,Oberhofen im Inntal,Innsbruck-Land,-299832661
 19.06.2020,2020,25,St. Johann in Tirol,Kitzbühel,-1976607301
 19.06.2020,2020,25,Kauns,Landeck,1248160197
 19.06.2020,2020,25,Lienz,Lienz,-1347989445
@@ -26,6 +34,7 @@ date,year,week,municipaly,district,hash
 19.06.2020,2020,25,Kappl,Landeck,-1715089128
 19.06.2020,2020,25,Häselgehr,Reutte,-75963768
 19.06.2020,2020,25,Kundl,Kufstein,1438288482
+19.06.2020,2020,25,Innsbruck,Innsbruck-Stadt,795823376
 18.06.2020,2020,25,Kitzbühel,Kitzbühel,-1126383654
 18.06.2020,2020,25,Stummerberg,Schwaz,-919033209
 18.06.2020,2020,25,Hopfgarten im Brixental,Kitzbühel,1466173315

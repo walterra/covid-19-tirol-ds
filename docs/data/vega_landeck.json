@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-b577386a3818ee2e381b652bd2f67b5f"
+        "name": "data-1284fa6bc5e05159f815fc21642cd60c"
     },
     "datasets": {
-        "data-b577386a3818ee2e381b652bd2f67b5f": [
+        "data-1284fa6bc5e05159f815fc21642cd60c": [
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "Flie\u00df",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Landeck",
@@ -1295,7 +2751,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Landeck",
                 "municipaly": "Kappl",
                 "week": 26,
@@ -8760,1462 +10216,6 @@
                 "count": 0,
                 "district": "Landeck",
                 "municipaly": "Fendels",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "Flie\u00df",
                 "week": 52,
                 "year": 2020
             },

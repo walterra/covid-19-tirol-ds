@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-ac2f1c3969e400210314c27fa1ba5ef3"
+        "name": "data-11edd31b2a88a0d4b973944e3494d766"
     },
     "datasets": {
-        "data-ac2f1c3969e400210314c27fa1ba5ef3": [
+        "data-11edd31b2a88a0d4b973944e3494d766": [
             {
                 "count": 21,
                 "district": "Innsbruck-Stadt",
@@ -1295,7 +1295,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 5,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "week": 26,

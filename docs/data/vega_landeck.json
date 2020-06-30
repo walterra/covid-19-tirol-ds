@@ -23,1466 +23,10 @@
         }
     },
     "data": {
-        "name": "data-39d5ae83629d80bd5133ad43847a97e4"
+        "name": "data-5dbae96713d91740145e30bfc9376d08"
     },
     "datasets": {
-        "data-39d5ae83629d80bd5133ad43847a97e4": [
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Landeck",
-                "municipaly": "See",
-                "week": 52,
-                "year": 2020
-            },
+        "data-5dbae96713d91740145e30bfc9376d08": [
             {
                 "count": 0,
                 "district": "Landeck",
@@ -2758,7 +1302,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Landeck",
                 "municipaly": "Pettneu am Arlberg",
                 "week": 27,
@@ -2936,6 +1480,1462 @@
                 "count": 0,
                 "district": "Landeck",
                 "municipaly": "Pettneu am Arlberg",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Landeck",
+                "municipaly": "See",
                 "week": 52,
                 "year": 2020
             },

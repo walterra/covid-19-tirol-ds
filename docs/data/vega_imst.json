@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-4392502a3ce966089990447c3b87e667"
+        "name": "data-e75f356ec1e430d86dccfff9293cd509"
     },
     "datasets": {
-        "data-4392502a3ce966089990447c3b87e667": [
+        "data-e75f356ec1e430d86dccfff9293cd509": [
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Umhausen",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Imst",
@@ -13128,1462 +14584,6 @@
                 "count": 0,
                 "district": "Imst",
                 "municipaly": "Oetz",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Umhausen",
                 "week": 52,
                 "year": 2020
             },

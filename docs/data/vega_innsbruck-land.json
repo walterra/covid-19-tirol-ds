@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-57cb2e18ddaab8dfbdf9aae717175091"
+        "name": "data-026ed92f056d145dc61d4983cdbc1862"
     },
     "datasets": {
-        "data-57cb2e18ddaab8dfbdf9aae717175091": [
+        "data-026ed92f056d145dc61d4983cdbc1862": [
             {
                 "count": 0,
                 "district": "Innsbruck-Land",
@@ -4214,7 +4214,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Innsbruck-Land",
                 "municipaly": "Wattens",
                 "week": 27,

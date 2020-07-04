@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-ec6ec49b2ca0d5e7ca2e423c73dc89da"
+        "name": "data-eab346adbaa9614e396064c539f91924"
     },
     "datasets": {
-        "data-ec6ec49b2ca0d5e7ca2e423c73dc89da": [
+        "data-eab346adbaa9614e396064c539f91924": [
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Kufstein",
@@ -34968,1462 +36424,6 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Schwoich",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
                 "week": 52,
                 "year": 2020
             },

@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-ee1d0445057a722bb75df5cd9c83b01b"
+        "name": "data-71e138f422488e2a7bfe1ccc8a1593d9"
     },
     "datasets": {
-        "data-ee1d0445057a722bb75df5cd9c83b01b": [
+        "data-71e138f422488e2a7bfe1ccc8a1593d9": [
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "H\u00f6fen",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Reutte",
@@ -27688,1462 +29144,6 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Heiterwang",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "H\u00f6fen",
                 "week": 52,
                 "year": 2020
             },

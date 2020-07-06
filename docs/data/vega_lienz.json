@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-92f61dd23ced8a02a7206329846d7941"
+        "name": "data-3fec9bde2a0c4151a2f04a138c54e72e"
     },
     "datasets": {
-        "data-92f61dd23ced8a02a7206329846d7941": [
+        "data-3fec9bde2a0c4151a2f04a138c54e72e": [
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Heinfels",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Lienz",
@@ -27688,1462 +29144,6 @@
                 "count": 0,
                 "district": "Lienz",
                 "municipaly": "Kals am Gro\u00dfglockner",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Heinfels",
                 "week": 52,
                 "year": 2020
             },
@@ -48245,7 +48245,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<25"
+                        "filter": "datum.year==2020 & datum.week<26"
                     },
                     {
                         "groupby": [
@@ -48300,7 +48300,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<25 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<26 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -48379,7 +48379,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<25"
+                        "filter": "datum.year==2020 & datum.week<26"
                     }
                 ],
                 "width": 150

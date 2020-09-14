@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-1c77f64fa1e09080754380ba2469a093"
+        "name": "data-951d3cd442ebffae21d3f2c6aae38afb"
     },
     "datasets": {
-        "data-1c77f64fa1e09080754380ba2469a093": [
+        "data-951d3cd442ebffae21d3f2c6aae38afb": [
             {
                 "count": 0,
                 "district": "Reutte",
@@ -1372,7 +1372,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Reutte",
                 "municipaly": "Ehenbichl",
                 "week": 37,

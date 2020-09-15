@@ -1,6 +1,7 @@
 date,year,week,municipaly,district,hash
 14.09.2020,2020,38,Ranggen,Innsbruck-Land,-1566073703
 14.09.2020,2020,38,Kirchbichl,Kufstein,-2119908377
+14.09.2020,2020,38,Fügen,Schwaz,-157314501
 13.09.2020,2020,37,Axams,Innsbruck-Land,-1153136790
 13.09.2020,2020,37,Oberperfuss,Innsbruck-Land,-1958721598
 13.09.2020,2020,37,Assling,Lienz,1185373342
@@ -10,6 +11,7 @@ date,year,week,municipaly,district,hash
 13.09.2020,2020,37,Lienz,Lienz,-1623681655
 13.09.2020,2020,37,Weißenbach am Lech,Reutte,-1529767230
 13.09.2020,2020,37,Längenfeld,Imst,-40521100
+13.09.2020,2020,37,Kufstein,Kufstein,519973004
 12.09.2020,2020,37,Lienz,Lienz,16082974
 12.09.2020,2020,37,Kirchbichl,Kufstein,-1116405236
 12.09.2020,2020,37,Stummerberg,Schwaz,1719896962
@@ -21,12 +23,16 @@ date,year,week,municipaly,district,hash
 12.09.2020,2020,37,Tux,Schwaz,-97332800
 12.09.2020,2020,37,Ehenbichl,Reutte,1430873847
 12.09.2020,2020,37,Mühlbachl,Innsbruck-Land,-226636759
+12.09.2020,2020,37,Wattens,Innsbruck-Land,-1125388748
+12.09.2020,2020,37,Wattens,Innsbruck-Land,970544138
 11.09.2020,2020,37,Längenfeld,Imst,-236213328
 11.09.2020,2020,37,Assling,Lienz,-1607925386
 11.09.2020,2020,37,Brixlegg,Kufstein,-653095058
 11.09.2020,2020,37,Innsbruck,Innsbruck-Stadt,-829229090
 11.09.2020,2020,37,Absam,Innsbruck-Land,827375605
 11.09.2020,2020,37,Innsbruck,Innsbruck-Stadt,980511695
+11.09.2020,2020,37,Innsbruck,Innsbruck-Stadt,-1691773384
+11.09.2020,2020,37,Kirchberg in Tirol,Kitzbühel,-133512988
 10.09.2020,2020,37,Jenbach,Schwaz,468266417
 10.09.2020,2020,37,Götzens,Innsbruck-Land,1413171966
 10.09.2020,2020,37,Hall in Tirol,Innsbruck-Land,1828938234
@@ -34,6 +40,7 @@ date,year,week,municipaly,district,hash
 10.09.2020,2020,37,Ehenbichl,Reutte,451625677
 10.09.2020,2020,37,Lienz,Lienz,1087603497
 10.09.2020,2020,37,St. Leonhard im Pitztal,Imst,1106777591
+10.09.2020,2020,37,Innsbruck,Innsbruck-Stadt,1471059986
 09.09.2020,2020,37,Völs,Innsbruck-Land,2045100321
 09.09.2020,2020,37,St. Anton am Arlberg,Landeck,1711826634
 09.09.2020,2020,37,Nesselwängle,Reutte,-217849332
@@ -118,6 +125,7 @@ date,year,week,municipaly,district,hash
 30.08.2020,2020,35,Wiesing,Schwaz,1295481827
 29.08.2020,2020,35,Scharnitz,Innsbruck-Land,-623737578
 29.08.2020,2020,35,Fügen,Schwaz,1694270523
+29.08.2020,2020,35,Wattens,Innsbruck-Land,-2008438433
 28.08.2020,2020,35,Wattens,Innsbruck-Land,-107377146
 28.08.2020,2020,35,Zams,Landeck,-1526904010
 28.08.2020,2020,35,Stumm,Schwaz,-1438492377

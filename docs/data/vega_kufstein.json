@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-64a88b5f532351095446e5e8efc99973"
+        "name": "data-43b370301f32cbb5c73fa26f5b78988e"
     },
     "datasets": {
-        "data-64a88b5f532351095446e5e8efc99973": [
+        "data-43b370301f32cbb5c73fa26f5b78988e": [
             {
                 "count": 1,
                 "district": "Kufstein",
@@ -1379,7 +1379,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Kufstein",
                 "municipaly": "Kirchbichl",
                 "week": 38,

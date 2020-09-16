@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-67a60444ffe2a04d330579b4d253c28e"
+        "name": "data-4d4516db93c346c805e8170aa0d619cc"
     },
     "datasets": {
-        "data-67a60444ffe2a04d330579b4d253c28e": [
+        "data-4d4516db93c346c805e8170aa0d619cc": [
             {
                 "count": 2,
                 "district": "Lienz",
@@ -7196,7 +7196,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Lienz",
                 "municipaly": "Sillian",
                 "week": 37,

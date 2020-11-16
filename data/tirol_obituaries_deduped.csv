@@ -1,5 +1,9 @@
 date,year,week,municipaly,district,hash
 15.11.2020,2020,46,Zell am Ziller,Schwaz,349829781
+15.11.2020,2020,46,Aschau im Zillertal,Schwaz,1613239971
+15.11.2020,2020,46,Lienz,Lienz,-1108300520
+15.11.2020,2020,46,Fügenberg,Schwaz,2003299939
+15.11.2020,2020,46,Hochfilzen,Kitzbühel,-1482516071
 14.11.2020,2020,46,Schwendt,Kitzbühel,-770355015
 14.11.2020,2020,46,Mutters,Innsbruck-Land,534321278
 14.11.2020,2020,46,Jenbach,Schwaz,-1360416107
@@ -9,6 +13,8 @@ date,year,week,municipaly,district,hash
 14.11.2020,2020,46,Brandenberg,Kufstein,-753750374
 14.11.2020,2020,46,Brixlegg,Kufstein,-750038757
 14.11.2020,2020,46,Weißenbach am Lech,Reutte,-1585707894
+14.11.2020,2020,46,Innsbruck,Innsbruck-Stadt,1876289640
+14.11.2020,2020,46,Iselsberg-Stronach,Lienz,-1892967440
 13.11.2020,2020,46,Niederndorf,Kufstein,509789792
 13.11.2020,2020,46,Fieberbrunn,Kitzbühel,356067000
 13.11.2020,2020,46,Dölsach,Lienz,-72108234
@@ -21,6 +27,7 @@ date,year,week,municipaly,district,hash
 13.11.2020,2020,46,Wildschönau,Kufstein,1230250436
 13.11.2020,2020,46,Tux,Schwaz,-383599088
 13.11.2020,2020,46,Oetz,Imst,-716956376
+13.11.2020,2020,46,Wenns,Imst,-1880521813
 12.11.2020,2020,46,Kematen in Tirol,Innsbruck-Land,-1303962750
 12.11.2020,2020,46,Fließ,Landeck,1911937944
 12.11.2020,2020,46,Schönwies,Landeck,1432556336

@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-6cbec0f10d0ff4941962528eff05cb7a"
+        "name": "data-d4eb44b40c7adab50abd1d58fd47014d"
     },
     "datasets": {
-        "data-6cbec0f10d0ff4941962528eff05cb7a": [
+        "data-d4eb44b40c7adab50abd1d58fd47014d": [
             {
                 "count": 0,
                 "district": "Reutte",
@@ -1435,7 +1435,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Reutte",
                 "municipaly": "Wei\u00dfenbach am Lech",
                 "week": 46,
@@ -52613,7 +52613,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44"
+                        "filter": "datum.year==2020 & datum.week<45"
                     },
                     {
                         "groupby": [
@@ -52668,7 +52668,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<45 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -52747,7 +52747,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44"
+                        "filter": "datum.year==2020 & datum.week<45"
                     }
                 ],
                 "width": 150

@@ -23,10 +23,2922 @@
         }
     },
     "data": {
-        "name": "data-dcfbe41e126980f54a987db07bffd386"
+        "name": "data-ada882c54aa41406f2423fc6e9f3f484"
     },
     "datasets": {
-        "data-dcfbe41e126980f54a987db07bffd386": [
+        "data-ada882c54aa41406f2423fc6e9f3f484": [
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 5,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brandenberg",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Brixlegg",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Kufstein",
@@ -10220,1462 +13132,6 @@
                 "year": 2020
             },
             {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brixlegg",
-                "week": 52,
-                "year": 2020
-            },
-            {
                 "count": 2,
                 "district": "Kufstein",
                 "municipaly": "W\u00f6rgl",
@@ -30600,1462 +32056,6 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Kramsach",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 5,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Brandenberg",
                 "week": 52,
                 "year": 2020
             },
@@ -43877,7 +43877,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44"
+                        "filter": "datum.year==2020 & datum.week<45"
                     },
                     {
                         "groupby": [
@@ -43932,7 +43932,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<45 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -44011,7 +44011,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<44"
+                        "filter": "datum.year==2020 & datum.week<45"
                     }
                 ],
                 "width": 150

@@ -1,9 +1,16 @@
 date,year,week,municipaly,district,hash
+21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
 17.11.2020,2020,47,Heinfels,Lienz,-135324613
+17.11.2020,2020,47,Pfunds,Landeck,-2048188286
+17.11.2020,2020,47,Buch in Tirol,Schwaz,-2056588075
 16.11.2020,2020,47,Jenbach,Schwaz,-2048114726
 16.11.2020,2020,47,Lienz,Lienz,-890029541
 16.11.2020,2020,47,Axams,Innsbruck-Land,-849683413
 16.11.2020,2020,47,Ellmau,Kufstein,807240951
+16.11.2020,2020,47,Steinberg am Rofan,Schwaz,2141063285
+16.11.2020,2020,47,Anras,Lienz,-1374859984
+16.11.2020,2020,47,Kitzbühel,Kitzbühel,457360610
+16.11.2020,2020,47,Absam,Innsbruck-Land,1106304728
 15.11.2020,2020,46,Zell am Ziller,Schwaz,349829781
 15.11.2020,2020,46,Aschau im Zillertal,Schwaz,1613239971
 15.11.2020,2020,46,Lienz,Lienz,-1108300520
@@ -16,6 +23,8 @@ date,year,week,municipaly,district,hash
 15.11.2020,2020,46,Innsbruck,Innsbruck-Stadt,-880163186
 15.11.2020,2020,46,Längenfeld,Imst,-901388080
 15.11.2020,2020,46,Sillian,Lienz,2012592752
+15.11.2020,2020,46,Kirchdorf in Tirol,Kitzbühel,-1522425173
+15.11.2020,2020,46,Reutte,Reutte,-1025868144
 14.11.2020,2020,46,Schwendt,Kitzbühel,-770355015
 14.11.2020,2020,46,Mutters,Innsbruck-Land,534321278
 14.11.2020,2020,46,Jenbach,Schwaz,-1360416107
@@ -33,6 +42,9 @@ date,year,week,municipaly,district,hash
 14.11.2020,2020,46,Längenfeld,Imst,1076314996
 14.11.2020,2020,46,St. Ulrich am Pillersee,Kitzbühel,-561915139
 14.11.2020,2020,46,Stumm,Schwaz,-756462908
+14.11.2020,2020,46,Kolsass,Innsbruck-Land,-180698717
+14.11.2020,2020,46,Hall in Tirol,Innsbruck-Land,-1412004562
+14.11.2020,2020,46,Prägraten am Großvenediger,Lienz,2092901055
 13.11.2020,2020,46,Niederndorf,Kufstein,509789792
 13.11.2020,2020,46,Fieberbrunn,Kitzbühel,356067000
 13.11.2020,2020,46,Dölsach,Lienz,-72108234
@@ -47,6 +59,7 @@ date,year,week,municipaly,district,hash
 13.11.2020,2020,46,Oetz,Imst,-716956376
 13.11.2020,2020,46,Wenns,Imst,-1880521813
 13.11.2020,2020,46,Fieberbrunn,Kitzbühel,-1313954969
+13.11.2020,2020,46,Schwaz,Schwaz,-628871696
 12.11.2020,2020,46,Kematen in Tirol,Innsbruck-Land,-1303962750
 12.11.2020,2020,46,Fließ,Landeck,1911937944
 12.11.2020,2020,46,Schönwies,Landeck,1432556336
@@ -101,6 +114,7 @@ date,year,week,municipaly,district,hash
 06.11.2020,2020,45,Pettneu am Arlberg,Landeck,-2023757615
 06.11.2020,2020,45,Landeck,Landeck,-1114534903
 06.11.2020,2020,45,Mayrhofen,Schwaz,1021629963
+06.11.2020,2020,45,Innsbruck,Innsbruck-Stadt,1985643457
 05.11.2020,2020,45,Volders,Innsbruck-Land,1806941104
 05.11.2020,2020,45,Mieming,Imst,2072332371
 05.11.2020,2020,45,Schwaz,Schwaz,-1450345682

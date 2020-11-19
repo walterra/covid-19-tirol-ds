@@ -1,5 +1,7 @@
 date,year,week,municipaly,district,hash
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
+19.11.2020,2020,47,St. Anton am Arlberg,Landeck,-911171189
+19.11.2020,2020,47,Wörgl,Kufstein,1113795197
 18.11.2020,2020,47,Leutasch,Innsbruck-Land,-1492028808
 18.11.2020,2020,47,Tux,Schwaz,1142640935
 18.11.2020,2020,47,Brixlegg,Kufstein,-174483318
@@ -8,6 +10,9 @@ date,year,week,municipaly,district,hash
 18.11.2020,2020,47,Bad Häring,Kufstein,-1210190516
 18.11.2020,2020,47,Langkampfen,Kufstein,-1652835033
 18.11.2020,2020,47,Jerzens,Imst,1237919353
+18.11.2020,2020,47,Kematen in Tirol,Innsbruck-Land,815212867
+18.11.2020,2020,47,Götzens,Innsbruck-Land,1896442771
+18.11.2020,2020,47,Kufstein,Kufstein,-72116116
 17.11.2020,2020,47,Heinfels,Lienz,-135324613
 17.11.2020,2020,47,Pfunds,Landeck,-2048188286
 17.11.2020,2020,47,Buch in Tirol,Schwaz,-2056588075
@@ -20,6 +25,7 @@ date,year,week,municipaly,district,hash
 17.11.2020,2020,47,Längenfeld,Imst,1664258528
 17.11.2020,2020,47,Wörgl,Kufstein,288466557
 17.11.2020,2020,47,Assling,Lienz,1973446156
+17.11.2020,2020,47,Hatting,Innsbruck-Land,-1915030944
 16.11.2020,2020,47,Jenbach,Schwaz,-2048114726
 16.11.2020,2020,47,Lienz,Lienz,-890029541
 16.11.2020,2020,47,Axams,Innsbruck-Land,-849683413
@@ -102,6 +108,7 @@ date,year,week,municipaly,district,hash
 12.11.2020,2020,46,Wattens,Innsbruck-Land,987088414
 12.11.2020,2020,46,Innsbruck,Innsbruck-Stadt,1865795458
 12.11.2020,2020,46,Aschau im Zillertal,Schwaz,-260983475
+12.11.2020,2020,46,Wattens,Innsbruck-Land,1671284803
 11.11.2020,2020,46,Fritzens,Innsbruck-Land,-1221656327
 11.11.2020,2020,46,Fritzens,Innsbruck-Land,-944678252
 11.11.2020,2020,46,Schwaz,Schwaz,-1389332532
@@ -121,6 +128,7 @@ date,year,week,municipaly,district,hash
 11.11.2020,2020,46,St. Johann in Tirol,Kitzbühel,-1823466819
 10.11.2020,2020,46,Grins,Landeck,-865216222
 10.11.2020,2020,46,Innsbruck,Innsbruck-Stadt,1033848512
+10.11.2020,2020,46,Innsbruck,Innsbruck-Stadt,-315269129
 09.11.2020,2020,46,Volders,Innsbruck-Land,-390142637
 09.11.2020,2020,46,Fließ,Landeck,2109510116
 09.11.2020,2020,46,Rohrberg,Schwaz,-2108962894
@@ -132,6 +140,7 @@ date,year,week,municipaly,district,hash
 07.11.2020,2020,45,Mayrhofen,Schwaz,-1418082702
 07.11.2020,2020,45,Innsbruck,Innsbruck-Stadt,1662543292
 07.11.2020,2020,45,Gerlosberg,Schwaz,-670862835
+07.11.2020,2020,45,Innsbruck,Innsbruck-Stadt,763714914
 06.11.2020,2020,45,Wattens,Innsbruck-Land,1010273495
 06.11.2020,2020,45,Wattens,Innsbruck-Land,-1924038890
 06.11.2020,2020,45,Inzing,Innsbruck-Land,-20988049

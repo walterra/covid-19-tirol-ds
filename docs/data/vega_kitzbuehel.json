@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-7a812f5ff1c31ed0fa8a027ee4ec4aa0"
+        "name": "data-35c7a2a75d0b4cbc7d317ecb081be3ee"
     },
     "datasets": {
-        "data-7a812f5ff1c31ed0fa8a027ee4ec4aa0": [
+        "data-35c7a2a75d0b4cbc7d317ecb081be3ee": [
             {
                 "count": 1,
                 "district": "Kitzb\u00fchel",
@@ -1442,7 +1442,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "St. Johann in Tirol",
                 "week": 47,

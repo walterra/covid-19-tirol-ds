@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-ce4394546e6515dfdd012ce4237bd4fc"
+        "name": "data-cb7fdb9c5a643ccac7881f6498b591df"
     },
     "datasets": {
-        "data-ce4394546e6515dfdd012ce4237bd4fc": [
+        "data-cb7fdb9c5a643ccac7881f6498b591df": [
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Jerzens",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Imst",
@@ -1442,7 +2898,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Imst",
                 "municipaly": "L\u00e4ngenfeld",
                 "week": 47,
@@ -30600,1462 +32056,6 @@
                 "count": 0,
                 "district": "Imst",
                 "municipaly": "M\u00f6tz",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Jerzens",
                 "week": 52,
                 "year": 2020
             },

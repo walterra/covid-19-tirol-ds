@@ -1,9 +1,19 @@
 date,year,week,municipaly,district,hash
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
+20.11.2020,2020,47,Sistrans,Innsbruck-Land,-831010056
 19.11.2020,2020,47,St. Anton am Arlberg,Landeck,-911171189
 19.11.2020,2020,47,Wörgl,Kufstein,1113795197
 19.11.2020,2020,47,Mils,Innsbruck-Land,-1604358719
 19.11.2020,2020,47,Langkampfen,Kufstein,274734553
+19.11.2020,2020,47,Seefeld in Tirol,Innsbruck-Land,1260244165
+19.11.2020,2020,47,Pians,Landeck,1590394806
+19.11.2020,2020,47,Jenbach,Schwaz,-1103988433
+19.11.2020,2020,47,Terfens,Schwaz,-1244080417
+19.11.2020,2020,47,Mutters,Innsbruck-Land,-780881156
+19.11.2020,2020,47,Axams,Innsbruck-Land,1268469996
+19.11.2020,2020,47,Westendorf,Kitzbühel,455975577
+19.11.2020,2020,47,Matrei in Osttirol,Lienz,886362361
+19.11.2020,2020,47,Radfeld,Kufstein,-1894999991
 18.11.2020,2020,47,Leutasch,Innsbruck-Land,-1492028808
 18.11.2020,2020,47,Tux,Schwaz,1142640935
 18.11.2020,2020,47,Brixlegg,Kufstein,-174483318
@@ -24,6 +34,8 @@ date,year,week,municipaly,district,hash
 18.11.2020,2020,47,Nesselwängle,Reutte,1754464854
 18.11.2020,2020,47,St. Veit in Defereggen,Lienz,196755888
 18.11.2020,2020,47,Virgen,Lienz,-717697948
+18.11.2020,2020,47,Schwaz,Schwaz,1408532837
+18.11.2020,2020,47,Ellmau,Kufstein,-1813529798
 17.11.2020,2020,47,Heinfels,Lienz,-135324613
 17.11.2020,2020,47,Pfunds,Landeck,-2048188286
 17.11.2020,2020,47,Buch in Tirol,Schwaz,-2056588075
@@ -40,6 +52,7 @@ date,year,week,municipaly,district,hash
 17.11.2020,2020,47,Schwaz,Schwaz,474629052
 17.11.2020,2020,47,Kundl,Kufstein,1577821099
 17.11.2020,2020,47,Arzl im Pitztal,Imst,-887084915
+17.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-48820091
 16.11.2020,2020,47,Jenbach,Schwaz,-2048114726
 16.11.2020,2020,47,Lienz,Lienz,-890029541
 16.11.2020,2020,47,Axams,Innsbruck-Land,-849683413

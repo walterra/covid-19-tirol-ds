@@ -22,7 +22,6 @@ do
 done
 
 echo "parsing kuratorium"
-
 for s in $kuratorium
 do
   node ./src/parse_kuratorium_bestattung $s

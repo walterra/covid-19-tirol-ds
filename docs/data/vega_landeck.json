@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-14dc1f36697b3cc7293091f58d26f975"
+        "name": "data-3d6fa1229cf434774a9b3e6259ecccde"
     },
     "datasets": {
-        "data-14dc1f36697b3cc7293091f58d26f975": [
+        "data-3d6fa1229cf434774a9b3e6259ecccde": [
             {
                 "count": 3,
                 "district": "Landeck",
@@ -1442,7 +1442,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Landeck",
                 "municipaly": "Landeck",
                 "week": 47,

@@ -17,6 +17,7 @@
     "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-weekly",
     "notebook-monthly": "jupyter nbconvert --execute jupyter-notebooks/vega-monthly.ipynb --stdout --to html > docs/jupyter-notebook-monthly.html",
     "notebook-weekly": "jupyter nbconvert --execute jupyter-notebooks/vega-weekly.ipynb --stdout --to html > docs/jupyter-notebook-weekly.html",
+    "notebook-boxplot": "jupyter nbconvert --execute jupyter-notebooks/vega-boxplot.ipynb --stdout --to html > docs/jupyter-notebook-boxplot.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

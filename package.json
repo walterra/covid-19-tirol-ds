@@ -14,7 +14,7 @@
   "scripts": {
     "crawl": "./bin/crawl_all.sh",
     "parse": "./bin/parse.sh",
-    "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-weekly",
+    "crawl_parse_analyse": "./bin/crawl_all.sh && ./bin/parse.sh && npm run notebook-weekly && npm run notebook-monthly && npm run notebook-boxplot",
     "notebook-monthly": "jupyter nbconvert --execute jupyter-notebooks/vega-monthly.ipynb --stdout --to html > docs/jupyter-notebook-monthly.html",
     "notebook-weekly": "jupyter nbconvert --execute jupyter-notebooks/vega-weekly.ipynb --stdout --to html > docs/jupyter-notebook-weekly.html",
     "notebook-boxplot": "jupyter nbconvert --execute jupyter-notebooks/vega-boxplot.ipynb --stdout --to html > docs/jupyter-notebook-boxplot.html",

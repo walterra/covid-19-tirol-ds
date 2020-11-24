@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-327bcbf3a81d75e60633e499fc9104e0"
+        "name": "data-1fa80b265cfb9f99185b62d02fd36163"
     },
     "datasets": {
-        "data-327bcbf3a81d75e60633e499fc9104e0": [
+        "data-1fa80b265cfb9f99185b62d02fd36163": [
             {
                 "count": 1,
                 "district": "Kitzb\u00fchel",
@@ -2898,7 +2898,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Brixen im Thale",
                 "week": 47,

@@ -1,4 +1,9 @@
 date,year,week,municipaly,district,hash
+23.11.2020,2020,48,Grins,Landeck,-975662042
+23.11.2020,2020,48,Stans,Schwaz,-1965928968
+23.11.2020,2020,48,Kufstein,Kufstein,1887946760
+23.11.2020,2020,48,Lechaschau,Reutte,-1477951218
+23.11.2020,2020,48,Kufstein,Kufstein,-817785122
 22.11.2020,2020,47,Fließ,Landeck,-953018584
 22.11.2020,2020,47,Bruck am Ziller,Schwaz,-1532492596
 22.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,1944545672
@@ -7,6 +12,13 @@ date,year,week,municipaly,district,hash
 22.11.2020,2020,47,Mayrhofen,Schwaz,-1965073321
 22.11.2020,2020,47,Lienz,Lienz,-448225182
 22.11.2020,2020,47,Kitzbühel,Kitzbühel,-593299725
+22.11.2020,2020,47,Mayrhofen,Schwaz,-468510180
+22.11.2020,2020,47,Ramsau im Zillertal,Schwaz,-1906119783
+22.11.2020,2020,47,Mühlbachl,Innsbruck-Land,1784775889
+22.11.2020,2020,47,Schwaz,Schwaz,-114388170
+22.11.2020,2020,47,Achenkirch,Schwaz,-1277429194
+22.11.2020,2020,47,Umhausen,Imst,-386212585
+22.11.2020,2020,47,Steinach am Brenner,Innsbruck-Land,1715372959
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
 21.11.2020,2020,47,Ellmau,Kufstein,1983012736
 21.11.2020,2020,47,Anras,Lienz,561567918
@@ -18,6 +30,8 @@ date,year,week,municipaly,district,hash
 21.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-1087393024
 21.11.2020,2020,47,Schlaiten,Lienz,1129986600
 21.11.2020,2020,47,Reith bei Seefeld,Innsbruck-Land,-211458545
+21.11.2020,2020,47,Tux,Schwaz,1623478802
+21.11.2020,2020,47,Brixen im Thale,Kitzbühel,-1162859038
 20.11.2020,2020,47,Sistrans,Innsbruck-Land,-831010056
 20.11.2020,2020,47,Landeck,Landeck,398421071
 20.11.2020,2020,47,Erl,Kufstein,1674161021
@@ -30,6 +44,7 @@ date,year,week,municipaly,district,hash
 20.11.2020,2020,47,Prutz,Landeck,-1290220541
 20.11.2020,2020,47,Hall in Tirol,Innsbruck-Land,-148187354
 20.11.2020,2020,47,Kufstein,Kufstein,1223924841
+20.11.2020,2020,47,Vomp,Schwaz,912466609
 19.11.2020,2020,47,St. Anton am Arlberg,Landeck,-911171189
 19.11.2020,2020,47,Wörgl,Kufstein,1113795197
 19.11.2020,2020,47,Mils,Innsbruck-Land,-1604358719
@@ -57,6 +72,7 @@ date,year,week,municipaly,district,hash
 19.11.2020,2020,47,Brixlegg,Kufstein,381291263
 19.11.2020,2020,47,Kirchberg in Tirol,Kitzbühel,-1031439999
 19.11.2020,2020,47,Mils,Innsbruck-Land,-1710015279
+19.11.2020,2020,47,Kirchbichl,Kufstein,2129873121
 18.11.2020,2020,47,Leutasch,Innsbruck-Land,-1492028808
 18.11.2020,2020,47,Tux,Schwaz,1142640935
 18.11.2020,2020,47,Bad Häring,Kufstein,12672849
@@ -81,6 +97,8 @@ date,year,week,municipaly,district,hash
 18.11.2020,2020,47,Hall in Tirol,Innsbruck-Land,-1532825102
 18.11.2020,2020,47,Schwaz,Schwaz,1408532837
 18.11.2020,2020,47,Absam,Innsbruck-Land,-1958738002
+18.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-953779314
+18.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-597041095
 17.11.2020,2020,47,Heinfels,Lienz,-135324613
 17.11.2020,2020,47,Pfunds,Landeck,-2048188286
 17.11.2020,2020,47,Buch in Tirol,Schwaz,-2056588075
@@ -137,6 +155,7 @@ date,year,week,municipaly,district,hash
 15.11.2020,2020,46,Schwaz,Schwaz,-1729354138
 15.11.2020,2020,46,Niederndorf,Kufstein,-2085276808
 15.11.2020,2020,46,Kufstein,Kufstein,1649192261
+15.11.2020,2020,46,Obernberg am Brenner,Innsbruck-Land,632550501
 14.11.2020,2020,46,Schwendt,Kitzbühel,-770355015
 14.11.2020,2020,46,Mutters,Innsbruck-Land,534321278
 14.11.2020,2020,46,Jenbach,Schwaz,-1360416107

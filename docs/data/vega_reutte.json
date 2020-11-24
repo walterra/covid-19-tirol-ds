@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-9f5c9cad3cd7ffb4770f0219ca6fa8b6"
+        "name": "data-0d89175756b6937608687d19ad8148d9"
     },
     "datasets": {
-        "data-9f5c9cad3cd7ffb4770f0219ca6fa8b6": [
+        "data-0d89175756b6937608687d19ad8148d9": [
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Lechaschau",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Reutte",
@@ -29144,1462 +30600,6 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Ehrwald",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Lechaschau",
                 "week": 52,
                 "year": 2020
             },

@@ -54,6 +54,8 @@ jobs:
       id: update_nb
       run: |
         npm run notebook-weekly
+        npm run notebook-monthly
+        npm run notebook-boxplot
 
     - name: save notebooks & images
       run: |

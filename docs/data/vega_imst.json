@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-cd9f7f67516ebb9072838283f8c73780"
+        "name": "data-0e9bcc85b808ab80b9b6fa7969d5bcea"
     },
     "datasets": {
-        "data-cd9f7f67516ebb9072838283f8c73780": [
+        "data-0e9bcc85b808ab80b9b6fa7969d5bcea": [
             {
                 "count": 3,
                 "district": "Imst",
@@ -1449,7 +1449,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Imst",
                 "municipaly": "Imst",
                 "week": 48,

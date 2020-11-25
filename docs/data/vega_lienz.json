@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-036c98cc56dbe4825d0a30c757dc5ee9"
+        "name": "data-50477f5179497ebb7c22abf56cc962fa"
     },
     "datasets": {
-        "data-036c98cc56dbe4825d0a30c757dc5ee9": [
+        "data-50477f5179497ebb7c22abf56cc962fa": [
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Oberlienz",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 4,
                 "district": "Lienz",
@@ -37880,1462 +39336,6 @@
                 "count": 0,
                 "district": "Lienz",
                 "municipaly": "Amlach",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Oberlienz",
                 "week": 52,
                 "year": 2020
             },

@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-9a73cc0b401c6fe65a4b2736cd59811e"
+        "name": "data-929def5e95e67e5dc59ba10ca9f47e8c"
     },
     "datasets": {
-        "data-9a73cc0b401c6fe65a4b2736cd59811e": [
+        "data-929def5e95e67e5dc59ba10ca9f47e8c": [
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Navis",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Innsbruck-Land",
@@ -33512,1462 +34968,6 @@
                 "count": 0,
                 "district": "Innsbruck-Land",
                 "municipaly": "Pfons",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Navis",
                 "week": 52,
                 "year": 2020
             },

@@ -66,6 +66,8 @@ jobs:
         git add data/tirol_obituaries_deduped_weekly.csv
         git add data/tirol_obituaries_deduped_weekly_outlier_detection_features.csv
         git add docs/jupyter-notebook-weekly.html
+        git add docs/jupyter-notebook-monthly.html
+        git add docs/jupyter-notebook-boxplot.html
         git add docs/data/metadata.json
         git add docs/data/vega_*.json
         git commit -m "[bot] refresh notebooks" || echo "No changes to commit"

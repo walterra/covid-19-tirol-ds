@@ -1,5 +1,12 @@
 date,year,week,municipaly,district,hash
 25.11.2020,2020,48,Kirchberg in Tirol,Kitzbühel,-1636293022
+25.11.2020,2020,48,Kematen in Tirol,Innsbruck-Land,-239782645
+25.11.2020,2020,48,Mayrhofen,Schwaz,-136956730
+25.11.2020,2020,48,Fulpmes,Innsbruck-Land,-309441010
+25.11.2020,2020,48,Lienz,Lienz,815780354
+25.11.2020,2020,48,Arzl im Pitztal,Imst,2026161454
+25.11.2020,2020,48,Hopfgarten in Defereggen,Lienz,751609814
+25.11.2020,2020,48,Sölden,Imst,2051726275
 24.11.2020,2020,48,Fügen,Schwaz,165898324
 24.11.2020,2020,48,Elbigenalp,Reutte,1070345588
 24.11.2020,2020,48,Terfens,Schwaz,1734806508
@@ -8,6 +15,12 @@ date,year,week,municipaly,district,hash
 24.11.2020,2020,48,Oberlienz,Lienz,752367871
 24.11.2020,2020,48,Kramsach,Kufstein,-625179394
 24.11.2020,2020,48,Imst,Imst,-1084526765
+24.11.2020,2020,48,Absam,Innsbruck-Land,591444098
+24.11.2020,2020,48,Pfunds,Landeck,1505395644
+24.11.2020,2020,48,Jenbach,Schwaz,524751077
+24.11.2020,2020,48,Jenbach,Schwaz,641956859
+24.11.2020,2020,48,Arzl im Pitztal,Imst,1077536204
+24.11.2020,2020,48,St. Leonhard im Pitztal,Imst,1648508546
 23.11.2020,2020,48,Grins,Landeck,-975662042
 23.11.2020,2020,48,Stans,Schwaz,-1965928968
 23.11.2020,2020,48,Kufstein,Kufstein,1887946760
@@ -41,6 +54,7 @@ date,year,week,municipaly,district,hash
 22.11.2020,2020,47,Wattens,Innsbruck-Land,1195783363
 22.11.2020,2020,47,Going am Wilden Kaiser,Kitzbühel,749589023
 22.11.2020,2020,47,Ellbögen,Innsbruck-Land,-955807538
+22.11.2020,2020,47,Wiesing,Schwaz,1830646294
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
 21.11.2020,2020,47,Ellmau,Kufstein,1983012736
 21.11.2020,2020,47,Anras,Lienz,561567918
@@ -56,6 +70,7 @@ date,year,week,municipaly,district,hash
 21.11.2020,2020,47,Brixen im Thale,Kitzbühel,-1162859038
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,-3660043
 21.11.2020,2020,47,Roppen,Imst,1199646211
+21.11.2020,2020,47,Terfens,Schwaz,885929671
 20.11.2020,2020,47,Sistrans,Innsbruck-Land,-831010056
 20.11.2020,2020,47,Landeck,Landeck,398421071
 20.11.2020,2020,47,Erl,Kufstein,1674161021
@@ -102,6 +117,7 @@ date,year,week,municipaly,district,hash
 19.11.2020,2020,47,Fritzens,Innsbruck-Land,787062438
 19.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-1874489101
 19.11.2020,2020,47,Häselgehr,Reutte,-214693703
+19.11.2020,2020,47,Buch in Tirol,Schwaz,201673055
 18.11.2020,2020,47,Leutasch,Innsbruck-Land,-1492028808
 18.11.2020,2020,47,Tux,Schwaz,1142640935
 18.11.2020,2020,47,Bad Häring,Kufstein,12672849

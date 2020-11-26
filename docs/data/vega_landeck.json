@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-8a02b68cf231e5c291b5e8ddeee30f60"
+        "name": "data-75f104584e9ad2b1455dd7e204eb146b"
     },
     "datasets": {
-        "data-8a02b68cf231e5c291b5e8ddeee30f60": [
+        "data-75f104584e9ad2b1455dd7e204eb146b": [
             {
                 "count": 0,
                 "district": "Landeck",
@@ -1449,7 +1449,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Landeck",
                 "municipaly": "Pfunds",
                 "week": 48,

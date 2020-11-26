@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-03d3a8a5737a172ec91a1446cd2b52b6"
+        "name": "data-3217beae4823ecece18832f62fd964a2"
     },
     "datasets": {
-        "data-03d3a8a5737a172ec91a1446cd2b52b6": [
+        "data-3217beae4823ecece18832f62fd964a2": [
             {
                 "count": 0,
                 "district": "Innsbruck-Land",
@@ -5848,6 +5848,1462 @@
                 "count": 0,
                 "district": "Innsbruck-Land",
                 "municipaly": "Absam",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 4,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 5,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Innsbruck-Land",
+                "municipaly": "Kolsass",
                 "week": 52,
                 "year": 2020
             },
@@ -39336,1462 +40792,6 @@
                 "count": 0,
                 "district": "Innsbruck-Land",
                 "municipaly": "Pfons",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 4,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 5,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Innsbruck-Land",
-                "municipaly": "Kolsass",
                 "week": 52,
                 "year": 2020
             },

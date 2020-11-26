@@ -1,4 +1,5 @@
 date,year,week,municipaly,district,hash
+26.11.2020,2020,48,Wörgl,Kufstein,-1323538468
 25.11.2020,2020,48,Kirchberg in Tirol,Kitzbühel,-1636293022
 25.11.2020,2020,48,Kematen in Tirol,Innsbruck-Land,-239782645
 25.11.2020,2020,48,Mayrhofen,Schwaz,-136956730
@@ -7,6 +8,10 @@ date,year,week,municipaly,district,hash
 25.11.2020,2020,48,Arzl im Pitztal,Imst,2026161454
 25.11.2020,2020,48,Hopfgarten in Defereggen,Lienz,751609814
 25.11.2020,2020,48,Sölden,Imst,2051726275
+25.11.2020,2020,48,Pfunds,Landeck,-529664186
+25.11.2020,2020,48,Stumm,Schwaz,1112434680
+25.11.2020,2020,48,Nußdorf-Debant,Lienz,255290752
+25.11.2020,2020,48,Ebbs,Kufstein,1692665250
 24.11.2020,2020,48,Fügen,Schwaz,165898324
 24.11.2020,2020,48,Elbigenalp,Reutte,1070345588
 24.11.2020,2020,48,Terfens,Schwaz,1734806508
@@ -21,6 +26,10 @@ date,year,week,municipaly,district,hash
 24.11.2020,2020,48,Jenbach,Schwaz,641956859
 24.11.2020,2020,48,Arzl im Pitztal,Imst,1077536204
 24.11.2020,2020,48,St. Leonhard im Pitztal,Imst,1648508546
+24.11.2020,2020,48,Kolsass,Innsbruck-Land,-936660009
+24.11.2020,2020,48,Kramsach,Kufstein,749952458
+24.11.2020,2020,48,Haiming,Imst,-1245348144
+24.11.2020,2020,48,Kitzbühel,Kitzbühel,-772717616
 23.11.2020,2020,48,Grins,Landeck,-975662042
 23.11.2020,2020,48,Stans,Schwaz,-1965928968
 23.11.2020,2020,48,Kufstein,Kufstein,1887946760
@@ -55,6 +64,7 @@ date,year,week,municipaly,district,hash
 22.11.2020,2020,47,Going am Wilden Kaiser,Kitzbühel,749589023
 22.11.2020,2020,47,Ellbögen,Innsbruck-Land,-955807538
 22.11.2020,2020,47,Wiesing,Schwaz,1830646294
+22.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,710394123
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
 21.11.2020,2020,47,Ellmau,Kufstein,1983012736
 21.11.2020,2020,47,Anras,Lienz,561567918

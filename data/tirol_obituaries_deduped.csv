@@ -2,6 +2,8 @@ date,year,week,municipaly,district,hash
 27.11.2020,2020,48,Fieberbrunn,Kitzbühel,-1439719476
 27.11.2020,2020,48,Kitzbühel,Kitzbühel,489100286
 27.11.2020,2020,48,St. Johann in Tirol,Kitzbühel,-1389813151
+27.11.2020,2020,48,Kufstein,Kufstein,1018273871
+27.11.2020,2020,48,Kufstein,Kufstein,-1707154942
 26.11.2020,2020,48,Wörgl,Kufstein,-1323538468
 26.11.2020,2020,48,Reith bei Seefeld,Innsbruck-Land,735178591
 26.11.2020,2020,48,Innsbruck,Innsbruck-Stadt,2129255232
@@ -14,6 +16,10 @@ date,year,week,municipaly,district,hash
 26.11.2020,2020,48,Kirchdorf in Tirol,Kitzbühel,1743961407
 26.11.2020,2020,48,Pflach,Reutte,-1344735274
 26.11.2020,2020,48,Brixlegg,Kufstein,1461282221
+26.11.2020,2020,48,Zirl,Innsbruck-Land,2025541791
+26.11.2020,2020,48,Rattenberg,Kufstein,1877322518
+26.11.2020,2020,48,Nußdorf-Debant,Lienz,505091273
+26.11.2020,2020,48,Strass im Zillertal,Schwaz,-1281531240
 25.11.2020,2020,48,Kirchberg in Tirol,Kitzbühel,-1636293022
 25.11.2020,2020,48,Kematen in Tirol,Innsbruck-Land,-239782645
 25.11.2020,2020,48,Mayrhofen,Schwaz,-136956730
@@ -29,6 +35,8 @@ date,year,week,municipaly,district,hash
 25.11.2020,2020,48,Fritzens,Innsbruck-Land,163730536
 25.11.2020,2020,48,Fügen,Schwaz,-1297111534
 25.11.2020,2020,48,Völs,Innsbruck-Land,-1379588929
+25.11.2020,2020,48,Fritzens,Innsbruck-Land,-48745826
+25.11.2020,2020,48,Schwendau,Schwaz,-1156255839
 24.11.2020,2020,48,Fügen,Schwaz,165898324
 24.11.2020,2020,48,Elbigenalp,Reutte,1070345588
 24.11.2020,2020,48,Terfens,Schwaz,1734806508
@@ -200,6 +208,7 @@ date,year,week,municipaly,district,hash
 17.11.2020,2020,47,Schwendt,Kitzbühel,356013853
 17.11.2020,2020,47,Absam,Innsbruck-Land,-1211588439
 17.11.2020,2020,47,Stumm,Schwaz,1841413768
+17.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,-1237520754
 16.11.2020,2020,47,Jenbach,Schwaz,-2048114726
 16.11.2020,2020,47,Lienz,Lienz,-890029541
 16.11.2020,2020,47,Axams,Innsbruck-Land,-849683413
@@ -237,6 +246,7 @@ date,year,week,municipaly,district,hash
 15.11.2020,2020,46,Niederndorf,Kufstein,-2085276808
 15.11.2020,2020,46,Kufstein,Kufstein,1649192261
 15.11.2020,2020,46,Obernberg am Brenner,Innsbruck-Land,632550501
+15.11.2020,2020,46,Hart im Zillertal,Schwaz,871404331
 14.11.2020,2020,46,Schwendt,Kitzbühel,-770355015
 14.11.2020,2020,46,Mutters,Innsbruck-Land,534321278
 14.11.2020,2020,46,Jenbach,Schwaz,-1360416107

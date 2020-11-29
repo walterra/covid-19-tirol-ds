@@ -23,1466 +23,10 @@
         }
     },
     "data": {
-        "name": "data-ba70ba802c881d1e27d47bb91b390a57"
+        "name": "data-5b92571d7da98cc646ddb7c8ba76bd32"
     },
     "datasets": {
-        "data-ba70ba802c881d1e27d47bb91b390a57": [
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Imst",
-                "municipaly": "Wenns",
-                "week": 52,
-                "year": 2020
-            },
+        "data-5b92571d7da98cc646ddb7c8ba76bd32": [
             {
                 "count": 0,
                 "district": "Imst",
@@ -2905,7 +1449,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Imst",
                 "municipaly": "Arzl im Pitztal",
                 "week": 48,
@@ -2936,6 +1480,1462 @@
                 "count": 0,
                 "district": "Imst",
                 "municipaly": "Arzl im Pitztal",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Imst",
+                "municipaly": "Wenns",
                 "week": 52,
                 "year": 2020
             },

@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-6ce2c05391e90da3290e5627b6a604b5"
+        "name": "data-929d3f729393688544d0c4d803d68c81"
     },
     "datasets": {
-        "data-6ce2c05391e90da3290e5627b6a604b5": [
+        "data-929d3f729393688544d0c4d803d68c81": [
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 4,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Schwaz",
+                "municipaly": "F\u00fcgen",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 1,
                 "district": "Schwaz",
@@ -11672,1462 +13128,6 @@
                 "count": 0,
                 "district": "Schwaz",
                 "municipaly": "Stumm",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 4,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Schwaz",
-                "municipaly": "F\u00fcgen",
                 "week": 52,
                 "year": 2020
             },

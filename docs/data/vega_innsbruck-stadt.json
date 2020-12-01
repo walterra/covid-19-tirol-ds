@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-85ba9a16e8bcd06af733e51e11c0a98c"
+        "name": "data-544399266692d552f7d98c8625d73bee"
     },
     "datasets": {
-        "data-85ba9a16e8bcd06af733e51e11c0a98c": [
+        "data-544399266692d552f7d98c8625d73bee": [
             {
                 "count": 22,
                 "district": "Innsbruck-Stadt",
@@ -1449,14 +1449,14 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 3,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "week": 48,
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Innsbruck-Stadt",
                 "municipaly": "Innsbruck",
                 "week": 49,
@@ -1653,7 +1653,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47"
+                        "filter": "datum.year==2020 & datum.week<49"
                     },
                     {
                         "groupby": [
@@ -1708,7 +1708,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<49 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -1787,7 +1787,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47"
+                        "filter": "datum.year==2020 & datum.week<49"
                     }
                 ],
                 "width": 150

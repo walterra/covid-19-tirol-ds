@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-e7eba5f6e024ceb50082004abc6fc437"
+        "name": "data-e7a6575c3ef77ed7e847b56959d6bb1e"
     },
     "datasets": {
-        "data-e7eba5f6e024ceb50082004abc6fc437": [
+        "data-e7a6575c3ef77ed7e847b56959d6bb1e": [
             {
                 "count": 4,
                 "district": "Lienz",
@@ -1449,14 +1449,14 @@
                 "year": 2020
             },
             {
-                "count": 4,
+                "count": 5,
                 "district": "Lienz",
                 "municipaly": "Lienz",
                 "week": 48,
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Lienz",
                 "municipaly": "Lienz",
                 "week": 49,
@@ -48245,7 +48245,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47"
+                        "filter": "datum.year==2020 & datum.week<49"
                     },
                     {
                         "groupby": [
@@ -48300,7 +48300,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<49 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -48379,7 +48379,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<47"
+                        "filter": "datum.year==2020 & datum.week<49"
                     }
                 ],
                 "width": 150

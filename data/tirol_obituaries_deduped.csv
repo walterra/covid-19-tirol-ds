@@ -1,7 +1,19 @@
 date,year,week,municipaly,district,hash
+30.11.2020,2020,49,Vomp,Schwaz,-829123970
+30.11.2020,2020,49,Rattenberg,Kufstein,-1761978426
+30.11.2020,2020,49,Lienz,Lienz,1336486689
+30.11.2020,2020,49,Reith bei Kitzbühel,Kitzbühel,1193058415
+30.11.2020,2020,49,Kirchberg in Tirol,Kitzbühel,246135988
+30.11.2020,2020,49,Hopfgarten im Brixental,Kitzbühel,-370729601
 29.11.2020,2020,48,Sillian,Lienz,-1513369191
 29.11.2020,2020,48,Kössen,Kitzbühel,-965233382
 29.11.2020,2020,48,Fügen,Schwaz,278858341
+29.11.2020,2020,48,Vomp,Schwaz,-2074463055
+29.11.2020,2020,48,Alpbach,Kufstein,887890462
+29.11.2020,2020,48,Lienz,Lienz,1058218495
+29.11.2020,2020,48,Kössen,Kitzbühel,544112303
+29.11.2020,2020,48,Dölsach,Lienz,1328453829
+29.11.2020,2020,48,Kitzbühel,Kitzbühel,-1121429346
 28.11.2020,2020,48,Söll,Kufstein,-1221655465
 28.11.2020,2020,48,Gschnitz,Innsbruck-Land,953162381
 28.11.2020,2020,48,Kundl,Kufstein,-1036686941
@@ -15,6 +27,8 @@ date,year,week,municipaly,district,hash
 28.11.2020,2020,48,Prägraten am Großvenediger,Lienz,-646602971
 28.11.2020,2020,48,Leutasch,Innsbruck-Land,-1810418719
 28.11.2020,2020,48,Vals,Innsbruck-Land,813305140
+28.11.2020,2020,48,Fügenberg,Schwaz,1144798504
+28.11.2020,2020,48,Sillian,Lienz,-1627433344
 27.11.2020,2020,48,Fieberbrunn,Kitzbühel,-1439719476
 27.11.2020,2020,48,Kitzbühel,Kitzbühel,489100286
 27.11.2020,2020,48,St. Johann in Tirol,Kitzbühel,-1389813151
@@ -51,6 +65,8 @@ date,year,week,municipaly,district,hash
 26.11.2020,2020,48,Jenbach,Schwaz,-852072215
 26.11.2020,2020,48,Gries am Brenner,Innsbruck-Land,-962811107
 26.11.2020,2020,48,Breitenbach am Inn,Kufstein,2094995034
+26.11.2020,2020,48,Wattens,Innsbruck-Land,-1309649364
+26.11.2020,2020,48,Terfens,Schwaz,-1514141256
 25.11.2020,2020,48,Kirchberg in Tirol,Kitzbühel,-1636293022
 25.11.2020,2020,48,Kematen in Tirol,Innsbruck-Land,-239782645
 25.11.2020,2020,48,Mayrhofen,Schwaz,-136956730
@@ -127,6 +143,7 @@ date,year,week,municipaly,district,hash
 22.11.2020,2020,47,Ellbögen,Innsbruck-Land,-955807538
 22.11.2020,2020,47,Wiesing,Schwaz,1830646294
 22.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,710394123
+22.11.2020,2020,47,Vals,Innsbruck-Land,-1187543234
 21.11.2020,2020,47,Ramsau im Zillertal,Schwaz,1848114505
 21.11.2020,2020,47,Ellmau,Kufstein,1983012736
 21.11.2020,2020,47,Anras,Lienz,561567918
@@ -446,6 +463,7 @@ date,year,week,municipaly,district,hash
 07.11.2020,2020,45,Innsbruck,Innsbruck-Stadt,-1618440582
 07.11.2020,2020,45,Gerlosberg,Schwaz,-670862835
 07.11.2020,2020,45,Innsbruck,Innsbruck-Stadt,763714914
+07.11.2020,2020,45,Wattens,Innsbruck-Land,-514147245
 06.11.2020,2020,45,Wattens,Innsbruck-Land,1010273495
 06.11.2020,2020,45,Wattens,Innsbruck-Land,-1924038890
 06.11.2020,2020,45,Inzing,Innsbruck-Land,-20988049

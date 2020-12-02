@@ -4,6 +4,12 @@ date,year,week,municipaly,district,hash
 01.12.2020,2020,49,Landeck,Landeck,1711312330
 01.12.2020,2020,49,Kramsach,Kufstein,-1484202655
 01.12.2020,2020,49,Wörgl,Kufstein,2139338162
+01.12.2020,2020,49,Ampass,Innsbruck-Land,534363834
+01.12.2020,2020,49,Leutasch,Innsbruck-Land,-1282086740
+01.12.2020,2020,49,Jenbach,Schwaz,-671802164
+01.12.2020,2020,49,Fügen,Schwaz,-1258679586
+01.12.2020,2020,49,Iselsberg-Stronach,Lienz,1335550481
+01.12.2020,2020,49,Kufstein,Kufstein,-2000178119
 30.11.2020,2020,49,Vomp,Schwaz,-829123970
 30.11.2020,2020,49,Rattenberg,Kufstein,-1761978426
 30.11.2020,2020,49,Lienz,Lienz,1336486689
@@ -21,6 +27,10 @@ date,year,week,municipaly,district,hash
 30.11.2020,2020,49,Lienz,Lienz,-1887751032
 30.11.2020,2020,49,Innsbruck,Innsbruck-Stadt,-701783554
 30.11.2020,2020,49,Walchsee,Kufstein,-1288590676
+30.11.2020,2020,49,Breitenbach am Inn,Kufstein,-615498547
+30.11.2020,2020,49,Wörgl,Kufstein,259666393
+30.11.2020,2020,49,Reutte,Reutte,1878067618
+30.11.2020,2020,49,Lienz,Lienz,-458436590
 29.11.2020,2020,48,Sillian,Lienz,-1513369191
 29.11.2020,2020,48,Kössen,Kitzbühel,-965233382
 29.11.2020,2020,48,Fügen,Schwaz,278858341
@@ -35,6 +45,7 @@ date,year,week,municipaly,district,hash
 29.11.2020,2020,48,Weißenbach am Lech,Reutte,-1877164213
 29.11.2020,2020,48,Bichlbach,Reutte,-277022032
 29.11.2020,2020,48,Reutte,Reutte,-623869970
+29.11.2020,2020,48,Fritzens,Innsbruck-Land,2092559805
 28.11.2020,2020,48,Söll,Kufstein,-1221655465
 28.11.2020,2020,48,Gschnitz,Innsbruck-Land,953162381
 28.11.2020,2020,48,Kundl,Kufstein,-1036686941
@@ -94,6 +105,9 @@ date,year,week,municipaly,district,hash
 26.11.2020,2020,48,Breitenbach am Inn,Kufstein,2094995034
 26.11.2020,2020,48,Wattens,Innsbruck-Land,-1309649364
 26.11.2020,2020,48,Terfens,Schwaz,-1514141256
+26.11.2020,2020,48,Schwaz,Schwaz,1830257639
+26.11.2020,2020,48,Innsbruck,Innsbruck-Stadt,-260575424
+26.11.2020,2020,48,Kitzbühel,Kitzbühel,1422183066
 25.11.2020,2020,48,Kirchberg in Tirol,Kitzbühel,-1636293022
 25.11.2020,2020,48,Kematen in Tirol,Innsbruck-Land,-239782645
 25.11.2020,2020,48,Mayrhofen,Schwaz,-136956730
@@ -111,6 +125,7 @@ date,year,week,municipaly,district,hash
 25.11.2020,2020,48,Völs,Innsbruck-Land,-1379588929
 25.11.2020,2020,48,Fritzens,Innsbruck-Land,-48745826
 25.11.2020,2020,48,Schwendau,Schwaz,-1156255839
+25.11.2020,2020,48,Schwaz,Schwaz,-1144346769
 24.11.2020,2020,48,Fügen,Schwaz,165898324
 24.11.2020,2020,48,Elbigenalp,Reutte,1070345588
 24.11.2020,2020,48,Terfens,Schwaz,1734806508
@@ -191,6 +206,7 @@ date,year,week,municipaly,district,hash
 21.11.2020,2020,47,Roppen,Imst,1199646211
 21.11.2020,2020,47,Terfens,Schwaz,885929671
 21.11.2020,2020,47,Innsbruck,Innsbruck-Stadt,1006510397
+21.11.2020,2020,47,Strassen,Lienz,257323303
 20.11.2020,2020,47,Sistrans,Innsbruck-Land,-831010056
 20.11.2020,2020,47,Landeck,Landeck,398421071
 20.11.2020,2020,47,Erl,Kufstein,1674161021

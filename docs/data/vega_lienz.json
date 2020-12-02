@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-e7a6575c3ef77ed7e847b56959d6bb1e"
+        "name": "data-37b0741cb6acce3ffedce44379f401b9"
     },
     "datasets": {
-        "data-e7a6575c3ef77ed7e847b56959d6bb1e": [
+        "data-37b0741cb6acce3ffedce44379f401b9": [
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Iselsberg-Stronach",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 4,
                 "district": "Lienz",
@@ -1456,7 +2912,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Lienz",
                 "municipaly": "Lienz",
                 "week": 49,
@@ -20370,7 +21826,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Lienz",
                 "municipaly": "Strassen",
                 "week": 47,
@@ -29144,1462 +30600,6 @@
                 "count": 0,
                 "district": "Lienz",
                 "municipaly": "Assling",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Iselsberg-Stronach",
                 "week": 52,
                 "year": 2020
             },

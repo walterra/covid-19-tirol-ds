@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-93ba1d69b2454f52d5a9371dc4b47929"
+        "name": "data-566ccad5a93785bd4e5f970352ff71a0"
     },
     "datasets": {
-        "data-93ba1d69b2454f52d5a9371dc4b47929": [
+        "data-566ccad5a93785bd4e5f970352ff71a0": [
             {
                 "count": 0,
                 "district": "Reutte",
@@ -1480,6 +1480,1462 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Ehrwald",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Tannheim",
                 "week": 52,
                 "year": 2020
             },
@@ -17496,1462 +18952,6 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Nesselw\u00e4ngle",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Tannheim",
                 "week": 52,
                 "year": 2020
             },

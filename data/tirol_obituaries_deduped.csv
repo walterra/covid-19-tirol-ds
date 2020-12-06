@@ -1,5 +1,6 @@
 date,year,week,municipaly,district,hash
 05.12.2020,2020,49,Wörgl,Kufstein,1810743704
+05.12.2020,2020,49,Gerlos,Schwaz,1065317402
 04.12.2020,2020,49,Oberperfuss,Innsbruck-Land,1844114932
 04.12.2020,2020,49,Grinzens,Innsbruck-Land,-156176313
 04.12.2020,2020,49,Leutasch,Innsbruck-Land,676006736
@@ -10,6 +11,8 @@ date,year,week,municipaly,district,hash
 04.12.2020,2020,49,Oetz,Imst,-716956376
 04.12.2020,2020,49,Kufstein,Kufstein,-1731845635
 04.12.2020,2020,49,Wörgl,Kufstein,-1178013542
+04.12.2020,2020,49,Münster,Kufstein,-1004306198
+04.12.2020,2020,49,Rum,Innsbruck-Land,-713727105
 03.12.2020,2020,49,Aschau im Zillertal,Schwaz,1576212128
 03.12.2020,2020,49,Kitzbühel,Kitzbühel,560313601
 03.12.2020,2020,49,St. Johann in Tirol,Kitzbühel,-756742506
@@ -20,6 +23,7 @@ date,year,week,municipaly,district,hash
 03.12.2020,2020,49,Uderns,Schwaz,-267290855
 03.12.2020,2020,49,Tristach,Lienz,753748859
 03.12.2020,2020,49,Schwoich,Kufstein,-1930082977
+03.12.2020,2020,49,Schwaz,Schwaz,382073760
 02.12.2020,2020,49,Seefeld in Tirol,Innsbruck-Land,-954032019
 02.12.2020,2020,49,Zell am Ziller,Schwaz,-906100163
 02.12.2020,2020,49,Kartitsch,Lienz,-1316682418
@@ -36,6 +40,8 @@ date,year,week,municipaly,district,hash
 02.12.2020,2020,49,Wattens,Innsbruck-Land,-68758269
 02.12.2020,2020,49,Ramsau im Zillertal,Schwaz,1027125255
 02.12.2020,2020,49,Breitenbach am Inn,Kufstein,-1036686941
+02.12.2020,2020,49,Schwaz,Schwaz,-1568178148
+02.12.2020,2020,49,Schwaz,Schwaz,-1322064110
 01.12.2020,2020,49,Seefeld in Tirol,Innsbruck-Land,-1951731798
 01.12.2020,2020,49,Kematen in Tirol,Innsbruck-Land,1477581563
 01.12.2020,2020,49,Landeck,Landeck,1711312330

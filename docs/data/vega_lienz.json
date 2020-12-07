@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-ee29c316311016d5cfe653ca919884d4"
+        "name": "data-6c2d987daa8220a44ffcb9b37017c80e"
     },
     "datasets": {
-        "data-ee29c316311016d5cfe653ca919884d4": [
+        "data-6c2d987daa8220a44ffcb9b37017c80e": [
             {
                 "count": 4,
                 "district": "Lienz",
@@ -1456,7 +1456,7 @@
                 "year": 2020
             },
             {
-                "count": 5,
+                "count": 7,
                 "district": "Lienz",
                 "municipaly": "Lienz",
                 "week": 49,

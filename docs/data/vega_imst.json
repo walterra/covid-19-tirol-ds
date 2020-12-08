@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-82a3e624ddd6251986326df66b36c081"
+        "name": "data-d7ea5180ba0486073c8af1ca0f6f5bc3"
     },
     "datasets": {
-        "data-82a3e624ddd6251986326df66b36c081": [
+        "data-d7ea5180ba0486073c8af1ca0f6f5bc3": [
             {
                 "count": 0,
                 "district": "Imst",
@@ -1463,7 +1463,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Imst",
                 "municipaly": "Oetz",
                 "week": 50,

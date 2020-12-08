@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-b14377ff592a9037960a46ea20536d03"
+        "name": "data-720605a68543e476410803b359bfd9a7"
     },
     "datasets": {
-        "data-b14377ff592a9037960a46ea20536d03": [
+        "data-720605a68543e476410803b359bfd9a7": [
             {
                 "count": 5,
                 "district": "Kufstein",
@@ -2912,7 +2912,7 @@
                 "year": 2020
             },
             {
-                "count": 4,
+                "count": 5,
                 "district": "Kufstein",
                 "municipaly": "W\u00f6rgl",
                 "week": 49,

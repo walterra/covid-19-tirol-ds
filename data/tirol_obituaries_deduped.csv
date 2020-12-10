@@ -1,8 +1,16 @@
 date,year,week,municipaly,district,hash
+09.12.2020,2020,50,Pfunds,Landeck,49534998
+09.12.2020,2020,50,Kramsach,Kufstein,2057319329
+09.12.2020,2020,50,Kufstein,Kufstein,-1753100024
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920
 08.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1711942272
+08.12.2020,2020,50,Kolsass,Innsbruck-Land,1598817177
+08.12.2020,2020,50,Pinswang,Reutte,-1800749723
+08.12.2020,2020,50,Hopfgarten im Brixental,Kitzbühel,-1890079933
+08.12.2020,2020,50,Wörgl,Kufstein,595529291
+08.12.2020,2020,50,Höfen,Reutte,2086642984
 07.12.2020,2020,50,Oetz,Imst,-1653911934
 07.12.2020,2020,50,Reutte,Reutte,1218265047
 07.12.2020,2020,50,Landeck,Landeck,-268891588
@@ -14,6 +22,10 @@ date,year,week,municipaly,district,hash
 07.12.2020,2020,50,Breitenwang,Reutte,-1465253367
 07.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,-1505005352
 07.12.2020,2020,50,Steinberg am Rofan,Schwaz,-1592900590
+07.12.2020,2020,50,Vils,Reutte,-1141921364
+07.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,1641797333
+07.12.2020,2020,50,Neustift im Stubaital,Innsbruck-Land,-1599370779
+07.12.2020,2020,50,Mühlbachl,Innsbruck-Land,-1540460211
 06.12.2020,2020,49,Kematen in Tirol,Innsbruck-Land,79834415
 06.12.2020,2020,49,Aschau im Zillertal,Schwaz,-63178806
 06.12.2020,2020,49,Thiersee,Kufstein,185869126
@@ -24,6 +36,7 @@ date,year,week,municipaly,district,hash
 06.12.2020,2020,49,St. Johann in Tirol,Kitzbühel,89414295
 06.12.2020,2020,49,Fügen,Schwaz,-61587492
 06.12.2020,2020,49,Hall in Tirol,Innsbruck-Land,-913029657
+06.12.2020,2020,49,Innsbruck,Innsbruck-Stadt,330986302
 05.12.2020,2020,49,Wörgl,Kufstein,1810743704
 05.12.2020,2020,49,Gerlos,Schwaz,1065317402
 05.12.2020,2020,49,Lienz,Lienz,948883287
@@ -52,6 +65,8 @@ date,year,week,municipaly,district,hash
 04.12.2020,2020,49,Jenbach,Schwaz,-937233734
 04.12.2020,2020,49,Schwaz,Schwaz,1746218030
 04.12.2020,2020,49,Innsbruck,Innsbruck-Stadt,-1695073885
+04.12.2020,2020,49,Nußdorf-Debant,Lienz,-885613489
+04.12.2020,2020,49,Sautens,Imst,1401519825
 03.12.2020,2020,49,Aschau im Zillertal,Schwaz,1576212128
 03.12.2020,2020,49,Kitzbühel,Kitzbühel,560313601
 03.12.2020,2020,49,St. Johann in Tirol,Kitzbühel,-756742506

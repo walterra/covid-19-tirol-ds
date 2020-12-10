@@ -1,4 +1,5 @@
 date,year,week,municipaly,district,hash
+10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 09.12.2020,2020,50,Pfunds,Landeck,49534998
 09.12.2020,2020,50,Kramsach,Kufstein,2057319329
 09.12.2020,2020,50,Kufstein,Kufstein,-1753100024
@@ -11,6 +12,8 @@ date,year,week,municipaly,district,hash
 08.12.2020,2020,50,Hopfgarten im Brixental,Kitzbühel,-1890079933
 08.12.2020,2020,50,Wörgl,Kufstein,595529291
 08.12.2020,2020,50,Höfen,Reutte,2086642984
+08.12.2020,2020,50,Wattens,Innsbruck-Land,227333168
+08.12.2020,2020,50,Kufstein,Kufstein,-1027806445
 07.12.2020,2020,50,Oetz,Imst,-1653911934
 07.12.2020,2020,50,Reutte,Reutte,1218265047
 07.12.2020,2020,50,Landeck,Landeck,-268891588
@@ -48,6 +51,7 @@ date,year,week,municipaly,district,hash
 05.12.2020,2020,49,Lienz,Lienz,1588585390
 05.12.2020,2020,49,Wörgl,Kufstein,233752688
 05.12.2020,2020,49,Assling,Lienz,-1474662285
+05.12.2020,2020,49,Strassen,Lienz,-1706821847
 04.12.2020,2020,49,Oberperfuss,Innsbruck-Land,1844114932
 04.12.2020,2020,49,Grinzens,Innsbruck-Land,-156176313
 04.12.2020,2020,49,Leutasch,Innsbruck-Land,676006736

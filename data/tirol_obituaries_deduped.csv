@@ -1,8 +1,12 @@
 date,year,week,municipaly,district,hash
+11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
+11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
+11.12.2020,2020,50,Kufstein,Kufstein,1705094962
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
 10.12.2020,2020,50,Hopfgarten im Brixental,Kitzbühel,-341447497
+10.12.2020,2020,50,Leutasch,Innsbruck-Land,-1057694688
 09.12.2020,2020,50,Pfunds,Landeck,49534998
 09.12.2020,2020,50,Kramsach,Kufstein,2057319329
 09.12.2020,2020,50,Kufstein,Kufstein,-1753100024
@@ -11,6 +15,10 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,St. Anton am Arlberg,Landeck,-1434593279
 09.12.2020,2020,50,Waidring,Kitzbühel,951842406
 09.12.2020,2020,50,Reutte,Reutte,1818699646
+09.12.2020,2020,50,Achenkirch,Schwaz,47199646
+09.12.2020,2020,50,Mils,Innsbruck-Land,-1841010454
+09.12.2020,2020,50,Längenfeld,Imst,552763224
+09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1704324620
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920
@@ -23,6 +31,8 @@ date,year,week,municipaly,district,hash
 08.12.2020,2020,50,Wattens,Innsbruck-Land,227333168
 08.12.2020,2020,50,Kufstein,Kufstein,-1027806445
 08.12.2020,2020,50,Hopfgarten in Defereggen,Lienz,-860300744
+08.12.2020,2020,50,Stans,Schwaz,595106292
+08.12.2020,2020,50,Nikolsdorf,Lienz,-723460060
 07.12.2020,2020,50,Oetz,Imst,-1653911934
 07.12.2020,2020,50,Reutte,Reutte,1218265047
 07.12.2020,2020,50,Landeck,Landeck,-268891588
@@ -39,6 +49,9 @@ date,year,week,municipaly,district,hash
 07.12.2020,2020,50,Neustift im Stubaital,Innsbruck-Land,-1599370779
 07.12.2020,2020,50,Mühlbachl,Innsbruck-Land,-1540460211
 07.12.2020,2020,50,Hart im Zillertal,Schwaz,741826547
+07.12.2020,2020,50,Achenkirch,Schwaz,2101597778
+07.12.2020,2020,50,Brixen im Thale,Kitzbühel,-1888616350
+07.12.2020,2020,50,Nassereith,Imst,-1362592520
 06.12.2020,2020,49,Kematen in Tirol,Innsbruck-Land,79834415
 06.12.2020,2020,49,Aschau im Zillertal,Schwaz,-63178806
 06.12.2020,2020,49,Thiersee,Kufstein,185869126
@@ -51,6 +64,7 @@ date,year,week,municipaly,district,hash
 06.12.2020,2020,49,Hall in Tirol,Innsbruck-Land,-913029657
 06.12.2020,2020,49,Innsbruck,Innsbruck-Stadt,330986302
 06.12.2020,2020,49,Kals am Großglockner,Lienz,-750763852
+06.12.2020,2020,49,Gschnitz,Innsbruck-Land,-1048679268
 05.12.2020,2020,49,Wörgl,Kufstein,1810743704
 05.12.2020,2020,49,Gerlos,Schwaz,1065317402
 05.12.2020,2020,49,Lienz,Lienz,948883287

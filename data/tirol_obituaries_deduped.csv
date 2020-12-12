@@ -1,4 +1,6 @@
 date,year,week,municipaly,district,hash
+12.12.2020,2020,50,Faggen,Landeck,938312577
+12.12.2020,2020,50,Virgen,Lienz,-411974346
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -7,6 +9,10 @@ date,year,week,municipaly,district,hash
 11.12.2020,2020,50,Jochberg,Kitzbühel,-1643877516
 11.12.2020,2020,50,Waidring,Kitzbühel,1873180772
 11.12.2020,2020,50,Uderns,Schwaz,-1763822620
+11.12.2020,2020,50,Seefeld in Tirol,Innsbruck-Land,-827908540
+11.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,924420913
+11.12.2020,2020,50,Kitzbühel,Kitzbühel,1314862201
+11.12.2020,2020,50,Obernberg am Brenner,Innsbruck-Land,2018988894
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
@@ -17,6 +23,7 @@ date,year,week,municipaly,district,hash
 10.12.2020,2020,50,Kals am Großglockner,Lienz,338407217
 10.12.2020,2020,50,Hopfgarten in Defereggen,Lienz,-1736568852
 10.12.2020,2020,50,Brixen im Thale,Kitzbühel,-107990983
+10.12.2020,2020,50,Navis,Innsbruck-Land,-926733112
 09.12.2020,2020,50,Pfunds,Landeck,49534998
 09.12.2020,2020,50,Kramsach,Kufstein,2057319329
 09.12.2020,2020,50,Kufstein,Kufstein,-1753100024
@@ -31,6 +38,7 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1704324620
 09.12.2020,2020,50,Vomp,Schwaz,-610568437
 09.12.2020,2020,50,Schlaiten,Lienz,1611150934
+09.12.2020,2020,50,Fulpmes,Innsbruck-Land,-1704324620
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920
@@ -65,6 +73,7 @@ date,year,week,municipaly,district,hash
 07.12.2020,2020,50,Brixen im Thale,Kitzbühel,-1888616350
 07.12.2020,2020,50,Nassereith,Imst,-1362592520
 07.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1888616350
+07.12.2020,2020,50,Eben am Achensee,Schwaz,379676239
 06.12.2020,2020,49,Kematen in Tirol,Innsbruck-Land,79834415
 06.12.2020,2020,49,Aschau im Zillertal,Schwaz,-63178806
 06.12.2020,2020,49,Thiersee,Kufstein,185869126

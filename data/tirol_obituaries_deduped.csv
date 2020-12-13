@@ -1,6 +1,10 @@
 date,year,week,municipaly,district,hash
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
+12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
+12.12.2020,2020,50,Pfons,Innsbruck-Land,-772149339
+12.12.2020,2020,50,Lienz,Lienz,-36710005
+12.12.2020,2020,50,Imsterberg,Imst,972391712
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -13,6 +17,12 @@ date,year,week,municipaly,district,hash
 11.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,924420913
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,1314862201
 11.12.2020,2020,50,Obernberg am Brenner,Innsbruck-Land,2018988894
+11.12.2020,2020,50,Zirl,Innsbruck-Land,-1160861006
+11.12.2020,2020,50,Kitzbühel,Kitzbühel,-74150162
+11.12.2020,2020,50,Thurn,Lienz,1113376308
+11.12.2020,2020,50,Ebbs,Kufstein,241253127
+11.12.2020,2020,50,Matrei in Osttirol,Lienz,994186409
+11.12.2020,2020,50,Steeg,Reutte,-98769620
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
@@ -24,6 +34,7 @@ date,year,week,municipaly,district,hash
 10.12.2020,2020,50,Hopfgarten in Defereggen,Lienz,-1736568852
 10.12.2020,2020,50,Brixen im Thale,Kitzbühel,-107990983
 10.12.2020,2020,50,Navis,Innsbruck-Land,-926733112
+10.12.2020,2020,50,Uderns,Schwaz,-1635245438
 09.12.2020,2020,50,Pfunds,Landeck,49534998
 09.12.2020,2020,50,Kramsach,Kufstein,2057319329
 09.12.2020,2020,50,Kufstein,Kufstein,-1753100024

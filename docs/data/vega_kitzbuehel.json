@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-990c9665ca45d79052c515b384874c3d"
+        "name": "data-99d01c414ec16fbec96ea6f1ecea54ae"
     },
     "datasets": {
-        "data-990c9665ca45d79052c515b384874c3d": [
+        "data-99d01c414ec16fbec96ea6f1ecea54ae": [
             {
                 "count": 1,
                 "district": "Kitzb\u00fchel",
@@ -2919,7 +2919,7 @@
                 "year": 2020
             },
             {
-                "count": 3,
+                "count": 4,
                 "district": "Kitzb\u00fchel",
                 "municipaly": "Kitzb\u00fchel",
                 "week": 50,

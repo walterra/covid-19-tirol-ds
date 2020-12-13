@@ -1,10 +1,15 @@
 date,year,week,municipaly,district,hash
+13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
+13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
 12.12.2020,2020,50,Pfons,Innsbruck-Land,-772149339
 12.12.2020,2020,50,Lienz,Lienz,-36710005
 12.12.2020,2020,50,Imsterberg,Imst,972391712
+12.12.2020,2020,50,Kössen,Kitzbühel,-1884606962
+12.12.2020,2020,50,Nikolsdorf,Lienz,-120798262
+12.12.2020,2020,50,Sölden,Imst,2048730433
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -312,6 +317,7 @@ date,year,week,municipaly,district,hash
 25.11.2020,2020,48,Fritzens,Innsbruck-Land,-48745826
 25.11.2020,2020,48,Schwendau,Schwaz,-1156255839
 25.11.2020,2020,48,Schwaz,Schwaz,-1144346769
+25.11.2020,2020,48,Oetz,Imst,-1653911934
 24.11.2020,2020,48,Fügen,Schwaz,165898324
 24.11.2020,2020,48,Elbigenalp,Reutte,1070345588
 24.11.2020,2020,48,Terfens,Schwaz,1734806508

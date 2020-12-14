@@ -23,1466 +23,10 @@
         }
     },
     "data": {
-        "name": "data-bd2a380570e73add984e117c3f42d700"
+        "name": "data-aa93b40298411cbc3ee539a68b18a899"
     },
     "datasets": {
-        "data-bd2a380570e73add984e117c3f42d700": [
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 3,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Virgen",
-                "week": 52,
-                "year": 2020
-            },
+        "data-aa93b40298411cbc3ee539a68b18a899": [
             {
                 "count": 4,
                 "district": "Lienz",
@@ -2919,7 +1463,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Lienz",
                 "municipaly": "Lienz",
                 "week": 50,
@@ -2936,6 +1480,1462 @@
                 "count": 0,
                 "district": "Lienz",
                 "municipaly": "Lienz",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 3,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Virgen",
                 "week": 52,
                 "year": 2020
             },

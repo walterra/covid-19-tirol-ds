@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-41d67e26932d14dc26bb21cfe9a9c0f6"
+        "name": "data-cf902832ca5375f0c4a3c769eaee1fbb"
     },
     "datasets": {
-        "data-41d67e26932d14dc26bb21cfe9a9c0f6": [
+        "data-cf902832ca5375f0c4a3c769eaee1fbb": [
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 3,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Reutte",
+                "municipaly": "Vils",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 3,
                 "district": "Reutte",
@@ -7304,1462 +8760,6 @@
                 "count": 0,
                 "district": "Reutte",
                 "municipaly": "Breitenwang",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 3,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Reutte",
-                "municipaly": "Vils",
                 "week": 52,
                 "year": 2020
             },

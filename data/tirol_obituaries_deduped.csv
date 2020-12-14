@@ -1,6 +1,10 @@
 date,year,week,municipaly,district,hash
+14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
 13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
+13.12.2020,2020,50,Lienz,Lienz,1818089407
+13.12.2020,2020,50,Vils,Reutte,-1778085233
+13.12.2020,2020,50,Hopfgarten im Brixental,Kitzbühel,-132670881
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
@@ -11,6 +15,8 @@ date,year,week,municipaly,district,hash
 12.12.2020,2020,50,Nikolsdorf,Lienz,-120798262
 12.12.2020,2020,50,Sölden,Imst,2048730433
 12.12.2020,2020,50,Reutte,Reutte,617582487
+12.12.2020,2020,50,Brixen im Thale,Kitzbühel,744540314
+12.12.2020,2020,50,Baumkirchen,Innsbruck-Land,-748078829
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -56,6 +62,8 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,Vomp,Schwaz,-610568437
 09.12.2020,2020,50,Schlaiten,Lienz,1611150934
 09.12.2020,2020,50,Fulpmes,Innsbruck-Land,-1704324620
+09.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,-1576235882
+09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1198297125
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920
@@ -70,6 +78,7 @@ date,year,week,municipaly,district,hash
 08.12.2020,2020,50,Hopfgarten in Defereggen,Lienz,-860300744
 08.12.2020,2020,50,Stans,Schwaz,595106292
 08.12.2020,2020,50,Nikolsdorf,Lienz,-723460060
+08.12.2020,2020,50,Schönberg im Stubaital,Innsbruck-Land,-817785122
 07.12.2020,2020,50,Oetz,Imst,-1653911934
 07.12.2020,2020,50,Reutte,Reutte,1218265047
 07.12.2020,2020,50,Landeck,Landeck,-268891588
@@ -188,6 +197,7 @@ date,year,week,municipaly,district,hash
 01.12.2020,2020,49,Kirchbichl,Kufstein,-2063533945
 01.12.2020,2020,49,Terfens,Schwaz,1078023784
 01.12.2020,2020,49,Volders,Innsbruck-Land,961562226
+01.12.2020,2020,49,Steinach am Brenner,Innsbruck-Land,1160314900
 30.11.2020,2020,49,Vomp,Schwaz,-829123970
 30.11.2020,2020,49,Rattenberg,Kufstein,-1761978426
 30.11.2020,2020,49,Lienz,Lienz,1336486689

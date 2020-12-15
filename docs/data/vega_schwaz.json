@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-95da14af7b850ce17708ec00a244409c"
+        "name": "data-851f02e5f96ab0cd29d06aacb11fc265"
     },
     "datasets": {
-        "data-95da14af7b850ce17708ec00a244409c": [
+        "data-851f02e5f96ab0cd29d06aacb11fc265": [
             {
                 "count": 2,
                 "district": "Schwaz",
@@ -4375,7 +4375,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Schwaz",
                 "municipaly": "Schwaz",
                 "week": 50,

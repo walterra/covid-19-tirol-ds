@@ -1,7 +1,10 @@
 date,year,week,municipaly,district,hash
+15.12.2020,2020,51,Kirchberg in Tirol,Kitzbühel,808421289
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 14.12.2020,2020,51,Fließ,Landeck,-1916232168
 14.12.2020,2020,51,Sölden,Imst,-565277266
+14.12.2020,2020,51,Oberperfuss,Innsbruck-Land,1277312800
+14.12.2020,2020,51,Kitzbühel,Kitzbühel,-1562617501
 13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
 13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
 13.12.2020,2020,50,Lienz,Lienz,1818089407
@@ -11,6 +14,9 @@ date,year,week,municipaly,district,hash
 13.12.2020,2020,50,Wiesing,Schwaz,1196577176
 13.12.2020,2020,50,Fügen,Schwaz,1308249603
 13.12.2020,2020,50,Schwaz,Schwaz,785362006
+13.12.2020,2020,50,Wattens,Innsbruck-Land,47292168
+13.12.2020,2020,50,Schwaz,Schwaz,-615922228
+13.12.2020,2020,50,Arzl im Pitztal,Imst,-1917375281
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
@@ -24,6 +30,7 @@ date,year,week,municipaly,district,hash
 12.12.2020,2020,50,Brixen im Thale,Kitzbühel,744540314
 12.12.2020,2020,50,Baumkirchen,Innsbruck-Land,-748078829
 12.12.2020,2020,50,Schönwies,Landeck,-541345842
+12.12.2020,2020,50,Sillian,Lienz,1314332759
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -74,6 +81,7 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,Fulpmes,Innsbruck-Land,-1704324620
 09.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,-1576235882
 09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1198297125
+09.12.2020,2020,50,Fritzens,Innsbruck-Land,1594598959
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920
@@ -123,6 +131,7 @@ date,year,week,municipaly,district,hash
 06.12.2020,2020,49,Innsbruck,Innsbruck-Stadt,330986302
 06.12.2020,2020,49,Kals am Großglockner,Lienz,-750763852
 06.12.2020,2020,49,Gschnitz,Innsbruck-Land,-1048679268
+06.12.2020,2020,49,Wattens,Innsbruck-Land,-1589994713
 05.12.2020,2020,49,Wörgl,Kufstein,1810743704
 05.12.2020,2020,49,Gerlos,Schwaz,1065317402
 05.12.2020,2020,49,Lienz,Lienz,948883287

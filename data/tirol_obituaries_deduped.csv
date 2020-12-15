@@ -1,10 +1,16 @@
 date,year,week,municipaly,district,hash
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
+14.12.2020,2020,51,Fließ,Landeck,-1916232168
+14.12.2020,2020,51,Sölden,Imst,-565277266
 13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
 13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
 13.12.2020,2020,50,Lienz,Lienz,1818089407
 13.12.2020,2020,50,Vils,Reutte,-1778085233
 13.12.2020,2020,50,Hopfgarten im Brixental,Kitzbühel,-132670881
+13.12.2020,2020,50,Zams,Landeck,871819974
+13.12.2020,2020,50,Wiesing,Schwaz,1196577176
+13.12.2020,2020,50,Fügen,Schwaz,1308249603
+13.12.2020,2020,50,Schwaz,Schwaz,785362006
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
@@ -17,6 +23,7 @@ date,year,week,municipaly,district,hash
 12.12.2020,2020,50,Reutte,Reutte,617582487
 12.12.2020,2020,50,Brixen im Thale,Kitzbühel,744540314
 12.12.2020,2020,50,Baumkirchen,Innsbruck-Land,-748078829
+12.12.2020,2020,50,Schönwies,Landeck,-541345842
 11.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1383135639
 11.12.2020,2020,50,Kitzbühel,Kitzbühel,-344990122
 11.12.2020,2020,50,Kufstein,Kufstein,1705094962
@@ -35,6 +42,8 @@ date,year,week,municipaly,district,hash
 11.12.2020,2020,50,Ebbs,Kufstein,241253127
 11.12.2020,2020,50,Matrei in Osttirol,Lienz,994186409
 11.12.2020,2020,50,Steeg,Reutte,-98769620
+11.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,1069850810
+11.12.2020,2020,50,Jenbach,Schwaz,1953929947
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
@@ -47,6 +56,7 @@ date,year,week,municipaly,district,hash
 10.12.2020,2020,50,Brixen im Thale,Kitzbühel,-107990983
 10.12.2020,2020,50,Navis,Innsbruck-Land,-926733112
 10.12.2020,2020,50,Uderns,Schwaz,-1635245438
+10.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-2062431083
 09.12.2020,2020,50,Pfunds,Landeck,49534998
 09.12.2020,2020,50,Kramsach,Kufstein,2057319329
 09.12.2020,2020,50,Kufstein,Kufstein,-1753100024

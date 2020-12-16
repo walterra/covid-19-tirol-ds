@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-cf902832ca5375f0c4a3c769eaee1fbb"
+        "name": "data-7e42fd371aa5575cbc6cfeef2fe04d46"
     },
     "datasets": {
-        "data-cf902832ca5375f0c4a3c769eaee1fbb": [
+        "data-7e42fd371aa5575cbc6cfeef2fe04d46": [
             {
                 "count": 0,
                 "district": "Reutte",
@@ -2919,7 +2919,7 @@
                 "year": 2020
             },
             {
-                "count": 3,
+                "count": 4,
                 "district": "Reutte",
                 "municipaly": "Reutte",
                 "week": 50,

@@ -1,10 +1,16 @@
 date,year,week,municipaly,district,hash
 15.12.2020,2020,51,Kirchberg in Tirol,Kitzbühel,808421289
+15.12.2020,2020,51,Neustift im Stubaital,Innsbruck-Land,800718648
+15.12.2020,2020,51,Lienz,Lienz,-883227979
+15.12.2020,2020,51,Wörgl,Kufstein,895007155
+15.12.2020,2020,51,St. Johann in Tirol,Kitzbühel,-298460764
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 14.12.2020,2020,51,Fließ,Landeck,-1916232168
 14.12.2020,2020,51,Sölden,Imst,-565277266
 14.12.2020,2020,51,Oberperfuss,Innsbruck-Land,1277312800
 14.12.2020,2020,51,Kitzbühel,Kitzbühel,-1562617501
+14.12.2020,2020,51,Schwaz,Schwaz,-2048613579
+14.12.2020,2020,51,Schlitters,Schwaz,1062415466
 13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
 13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
 13.12.2020,2020,50,Lienz,Lienz,1818089407
@@ -17,6 +23,7 @@ date,year,week,municipaly,district,hash
 13.12.2020,2020,50,Wattens,Innsbruck-Land,47292168
 13.12.2020,2020,50,Schwaz,Schwaz,-615922228
 13.12.2020,2020,50,Arzl im Pitztal,Imst,-1917375281
+13.12.2020,2020,50,Jerzens,Imst,1455699275
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082
@@ -51,6 +58,7 @@ date,year,week,municipaly,district,hash
 11.12.2020,2020,50,Steeg,Reutte,-98769620
 11.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,1069850810
 11.12.2020,2020,50,Jenbach,Schwaz,1953929947
+11.12.2020,2020,50,Reutte,Reutte,1570290801
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
@@ -82,6 +90,7 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,Hall in Tirol,Innsbruck-Land,-1576235882
 09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1198297125
 09.12.2020,2020,50,Fritzens,Innsbruck-Land,1594598959
+09.12.2020,2020,50,Sillian,Lienz,-528578420
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920

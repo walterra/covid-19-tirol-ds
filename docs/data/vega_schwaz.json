@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-abd309c10ac415d206e72b6facff95d1"
+        "name": "data-9120eceb62755d44831f57631cad4f68"
     },
     "datasets": {
-        "data-abd309c10ac415d206e72b6facff95d1": [
+        "data-9120eceb62755d44831f57631cad4f68": [
             {
                 "count": 0,
                 "district": "Schwaz",
@@ -7287,7 +7287,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Schwaz",
                 "municipaly": "Wiesing",
                 "week": 50,

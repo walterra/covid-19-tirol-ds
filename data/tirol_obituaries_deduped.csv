@@ -1,6 +1,10 @@
 date,year,week,municipaly,district,hash
 16.12.2020,2020,51,Thiersee,Kufstein,804426929
 16.12.2020,2020,51,Kirchbichl,Kufstein,-1334513012
+16.12.2020,2020,51,Sillian,Lienz,-855270147
+16.12.2020,2020,51,Ehenbichl,Reutte,-679231258
+16.12.2020,2020,51,Kitzbühel,Kitzbühel,-134453782
+16.12.2020,2020,51,Assling,Lienz,216848083
 15.12.2020,2020,51,Kirchberg in Tirol,Kitzbühel,808421289
 15.12.2020,2020,51,Neustift im Stubaital,Innsbruck-Land,800718648
 15.12.2020,2020,51,Lienz,Lienz,-883227979
@@ -18,6 +22,8 @@ date,year,week,municipaly,district,hash
 15.12.2020,2020,51,St. Leonhard im Pitztal,Imst,338738558
 15.12.2020,2020,51,Kufstein,Kufstein,-174967374
 15.12.2020,2020,51,Wängle,Reutte,785078025
+15.12.2020,2020,51,Rum,Innsbruck-Land,706361922
+15.12.2020,2020,51,Kufstein,Kufstein,-299115529
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 14.12.2020,2020,51,Fließ,Landeck,-1916232168
 14.12.2020,2020,51,Sölden,Imst,-565277266
@@ -40,6 +46,7 @@ date,year,week,municipaly,district,hash
 13.12.2020,2020,50,Schwaz,Schwaz,-615922228
 13.12.2020,2020,50,Arzl im Pitztal,Imst,-1917375281
 13.12.2020,2020,50,Jerzens,Imst,1455699275
+13.12.2020,2020,50,Wiesing,Schwaz,-573128400
 12.12.2020,2020,50,Faggen,Landeck,938312577
 12.12.2020,2020,50,Virgen,Lienz,-411974346
 12.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,395359082

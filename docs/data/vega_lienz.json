@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-d30c0b04a5e0de17771b8116eadf8ba1"
+        "name": "data-01865cebaaab3f4b772a13e37336cfba"
     },
     "datasets": {
-        "data-d30c0b04a5e0de17771b8116eadf8ba1": [
+        "data-01865cebaaab3f4b772a13e37336cfba": [
             {
                 "count": 0,
                 "district": "Lienz",
@@ -18935,7 +18935,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Lienz",
                 "municipaly": "Heinfels",
                 "week": 50,

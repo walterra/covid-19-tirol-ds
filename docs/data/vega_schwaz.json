@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-9120eceb62755d44831f57631cad4f68"
+        "name": "data-8e4e7ba562d0a9897f1194810b488b5b"
     },
     "datasets": {
-        "data-9120eceb62755d44831f57631cad4f68": [
+        "data-8e4e7ba562d0a9897f1194810b488b5b": [
             {
                 "count": 0,
                 "district": "Schwaz",
@@ -1470,7 +1470,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Schwaz",
                 "municipaly": "Stummerberg",
                 "week": 51,

@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-046eeb047220fb10cde349b7802f1e8e"
+        "name": "data-ad178a66969b52b8aac84df91510bc22"
     },
     "datasets": {
-        "data-046eeb047220fb10cde349b7802f1e8e": [
+        "data-ad178a66969b52b8aac84df91510bc22": [
             {
                 "count": 0,
                 "district": "Kufstein",
@@ -4382,7 +4382,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Kufstein",
                 "municipaly": "Thiersee",
                 "week": 51,
@@ -7287,7 +7287,7 @@
                 "year": 2020
             },
             {
-                "count": 3,
+                "count": 4,
                 "district": "Kufstein",
                 "municipaly": "Kufstein",
                 "week": 50,

@@ -1,4 +1,5 @@
 date,year,week,municipaly,district,hash
+18.12.2020,2020,51,Ehrwald,Reutte,708194615
 17.12.2020,2020,51,Zirl,Innsbruck-Land,-775217442
 17.12.2020,2020,51,Stummerberg,Schwaz,-183540923
 17.12.2020,2020,51,Trins,Innsbruck-Land,-178965156
@@ -8,6 +9,13 @@ date,year,week,municipaly,district,hash
 17.12.2020,2020,51,Kirchbichl,Kufstein,-3234452
 17.12.2020,2020,51,Prutz,Landeck,-278106527
 17.12.2020,2020,51,Thiersee,Kufstein,-1095660726
+17.12.2020,2020,51,Landeck,Landeck,-886081382
+17.12.2020,2020,51,Thiersee,Kufstein,1633061142
+17.12.2020,2020,51,Umhausen,Imst,252388540
+17.12.2020,2020,51,Mühlbachl,Innsbruck-Land,-1851103079
+17.12.2020,2020,51,Jenbach,Schwaz,-1318653563
+17.12.2020,2020,51,Hopfgarten im Brixental,Kitzbühel,-952144826
+17.12.2020,2020,51,Kitzbühel,Kitzbühel,119941025
 16.12.2020,2020,51,Thiersee,Kufstein,804426929
 16.12.2020,2020,51,Kirchbichl,Kufstein,-1334513012
 16.12.2020,2020,51,Sillian,Lienz,-855270147
@@ -37,6 +45,8 @@ date,year,week,municipaly,district,hash
 15.12.2020,2020,51,Rum,Innsbruck-Land,706361922
 15.12.2020,2020,51,Kufstein,Kufstein,-299115529
 15.12.2020,2020,51,Ampass,Innsbruck-Land,1335686508
+15.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,1640467229
+15.12.2020,2020,51,Steinach am Brenner,Innsbruck-Land,-1032551259
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 14.12.2020,2020,51,Fließ,Landeck,-1916232168
 14.12.2020,2020,51,Sölden,Imst,-565277266
@@ -49,6 +59,7 @@ date,year,week,municipaly,district,hash
 14.12.2020,2020,51,Kufstein,Kufstein,418564322
 14.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,462978789
 14.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,1287269169
+14.12.2020,2020,51,Landeck,Landeck,39603723
 13.12.2020,2020,50,Pettnau,Innsbruck-Land,1570105825
 13.12.2020,2020,50,St. Johann in Tirol,Kitzbühel,1198156756
 13.12.2020,2020,50,Lienz,Lienz,1818089407
@@ -99,6 +110,8 @@ date,year,week,municipaly,district,hash
 11.12.2020,2020,50,Jenbach,Schwaz,1953929947
 11.12.2020,2020,50,Reutte,Reutte,1570290801
 11.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-1315809294
+11.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,614863016
+11.12.2020,2020,50,Kufstein,Kufstein,1920937840
 10.12.2020,2020,50,Fieberbrunn,Kitzbühel,-1265593941
 10.12.2020,2020,50,Kitzbühel,Kitzbühel,2145316522
 10.12.2020,2020,50,St. Johann im Walde,Lienz,-1224912989
@@ -133,6 +146,7 @@ date,year,week,municipaly,district,hash
 09.12.2020,2020,50,Fritzens,Innsbruck-Land,1594598959
 09.12.2020,2020,50,Sillian,Lienz,-528578420
 09.12.2020,2020,50,Heinfels,Lienz,-528578420
+09.12.2020,2020,50,Innsbruck,Innsbruck-Stadt,-984431369
 08.12.2020,2020,50,Heinfels,Lienz,-1598065940
 08.12.2020,2020,50,Prutz,Landeck,-27004559
 08.12.2020,2020,50,Going am Wilden Kaiser,Kitzbühel,-256754920

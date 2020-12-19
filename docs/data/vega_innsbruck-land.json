@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-2927b75dcdcc2c73c95b0b9469848be3"
+        "name": "data-eb4de17d6a3b861c12ba6c0c83273440"
     },
     "datasets": {
-        "data-2927b75dcdcc2c73c95b0b9469848be3": [
+        "data-eb4de17d6a3b861c12ba6c0c83273440": [
             {
                 "count": 2,
                 "district": "Innsbruck-Land",
@@ -4382,7 +4382,7 @@
                 "year": 2020
             },
             {
-                "count": 1,
+                "count": 2,
                 "district": "Innsbruck-Land",
                 "municipaly": "M\u00fchlbachl",
                 "week": 51,

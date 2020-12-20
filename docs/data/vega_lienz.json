@@ -23,10 +23,1466 @@
         }
     },
     "data": {
-        "name": "data-1c6bdc3406d3775c62794cb62381fff0"
+        "name": "data-7bd641f830c1ae0838926da1e478eda8"
     },
     "datasets": {
-        "data-1c6bdc3406d3775c62794cb62381fff0": [
+        "data-7bd641f830c1ae0838926da1e478eda8": [
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Lienz",
+                "municipaly": "Amlach",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 0,
                 "district": "Lienz",
@@ -42248,1462 +43704,6 @@
                 "count": 0,
                 "district": "Lienz",
                 "municipaly": "Gaimberg",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Lienz",
-                "municipaly": "Amlach",
                 "week": 52,
                 "year": 2020
             },

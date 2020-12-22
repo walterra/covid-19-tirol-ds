@@ -23,10 +23,2922 @@
         }
     },
     "data": {
-        "name": "data-e9a25302c3ade69e57189cffd4280090"
+        "name": "data-f44ebc3f00e2242c3b5ff65a0973f795"
     },
     "datasets": {
-        "data-e9a25302c3ade69e57189cffd4280090": [
+        "data-f44ebc3f00e2242c3b5ff65a0973f795": [
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 3,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "Langkampfen",
+                "week": 52,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 1,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 2,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 3,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 4,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 5,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 6,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 7,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 8,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 9,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 10,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 11,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 12,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 13,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 14,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 15,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 16,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 17,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 18,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 19,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 20,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 21,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 22,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 23,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 24,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 25,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 26,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 27,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 28,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 29,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 30,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 31,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 32,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 33,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 34,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 35,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 36,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 37,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 38,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 39,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 40,
+                "year": 2017
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 41,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 42,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 43,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 44,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 45,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 46,
+                "year": 2017
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 47,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 48,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 49,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 50,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 51,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 52,
+                "year": 2017
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 1,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 2,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 3,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 4,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 5,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 6,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 7,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 8,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 9,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 10,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 11,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 12,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 13,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 14,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 15,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 16,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 17,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 18,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 19,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 20,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 21,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 22,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 23,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 24,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 25,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 26,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 27,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 28,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 29,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 30,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 31,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 32,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 33,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 34,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 35,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 36,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 37,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 38,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 39,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 40,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 41,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 42,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 43,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 44,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 45,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 46,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 47,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 48,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 49,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 50,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 51,
+                "year": 2018
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 52,
+                "year": 2018
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 1,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 2,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 3,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 4,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 5,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 6,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 7,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 8,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 9,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 10,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 11,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 12,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 13,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 14,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 15,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 16,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 17,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 18,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 19,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 20,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 21,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 22,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 23,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 24,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 25,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 26,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 27,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 28,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 29,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 30,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 31,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 32,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 33,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 34,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 35,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 36,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 37,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 38,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 39,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 40,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 41,
+                "year": 2019
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 42,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 43,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 44,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 45,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 46,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 47,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 48,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 49,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 50,
+                "year": 2019
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 51,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 52,
+                "year": 2019
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 1,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 2,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 3,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 4,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 5,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 6,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 7,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 8,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 9,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 10,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 11,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 12,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 13,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 14,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 15,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 16,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 17,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 18,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 19,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 20,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 21,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 22,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 23,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 24,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 25,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 26,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 27,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 28,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 29,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 30,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 31,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 32,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 33,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 34,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 35,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 36,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 37,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 38,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 39,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 40,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 41,
+                "year": 2020
+            },
+            {
+                "count": 2,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 42,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 43,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 44,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 45,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 46,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 47,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 48,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 49,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 50,
+                "year": 2020
+            },
+            {
+                "count": 1,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 51,
+                "year": 2020
+            },
+            {
+                "count": 0,
+                "district": "Kufstein",
+                "municipaly": "M\u00fcnster",
+                "week": 52,
+                "year": 2020
+            },
             {
                 "count": 1,
                 "district": "Kufstein",
@@ -5838,7 +8750,7 @@
                 "year": 2020
             },
             {
-                "count": 7,
+                "count": 8,
                 "district": "Kufstein",
                 "municipaly": "Kufstein",
                 "week": 51,
@@ -17500,1462 +20412,6 @@
                 "year": 2020
             },
             {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "M\u00fcnster",
-                "week": 52,
-                "year": 2020
-            },
-            {
                 "count": 1,
                 "district": "Kufstein",
                 "municipaly": "Kundl",
@@ -24776,1462 +26232,6 @@
                 "count": 0,
                 "district": "Kufstein",
                 "municipaly": "Rattenberg",
-                "week": 52,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2017
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2017
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2017
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2018
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2018
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2018
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2019
-            },
-            {
-                "count": 3,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2019
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2019
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 52,
-                "year": 2019
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 1,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 2,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 3,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 4,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 5,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 6,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 7,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 8,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 9,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 10,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 11,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 12,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 13,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 14,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 15,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 16,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 17,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 18,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 19,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 20,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 21,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 22,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 23,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 24,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 25,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 26,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 27,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 28,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 29,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 30,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 31,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 32,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 33,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 34,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 35,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 36,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 37,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 38,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 39,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 40,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 41,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 42,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 43,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 44,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 45,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 46,
-                "year": 2020
-            },
-            {
-                "count": 2,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 47,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 48,
-                "year": 2020
-            },
-            {
-                "count": 1,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 49,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 50,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
-                "week": 51,
-                "year": 2020
-            },
-            {
-                "count": 0,
-                "district": "Kufstein",
-                "municipaly": "Langkampfen",
                 "week": 52,
                 "year": 2020
             },

@@ -1,4 +1,6 @@
 date,year,week,municipaly,district,hash
+21.12.2020,2020,52,Itter,Kitzbühel,335940751
+21.12.2020,2020,52,Lienz,Lienz,-467503922
 20.12.2020,2020,51,Amlach,Lienz,-2099887678
 20.12.2020,2020,51,Nußdorf-Debant,Lienz,-1479216117
 20.12.2020,2020,51,Westendorf,Kitzbühel,-1464380215
@@ -8,6 +10,13 @@ date,year,week,municipaly,district,hash
 20.12.2020,2020,51,Hall in Tirol,Innsbruck-Land,1978991718
 20.12.2020,2020,51,Tarrenz,Imst,622986752
 20.12.2020,2020,51,Kirchdorf in Tirol,Kitzbühel,-1787594912
+20.12.2020,2020,51,Seefeld in Tirol,Innsbruck-Land,-84877101
+20.12.2020,2020,51,Zirl,Innsbruck-Land,1384882044
+20.12.2020,2020,51,Schwendau,Schwaz,-1433569288
+20.12.2020,2020,51,Landeck,Landeck,-275694618
+20.12.2020,2020,51,Langkampfen,Kufstein,-538638319
+20.12.2020,2020,51,Lienz,Lienz,2074258548
+20.12.2020,2020,51,Münster,Kufstein,429343531
 19.12.2020,2020,51,Fließ,Landeck,-921953727
 19.12.2020,2020,51,Schönwies,Landeck,-1437976058
 19.12.2020,2020,51,Landeck,Landeck,-941900448
@@ -22,12 +31,19 @@ date,year,week,municipaly,district,hash
 19.12.2020,2020,51,Schwaz,Schwaz,-677669243
 19.12.2020,2020,51,Mils,Innsbruck-Land,-1727412440
 19.12.2020,2020,51,Oetz,Imst,-2055144848
+19.12.2020,2020,51,Imst,Imst,-1777562414
+19.12.2020,2020,51,Roppen,Imst,-717817975
+19.12.2020,2020,51,Trins,Innsbruck-Land,775290531
+19.12.2020,2020,51,Oetz,Imst,-1030198612
 18.12.2020,2020,51,Ehrwald,Reutte,708194615
 18.12.2020,2020,51,St. Johann in Tirol,Kitzbühel,1705595243
 18.12.2020,2020,51,Kufstein,Kufstein,-71085625
 18.12.2020,2020,51,Kufstein,Kufstein,216848083
 18.12.2020,2020,51,Fulpmes,Innsbruck-Land,1903298658
 18.12.2020,2020,51,Breitenwang,Reutte,419863526
+18.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,1134169306
+18.12.2020,2020,51,Jerzens,Imst,1665215182
+18.12.2020,2020,51,Kufstein,Kufstein,-511370150
 17.12.2020,2020,51,Zirl,Innsbruck-Land,-775217442
 17.12.2020,2020,51,Stummerberg,Schwaz,-183540923
 17.12.2020,2020,51,Trins,Innsbruck-Land,-178965156
@@ -82,6 +98,7 @@ date,year,week,municipaly,district,hash
 15.12.2020,2020,51,Fritzens,Innsbruck-Land,-1216291082
 15.12.2020,2020,51,Wattens,Innsbruck-Land,-2041268750
 15.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,-1241726221
+15.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,-302041862
 14.12.2020,2020,51,Kufstein,Kufstein,1269525055
 14.12.2020,2020,51,Fließ,Landeck,-1916232168
 14.12.2020,2020,51,Sölden,Imst,-565277266

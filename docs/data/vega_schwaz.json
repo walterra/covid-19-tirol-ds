@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-e0fae236589234800ff3b2db2c663336"
+        "name": "data-f7d4d6f173d12f5ba3b39fee3003a84e"
     },
     "datasets": {
-        "data-e0fae236589234800ff3b2db2c663336": [
+        "data-f7d4d6f173d12f5ba3b39fee3003a84e": [
             {
                 "count": 0,
                 "district": "Schwaz",
@@ -1470,7 +1470,7 @@
                 "year": 2020
             },
             {
-                "count": 2,
+                "count": 3,
                 "district": "Schwaz",
                 "municipaly": "Schwendau",
                 "week": 51,

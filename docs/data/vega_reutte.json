@@ -23,10 +23,10 @@
         }
     },
     "data": {
-        "name": "data-b07ec0895544fff0827b30fac8476c57"
+        "name": "data-720241e91a858446026549f3c4175ac8"
     },
     "datasets": {
-        "data-b07ec0895544fff0827b30fac8476c57": [
+        "data-720241e91a858446026549f3c4175ac8": [
             {
                 "count": 0,
                 "district": "Reutte",
@@ -1477,7 +1477,7 @@
                 "year": 2020
             },
             {
-                "count": 0,
+                "count": 1,
                 "district": "Reutte",
                 "municipaly": "Ehrwald",
                 "week": 52,

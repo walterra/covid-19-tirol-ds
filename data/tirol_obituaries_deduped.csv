@@ -1,5 +1,8 @@
 date,year,week,municipaly,district,hash
 23.12.2020,2020,52,Langkampfen,Kufstein,495989839
+23.12.2020,2020,52,Tristach,Lienz,1768371667
+23.12.2020,2020,52,Kössen,Kitzbühel,1385829732
+23.12.2020,2020,52,Lienz,Lienz,-644366759
 22.12.2020,2020,52,Innsbruck,Innsbruck-Stadt,945014420
 22.12.2020,2020,52,St. Anton am Arlberg,Landeck,571563902
 22.12.2020,2020,52,Lienz,Lienz,-560939045
@@ -8,6 +11,10 @@ date,year,week,municipaly,district,hash
 22.12.2020,2020,52,Schwaz,Schwaz,1216508509
 22.12.2020,2020,52,Kramsach,Kufstein,1386731043
 22.12.2020,2020,52,Kirchbichl,Kufstein,711088853
+22.12.2020,2020,52,Fließ,Landeck,1263495362
+22.12.2020,2020,52,Zell am Ziller,Schwaz,-387599008
+22.12.2020,2020,52,Kufstein,Kufstein,-1857588697
+22.12.2020,2020,52,Aurach bei Kitzbühel,Kitzbühel,919316754
 21.12.2020,2020,52,Itter,Kitzbühel,335940751
 21.12.2020,2020,52,Lienz,Lienz,-467503922
 21.12.2020,2020,52,Baumkirchen,Innsbruck-Land,988313548
@@ -16,6 +23,7 @@ date,year,week,municipaly,district,hash
 21.12.2020,2020,52,Virgen,Lienz,-1473350002
 21.12.2020,2020,52,Bad Häring,Kufstein,-1246616270
 21.12.2020,2020,52,Wattens,Innsbruck-Land,-1561113626
+21.12.2020,2020,52,Matrei in Osttirol,Lienz,-1489152672
 20.12.2020,2020,51,Amlach,Lienz,-2099887678
 20.12.2020,2020,51,Nußdorf-Debant,Lienz,-1479216117
 20.12.2020,2020,51,Westendorf,Kitzbühel,-1464380215
@@ -32,6 +40,8 @@ date,year,week,municipaly,district,hash
 20.12.2020,2020,51,Langkampfen,Kufstein,-538638319
 20.12.2020,2020,51,Lienz,Lienz,2074258548
 20.12.2020,2020,51,Münster,Kufstein,429343531
+20.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,-174484988
+20.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,-1757335779
 19.12.2020,2020,51,Fließ,Landeck,-921953727
 19.12.2020,2020,51,Schönwies,Landeck,-1437976058
 19.12.2020,2020,51,Landeck,Landeck,-941900448
@@ -79,6 +89,8 @@ date,year,week,municipaly,district,hash
 17.12.2020,2020,51,Kitzbühel,Kitzbühel,119941025
 17.12.2020,2020,51,Kufstein,Kufstein,1700459019
 17.12.2020,2020,51,St. Johann in Tirol,Kitzbühel,330556823
+17.12.2020,2020,51,Kufstein,Kufstein,1658664360
+17.12.2020,2020,51,Innsbruck,Innsbruck-Stadt,-1329749801
 16.12.2020,2020,51,Thiersee,Kufstein,804426929
 16.12.2020,2020,51,Kirchbichl,Kufstein,-1334513012
 16.12.2020,2020,51,Sillian,Lienz,-855270147

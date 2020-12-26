@@ -1,10 +1,15 @@
 date,year,week,municipaly,district,hash
+26.12.2020,2020,52,Inzing,Innsbruck-Land,-1627801591
+25.12.2020,2020,52,Kirchdorf in Tirol,Kitzbühel,637367255
+25.12.2020,2020,52,Nassereith,Imst,43889124
 24.12.2020,2020,52,Landeck,Landeck,568019458
 24.12.2020,2020,52,Hainzenberg,Schwaz,479576250
 24.12.2020,2020,52,Kufstein,Kufstein,206090667
 24.12.2020,2020,52,Ainet,Lienz,1807343853
 24.12.2020,2020,52,Oberperfuss,Innsbruck-Land,-308805182
 24.12.2020,2020,52,Langkampfen,Kufstein,1848638787
+24.12.2020,2020,52,Vils,Reutte,-521889298
+24.12.2020,2020,52,Kals am Großglockner,Lienz,231116233
 23.12.2020,2020,52,Langkampfen,Kufstein,495989839
 23.12.2020,2020,52,Tristach,Lienz,1768371667
 23.12.2020,2020,52,Kössen,Kitzbühel,1385829732
@@ -21,6 +26,7 @@ date,year,week,municipaly,district,hash
 23.12.2020,2020,52,Pflach,Reutte,1193367362
 23.12.2020,2020,52,Elbigenalp,Reutte,-240143140
 23.12.2020,2020,52,Mariastein,Kufstein,-1256182067
+23.12.2020,2020,52,Pill,Schwaz,-690018260
 22.12.2020,2020,52,Innsbruck,Innsbruck-Stadt,945014420
 22.12.2020,2020,52,St. Anton am Arlberg,Landeck,571563902
 22.12.2020,2020,52,Lienz,Lienz,-560939045

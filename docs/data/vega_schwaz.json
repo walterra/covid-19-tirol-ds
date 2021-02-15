@@ -56981,7 +56981,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<4"
+                        "filter": "datum.year==2020 & datum.week<5"
                     },
                     {
                         "groupby": [
@@ -57036,7 +57036,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<4 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<5 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -57115,7 +57115,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<4"
+                        "filter": "datum.year==2020 & datum.week<5"
                     }
                 ],
                 "width": 150

@@ -38,6 +38,7 @@ jobs:
         pip3 install pandas numpy ipykernel jupyter altair altair_saver eland
         python3 -m ipykernel install --user --name python3
         npm install
+        npm install -g --force vega-lite vega-cli canvas
         sudo chmod -R 777 .
 
     - name: crawl obituaries

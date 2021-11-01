@@ -53,3 +53,11 @@ The final result of the processed data can be found here:
 Charts and further analysis:
 
 [walterra.github.io/covid-19-tirol-ds](https://walterra.github.io/covid-19-tirol-ds)
+
+## Dev Help
+
+If you're running into trouble with Altair not being able to save PNGs from the notebooks, try to run this:
+
+```
+npm install -g --force vega-lite vega-cli canvas
+```

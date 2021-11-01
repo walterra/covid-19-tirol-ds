@@ -4,7 +4,6 @@
   "description": "",
   "main": "",
   "dependencies": {
-    "apify": "^0.20.2",
     "cheerio": "^1.0.0-rc.3",
     "d3-array": "^2.4.0",
     "glob": "^7.1.6",

@@ -29204,7 +29204,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year!=2020 && datum.year!=2016"
+                        "filter": "datum.year!=2021 && datum.year!=2020 && datum.year!=2016"
                     },
                     {
                         "groupby": [
@@ -29264,7 +29264,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year!=2020 && datum.year!=2016"
+                        "filter": "datum.year!=2021 && datum.year!=2020 && datum.year!=2016"
                     },
                     {
                         "groupby": [
@@ -29317,7 +29317,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<42"
+                        "filter": "datum.year==2020 & datum.week<53"
                     },
                     {
                         "groupby": [
@@ -29372,7 +29372,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<42 & datum.outlier_score>=0.5"
+                        "filter": "datum.year==2020 & datum.week<53 & datum.outlier_score>=0.5"
                     },
                     {
                         "groupby": [
@@ -29451,7 +29451,7 @@
                 },
                 "transform": [
                     {
-                        "filter": "datum.year==2020 & datum.week<42"
+                        "filter": "datum.year==2020 & datum.week<53"
                     }
                 ],
                 "width": 150
